@@ -1,0 +1,10 @@
+[NOTE]
+ends to be pursued: 추구해야 할 목적들
+which it would be noble to pursue if it were attainable: 그것이 획득 가능하기만 하다면 (그것을) 추구하는 것이 고귀할. 획득이 불가능하다는 현재 사실과 반대되는 ‘가정법 과거’ 구문임. 처음의 it은 to pursue (which)를 받고, 뒤의 it은 an end를 받음
+may be pursued unwisely: 현명하지 못하게 추구될 수도 있다(추구하는 것이 현명하지 못할 수도 있다)
+if it is: 가정법의 if it were와 대조되는 단순 조건법임
+inherently: 본질적으로
+impossible of achievement: 획득하기 불가능한
+
+[TRANSLATION]
+추구해야 할 목표를 선정함에 있어서 지혜가 필요하다. 만약 실현 가능하다면 그것을 추구하는 것이 고귀할 목표도 본질적으로 성취 불가능하다면 현명하지 못하게 추구될 수 있다.

@@ -1,0 +1,12 @@
+[NOTE]
+Home economics: 가정학(家政學)
+home life: 가정생활
+home furnishings: 가구류
+family relations: 가족관계
+how to eat better: 더 잘 먹는 방법. ‘의문사(how) + to부정사’가 명사구로서 teach의 직접목적어임. 뒤의 dress, care, spend도 how to에 연결됨
+family members: 가족 구성원들
+get along with one another: 서로 사이좋게 지내다
+build: 역시 how to에 걸림
+
+[TRANSLATION]
+가정학은 요리와 의복, 가구, 가족 관계 등을 포함하여 가정생활의 모든 분야와 관련된다. 그것은 사람들에게 더 잘 먹는 법과 잘 입는 법, 가정 돌보는 법, 그리고 현명하게 돈 쓰는 법을 가르친다. 또한 그것(가정학)은 가족 구성원들에게 서로 사이좋게 지내는 법과 행복한 가정생활을 이루는 법을 가르쳐 준다.

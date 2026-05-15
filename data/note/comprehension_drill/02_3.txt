@@ -1,0 +1,9 @@
+[NOTE]
+A silence: 관계대명사 which의 선행사
+which: 불완전타동사 expected의 목적격이며 부정사 to be unbroken이 목적격 보어임
+it had not fallen for more than a few seconds when I distinctly heard very rapid steps coming nearer and nearer: 그것이 엄습한지 채 몇 초 이상 계속되지도 않아서 벌써 나는 매우 빠른 발걸음이 점점 더 가까이 다가오고 있는 소리를 똑똑히 들었다
+the utter stillness: 완전한 정적
+along the street: 길을 따라서
+
+[TRANSLATION]
+갑자기 우리 사이에 왠지 깨지지 않았으면 하는 침묵이 찾아왔다. 그러나 그것이 엄습한 지 채 몇 초 이상 계속되지도 않아서, 완전한 정적 속에서, 벌써 나는 거리를 따라서 점점 매우 빠른 발걸음이 점점 더 가까이 다가오고 있는 소리를 똑똑히 들었다.

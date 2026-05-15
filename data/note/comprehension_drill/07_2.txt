@@ -1,0 +1,12 @@
+[NOTE]
+the over-all ecosystem: 전체 생태계
+is limited: ‘행위자’가 명시된 수동태임
+the amount of solar energy: 태양 에너지의 양
+(that) plants embodied in organic compounds: 식물이 유기화합물의 형태로 구체화한(만들어 낸)
+combustion: (식물의 체내에서 일어나는) 산화작용
+the earth can sustain: 이 앞에 관계대명사 목적격이 생략되어 있음
+net production: 순생산
+free oxygen: (다른 화합물과 섞이지 않은) 유리(遊離) 산소
+
+[TRANSLATION]
+지구의 전체 생태계에서, 총 동물 에너지는 식물이 유기 화합물 형태로 만들어 낸 태양 에너지 양에 의해 한정된다. 산화 작용이 산소를 소비하기 때문에 지구가 지탱할 수 있는 산화 작용의 양은 생태계의 유리 산소 순(純) 생산량에 의해 제한된다.

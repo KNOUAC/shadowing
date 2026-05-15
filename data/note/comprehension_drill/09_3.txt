@@ -1,0 +1,11 @@
+[NOTE]
+playwright: 극작가
+told a friend that in due course I should be …: 직접화법으로 고치면 'told a friend, "in due course he will be …”'가 됨
+in due course: 순조롭게 진행되면, 머지않아
+of the day: 당대의
+in it: =in my first novel
+present a scene: 장면을 제시하다
+suggest a sense of the theatre: 극작의 감각을 풍기다
+
+[TRANSLATION]
+당시 유명한 극작가였던 Henry Arthur Jones는 나의 첫 번째 소설을 읽고는 한 친구에게 머지않아서 내가 당대의 가장 성공적인 극작가 중의 한 사람이 되리라고 이야기했다. 나는 그 소설에서 그가 직접 성과 극작가의 감각을 풍기는 장면 제시의 효과적인 방법을 보았으리라고 추측한다.

@@ -1,0 +1,9 @@
+[NOTE]
+a game against: ~와의(에 대항한) 시합
+fabricated nature: 가공된(제조된) 자연, ‘공업 생산물’을 지칭함
+become dwarfed: 왜소해지다. ‘become + 과거분사’도 일종의 수동태임
+daily routine: 일상 업무
+nature is excluded, artifacts are excluded: 자연이 배제되고, 인공물(공업 생산물)도 배제된다. 행위자가 불명인 수동태가 두 개 연속됨
+
+[TRANSLATION]
+산업 사회에서 일은 기계에 의해 인간이 왜소해지는 가공된 자연에 대한 시합이다. 그러나 포스트 산업 사회에서 일은 일차적으로 인간들 사이의 게임이다. 그리하여 일과 일상 업무의 경험에서 자연은 배제되고, 인공물도 배제되며, 사람들은 서로 함께 살아가는 법을 배워야 한다.

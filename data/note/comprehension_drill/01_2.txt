@@ -1,0 +1,12 @@
+[NOTE]
+encourage people to have complete physical examinations regularly and not to wait until illnesses have become serious: 사람들에게 정기적으로 완전한 신체 검사를 받고, 병이 심해질 때까지 기다리지 말 것을 권하다. encourage는 불완전 타동사로서 people이 목적어이고, 부정사 to have와 not to wait가 공통으로 목적격 보어
+before having them treated: 그것(병)들을 치료받기 전에
+cf. have + 목적격 + p.p(과거분사): 사역의 뜻을 나타내는 경우와 피동의 뜻을 나타내는 경우가 있음
+ex. 사역: I had my hair cut (나는 머리를 깎았다)
+ex. 피동: I had my leg broken (나는 골절상을 입었다). have them treated는 의사를 시켜 치료하게 한 것이므로 사역의 경우임
+An ounce of prevention is worth a pound of cure: worth(~의 가치가 있는)는 주격보어로 쓰인 형용사인데 특별히 목적어를 수반함
+ex. This book is worth reading: (이 책은 읽을 가치가 있다). 동명사 reading이 worth의 목적어로 수반됨
+not everybody: 모든 사람이 다 ~는 아닌 (부분부정)
+
+[TRANSLATION]
+의사들은 사람들에게 정기적으로 완전한 신체 검사를 받고, 치료를 받기 전에 병이 심해질 때까지 기다리지 말 것을 권한다. 모든 사람은 “일 온스의 예방은 일 파운드의 치료의 가치가 있다”고 믿지만, 모든 사람이 그 충고를 따르지는 않는다.

@@ -1,0 +1,12 @@
+[NOTE]
+The press: 언론
+political institution: 정치 기관
+in its own right: 그 나름의 권한을 가진, 당연히
+intimately bound up with: ~과 밀접히 연관되어 있는
+It affects them: 여기서 It과 them은 각각 the press와 the institutions를 지칭함
+is affected: 수동태가 앞의 능동태와 같은 주어를 쓰고 있음에 유의해야 함
+in turn: 번갈아, 차례차례
+public life: 공공생활
+
+[TRANSLATION]
+언론은 정부의 모든 (언론)기관과 밀접히 연관되어 있는 그 자체로서 하나의 정치 기관이다. 그것(언론)은 그것들(기관들)에게 영향을 주고, 그것들에 의해 영향을 받으며, 그들이 함께 국가와 공공 생활의 질을 결정짓는다.

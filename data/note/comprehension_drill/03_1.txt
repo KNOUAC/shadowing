@@ -1,0 +1,11 @@
+[NOTE]
+to attend: 목적어로 쓰인 부정사
+take a standardized test: 표준화 검사를 치르다. take의 주어는 Most students임
+called: ~이라고 불리는. 과거분사로서 standardized test를 수식
+a college entrance examination: 대학입학시험
+junior or senior year: 3년제 학교의 경우 2학년 혹은 3학년, 4년제의 경우 3학년 혹은 4학년을 뜻함
+measures some of the abilities: 몇 가지 능력을 측정하다
+thought to contribute to success: 성공에 기여할 것으로 생각되는. to contribute는 thought에 대한 보어 구실을 함. ‘think (something) to contribute to success’의 구문이 수동태로 바뀐 것으로 생각하면 됨. contribute는 통상 전치사 to를 수반함
+
+[TRANSLATION]
+대학진학을 계획하는 대부분의 학생들은 고등학교 2학년 혹은 3학년 때 대학 입학 시험이라 불리는 표준화된 시험을 치른다. 이 시험은 대학에서의 성공에 기여할 것으로 생각되는 몇 가지 능력을 측정한다.
