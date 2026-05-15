@@ -1,0 +1,848 @@
+[
+  {
+    "word": "Lesson",
+    "start": 0.243,
+    "end": 0.603,
+    "score": 0.789
+  },
+  {
+    "word": "12",
+    "start": 0.823,
+    "end": 1.023,
+    "score": 0.62
+  },
+  {
+    "word": "Making",
+    "start": 2.003,
+    "end": 2.383,
+    "score": 0.786
+  },
+  {
+    "word": "Korean",
+    "start": 2.503,
+    "end": 3.044,
+    "score": 0.768
+  },
+  {
+    "word": "food",
+    "start": 3.124,
+    "end": 3.444,
+    "score": 0.887
+  },
+  {
+    "word": "I'm",
+    "start": 5.864,
+    "end": 6.044,
+    "score": 0.839
+  },
+  {
+    "word": "totally",
+    "start": 6.204,
+    "end": 6.784,
+    "score": 0.859
+  },
+  {
+    "word": "into",
+    "start": 6.984,
+    "end": 7.324,
+    "score": 0.726
+  },
+  {
+    "word": "Kimbap.",
+    "start": 7.404,
+    "end": 7.964,
+    "score": 0.83
+  },
+  {
+    "word": "I",
+    "start": 8.765,
+    "end": 8.865,
+    "score": 0.95
+  },
+  {
+    "word": "think",
+    "start": 8.945,
+    "end": 9.205,
+    "score": 0.79
+  },
+  {
+    "word": "it's",
+    "start": 9.385,
+    "end": 9.545,
+    "score": 0.718
+  },
+  {
+    "word": "the",
+    "start": 9.625,
+    "end": 9.745,
+    "score": 0.848
+  },
+  {
+    "word": "best",
+    "start": 9.865,
+    "end": 10.225,
+    "score": 0.819
+  },
+  {
+    "word": "Korean",
+    "start": 10.325,
+    "end": 10.825,
+    "score": 0.75
+  },
+  {
+    "word": "food",
+    "start": 10.905,
+    "end": 11.245,
+    "score": 0.709
+  },
+  {
+    "word": "I've",
+    "start": 11.485,
+    "end": 11.665,
+    "score": 0.878
+  },
+  {
+    "word": "ever",
+    "start": 11.885,
+    "end": 12.105,
+    "score": 0.714
+  },
+  {
+    "word": "eaten.",
+    "start": 12.265,
+    "end": 12.665,
+    "score": 0.819
+  },
+  {
+    "word": "Kimbap",
+    "start": 13.465,
+    "end": 14.085,
+    "score": 0.773
+  },
+  {
+    "word": "is",
+    "start": 14.186,
+    "end": 14.286,
+    "score": 0.828
+  },
+  {
+    "word": "easy",
+    "start": 14.506,
+    "end": 14.826,
+    "score": 0.796
+  },
+  {
+    "word": "to",
+    "start": 14.886,
+    "end": 14.986,
+    "score": 0.898
+  },
+  {
+    "word": "make",
+    "start": 15.066,
+    "end": 15.386,
+    "score": 0.79
+  },
+  {
+    "word": "when",
+    "start": 15.766,
+    "end": 15.946,
+    "score": 0.851
+  },
+  {
+    "word": "the",
+    "start": 15.986,
+    "end": 16.106,
+    "score": 0.848
+  },
+  {
+    "word": "ingredients",
+    "start": 16.246,
+    "end": 16.966,
+    "score": 0.881
+  },
+  {
+    "word": "are",
+    "start": 17.106,
+    "end": 17.206,
+    "score": 0.734
+  },
+  {
+    "word": "ready.",
+    "start": 17.286,
+    "end": 17.626,
+    "score": 0.918
+  },
+  {
+    "word": "Julie,",
+    "start": 18.406,
+    "end": 18.906,
+    "score": 0.571
+  },
+  {
+    "word": "would",
+    "start": 19.286,
+    "end": 19.486,
+    "score": 0.892
+  },
+  {
+    "word": "you",
+    "start": 19.526,
+    "end": 19.686,
+    "score": 0.894
+  },
+  {
+    "word": "like",
+    "start": 19.747,
+    "end": 19.967,
+    "score": 0.849
+  },
+  {
+    "word": "to",
+    "start": 20.027,
+    "end": 20.127,
+    "score": 0.76
+  },
+  {
+    "word": "make",
+    "start": 20.187,
+    "end": 20.447,
+    "score": 0.72
+  },
+  {
+    "word": "it?",
+    "start": 20.527,
+    "end": 20.627,
+    "score": 0.667
+  },
+  {
+    "word": "Oh,",
+    "start": 21.527,
+    "end": 21.667,
+    "score": 0.862
+  },
+  {
+    "word": "are",
+    "start": 22.107,
+    "end": 22.207,
+    "score": 0.817
+  },
+  {
+    "word": "you",
+    "start": 22.267,
+    "end": 22.387,
+    "score": 0.997
+  },
+  {
+    "word": "taking",
+    "start": 22.467,
+    "end": 22.867,
+    "score": 0.819
+  },
+  {
+    "word": "Eugene,",
+    "start": 23.107,
+    "end": 23.487,
+    "score": 0.741
+  },
+  {
+    "word": "Korean",
+    "start": 23.807,
+    "end": 24.347,
+    "score": 0.785
+  },
+  {
+    "word": "cooking",
+    "start": 24.487,
+    "end": 24.807,
+    "score": 0.731
+  },
+  {
+    "word": "classes?",
+    "start": 24.847,
+    "end": 25.348,
+    "score": 0.895
+  },
+  {
+    "word": "Do",
+    "start": 25.768,
+    "end": 25.968,
+    "score": 0.948
+  },
+  {
+    "word": "you",
+    "start": 26.048,
+    "end": 26.228,
+    "score": 0.916
+  },
+  {
+    "word": "want",
+    "start": 26.288,
+    "end": 26.528,
+    "score": 0.843
+  },
+  {
+    "word": "to",
+    "start": 26.588,
+    "end": 26.728,
+    "score": 0.865
+  },
+  {
+    "word": "join",
+    "start": 26.828,
+    "end": 27.168,
+    "score": 0.74
+  },
+  {
+    "word": "us,",
+    "start": 27.268,
+    "end": 27.408,
+    "score": 0.833
+  },
+  {
+    "word": "Harry?",
+    "start": 27.488,
+    "end": 27.908,
+    "score": 0.961
+  },
+  {
+    "word": "That",
+    "start": 28.809,
+    "end": 29.049,
+    "score": 0.694
+  },
+  {
+    "word": "would",
+    "start": 29.109,
+    "end": 29.309,
+    "score": 0.79
+  },
+  {
+    "word": "be",
+    "start": 29.349,
+    "end": 29.489,
+    "score": 0.782
+  },
+  {
+    "word": "great.",
+    "start": 29.589,
+    "end": 30.129,
+    "score": 0.848
+  },
+  {
+    "word": "I've",
+    "start": 32.53,
+    "end": 32.73,
+    "score": 0.851
+  },
+  {
+    "word": "chopped",
+    "start": 32.81,
+    "end": 33.19,
+    "score": 0.925
+  },
+  {
+    "word": "all",
+    "start": 33.43,
+    "end": 33.571,
+    "score": 0.779
+  },
+  {
+    "word": "the",
+    "start": 33.631,
+    "end": 33.751,
+    "score": 0.704
+  },
+  {
+    "word": "ingredients",
+    "start": 33.831,
+    "end": 34.551,
+    "score": 0.855
+  },
+  {
+    "word": "and",
+    "start": 35.071,
+    "end": 35.171,
+    "score": 0.816
+  },
+  {
+    "word": "now",
+    "start": 35.271,
+    "end": 35.571,
+    "score": 0.875
+  },
+  {
+    "word": "I'm",
+    "start": 35.771,
+    "end": 35.911,
+    "score": 0.884
+  },
+  {
+    "word": "going",
+    "start": 35.971,
+    "end": 36.351,
+    "score": 0.942
+  },
+  {
+    "word": "to",
+    "start": 36.411,
+    "end": 36.531,
+    "score": 0.638
+  },
+  {
+    "word": "fry",
+    "start": 36.592,
+    "end": 36.892,
+    "score": 0.922
+  },
+  {
+    "word": "them.",
+    "start": 36.952,
+    "end": 37.172,
+    "score": 0.974
+  },
+  {
+    "word": "You",
+    "start": 37.932,
+    "end": 38.132,
+    "score": 0.871
+  },
+  {
+    "word": "have",
+    "start": 38.192,
+    "end": 38.452,
+    "score": 0.876
+  },
+  {
+    "word": "to",
+    "start": 38.492,
+    "end": 38.612,
+    "score": 0.874
+  },
+  {
+    "word": "fry",
+    "start": 38.692,
+    "end": 39.052,
+    "score": 0.861
+  },
+  {
+    "word": "all",
+    "start": 39.312,
+    "end": 39.472,
+    "score": 0.823
+  },
+  {
+    "word": "the",
+    "start": 39.532,
+    "end": 39.652,
+    "score": 0.617
+  },
+  {
+    "word": "ingredients.",
+    "start": 39.713,
+    "end": 40.453,
+    "score": 0.849
+  },
+  {
+    "word": "Okay,",
+    "start": 41.633,
+    "end": 42.113,
+    "score": 0.841
+  },
+  {
+    "word": "I'll",
+    "start": 42.513,
+    "end": 42.733,
+    "score": 0.316
+  },
+  {
+    "word": "fry",
+    "start": 42.794,
+    "end": 43.094,
+    "score": 0.902
+  },
+  {
+    "word": "them.",
+    "start": 43.154,
+    "end": 43.374,
+    "score": 0.918
+  },
+  {
+    "word": "Thanks,",
+    "start": 44.214,
+    "end": 44.574,
+    "score": 0.873
+  },
+  {
+    "word": "Harry.",
+    "start": 44.614,
+    "end": 45.054,
+    "score": 0.947
+  },
+  {
+    "word": "Then",
+    "start": 45.895,
+    "end": 46.175,
+    "score": 0.877
+  },
+  {
+    "word": "place",
+    "start": 46.275,
+    "end": 46.635,
+    "score": 0.849
+  },
+  {
+    "word": "the",
+    "start": 46.735,
+    "end": 46.875,
+    "score": 0.872
+  },
+  {
+    "word": "seaweed",
+    "start": 46.975,
+    "end": 47.495,
+    "score": 0.856
+  },
+  {
+    "word": "on",
+    "start": 47.715,
+    "end": 47.795,
+    "score": 0.836
+  },
+  {
+    "word": "the",
+    "start": 47.835,
+    "end": 47.935,
+    "score": 0.975
+  },
+  {
+    "word": "bamboo",
+    "start": 48.035,
+    "end": 48.635,
+    "score": 0.963
+  },
+  {
+    "word": "roller",
+    "start": 48.715,
+    "end": 49.136,
+    "score": 0.76
+  },
+  {
+    "word": "mat",
+    "start": 49.176,
+    "end": 49.496,
+    "score": 0.885
+  },
+  {
+    "word": "and",
+    "start": 50.036,
+    "end": 50.136,
+    "score": 0.865
+  },
+  {
+    "word": "spread",
+    "start": 50.236,
+    "end": 50.636,
+    "score": 0.893
+  },
+  {
+    "word": "the",
+    "start": 50.736,
+    "end": 50.876,
+    "score": 0.908
+  },
+  {
+    "word": "seasoned",
+    "start": 50.976,
+    "end": 51.536,
+    "score": 0.819
+  },
+  {
+    "word": "rice",
+    "start": 51.616,
+    "end": 51.936,
+    "score": 0.992
+  },
+  {
+    "word": "on",
+    "start": 52.217,
+    "end": 52.317,
+    "score": 0.874
+  },
+  {
+    "word": "top",
+    "start": 52.397,
+    "end": 52.717,
+    "score": 0.782
+  },
+  {
+    "word": "of",
+    "start": 52.777,
+    "end": 52.837,
+    "score": 0.978
+  },
+  {
+    "word": "it.",
+    "start": 52.857,
+    "end": 52.977,
+    "score": 0.58
+  },
+  {
+    "word": "Cover",
+    "start": 53.99,
+    "end": 54.41,
+    "score": 0.914
+  },
+  {
+    "word": "with",
+    "start": 54.51,
+    "end": 54.731,
+    "score": 0.632
+  },
+  {
+    "word": "a",
+    "start": 54.811,
+    "end": 54.851,
+    "score": 0.801
+  },
+  {
+    "word": "thin",
+    "start": 54.971,
+    "end": 55.251,
+    "score": 0.752
+  },
+  {
+    "word": "layer",
+    "start": 55.351,
+    "end": 55.711,
+    "score": 0.798
+  },
+  {
+    "word": "of",
+    "start": 55.872,
+    "end": 55.972,
+    "score": 0.73
+  },
+  {
+    "word": "rice",
+    "start": 56.092,
+    "end": 56.472,
+    "score": 0.826
+  },
+  {
+    "word": "as",
+    "start": 57.053,
+    "end": 57.153,
+    "score": 0.642
+  },
+  {
+    "word": "if",
+    "start": 57.313,
+    "end": 57.413,
+    "score": 1.0
+  },
+  {
+    "word": "spreading",
+    "start": 57.553,
+    "end": 58.033,
+    "score": 0.859
+  },
+  {
+    "word": "butter.",
+    "start": 58.134,
+    "end": 58.534,
+    "score": 0.886
+  },
+  {
+    "word": "Place",
+    "start": 59.395,
+    "end": 59.755,
+    "score": 0.859
+  },
+  {
+    "word": "the",
+    "start": 59.815,
+    "end": 59.955,
+    "score": 0.693
+  },
+  {
+    "word": "fried",
+    "start": 60.035,
+    "end": 60.415,
+    "score": 0.742
+  },
+  {
+    "word": "ingredients",
+    "start": 60.495,
+    "end": 61.296,
+    "score": 0.821
+  },
+  {
+    "word": "on",
+    "start": 61.636,
+    "end": 61.737,
+    "score": 0.77
+  },
+  {
+    "word": "top",
+    "start": 61.837,
+    "end": 62.157,
+    "score": 0.833
+  },
+  {
+    "word": "of",
+    "start": 62.357,
+    "end": 62.457,
+    "score": 0.67
+  },
+  {
+    "word": "the",
+    "start": 62.537,
+    "end": 62.657,
+    "score": 0.73
+  },
+  {
+    "word": "rice.",
+    "start": 62.737,
+    "end": 63.078,
+    "score": 0.909
+  },
+  {
+    "word": "Oh,",
+    "start": 64.239,
+    "end": 64.359,
+    "score": 0.823
+  },
+  {
+    "word": "I",
+    "start": 64.979,
+    "end": 65.079,
+    "score": 0.624
+  },
+  {
+    "word": "think",
+    "start": 65.179,
+    "end": 65.46,
+    "score": 0.796
+  },
+  {
+    "word": "I",
+    "start": 65.6,
+    "end": 65.7,
+    "score": 0.798
+  },
+  {
+    "word": "know",
+    "start": 65.76,
+    "end": 66.0,
+    "score": 0.738
+  },
+  {
+    "word": "what",
+    "start": 66.1,
+    "end": 66.32,
+    "score": 0.843
+  },
+  {
+    "word": "to",
+    "start": 66.4,
+    "end": 66.541,
+    "score": 0.904
+  },
+  {
+    "word": "do",
+    "start": 66.601,
+    "end": 66.781,
+    "score": 0.872
+  },
+  {
+    "word": "next.",
+    "start": 66.901,
+    "end": 67.341,
+    "score": 0.911
+  },
+  {
+    "word": "You",
+    "start": 67.982,
+    "end": 68.142,
+    "score": 0.898
+  },
+  {
+    "word": "will",
+    "start": 68.182,
+    "end": 68.402,
+    "score": 0.735
+  },
+  {
+    "word": "roll",
+    "start": 68.462,
+    "end": 68.682,
+    "score": 0.931
+  },
+  {
+    "word": "this",
+    "start": 68.742,
+    "end": 68.963,
+    "score": 0.748
+  },
+  {
+    "word": "up,",
+    "start": 69.163,
+    "end": 69.263,
+    "score": 0.988
+  },
+  {
+    "word": "right?",
+    "start": 69.683,
+    "end": 70.003,
+    "score": 0.745
+  },
+  {
+    "word": "Exactly.",
+    "start": 70.804,
+    "end": 71.565,
+    "score": 0.906
+  },
+  {
+    "word": "Cut",
+    "start": 72.325,
+    "end": 72.566,
+    "score": 0.818
+  },
+  {
+    "word": "the",
+    "start": 72.626,
+    "end": 72.766,
+    "score": 0.781
+  },
+  {
+    "word": "rolled",
+    "start": 72.826,
+    "end": 73.146,
+    "score": 0.817
+  },
+  {
+    "word": "kimbap",
+    "start": 73.226,
+    "end": 73.807,
+    "score": 0.898
+  },
+  {
+    "word": "and",
+    "start": 74.247,
+    "end": 74.407,
+    "score": 0.704
+  },
+  {
+    "word": "it's",
+    "start": 74.607,
+    "end": 74.787,
+    "score": 0.823
+  },
+  {
+    "word": "complete.",
+    "start": 74.868,
+    "end": 75.368,
+    "score": 0.88
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "word": "Lesson",
+    "start": 0.662,
+    "end": 1.063,
+    "score": 0.873
+  },
+  {
+    "word": "three,",
+    "start": 1.123,
+    "end": 1.483,
+    "score": 0.817
+  },
+  {
+    "word": "daily",
+    "start": 2.364,
+    "end": 2.724,
+    "score": 0.944
+  },
+  {
+    "word": "life.",
+    "start": 2.804,
+    "end": 3.065,
+    "score": 0.985
+  },
+  {
+    "word": "Julie,",
+    "start": 5.768,
+    "end": 6.228,
+    "score": 0.829
+  },
+  {
+    "word": "how's",
+    "start": 6.629,
+    "end": 6.909,
+    "score": 0.945
+  },
+  {
+    "word": "your",
+    "start": 6.949,
+    "end": 7.109,
+    "score": 0.924
+  },
+  {
+    "word": "day?",
+    "start": 7.169,
+    "end": 7.51,
+    "score": 0.872
+  },
+  {
+    "word": "I",
+    "start": 8.751,
+    "end": 8.851,
+    "score": 0.78
+  },
+  {
+    "word": "was",
+    "start": 8.931,
+    "end": 9.192,
+    "score": 0.734
+  },
+  {
+    "word": "looking",
+    "start": 9.312,
+    "end": 9.752,
+    "score": 0.838
+  },
+  {
+    "word": "for",
+    "start": 9.873,
+    "end": 10.133,
+    "score": 0.627
+  },
+  {
+    "word": "jobs",
+    "start": 10.233,
+    "end": 10.613,
+    "score": 0.979
+  },
+  {
+    "word": "today.",
+    "start": 10.713,
+    "end": 11.194,
+    "score": 0.723
+  },
+  {
+    "word": "I",
+    "start": 11.915,
+    "end": 12.015,
+    "score": 0.834
+  },
+  {
+    "word": "think",
+    "start": 12.135,
+    "end": 12.455,
+    "score": 0.792
+  },
+  {
+    "word": "I",
+    "start": 12.616,
+    "end": 12.696,
+    "score": 0.803
+  },
+  {
+    "word": "need",
+    "start": 12.776,
+    "end": 13.076,
+    "score": 0.921
+  },
+  {
+    "word": "to",
+    "start": 13.176,
+    "end": 13.377,
+    "score": 0.81
+  },
+  {
+    "word": "get",
+    "start": 13.477,
+    "end": 13.737,
+    "score": 0.884
+  },
+  {
+    "word": "a",
+    "start": 13.897,
+    "end": 13.937,
+    "score": 0.515
+  },
+  {
+    "word": "job.",
+    "start": 13.997,
+    "end": 14.458,
+    "score": 0.936
+  },
+  {
+    "word": "I",
+    "start": 15.118,
+    "end": 15.219,
+    "score": 0.703
+  },
+  {
+    "word": "see.",
+    "start": 15.319,
+    "end": 15.599,
+    "score": 0.863
+  },
+  {
+    "word": "I",
+    "start": 16.02,
+    "end": 16.1,
+    "score": 0.753
+  },
+  {
+    "word": "hope",
+    "start": 16.16,
+    "end": 16.34,
+    "score": 0.793
+  },
+  {
+    "word": "you",
+    "start": 16.38,
+    "end": 16.54,
+    "score": 0.877
+  },
+  {
+    "word": "do.",
+    "start": 16.56,
+    "end": 16.84,
+    "score": 0.895
+  },
+  {
+    "word": "How",
+    "start": 17.481,
+    "end": 17.641,
+    "score": 0.921
+  },
+  {
+    "word": "about",
+    "start": 17.701,
+    "end": 17.962,
+    "score": 0.816
+  },
+  {
+    "word": "you,",
+    "start": 18.002,
+    "end": 18.202,
+    "score": 0.814
+  },
+  {
+    "word": "Soyoung?",
+    "start": 18.302,
+    "end": 18.743,
+    "score": 0.899
+  },
+  {
+    "word": "I",
+    "start": 20.202,
+    "end": 20.262,
+    "score": 0.998
+  },
+  {
+    "word": "don't",
+    "start": 20.302,
+    "end": 20.522,
+    "score": 0.827
+  },
+  {
+    "word": "have",
+    "start": 20.582,
+    "end": 20.842,
+    "score": 0.854
+  },
+  {
+    "word": "any",
+    "start": 20.943,
+    "end": 21.123,
+    "score": 0.81
+  },
+  {
+    "word": "plans",
+    "start": 21.203,
+    "end": 21.643,
+    "score": 0.704
+  },
+  {
+    "word": "for",
+    "start": 21.723,
+    "end": 21.883,
+    "score": 0.971
+  },
+  {
+    "word": "the",
+    "start": 21.943,
+    "end": 22.083,
+    "score": 0.888
+  },
+  {
+    "word": "weekend",
+    "start": 22.143,
+    "end": 22.664,
+    "score": 0.836
+  },
+  {
+    "word": "yet.",
+    "start": 22.724,
+    "end": 23.024,
+    "score": 0.831
+  },
+  {
+    "word": "So,",
+    "start": 23.744,
+    "end": 23.964,
+    "score": 0.939
+  },
+  {
+    "word": "Julie,",
+    "start": 24.064,
+    "end": 24.545,
+    "score": 0.923
+  },
+  {
+    "word": "are",
+    "start": 25.005,
+    "end": 25.105,
+    "score": 0.709
+  },
+  {
+    "word": "you",
+    "start": 25.165,
+    "end": 25.325,
+    "score": 0.848
+  },
+  {
+    "word": "going",
+    "start": 25.405,
+    "end": 25.765,
+    "score": 0.792
+  },
+  {
+    "word": "to",
+    "start": 25.866,
+    "end": 25.966,
+    "score": 0.754
+  },
+  {
+    "word": "keep",
+    "start": 26.046,
+    "end": 26.286,
+    "score": 0.88
+  },
+  {
+    "word": "track",
+    "start": 26.386,
+    "end": 26.766,
+    "score": 0.97
+  },
+  {
+    "word": "of",
+    "start": 26.826,
+    "end": 26.906,
+    "score": 0.831
+  },
+  {
+    "word": "things",
+    "start": 27.046,
+    "end": 27.386,
+    "score": 0.894
+  },
+  {
+    "word": "this",
+    "start": 27.547,
+    "end": 27.767,
+    "score": 0.774
+  },
+  {
+    "word": "weekend?",
+    "start": 27.887,
+    "end": 28.447,
+    "score": 0.839
+  },
+  {
+    "word": "No,",
+    "start": 29.248,
+    "end": 29.548,
+    "score": 0.905
+  },
+  {
+    "word": "I'm",
+    "start": 29.868,
+    "end": 29.988,
+    "score": 0.892
+  },
+  {
+    "word": "not.",
+    "start": 30.068,
+    "end": 30.388,
+    "score": 0.859
+  },
+  {
+    "word": "I",
+    "start": 31.089,
+    "end": 31.169,
+    "score": 0.75
+  },
+  {
+    "word": "don't",
+    "start": 31.269,
+    "end": 31.549,
+    "score": 0.699
+  },
+  {
+    "word": "want",
+    "start": 31.649,
+    "end": 31.889,
+    "score": 0.796
+  },
+  {
+    "word": "to",
+    "start": 31.969,
+    "end": 32.089,
+    "score": 1.0
+  },
+  {
+    "word": "do",
+    "start": 32.149,
+    "end": 32.349,
+    "score": 0.874
+  },
+  {
+    "word": "job",
+    "start": 32.45,
+    "end": 32.85,
+    "score": 0.983
+  },
+  {
+    "word": "search",
+    "start": 32.89,
+    "end": 33.25,
+    "score": 0.794
+  },
+  {
+    "word": "on",
+    "start": 33.47,
+    "end": 33.57,
+    "score": 0.764
+  },
+  {
+    "word": "weekend.",
+    "start": 33.65,
+    "end": 34.251,
+    "score": 0.815
+  },
+  {
+    "word": "I'm",
+    "start": 35.011,
+    "end": 35.171,
+    "score": 0.819
+  },
+  {
+    "word": "with",
+    "start": 35.231,
+    "end": 35.491,
+    "score": 0.673
+  },
+  {
+    "word": "you,",
+    "start": 35.551,
+    "end": 35.752,
+    "score": 0.858
+  },
+  {
+    "word": "Julie.",
+    "start": 35.852,
+    "end": 36.332,
+    "score": 0.86
+  },
+  {
+    "word": "I",
+    "start": 37.732,
+    "end": 37.832,
+    "score": 0.811
+  },
+  {
+    "word": "agree.",
+    "start": 37.892,
+    "end": 38.313,
+    "score": 0.856
+  },
+  {
+    "word": "Eugene",
+    "start": 38.333,
+    "end": 39.314,
+    "score": 0.69
+  },
+  {
+    "word": "says",
+    "start": 39.394,
+    "end": 39.735,
+    "score": 0.851
+  },
+  {
+    "word": "there",
+    "start": 39.835,
+    "end": 40.035,
+    "score": 0.717
+  },
+  {
+    "word": "is",
+    "start": 40.095,
+    "end": 40.215,
+    "score": 0.744
+  },
+  {
+    "word": "a",
+    "start": 40.275,
+    "end": 40.315,
+    "score": 0.499
+  },
+  {
+    "word": "cherry",
+    "start": 40.395,
+    "end": 40.756,
+    "score": 0.932
+  },
+  {
+    "word": "blossom",
+    "start": 40.796,
+    "end": 41.317,
+    "score": 0.814
+  },
+  {
+    "word": "road",
+    "start": 41.437,
+    "end": 41.757,
+    "score": 0.867
+  },
+  {
+    "word": "nearby.",
+    "start": 41.817,
+    "end": 42.378,
+    "score": 0.788
+  },
+  {
+    "word": "The",
+    "start": 42.398,
+    "end": 43.179,
+    "score": 0.885
+  },
+  {
+    "word": "cherry",
+    "start": 43.219,
+    "end": 43.519,
+    "score": 0.952
+  },
+  {
+    "word": "blossoms",
+    "start": 43.559,
+    "end": 44.12,
+    "score": 0.832
+  },
+  {
+    "word": "are",
+    "start": 44.2,
+    "end": 44.32,
+    "score": 0.536
+  },
+  {
+    "word": "in",
+    "start": 44.36,
+    "end": 44.421,
+    "score": 0.764
+  },
+  {
+    "word": "full",
+    "start": 44.461,
+    "end": 44.721,
+    "score": 0.814
+  },
+  {
+    "word": "bloom",
+    "start": 44.781,
+    "end": 45.161,
+    "score": 0.771
+  },
+  {
+    "word": "this",
+    "start": 45.222,
+    "end": 45.402,
+    "score": 0.907
+  },
+  {
+    "word": "weekend.",
+    "start": 45.462,
+    "end": 45.962,
+    "score": 0.87
+  },
+  {
+    "word": "I'm",
+    "start": 46.824,
+    "end": 46.964,
+    "score": 0.823
+  },
+  {
+    "word": "planning",
+    "start": 47.004,
+    "end": 47.364,
+    "score": 0.976
+  },
+  {
+    "word": "to",
+    "start": 47.424,
+    "end": 47.544,
+    "score": 0.822
+  },
+  {
+    "word": "visit",
+    "start": 47.605,
+    "end": 47.925,
+    "score": 0.857
+  },
+  {
+    "word": "there.",
+    "start": 47.965,
+    "end": 48.225,
+    "score": 0.861
+  },
+  {
+    "word": "Do",
+    "start": 48.926,
+    "end": 49.046,
+    "score": 0.998
+  },
+  {
+    "word": "you",
+    "start": 49.106,
+    "end": 49.267,
+    "score": 0.812
+  },
+  {
+    "word": "want",
+    "start": 49.347,
+    "end": 49.547,
+    "score": 0.77
+  },
+  {
+    "word": "to",
+    "start": 49.587,
+    "end": 49.647,
+    "score": 0.982
+  },
+  {
+    "word": "go",
+    "start": 49.707,
+    "end": 49.867,
+    "score": 0.922
+  },
+  {
+    "word": "see",
+    "start": 49.967,
+    "end": 50.208,
+    "score": 0.991
+  },
+  {
+    "word": "them",
+    "start": 50.268,
+    "end": 50.468,
+    "score": 0.802
+  },
+  {
+    "word": "together?",
+    "start": 50.568,
+    "end": 51.049,
+    "score": 0.856
+  },
+  {
+    "word": "Great",
+    "start": 51.95,
+    "end": 52.371,
+    "score": 0.862
+  },
+  {
+    "word": "idea!",
+    "start": 52.471,
+    "end": 53.011,
+    "score": 0.693
+  },
+  {
+    "word": "I'll",
+    "start": 53.712,
+    "end": 53.932,
+    "score": 0.75
+  },
+  {
+    "word": "take",
+    "start": 53.993,
+    "end": 54.273,
+    "score": 0.741
+  },
+  {
+    "word": "you",
+    "start": 54.313,
+    "end": 54.473,
+    "score": 0.931
+  },
+  {
+    "word": "to",
+    "start": 54.533,
+    "end": 54.693,
+    "score": 0.674
+  },
+  {
+    "word": "the",
+    "start": 54.753,
+    "end": 54.874,
+    "score": 0.776
+  },
+  {
+    "word": "places.",
+    "start": 54.914,
+    "end": 55.554,
+    "score": 0.96
+  },
+  {
+    "word": "Wow.",
+    "start": 56.592,
+    "end": 57.012,
+    "score": 0.64
+  },
+  {
+    "word": "Thanks.",
+    "start": 57.493,
+    "end": 57.933,
+    "score": 0.898
+  },
+  {
+    "word": "I",
+    "start": 58.814,
+    "end": 58.894,
+    "score": 0.75
+  },
+  {
+    "word": "saw",
+    "start": 59.014,
+    "end": 59.315,
+    "score": 0.73
+  },
+  {
+    "word": "cherry",
+    "start": 59.435,
+    "end": 59.815,
+    "score": 0.907
+  },
+  {
+    "word": "blossoms",
+    "start": 59.875,
+    "end": 60.516,
+    "score": 0.805
+  },
+  {
+    "word": "blooming",
+    "start": 60.756,
+    "end": 61.317,
+    "score": 0.799
+  },
+  {
+    "word": "in",
+    "start": 61.517,
+    "end": 61.617,
+    "score": 0.776
+  },
+  {
+    "word": "front",
+    "start": 61.717,
+    "end": 62.037,
+    "score": 0.779
+  },
+  {
+    "word": "of",
+    "start": 62.117,
+    "end": 62.217,
+    "score": 0.678
+  },
+  {
+    "word": "the",
+    "start": 62.297,
+    "end": 62.418,
+    "score": 0.883
+  },
+  {
+    "word": "guesthouse.",
+    "start": 62.478,
+    "end": 63.198,
+    "score": 0.822
+  },
+  {
+    "word": "It",
+    "start": 63.879,
+    "end": 63.939,
+    "score": 0.981
+  },
+  {
+    "word": "was",
+    "start": 64.039,
+    "end": 64.239,
+    "score": 0.719
+  },
+  {
+    "word": "so",
+    "start": 64.399,
+    "end": 64.74,
+    "score": 0.874
+  },
+  {
+    "word": "beautiful.",
+    "start": 64.92,
+    "end": 65.581,
+    "score": 0.758
+  },
+  {
+    "word": "I've",
+    "start": 66.321,
+    "end": 66.481,
+    "score": 0.934
+  },
+  {
+    "word": "never",
+    "start": 66.602,
+    "end": 66.882,
+    "score": 0.886
+  },
+  {
+    "word": "actually",
+    "start": 67.142,
+    "end": 67.683,
+    "score": 0.876
+  },
+  {
+    "word": "seen",
+    "start": 67.823,
+    "end": 68.163,
+    "score": 0.737
+  },
+  {
+    "word": "cherry",
+    "start": 68.343,
+    "end": 68.744,
+    "score": 0.923
+  },
+  {
+    "word": "blossoms",
+    "start": 68.804,
+    "end": 69.344,
+    "score": 0.801
+  },
+  {
+    "word": "before.",
+    "start": 69.424,
+    "end": 69.985,
+    "score": 0.798
+  },
+  {
+    "word": "Me",
+    "start": 70.665,
+    "end": 70.866,
+    "score": 0.927
+  },
+  {
+    "word": "too.",
+    "start": 70.946,
+    "end": 71.306,
+    "score": 0.898
+  },
+  {
+    "word": "It",
+    "start": 71.907,
+    "end": 71.987,
+    "score": 0.606
+  },
+  {
+    "word": "looks",
+    "start": 72.047,
+    "end": 72.287,
+    "score": 0.827
+  },
+  {
+    "word": "like",
+    "start": 72.367,
+    "end": 72.547,
+    "score": 0.705
+  },
+  {
+    "word": "snow.",
+    "start": 72.647,
+    "end": 73.028,
+    "score": 0.844
+  },
+  {
+    "word": "When",
+    "start": 73.668,
+    "end": 73.868,
+    "score": 0.833
+  },
+  {
+    "word": "the",
+    "start": 73.908,
+    "end": 74.008,
+    "score": 0.902
+  },
+  {
+    "word": "wind",
+    "start": 74.089,
+    "end": 74.329,
+    "score": 0.677
+  },
+  {
+    "word": "blows,",
+    "start": 74.369,
+    "end": 74.789,
+    "score": 0.864
+  },
+  {
+    "word": "it",
+    "start": 75.15,
+    "end": 75.21,
+    "score": 0.901
+  },
+  {
+    "word": "feels",
+    "start": 75.25,
+    "end": 75.57,
+    "score": 0.829
+  },
+  {
+    "word": "like",
+    "start": 75.65,
+    "end": 75.87,
+    "score": 0.736
+  },
+  {
+    "word": "it's",
+    "start": 75.93,
+    "end": 76.03,
+    "score": 0.815
+  },
+  {
+    "word": "snowing.",
+    "start": 76.09,
+    "end": 76.551,
+    "score": 0.844
+  },
+  {
+    "word": "If",
+    "start": 77.292,
+    "end": 77.352,
+    "score": 1.0
+  },
+  {
+    "word": "we",
+    "start": 77.412,
+    "end": 77.592,
+    "score": 0.835
+  },
+  {
+    "word": "go",
+    "start": 77.632,
+    "end": 77.832,
+    "score": 0.974
+  },
+  {
+    "word": "to",
+    "start": 77.912,
+    "end": 78.032,
+    "score": 0.713
+  },
+  {
+    "word": "Cherry",
+    "start": 78.112,
+    "end": 78.453,
+    "score": 0.851
+  },
+  {
+    "word": "Blossom",
+    "start": 78.473,
+    "end": 78.953,
+    "score": 0.801
+  },
+  {
+    "word": "Road,",
+    "start": 79.033,
+    "end": 79.374,
+    "score": 0.78
+  },
+  {
+    "word": "we",
+    "start": 79.834,
+    "end": 79.974,
+    "score": 0.754
+  },
+  {
+    "word": "will",
+    "start": 79.994,
+    "end": 80.194,
+    "score": 0.89
+  },
+  {
+    "word": "probably",
+    "start": 80.254,
+    "end": 80.795,
+    "score": 0.868
+  },
+  {
+    "word": "see",
+    "start": 80.875,
+    "end": 81.095,
+    "score": 0.751
+  },
+  {
+    "word": "the",
+    "start": 81.135,
+    "end": 81.235,
+    "score": 0.828
+  },
+  {
+    "word": "scene.",
+    "start": 81.295,
+    "end": 81.596,
+    "score": 0.884
+  },
+  {
+    "word": "I'm",
+    "start": 82.889,
+    "end": 83.05,
+    "score": 0.881
+  },
+  {
+    "word": "looking",
+    "start": 83.15,
+    "end": 83.551,
+    "score": 0.844
+  },
+  {
+    "word": "forward",
+    "start": 83.671,
+    "end": 84.113,
+    "score": 0.909
+  },
+  {
+    "word": "to",
+    "start": 84.193,
+    "end": 84.393,
+    "score": 0.908
+  },
+  {
+    "word": "it.",
+    "start": 84.514,
+    "end": 84.614,
+    "score": 0.832
+  },
+  {
+    "word": "I'll",
+    "start": 85.336,
+    "end": 85.536,
+    "score": 0.862
+  },
+  {
+    "word": "take",
+    "start": 85.617,
+    "end": 85.857,
+    "score": 0.744
+  },
+  {
+    "word": "my",
+    "start": 85.917,
+    "end": 86.058,
+    "score": 0.836
+  },
+  {
+    "word": "camera.",
+    "start": 86.118,
+    "end": 86.719,
+    "score": 0.83
+  },
+  {
+    "word": "It",
+    "start": 87.341,
+    "end": 87.421,
+    "score": 0.956
+  },
+  {
+    "word": "will",
+    "start": 87.481,
+    "end": 87.702,
+    "score": 0.984
+  },
+  {
+    "word": "be",
+    "start": 87.742,
+    "end": 87.923,
+    "score": 0.746
+  },
+  {
+    "word": "a",
+    "start": 87.983,
+    "end": 88.023,
+    "score": 0.499
+  },
+  {
+    "word": "good",
+    "start": 88.163,
+    "end": 88.424,
+    "score": 0.876
+  },
+  {
+    "word": "chance",
+    "start": 88.524,
+    "end": 88.885,
+    "score": 0.74
+  },
+  {
+    "word": "to",
+    "start": 89.026,
+    "end": 89.146,
+    "score": 0.859
+  },
+  {
+    "word": "take",
+    "start": 89.246,
+    "end": 89.527,
+    "score": 0.799
+  },
+  {
+    "word": "a",
+    "start": 89.607,
+    "end": 89.647,
+    "score": 0.499
+  },
+  {
+    "word": "picture.",
+    "start": 89.707,
+    "end": 90.149,
+    "score": 0.926
+  }
+]
