@@ -1,0 +1,482 @@
+[
+  {
+    "word": "Can",
+    "start": 0.111,
+    "end": 0.231,
+    "score": 0.996
+  },
+  {
+    "word": "wisdom",
+    "start": 0.271,
+    "end": 0.551,
+    "score": 0.902
+  },
+  {
+    "word": "in",
+    "start": 0.591,
+    "end": 0.671,
+    "score": 0.758
+  },
+  {
+    "word": "the",
+    "start": 0.692,
+    "end": 0.772,
+    "score": 0.829
+  },
+  {
+    "word": "sense",
+    "start": 0.792,
+    "end": 1.032,
+    "score": 0.69
+  },
+  {
+    "word": "of",
+    "start": 1.052,
+    "end": 1.112,
+    "score": 0.75
+  },
+  {
+    "word": "impartiality",
+    "start": 1.152,
+    "end": 1.852,
+    "score": 0.835
+  },
+  {
+    "word": "be",
+    "start": 1.872,
+    "end": 1.973,
+    "score": 0.738
+  },
+  {
+    "word": "taught?",
+    "start": 2.013,
+    "end": 2.333,
+    "score": 0.754
+  },
+  {
+    "word": "And",
+    "start": 3.073,
+    "end": 3.173,
+    "score": 0.84
+  },
+  {
+    "word": "if",
+    "start": 3.213,
+    "end": 3.294,
+    "score": 0.836
+  },
+  {
+    "word": "it",
+    "start": 3.334,
+    "end": 3.414,
+    "score": 0.512
+  },
+  {
+    "word": "can,",
+    "start": 3.454,
+    "end": 3.794,
+    "score": 0.856
+  },
+  {
+    "word": "should",
+    "start": 3.934,
+    "end": 4.094,
+    "score": 0.86
+  },
+  {
+    "word": "the",
+    "start": 4.134,
+    "end": 4.214,
+    "score": 0.852
+  },
+  {
+    "word": "teaching",
+    "start": 4.254,
+    "end": 4.555,
+    "score": 0.799
+  },
+  {
+    "word": "of",
+    "start": 4.595,
+    "end": 4.655,
+    "score": 0.754
+  },
+  {
+    "word": "it",
+    "start": 4.715,
+    "end": 4.795,
+    "score": 0.669
+  },
+  {
+    "word": "be",
+    "start": 4.835,
+    "end": 4.935,
+    "score": 0.721
+  },
+  {
+    "word": "one",
+    "start": 4.995,
+    "end": 5.095,
+    "score": 0.834
+  },
+  {
+    "word": "of",
+    "start": 5.115,
+    "end": 5.175,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 5.195,
+    "end": 5.275,
+    "score": 0.833
+  },
+  {
+    "word": "aims",
+    "start": 5.335,
+    "end": 5.515,
+    "score": 0.808
+  },
+  {
+    "word": "of",
+    "start": 5.555,
+    "end": 5.615,
+    "score": 0.75
+  },
+  {
+    "word": "education?",
+    "start": 5.655,
+    "end": 6.196,
+    "score": 0.862
+  },
+  {
+    "word": "I",
+    "start": 7.116,
+    "end": 7.157,
+    "score": 0.989
+  },
+  {
+    "word": "should",
+    "start": 7.197,
+    "end": 7.357,
+    "score": 0.875
+  },
+  {
+    "word": "answer",
+    "start": 7.397,
+    "end": 7.637,
+    "score": 0.686
+  },
+  {
+    "word": "both",
+    "start": 7.697,
+    "end": 7.877,
+    "score": 0.825
+  },
+  {
+    "word": "these",
+    "start": 7.937,
+    "end": 8.077,
+    "score": 0.801
+  },
+  {
+    "word": "questions",
+    "start": 8.117,
+    "end": 8.538,
+    "score": 0.757
+  },
+  {
+    "word": "in",
+    "start": 8.598,
+    "end": 8.658,
+    "score": 0.983
+  },
+  {
+    "word": "the",
+    "start": 8.698,
+    "end": 8.778,
+    "score": 0.834
+  },
+  {
+    "word": "affirmative.",
+    "start": 8.818,
+    "end": 9.358,
+    "score": 0.867
+  },
+  {
+    "word": "We",
+    "start": 9.999,
+    "end": 10.059,
+    "score": 0.978
+  },
+  {
+    "word": "are",
+    "start": 10.079,
+    "end": 10.159,
+    "score": 0.848
+  },
+  {
+    "word": "told",
+    "start": 10.199,
+    "end": 10.379,
+    "score": 0.634
+  },
+  {
+    "word": "on",
+    "start": 10.419,
+    "end": 10.519,
+    "score": 0.802
+  },
+  {
+    "word": "Sundays",
+    "start": 10.559,
+    "end": 10.979,
+    "score": 0.764
+  },
+  {
+    "word": "that",
+    "start": 11.02,
+    "end": 11.14,
+    "score": 0.782
+  },
+  {
+    "word": "we",
+    "start": 11.16,
+    "end": 11.26,
+    "score": 0.46
+  },
+  {
+    "word": "should",
+    "start": 11.28,
+    "end": 11.48,
+    "score": 0.677
+  },
+  {
+    "word": "love",
+    "start": 11.56,
+    "end": 11.74,
+    "score": 0.886
+  },
+  {
+    "word": "our",
+    "start": 11.8,
+    "end": 11.9,
+    "score": 0.675
+  },
+  {
+    "word": "neighbour",
+    "start": 11.94,
+    "end": 12.24,
+    "score": 0.763
+  },
+  {
+    "word": "as",
+    "start": 12.301,
+    "end": 12.381,
+    "score": 0.824
+  },
+  {
+    "word": "ourselves.",
+    "start": 12.441,
+    "end": 12.961,
+    "score": 0.765
+  },
+  {
+    "word": "On",
+    "start": 14.102,
+    "end": 14.162,
+    "score": 1.0
+  },
+  {
+    "word": "the",
+    "start": 14.202,
+    "end": 14.282,
+    "score": 0.838
+  },
+  {
+    "word": "other",
+    "start": 14.302,
+    "end": 14.502,
+    "score": 0.906
+  },
+  {
+    "word": "six",
+    "start": 14.542,
+    "end": 14.742,
+    "score": 0.993
+  },
+  {
+    "word": "days",
+    "start": 14.782,
+    "end": 14.943,
+    "score": 0.766
+  },
+  {
+    "word": "of",
+    "start": 14.983,
+    "end": 15.023,
+    "score": 1.0
+  },
+  {
+    "word": "the",
+    "start": 15.063,
+    "end": 15.143,
+    "score": 0.833
+  },
+  {
+    "word": "week,",
+    "start": 15.163,
+    "end": 15.363,
+    "score": 0.863
+  },
+  {
+    "word": "we",
+    "start": 15.623,
+    "end": 15.683,
+    "score": 1.0
+  },
+  {
+    "word": "are",
+    "start": 15.723,
+    "end": 15.803,
+    "score": 0.836
+  },
+  {
+    "word": "exhorted",
+    "start": 15.843,
+    "end": 16.304,
+    "score": 0.894
+  },
+  {
+    "word": "to",
+    "start": 16.344,
+    "end": 16.424,
+    "score": 0.689
+  },
+  {
+    "word": "hate",
+    "start": 16.484,
+    "end": 16.684,
+    "score": 0.688
+  },
+  {
+    "word": "him.",
+    "start": 16.724,
+    "end": 16.844,
+    "score": 0.996
+  },
+  {
+    "word": "It",
+    "start": 17.444,
+    "end": 17.505,
+    "score": 0.82
+  },
+  {
+    "word": "might",
+    "start": 17.525,
+    "end": 17.685,
+    "score": 0.877
+  },
+  {
+    "word": "be",
+    "start": 17.725,
+    "end": 17.805,
+    "score": 0.825
+  },
+  {
+    "word": "protested",
+    "start": 17.845,
+    "end": 18.365,
+    "score": 0.796
+  },
+  {
+    "word": "that",
+    "start": 18.405,
+    "end": 18.565,
+    "score": 0.678
+  },
+  {
+    "word": "it",
+    "start": 18.605,
+    "end": 18.665,
+    "score": 0.76
+  },
+  {
+    "word": "is",
+    "start": 18.725,
+    "end": 18.786,
+    "score": 0.824
+  },
+  {
+    "word": "right",
+    "start": 18.866,
+    "end": 19.066,
+    "score": 0.702
+  },
+  {
+    "word": "to",
+    "start": 19.106,
+    "end": 19.166,
+    "score": 0.892
+  },
+  {
+    "word": "hate",
+    "start": 19.206,
+    "end": 19.366,
+    "score": 0.874
+  },
+  {
+    "word": "those",
+    "start": 19.406,
+    "end": 19.566,
+    "score": 0.9
+  },
+  {
+    "word": "who",
+    "start": 19.606,
+    "end": 19.706,
+    "score": 0.872
+  },
+  {
+    "word": "do",
+    "start": 19.746,
+    "end": 19.866,
+    "score": 0.834
+  },
+  {
+    "word": "harm.",
+    "start": 19.926,
+    "end": 20.227,
+    "score": 0.964
+  },
+  {
+    "word": "I",
+    "start": 20.847,
+    "end": 20.887,
+    "score": 1.0
+  },
+  {
+    "word": "do",
+    "start": 20.927,
+    "end": 21.007,
+    "score": 0.992
+  },
+  {
+    "word": "not",
+    "start": 21.047,
+    "end": 21.167,
+    "score": 0.821
+  },
+  {
+    "word": "think",
+    "start": 21.207,
+    "end": 21.388,
+    "score": 0.888
+  },
+  {
+    "word": "so.",
+    "start": 21.468,
+    "end": 21.648,
+    "score": 0.999
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "word": "For",
+    "start": 0.111,
+    "end": 0.211,
+    "score": 0.999
+  },
+  {
+    "word": "thousands",
+    "start": 0.271,
+    "end": 0.712,
+    "score": 0.785
+  },
+  {
+    "word": "of",
+    "start": 0.732,
+    "end": 0.793,
+    "score": 0.754
+  },
+  {
+    "word": "years,",
+    "start": 0.833,
+    "end": 1.133,
+    "score": 0.728
+  },
+  {
+    "word": "all",
+    "start": 1.233,
+    "end": 1.354,
+    "score": 0.834
+  },
+  {
+    "word": "writing",
+    "start": 1.394,
+    "end": 1.714,
+    "score": 0.768
+  },
+  {
+    "word": "was",
+    "start": 1.734,
+    "end": 1.835,
+    "score": 0.832
+  },
+  {
+    "word": "done",
+    "start": 1.855,
+    "end": 2.035,
+    "score": 0.601
+  },
+  {
+    "word": "by",
+    "start": 2.055,
+    "end": 2.195,
+    "score": 0.828
+  },
+  {
+    "word": "hand.",
+    "start": 2.255,
+    "end": 2.596,
+    "score": 0.902
+  },
+  {
+    "word": "Not",
+    "start": 3.297,
+    "end": 3.418,
+    "score": 0.831
+  },
+  {
+    "word": "many",
+    "start": 3.458,
+    "end": 3.678,
+    "score": 0.617
+  },
+  {
+    "word": "people",
+    "start": 3.718,
+    "end": 3.959,
+    "score": 0.863
+  },
+  {
+    "word": "could",
+    "start": 3.979,
+    "end": 4.139,
+    "score": 0.825
+  },
+  {
+    "word": "write",
+    "start": 4.179,
+    "end": 4.44,
+    "score": 0.572
+  },
+  {
+    "word": "and",
+    "start": 4.82,
+    "end": 4.901,
+    "score": 0.988
+  },
+  {
+    "word": "not",
+    "start": 4.941,
+    "end": 5.061,
+    "score": 0.946
+  },
+  {
+    "word": "many",
+    "start": 5.101,
+    "end": 5.301,
+    "score": 0.862
+  },
+  {
+    "word": "could",
+    "start": 5.341,
+    "end": 5.482,
+    "score": 0.805
+  },
+  {
+    "word": "read",
+    "start": 5.542,
+    "end": 5.722,
+    "score": 0.888
+  },
+  {
+    "word": "either.",
+    "start": 5.802,
+    "end": 6.063,
+    "score": 0.765
+  },
+  {
+    "word": "In",
+    "start": 7.285,
+    "end": 7.365,
+    "score": 0.832
+  },
+  {
+    "word": "most",
+    "start": 7.406,
+    "end": 7.606,
+    "score": 0.974
+  },
+  {
+    "word": "countries,",
+    "start": 7.666,
+    "end": 8.107,
+    "score": 0.812
+  },
+  {
+    "word": "certain",
+    "start": 8.227,
+    "end": 8.548,
+    "score": 0.836
+  },
+  {
+    "word": "people",
+    "start": 8.608,
+    "end": 8.929,
+    "score": 0.761
+  },
+  {
+    "word": "were",
+    "start": 8.989,
+    "end": 9.129,
+    "score": 0.879
+  },
+  {
+    "word": "especially",
+    "start": 9.169,
+    "end": 9.71,
+    "score": 0.771
+  },
+  {
+    "word": "trained",
+    "start": 9.77,
+    "end": 10.071,
+    "score": 0.74
+  },
+  {
+    "word": "to",
+    "start": 10.111,
+    "end": 10.171,
+    "score": 0.753
+  },
+  {
+    "word": "do",
+    "start": 10.211,
+    "end": 10.331,
+    "score": 0.846
+  },
+  {
+    "word": "all",
+    "start": 10.552,
+    "end": 10.692,
+    "score": 0.779
+  },
+  {
+    "word": "necessary",
+    "start": 10.752,
+    "end": 11.273,
+    "score": 0.864
+  },
+  {
+    "word": "writing.",
+    "start": 11.333,
+    "end": 11.714,
+    "score": 0.767
+  },
+  {
+    "word": "The",
+    "start": 12.255,
+    "end": 12.335,
+    "score": 0.916
+  },
+  {
+    "word": "instruments",
+    "start": 12.375,
+    "end": 12.836,
+    "score": 0.767
+  },
+  {
+    "word": "they",
+    "start": 12.876,
+    "end": 13.017,
+    "score": 0.866
+  },
+  {
+    "word": "used",
+    "start": 13.177,
+    "end": 13.397,
+    "score": 0.754
+  },
+  {
+    "word": "were",
+    "start": 13.457,
+    "end": 13.598,
+    "score": 0.827
+  },
+  {
+    "word": "very",
+    "start": 13.638,
+    "end": 13.798,
+    "score": 0.8
+  },
+  {
+    "word": "primitive",
+    "start": 13.898,
+    "end": 14.339,
+    "score": 0.878
+  },
+  {
+    "word": "by",
+    "start": 14.399,
+    "end": 14.52,
+    "score": 0.826
+  },
+  {
+    "word": "modern",
+    "start": 14.56,
+    "end": 14.84,
+    "score": 0.749
+  },
+  {
+    "word": "standards.",
+    "start": 14.88,
+    "end": 15.341,
+    "score": 0.933
+  }
+]

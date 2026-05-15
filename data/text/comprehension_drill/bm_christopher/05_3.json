@@ -1,0 +1,518 @@
+[
+  {
+    "word": "Nearly",
+    "start": 0.111,
+    "end": 0.351,
+    "score": 0.803
+  },
+  {
+    "word": "all",
+    "start": 0.372,
+    "end": 0.492,
+    "score": 0.834
+  },
+  {
+    "word": "the",
+    "start": 0.532,
+    "end": 0.592,
+    "score": 0.998
+  },
+  {
+    "word": "sports",
+    "start": 0.632,
+    "end": 0.952,
+    "score": 0.798
+  },
+  {
+    "word": "practice",
+    "start": 1.012,
+    "end": 1.433,
+    "score": 0.76
+  },
+  {
+    "word": "nowadays",
+    "start": 1.473,
+    "end": 1.894,
+    "score": 0.812
+  },
+  {
+    "word": "are",
+    "start": 1.934,
+    "end": 1.994,
+    "score": 1.0
+  },
+  {
+    "word": "competitive.",
+    "start": 2.034,
+    "end": 2.635,
+    "score": 0.844
+  },
+  {
+    "word": "You",
+    "start": 3.336,
+    "end": 3.456,
+    "score": 0.725
+  },
+  {
+    "word": "play",
+    "start": 3.496,
+    "end": 3.717,
+    "score": 0.935
+  },
+  {
+    "word": "to",
+    "start": 3.757,
+    "end": 3.877,
+    "score": 0.7
+  },
+  {
+    "word": "win,",
+    "start": 3.917,
+    "end": 4.197,
+    "score": 0.82
+  },
+  {
+    "word": "and",
+    "start": 4.578,
+    "end": 4.658,
+    "score": 0.943
+  },
+  {
+    "word": "the",
+    "start": 4.698,
+    "end": 4.778,
+    "score": 0.854
+  },
+  {
+    "word": "game",
+    "start": 4.818,
+    "end": 5.099,
+    "score": 0.828
+  },
+  {
+    "word": "has",
+    "start": 5.159,
+    "end": 5.299,
+    "score": 0.757
+  },
+  {
+    "word": "little",
+    "start": 5.359,
+    "end": 5.639,
+    "score": 0.68
+  },
+  {
+    "word": "meaning",
+    "start": 5.7,
+    "end": 6.0,
+    "score": 0.803
+  },
+  {
+    "word": "unless",
+    "start": 6.06,
+    "end": 6.28,
+    "score": 0.846
+  },
+  {
+    "word": "you",
+    "start": 6.3,
+    "end": 6.401,
+    "score": 0.766
+  },
+  {
+    "word": "do",
+    "start": 6.421,
+    "end": 6.521,
+    "score": 0.772
+  },
+  {
+    "word": "your",
+    "start": 6.561,
+    "end": 6.701,
+    "score": 0.648
+  },
+  {
+    "word": "utmost",
+    "start": 6.721,
+    "end": 7.042,
+    "score": 0.902
+  },
+  {
+    "word": "to",
+    "start": 7.082,
+    "end": 7.162,
+    "score": 0.903
+  },
+  {
+    "word": "win.",
+    "start": 7.202,
+    "end": 7.422,
+    "score": 0.773
+  },
+  {
+    "word": "On",
+    "start": 8.364,
+    "end": 8.444,
+    "score": 0.831
+  },
+  {
+    "word": "the",
+    "start": 8.464,
+    "end": 8.544,
+    "score": 0.837
+  },
+  {
+    "word": "village",
+    "start": 8.584,
+    "end": 8.884,
+    "score": 0.951
+  },
+  {
+    "word": "green,",
+    "start": 8.924,
+    "end": 9.265,
+    "score": 0.858
+  },
+  {
+    "word": "where",
+    "start": 9.626,
+    "end": 9.746,
+    "score": 0.91
+  },
+  {
+    "word": "you",
+    "start": 9.786,
+    "end": 9.866,
+    "score": 0.98
+  },
+  {
+    "word": "pick",
+    "start": 9.906,
+    "end": 10.046,
+    "score": 0.893
+  },
+  {
+    "word": "up",
+    "start": 10.126,
+    "end": 10.206,
+    "score": 0.996
+  },
+  {
+    "word": "sides",
+    "start": 10.287,
+    "end": 10.687,
+    "score": 0.865
+  },
+  {
+    "word": "and",
+    "start": 10.747,
+    "end": 10.827,
+    "score": 0.838
+  },
+  {
+    "word": "no",
+    "start": 10.867,
+    "end": 11.008,
+    "score": 0.886
+  },
+  {
+    "word": "feeling",
+    "start": 11.108,
+    "end": 11.408,
+    "score": 0.757
+  },
+  {
+    "word": "of",
+    "start": 11.428,
+    "end": 11.508,
+    "score": 0.668
+  },
+  {
+    "word": "local",
+    "start": 11.588,
+    "end": 11.849,
+    "score": 0.943
+  },
+  {
+    "word": "patriotism",
+    "start": 11.909,
+    "end": 12.57,
+    "score": 0.916
+  },
+  {
+    "word": "is",
+    "start": 12.63,
+    "end": 12.71,
+    "score": 0.886
+  },
+  {
+    "word": "involved,",
+    "start": 12.77,
+    "end": 13.171,
+    "score": 0.912
+  },
+  {
+    "word": "it",
+    "start": 13.812,
+    "end": 13.872,
+    "score": 0.993
+  },
+  {
+    "word": "is",
+    "start": 13.932,
+    "end": 13.992,
+    "score": 0.844
+  },
+  {
+    "word": "possible",
+    "start": 14.072,
+    "end": 14.453,
+    "score": 0.698
+  },
+  {
+    "word": "to",
+    "start": 14.493,
+    "end": 14.573,
+    "score": 0.816
+  },
+  {
+    "word": "play",
+    "start": 14.633,
+    "end": 14.853,
+    "score": 0.756
+  },
+  {
+    "word": "simply",
+    "start": 14.914,
+    "end": 15.254,
+    "score": 0.823
+  },
+  {
+    "word": "for",
+    "start": 15.294,
+    "end": 15.394,
+    "score": 0.834
+  },
+  {
+    "word": "the",
+    "start": 15.414,
+    "end": 15.494,
+    "score": 0.827
+  },
+  {
+    "word": "fun",
+    "start": 15.575,
+    "end": 15.795,
+    "score": 0.856
+  },
+  {
+    "word": "and",
+    "start": 15.855,
+    "end": 15.935,
+    "score": 0.933
+  },
+  {
+    "word": "exercise.",
+    "start": 15.995,
+    "end": 16.576,
+    "score": 0.875
+  },
+  {
+    "word": "But",
+    "start": 17.217,
+    "end": 17.337,
+    "score": 0.946
+  },
+  {
+    "word": "as",
+    "start": 17.377,
+    "end": 17.437,
+    "score": 0.958
+  },
+  {
+    "word": "soon",
+    "start": 17.477,
+    "end": 17.678,
+    "score": 0.672
+  },
+  {
+    "word": "as",
+    "start": 17.738,
+    "end": 17.818,
+    "score": 0.778
+  },
+  {
+    "word": "the",
+    "start": 17.838,
+    "end": 17.918,
+    "score": 0.834
+  },
+  {
+    "word": "question",
+    "start": 17.978,
+    "end": 18.319,
+    "score": 0.846
+  },
+  {
+    "word": "of",
+    "start": 18.359,
+    "end": 18.399,
+    "score": 1.0
+  },
+  {
+    "word": "prestige",
+    "start": 18.459,
+    "end": 18.92,
+    "score": 0.867
+  },
+  {
+    "word": "arises,",
+    "start": 18.94,
+    "end": 19.46,
+    "score": 0.817
+  },
+  {
+    "word": "as",
+    "start": 19.921,
+    "end": 20.001,
+    "score": 0.736
+  },
+  {
+    "word": "soon",
+    "start": 20.041,
+    "end": 20.242,
+    "score": 0.732
+  },
+  {
+    "word": "as",
+    "start": 20.302,
+    "end": 20.362,
+    "score": 0.893
+  },
+  {
+    "word": "you",
+    "start": 20.402,
+    "end": 20.542,
+    "score": 0.898
+  },
+  {
+    "word": "feel",
+    "start": 20.622,
+    "end": 20.903,
+    "score": 0.72
+  },
+  {
+    "word": "that",
+    "start": 20.963,
+    "end": 21.063,
+    "score": 1.0
+  },
+  {
+    "word": "you",
+    "start": 21.103,
+    "end": 21.243,
+    "score": 0.824
+  },
+  {
+    "word": "and",
+    "start": 21.283,
+    "end": 21.363,
+    "score": 0.896
+  },
+  {
+    "word": "some",
+    "start": 21.403,
+    "end": 21.564,
+    "score": 0.8
+  },
+  {
+    "word": "larger",
+    "start": 21.624,
+    "end": 21.904,
+    "score": 0.821
+  },
+  {
+    "word": "unit",
+    "start": 22.024,
+    "end": 22.245,
+    "score": 0.832
+  },
+  {
+    "word": "will",
+    "start": 22.285,
+    "end": 22.445,
+    "score": 0.666
+  },
+  {
+    "word": "be",
+    "start": 22.465,
+    "end": 22.525,
+    "score": 0.76
+  },
+  {
+    "word": "disgraced",
+    "start": 22.565,
+    "end": 23.026,
+    "score": 0.852
+  },
+  {
+    "word": "if",
+    "start": 23.066,
+    "end": 23.126,
+    "score": 0.964
+  },
+  {
+    "word": "you",
+    "start": 23.146,
+    "end": 23.286,
+    "score": 0.669
+  },
+  {
+    "word": "lose,",
+    "start": 23.326,
+    "end": 23.647,
+    "score": 0.834
+  },
+  {
+    "word": "the",
+    "start": 24.288,
+    "end": 24.368,
+    "score": 0.923
+  },
+  {
+    "word": "most",
+    "start": 24.428,
+    "end": 24.568,
+    "score": 0.846
+  },
+  {
+    "word": "savage,",
+    "start": 24.668,
+    "end": 25.069,
+    "score": 0.961
+  },
+  {
+    "word": "combative",
+    "start": 25.109,
+    "end": 25.59,
+    "score": 0.924
+  },
+  {
+    "word": "instincts",
+    "start": 25.65,
+    "end": 26.07,
+    "score": 0.751
+  },
+  {
+    "word": "are",
+    "start": 26.13,
+    "end": 26.231,
+    "score": 0.672
+  },
+  {
+    "word": "aroused.",
+    "start": 26.271,
+    "end": 26.751,
+    "score": 0.928
+  }
+]

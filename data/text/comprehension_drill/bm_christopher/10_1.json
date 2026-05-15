@@ -1,0 +1,470 @@
+[
+  {
+    "word": "It",
+    "start": 0.131,
+    "end": 0.171,
+    "score": 0.986
+  },
+  {
+    "word": "was",
+    "start": 0.191,
+    "end": 0.271,
+    "score": 0.849
+  },
+  {
+    "word": "twenty",
+    "start": 0.311,
+    "end": 0.572,
+    "score": 0.83
+  },
+  {
+    "word": "years",
+    "start": 0.612,
+    "end": 0.792,
+    "score": 0.828
+  },
+  {
+    "word": "ago",
+    "start": 0.812,
+    "end": 1.012,
+    "score": 0.786
+  },
+  {
+    "word": "when",
+    "start": 1.032,
+    "end": 1.172,
+    "score": 0.208
+  },
+  {
+    "word": "I",
+    "start": 1.213,
+    "end": 1.253,
+    "score": 0.993
+  },
+  {
+    "word": "was",
+    "start": 1.293,
+    "end": 1.393,
+    "score": 0.677
+  },
+  {
+    "word": "living",
+    "start": 1.453,
+    "end": 1.653,
+    "score": 0.914
+  },
+  {
+    "word": "in",
+    "start": 1.693,
+    "end": 1.753,
+    "score": 0.75
+  },
+  {
+    "word": "Paris.",
+    "start": 1.793,
+    "end": 2.194,
+    "score": 0.793
+  },
+  {
+    "word": "I",
+    "start": 2.694,
+    "end": 2.735,
+    "score": 0.717
+  },
+  {
+    "word": "had",
+    "start": 2.775,
+    "end": 2.895,
+    "score": 0.832
+  },
+  {
+    "word": "a",
+    "start": 2.935,
+    "end": 2.955,
+    "score": 0.998
+  },
+  {
+    "word": "tiny",
+    "start": 3.035,
+    "end": 3.315,
+    "score": 0.903
+  },
+  {
+    "word": "apartment",
+    "start": 3.355,
+    "end": 3.836,
+    "score": 0.889
+  },
+  {
+    "word": "in",
+    "start": 3.876,
+    "end": 3.956,
+    "score": 0.736
+  },
+  {
+    "word": "the",
+    "start": 3.976,
+    "end": 4.076,
+    "score": 0.792
+  },
+  {
+    "word": "Latin",
+    "start": 4.116,
+    "end": 4.417,
+    "score": 0.942
+  },
+  {
+    "word": "Quarter",
+    "start": 4.477,
+    "end": 4.857,
+    "score": 0.841
+  },
+  {
+    "word": "overlooking",
+    "start": 4.937,
+    "end": 5.338,
+    "score": 0.893
+  },
+  {
+    "word": "a",
+    "start": 5.378,
+    "end": 5.418,
+    "score": 0.502
+  },
+  {
+    "word": "cemetery,",
+    "start": 5.458,
+    "end": 5.899,
+    "score": 0.86
+  },
+  {
+    "word": "and",
+    "start": 6.279,
+    "end": 6.379,
+    "score": 0.807
+  },
+  {
+    "word": "I",
+    "start": 6.399,
+    "end": 6.439,
+    "score": 0.511
+  },
+  {
+    "word": "was",
+    "start": 6.479,
+    "end": 6.56,
+    "score": 0.867
+  },
+  {
+    "word": "earning",
+    "start": 6.62,
+    "end": 6.82,
+    "score": 0.861
+  },
+  {
+    "word": "barely",
+    "start": 6.88,
+    "end": 7.16,
+    "score": 0.954
+  },
+  {
+    "word": "enough",
+    "start": 7.2,
+    "end": 7.421,
+    "score": 0.722
+  },
+  {
+    "word": "money",
+    "start": 7.461,
+    "end": 7.681,
+    "score": 0.656
+  },
+  {
+    "word": "to",
+    "start": 7.721,
+    "end": 7.781,
+    "score": 0.751
+  },
+  {
+    "word": "keep",
+    "start": 7.801,
+    "end": 7.981,
+    "score": 0.908
+  },
+  {
+    "word": "body",
+    "start": 8.021,
+    "end": 8.222,
+    "score": 0.936
+  },
+  {
+    "word": "and",
+    "start": 8.262,
+    "end": 8.342,
+    "score": 0.883
+  },
+  {
+    "word": "soul",
+    "start": 8.382,
+    "end": 8.602,
+    "score": 0.787
+  },
+  {
+    "word": "together.",
+    "start": 8.622,
+    "end": 8.963,
+    "score": 0.887
+  },
+  {
+    "word": "She",
+    "start": 9.644,
+    "end": 9.744,
+    "score": 0.828
+  },
+  {
+    "word": "had",
+    "start": 9.784,
+    "end": 9.884,
+    "score": 0.845
+  },
+  {
+    "word": "read",
+    "start": 9.924,
+    "end": 10.064,
+    "score": 0.752
+  },
+  {
+    "word": "a",
+    "start": 10.084,
+    "end": 10.124,
+    "score": 0.5
+  },
+  {
+    "word": "book",
+    "start": 10.164,
+    "end": 10.324,
+    "score": 0.916
+  },
+  {
+    "word": "of",
+    "start": 10.364,
+    "end": 10.425,
+    "score": 0.753
+  },
+  {
+    "word": "mine",
+    "start": 10.505,
+    "end": 10.765,
+    "score": 0.746
+  },
+  {
+    "word": "and",
+    "start": 10.805,
+    "end": 10.865,
+    "score": 0.496
+  },
+  {
+    "word": "had",
+    "start": 10.885,
+    "end": 10.985,
+    "score": 0.776
+  },
+  {
+    "word": "written",
+    "start": 11.025,
+    "end": 11.266,
+    "score": 0.792
+  },
+  {
+    "word": "to",
+    "start": 11.286,
+    "end": 11.326,
+    "score": 0.999
+  },
+  {
+    "word": "me",
+    "start": 11.366,
+    "end": 11.446,
+    "score": 0.76
+  },
+  {
+    "word": "about",
+    "start": 11.506,
+    "end": 11.766,
+    "score": 0.901
+  },
+  {
+    "word": "it.",
+    "start": 11.826,
+    "end": 11.906,
+    "score": 0.867
+  },
+  {
+    "word": "I",
+    "start": 12.587,
+    "end": 12.647,
+    "score": 0.667
+  },
+  {
+    "word": "answered,",
+    "start": 12.748,
+    "end": 13.108,
+    "score": 0.751
+  },
+  {
+    "word": "thanking",
+    "start": 13.268,
+    "end": 13.609,
+    "score": 0.839
+  },
+  {
+    "word": "her,",
+    "start": 13.669,
+    "end": 13.829,
+    "score": 0.84
+  },
+  {
+    "word": "and",
+    "start": 14.25,
+    "end": 14.33,
+    "score": 0.879
+  },
+  {
+    "word": "presently",
+    "start": 14.37,
+    "end": 14.73,
+    "score": 0.812
+  },
+  {
+    "word": "I",
+    "start": 14.79,
+    "end": 14.83,
+    "score": 0.501
+  },
+  {
+    "word": "received",
+    "start": 14.89,
+    "end": 15.211,
+    "score": 0.804
+  },
+  {
+    "word": "from",
+    "start": 15.231,
+    "end": 15.331,
+    "score": 0.876
+  },
+  {
+    "word": "her",
+    "start": 15.371,
+    "end": 15.491,
+    "score": 0.631
+  },
+  {
+    "word": "another",
+    "start": 15.551,
+    "end": 15.812,
+    "score": 0.858
+  },
+  {
+    "word": "letter",
+    "start": 15.872,
+    "end": 16.132,
+    "score": 0.923
+  },
+  {
+    "word": "saying",
+    "start": 16.172,
+    "end": 16.372,
+    "score": 0.781
+  },
+  {
+    "word": "that",
+    "start": 16.392,
+    "end": 16.492,
+    "score": 0.967
+  },
+  {
+    "word": "she",
+    "start": 16.533,
+    "end": 16.633,
+    "score": 0.68
+  },
+  {
+    "word": "was",
+    "start": 16.673,
+    "end": 16.773,
+    "score": 0.85
+  },
+  {
+    "word": "passing",
+    "start": 16.833,
+    "end": 17.193,
+    "score": 0.814
+  },
+  {
+    "word": "through",
+    "start": 17.233,
+    "end": 17.454,
+    "score": 0.773
+  },
+  {
+    "word": "Paris,",
+    "start": 17.494,
+    "end": 17.914,
+    "score": 0.846
+  },
+  {
+    "word": "and",
+    "start": 18.395,
+    "end": 18.475,
+    "score": 0.875
+  },
+  {
+    "word": "would",
+    "start": 18.495,
+    "end": 18.615,
+    "score": 0.899
+  },
+  {
+    "word": "like",
+    "start": 18.635,
+    "end": 18.775,
+    "score": 0.747
+  },
+  {
+    "word": "to",
+    "start": 18.815,
+    "end": 18.856,
+    "score": 0.992
+  },
+  {
+    "word": "have",
+    "start": 18.876,
+    "end": 18.976,
+    "score": 0.875
+  },
+  {
+    "word": "a",
+    "start": 18.996,
+    "end": 19.036,
+    "score": 0.494
+  },
+  {
+    "word": "chat",
+    "start": 19.076,
+    "end": 19.296,
+    "score": 0.777
+  },
+  {
+    "word": "with",
+    "start": 19.316,
+    "end": 19.456,
+    "score": 0.754
+  },
+  {
+    "word": "me.",
+    "start": 19.496,
+    "end": 19.576,
+    "score": 0.929
+  }
+]

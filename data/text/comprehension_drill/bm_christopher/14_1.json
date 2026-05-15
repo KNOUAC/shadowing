@@ -1,0 +1,326 @@
+[
+  {
+    "word": "Most",
+    "start": 0.111,
+    "end": 0.312,
+    "score": 0.887
+  },
+  {
+    "word": "people",
+    "start": 0.372,
+    "end": 0.652,
+    "score": 0.778
+  },
+  {
+    "word": "are",
+    "start": 0.712,
+    "end": 0.792,
+    "score": 0.91
+  },
+  {
+    "word": "not",
+    "start": 0.832,
+    "end": 0.953,
+    "score": 0.972
+  },
+  {
+    "word": "naturally",
+    "start": 1.033,
+    "end": 1.414,
+    "score": 0.866
+  },
+  {
+    "word": "reflective",
+    "start": 1.474,
+    "end": 2.015,
+    "score": 0.921
+  },
+  {
+    "word": "any",
+    "start": 2.075,
+    "end": 2.195,
+    "score": 0.682
+  },
+  {
+    "word": "more",
+    "start": 2.255,
+    "end": 2.415,
+    "score": 0.889
+  },
+  {
+    "word": "than",
+    "start": 2.455,
+    "end": 2.576,
+    "score": 0.981
+  },
+  {
+    "word": "they",
+    "start": 2.596,
+    "end": 2.716,
+    "score": 0.774
+  },
+  {
+    "word": "are",
+    "start": 2.736,
+    "end": 2.816,
+    "score": 0.844
+  },
+  {
+    "word": "naturally",
+    "start": 2.876,
+    "end": 3.257,
+    "score": 0.872
+  },
+  {
+    "word": "malicious,",
+    "start": 3.297,
+    "end": 3.778,
+    "score": 0.936
+  },
+  {
+    "word": "and",
+    "start": 4.439,
+    "end": 4.519,
+    "score": 0.949
+  },
+  {
+    "word": "the",
+    "start": 4.559,
+    "end": 4.64,
+    "score": 0.833
+  },
+  {
+    "word": "white",
+    "start": 4.68,
+    "end": 4.9,
+    "score": 0.897
+  },
+  {
+    "word": "man",
+    "start": 4.96,
+    "end": 5.181,
+    "score": 0.77
+  },
+  {
+    "word": "prefers",
+    "start": 5.261,
+    "end": 5.621,
+    "score": 0.77
+  },
+  {
+    "word": "to",
+    "start": 5.661,
+    "end": 5.701,
+    "score": 1.0
+  },
+  {
+    "word": "keep",
+    "start": 5.742,
+    "end": 5.922,
+    "score": 0.867
+  },
+  {
+    "word": "the",
+    "start": 5.962,
+    "end": 6.042,
+    "score": 0.833
+  },
+  {
+    "word": "black",
+    "start": 6.082,
+    "end": 6.323,
+    "score": 0.904
+  },
+  {
+    "word": "man",
+    "start": 6.383,
+    "end": 6.603,
+    "score": 0.778
+  },
+  {
+    "word": "at",
+    "start": 6.663,
+    "end": 6.743,
+    "score": 0.833
+  },
+  {
+    "word": "a",
+    "start": 6.783,
+    "end": 6.824,
+    "score": 0.5
+  },
+  {
+    "word": "certain",
+    "start": 6.884,
+    "end": 7.224,
+    "score": 0.768
+  },
+  {
+    "word": "human",
+    "start": 7.264,
+    "end": 7.565,
+    "score": 0.815
+  },
+  {
+    "word": "remove",
+    "start": 7.605,
+    "end": 7.986,
+    "score": 0.8
+  },
+  {
+    "word": "because",
+    "start": 8.507,
+    "end": 8.747,
+    "score": 0.71
+  },
+  {
+    "word": "it",
+    "start": 8.787,
+    "end": 8.847,
+    "score": 0.964
+  },
+  {
+    "word": "is",
+    "start": 8.907,
+    "end": 8.988,
+    "score": 0.672
+  },
+  {
+    "word": "easier",
+    "start": 9.168,
+    "end": 9.468,
+    "score": 0.733
+  },
+  {
+    "word": "for",
+    "start": 9.508,
+    "end": 9.669,
+    "score": 0.89
+  },
+  {
+    "word": "him",
+    "start": 9.729,
+    "end": 9.829,
+    "score": 0.727
+  },
+  {
+    "word": "thus",
+    "start": 9.909,
+    "end": 10.11,
+    "score": 0.777
+  },
+  {
+    "word": "to",
+    "start": 10.15,
+    "end": 10.25,
+    "score": 0.5
+  },
+  {
+    "word": "preserve",
+    "start": 10.29,
+    "end": 10.651,
+    "score": 0.816
+  },
+  {
+    "word": "his",
+    "start": 10.691,
+    "end": 10.791,
+    "score": 0.839
+  },
+  {
+    "word": "simplicity",
+    "start": 10.811,
+    "end": 11.432,
+    "score": 0.853
+  },
+  {
+    "word": "and",
+    "start": 11.933,
+    "end": 12.013,
+    "score": 0.861
+  },
+  {
+    "word": "avoid",
+    "start": 12.053,
+    "end": 12.334,
+    "score": 0.843
+  },
+  {
+    "word": "being",
+    "start": 12.374,
+    "end": 12.574,
+    "score": 0.791
+  },
+  {
+    "word": "called",
+    "start": 12.634,
+    "end": 12.915,
+    "score": 0.816
+  },
+  {
+    "word": "to",
+    "start": 12.955,
+    "end": 13.035,
+    "score": 0.83
+  },
+  {
+    "word": "account",
+    "start": 13.075,
+    "end": 13.416,
+    "score": 0.836
+  },
+  {
+    "word": "for",
+    "start": 13.456,
+    "end": 13.556,
+    "score": 0.988
+  },
+  {
+    "word": "crimes",
+    "start": 13.616,
+    "end": 13.937,
+    "score": 0.755
+  },
+  {
+    "word": "committed",
+    "start": 13.997,
+    "end": 14.337,
+    "score": 0.906
+  },
+  {
+    "word": "by",
+    "start": 14.377,
+    "end": 14.498,
+    "score": 0.757
+  },
+  {
+    "word": "his",
+    "start": 14.538,
+    "end": 14.638,
+    "score": 0.832
+  },
+  {
+    "word": "forefathers",
+    "start": 14.698,
+    "end": 15.279,
+    "score": 0.821
+  },
+  {
+    "word": "or",
+    "start": 15.7,
+    "end": 15.78,
+    "score": 0.751
+  },
+  {
+    "word": "his",
+    "start": 15.82,
+    "end": 15.94,
+    "score": 0.678
+  },
+  {
+    "word": "neighbours.",
+    "start": 16.0,
+    "end": 16.361,
+    "score": 0.774
+  }
+]

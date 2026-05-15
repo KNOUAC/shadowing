@@ -1,0 +1,314 @@
+[
+  {
+    "word": "Mr.",
+    "start": 0.091,
+    "end": 0.372,
+    "score": 0.441
+  },
+  {
+    "word": "Bennett",
+    "start": 0.412,
+    "end": 0.692,
+    "score": 0.921
+  },
+  {
+    "word": "was",
+    "start": 0.732,
+    "end": 0.832,
+    "score": 0.999
+  },
+  {
+    "word": "so",
+    "start": 0.973,
+    "end": 1.173,
+    "score": 0.879
+  },
+  {
+    "word": "odd",
+    "start": 1.233,
+    "end": 1.353,
+    "score": 0.936
+  },
+  {
+    "word": "a",
+    "start": 1.373,
+    "end": 1.413,
+    "score": 0.5
+  },
+  {
+    "word": "mixture",
+    "start": 1.454,
+    "end": 1.794,
+    "score": 0.892
+  },
+  {
+    "word": "of",
+    "start": 1.814,
+    "end": 1.874,
+    "score": 0.752
+  },
+  {
+    "word": "quick",
+    "start": 1.974,
+    "end": 2.195,
+    "score": 0.863
+  },
+  {
+    "word": "parts,",
+    "start": 2.255,
+    "end": 2.616,
+    "score": 0.914
+  },
+  {
+    "word": "sarcastic",
+    "start": 3.137,
+    "end": 3.677,
+    "score": 0.894
+  },
+  {
+    "word": "humour,",
+    "start": 3.778,
+    "end": 4.138,
+    "score": 0.852
+  },
+  {
+    "word": "reserve",
+    "start": 4.499,
+    "end": 5.02,
+    "score": 0.827
+  },
+  {
+    "word": "and",
+    "start": 5.06,
+    "end": 5.16,
+    "score": 0.715
+  },
+  {
+    "word": "caprice,",
+    "start": 5.2,
+    "end": 5.761,
+    "score": 0.874
+  },
+  {
+    "word": "that",
+    "start": 6.182,
+    "end": 6.302,
+    "score": 0.88
+  },
+  {
+    "word": "the",
+    "start": 6.342,
+    "end": 6.422,
+    "score": 0.838
+  },
+  {
+    "word": "experience",
+    "start": 6.482,
+    "end": 6.963,
+    "score": 0.935
+  },
+  {
+    "word": "of",
+    "start": 7.003,
+    "end": 7.084,
+    "score": 0.666
+  },
+  {
+    "word": "three",
+    "start": 7.144,
+    "end": 7.384,
+    "score": 0.715
+  },
+  {
+    "word": "and",
+    "start": 7.404,
+    "end": 7.504,
+    "score": 0.735
+  },
+  {
+    "word": "twenty",
+    "start": 7.544,
+    "end": 7.845,
+    "score": 0.914
+  },
+  {
+    "word": "years",
+    "start": 7.885,
+    "end": 8.145,
+    "score": 0.714
+  },
+  {
+    "word": "had",
+    "start": 8.185,
+    "end": 8.286,
+    "score": 0.846
+  },
+  {
+    "word": "been",
+    "start": 8.306,
+    "end": 8.466,
+    "score": 0.75
+  },
+  {
+    "word": "insufficient",
+    "start": 8.566,
+    "end": 9.207,
+    "score": 0.784
+  },
+  {
+    "word": "to",
+    "start": 9.247,
+    "end": 9.307,
+    "score": 0.752
+  },
+  {
+    "word": "make",
+    "start": 9.348,
+    "end": 9.508,
+    "score": 0.876
+  },
+  {
+    "word": "his",
+    "start": 9.548,
+    "end": 9.648,
+    "score": 0.875
+  },
+  {
+    "word": "wife",
+    "start": 9.728,
+    "end": 9.969,
+    "score": 0.896
+  },
+  {
+    "word": "understand",
+    "start": 10.049,
+    "end": 10.51,
+    "score": 0.74
+  },
+  {
+    "word": "his",
+    "start": 10.55,
+    "end": 10.65,
+    "score": 0.841
+  },
+  {
+    "word": "character.",
+    "start": 10.73,
+    "end": 11.211,
+    "score": 0.836
+  },
+  {
+    "word": "Her",
+    "start": 12.012,
+    "end": 12.132,
+    "score": 0.73
+  },
+  {
+    "word": "mind",
+    "start": 12.173,
+    "end": 12.453,
+    "score": 0.75
+  },
+  {
+    "word": "was",
+    "start": 12.513,
+    "end": 12.633,
+    "score": 0.661
+  },
+  {
+    "word": "less",
+    "start": 12.673,
+    "end": 12.854,
+    "score": 0.79
+  },
+  {
+    "word": "difficult",
+    "start": 12.894,
+    "end": 13.295,
+    "score": 0.837
+  },
+  {
+    "word": "to",
+    "start": 13.315,
+    "end": 13.415,
+    "score": 0.696
+  },
+  {
+    "word": "develop.",
+    "start": 13.455,
+    "end": 13.835,
+    "score": 0.933
+  },
+  {
+    "word": "She",
+    "start": 14.437,
+    "end": 14.537,
+    "score": 0.684
+  },
+  {
+    "word": "was",
+    "start": 14.577,
+    "end": 14.677,
+    "score": 0.667
+  },
+  {
+    "word": "a",
+    "start": 14.697,
+    "end": 14.737,
+    "score": 0.498
+  },
+  {
+    "word": "woman",
+    "start": 14.777,
+    "end": 15.018,
+    "score": 0.869
+  },
+  {
+    "word": "of",
+    "start": 15.058,
+    "end": 15.118,
+    "score": 0.75
+  },
+  {
+    "word": "mean",
+    "start": 15.258,
+    "end": 15.518,
+    "score": 0.813
+  },
+  {
+    "word": "understanding,",
+    "start": 15.579,
+    "end": 16.32,
+    "score": 0.793
+  },
+  {
+    "word": "little",
+    "start": 16.38,
+    "end": 16.62,
+    "score": 0.696
+  },
+  {
+    "word": "information",
+    "start": 16.66,
+    "end": 17.181,
+    "score": 0.937
+  },
+  {
+    "word": "and",
+    "start": 17.242,
+    "end": 17.322,
+    "score": 0.951
+  },
+  {
+    "word": "uncertain",
+    "start": 17.382,
+    "end": 17.863,
+    "score": 0.75
+  },
+  {
+    "word": "temper.",
+    "start": 17.903,
+    "end": 18.263,
+    "score": 0.937
+  }
+]

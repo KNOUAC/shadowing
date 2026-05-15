@@ -1,0 +1,314 @@
+[
+  {
+    "word": "The",
+    "start": 0.111,
+    "end": 0.211,
+    "score": 0.848
+  },
+  {
+    "word": "free",
+    "start": 0.251,
+    "end": 0.431,
+    "score": 0.838
+  },
+  {
+    "word": "man",
+    "start": 0.471,
+    "end": 0.732,
+    "score": 0.801
+  },
+  {
+    "word": "had",
+    "start": 0.772,
+    "end": 0.912,
+    "score": 0.692
+  },
+  {
+    "word": "no",
+    "start": 0.972,
+    "end": 1.092,
+    "score": 0.863
+  },
+  {
+    "word": "reason",
+    "start": 1.152,
+    "end": 1.412,
+    "score": 0.804
+  },
+  {
+    "word": "to",
+    "start": 1.452,
+    "end": 1.532,
+    "score": 0.75
+  },
+  {
+    "word": "follow",
+    "start": 1.573,
+    "end": 1.813,
+    "score": 0.912
+  },
+  {
+    "word": "the",
+    "start": 1.833,
+    "end": 1.913,
+    "score": 0.833
+  },
+  {
+    "word": "rules",
+    "start": 1.953,
+    "end": 2.153,
+    "score": 0.801
+  },
+  {
+    "word": "of",
+    "start": 2.193,
+    "end": 2.253,
+    "score": 0.75
+  },
+  {
+    "word": "conduct",
+    "start": 2.313,
+    "end": 2.734,
+    "score": 0.823
+  },
+  {
+    "word": "except",
+    "start": 2.774,
+    "end": 3.094,
+    "score": 0.75
+  },
+  {
+    "word": "insofar",
+    "start": 3.134,
+    "end": 3.574,
+    "score": 0.798
+  },
+  {
+    "word": "as",
+    "start": 3.635,
+    "end": 3.695,
+    "score": 0.768
+  },
+  {
+    "word": "they",
+    "start": 3.735,
+    "end": 3.855,
+    "score": 0.756
+  },
+  {
+    "word": "suited",
+    "start": 3.915,
+    "end": 4.235,
+    "score": 0.88
+  },
+  {
+    "word": "his",
+    "start": 4.275,
+    "end": 4.395,
+    "score": 0.776
+  },
+  {
+    "word": "convenience.",
+    "start": 4.435,
+    "end": 4.996,
+    "score": 0.905
+  },
+  {
+    "word": "Having",
+    "start": 5.676,
+    "end": 5.917,
+    "score": 0.839
+  },
+  {
+    "word": "then",
+    "start": 5.957,
+    "end": 6.137,
+    "score": 0.853
+  },
+  {
+    "word": "an",
+    "start": 6.197,
+    "end": 6.257,
+    "score": 0.772
+  },
+  {
+    "word": "epigrammatic",
+    "start": 6.297,
+    "end": 6.978,
+    "score": 0.893
+  },
+  {
+    "word": "turn,",
+    "start": 7.058,
+    "end": 7.398,
+    "score": 0.896
+  },
+  {
+    "word": "and",
+    "start": 7.739,
+    "end": 7.819,
+    "score": 0.812
+  },
+  {
+    "word": "epigrams",
+    "start": 7.859,
+    "end": 8.339,
+    "score": 0.814
+  },
+  {
+    "word": "being",
+    "start": 8.379,
+    "end": 8.579,
+    "score": 0.836
+  },
+  {
+    "word": "the",
+    "start": 8.619,
+    "end": 8.699,
+    "score": 0.833
+  },
+  {
+    "word": "fashion,",
+    "start": 8.719,
+    "end": 9.12,
+    "score": 0.842
+  },
+  {
+    "word": "I",
+    "start": 9.74,
+    "end": 9.801,
+    "score": 0.678
+  },
+  {
+    "word": "put",
+    "start": 9.841,
+    "end": 9.981,
+    "score": 0.836
+  },
+  {
+    "word": "my",
+    "start": 10.021,
+    "end": 10.141,
+    "score": 0.834
+  },
+  {
+    "word": "conviction",
+    "start": 10.181,
+    "end": 10.701,
+    "score": 0.851
+  },
+  {
+    "word": "into",
+    "start": 10.741,
+    "end": 10.962,
+    "score": 0.669
+  },
+  {
+    "word": "a",
+    "start": 11.002,
+    "end": 11.022,
+    "score": 0.998
+  },
+  {
+    "word": "phrase",
+    "start": 11.082,
+    "end": 11.422,
+    "score": 0.852
+  },
+  {
+    "word": "and",
+    "start": 11.482,
+    "end": 11.562,
+    "score": 0.972
+  },
+  {
+    "word": "said",
+    "start": 11.602,
+    "end": 11.762,
+    "score": 0.798
+  },
+  {
+    "word": "to",
+    "start": 11.782,
+    "end": 11.842,
+    "score": 0.803
+  },
+  {
+    "word": "myself,",
+    "start": 11.883,
+    "end": 12.283,
+    "score": 0.915
+  },
+  {
+    "word": "follow",
+    "start": 12.904,
+    "end": 13.144,
+    "score": 0.889
+  },
+  {
+    "word": "your",
+    "start": 13.184,
+    "end": 13.324,
+    "score": 0.798
+  },
+  {
+    "word": "inclinations",
+    "start": 13.364,
+    "end": 14.085,
+    "score": 0.829
+  },
+  {
+    "word": "with",
+    "start": 14.125,
+    "end": 14.265,
+    "score": 0.874
+  },
+  {
+    "word": "due",
+    "start": 14.305,
+    "end": 14.485,
+    "score": 0.67
+  },
+  {
+    "word": "regard",
+    "start": 14.525,
+    "end": 14.825,
+    "score": 0.881
+  },
+  {
+    "word": "to",
+    "start": 14.845,
+    "end": 14.925,
+    "score": 0.501
+  },
+  {
+    "word": "the",
+    "start": 14.966,
+    "end": 15.026,
+    "score": 0.999
+  },
+  {
+    "word": "policeman",
+    "start": 15.066,
+    "end": 15.446,
+    "score": 0.894
+  },
+  {
+    "word": "around",
+    "start": 15.466,
+    "end": 15.686,
+    "score": 0.851
+  },
+  {
+    "word": "the",
+    "start": 15.706,
+    "end": 15.786,
+    "score": 0.833
+  },
+  {
+    "word": "corner.",
+    "start": 15.826,
+    "end": 16.147,
+    "score": 0.865
+  }
+]

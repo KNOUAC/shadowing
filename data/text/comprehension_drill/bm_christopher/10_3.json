@@ -1,0 +1,464 @@
+[
+  {
+    "word": "Man's",
+    "start": 0.111,
+    "end": 0.392,
+    "score": 0.841
+  },
+  {
+    "word": "youth",
+    "start": 0.432,
+    "end": 0.632,
+    "score": 0.876
+  },
+  {
+    "word": "is",
+    "start": 0.692,
+    "end": 0.772,
+    "score": 0.826
+  },
+  {
+    "word": "a",
+    "start": 0.812,
+    "end": 0.852,
+    "score": 0.499
+  },
+  {
+    "word": "wonderful",
+    "start": 0.992,
+    "end": 1.413,
+    "score": 0.85
+  },
+  {
+    "word": "thing.",
+    "start": 1.493,
+    "end": 1.733,
+    "score": 0.968
+  },
+  {
+    "word": "It",
+    "start": 2.174,
+    "end": 2.234,
+    "score": 0.749
+  },
+  {
+    "word": "is",
+    "start": 2.294,
+    "end": 2.354,
+    "score": 0.758
+  },
+  {
+    "word": "so",
+    "start": 2.374,
+    "end": 2.494,
+    "score": 0.808
+  },
+  {
+    "word": "full",
+    "start": 2.655,
+    "end": 2.835,
+    "score": 0.679
+  },
+  {
+    "word": "of",
+    "start": 2.875,
+    "end": 2.915,
+    "score": 1.0
+  },
+  {
+    "word": "anguish",
+    "start": 3.015,
+    "end": 3.356,
+    "score": 0.793
+  },
+  {
+    "word": "and",
+    "start": 3.396,
+    "end": 3.496,
+    "score": 0.767
+  },
+  {
+    "word": "of",
+    "start": 3.516,
+    "end": 3.576,
+    "score": 0.748
+  },
+  {
+    "word": "magic,",
+    "start": 3.716,
+    "end": 4.097,
+    "score": 0.97
+  },
+  {
+    "word": "and",
+    "start": 4.157,
+    "end": 4.237,
+    "score": 0.914
+  },
+  {
+    "word": "he",
+    "start": 4.277,
+    "end": 4.377,
+    "score": 0.74
+  },
+  {
+    "word": "never",
+    "start": 4.497,
+    "end": 4.698,
+    "score": 0.838
+  },
+  {
+    "word": "comes",
+    "start": 4.738,
+    "end": 4.958,
+    "score": 0.851
+  },
+  {
+    "word": "to",
+    "start": 4.998,
+    "end": 5.098,
+    "score": 0.584
+  },
+  {
+    "word": "know",
+    "start": 5.138,
+    "end": 5.298,
+    "score": 0.853
+  },
+  {
+    "word": "it",
+    "start": 5.358,
+    "end": 5.419,
+    "score": 0.916
+  },
+  {
+    "word": "as",
+    "start": 5.479,
+    "end": 5.579,
+    "score": 0.642
+  },
+  {
+    "word": "it",
+    "start": 5.619,
+    "end": 5.659,
+    "score": 0.998
+  },
+  {
+    "word": "is,",
+    "start": 5.779,
+    "end": 5.899,
+    "score": 0.875
+  },
+  {
+    "word": "until",
+    "start": 6.3,
+    "end": 6.54,
+    "score": 0.781
+  },
+  {
+    "word": "it",
+    "start": 6.58,
+    "end": 6.64,
+    "score": 0.782
+  },
+  {
+    "word": "has",
+    "start": 6.68,
+    "end": 6.78,
+    "score": 0.814
+  },
+  {
+    "word": "gone",
+    "start": 6.821,
+    "end": 7.001,
+    "score": 0.792
+  },
+  {
+    "word": "from",
+    "start": 7.041,
+    "end": 7.181,
+    "score": 0.797
+  },
+  {
+    "word": "him",
+    "start": 7.241,
+    "end": 7.361,
+    "score": 0.889
+  },
+  {
+    "word": "forever.",
+    "start": 7.441,
+    "end": 7.802,
+    "score": 0.878
+  },
+  {
+    "word": "It",
+    "start": 8.483,
+    "end": 8.523,
+    "score": 0.996
+  },
+  {
+    "word": "is",
+    "start": 8.563,
+    "end": 8.643,
+    "score": 0.698
+  },
+  {
+    "word": "the",
+    "start": 8.683,
+    "end": 8.763,
+    "score": 1.0
+  },
+  {
+    "word": "thing",
+    "start": 8.803,
+    "end": 9.004,
+    "score": 0.687
+  },
+  {
+    "word": "he",
+    "start": 9.044,
+    "end": 9.124,
+    "score": 0.942
+  },
+  {
+    "word": "cannot",
+    "start": 9.184,
+    "end": 9.444,
+    "score": 0.87
+  },
+  {
+    "word": "bear",
+    "start": 9.484,
+    "end": 9.665,
+    "score": 0.778
+  },
+  {
+    "word": "to",
+    "start": 9.705,
+    "end": 9.785,
+    "score": 0.889
+  },
+  {
+    "word": "lose.",
+    "start": 9.845,
+    "end": 10.185,
+    "score": 0.791
+  },
+  {
+    "word": "It",
+    "start": 10.606,
+    "end": 10.666,
+    "score": 0.845
+  },
+  {
+    "word": "is",
+    "start": 10.726,
+    "end": 10.786,
+    "score": 0.771
+  },
+  {
+    "word": "the",
+    "start": 10.826,
+    "end": 10.906,
+    "score": 0.999
+  },
+  {
+    "word": "thing",
+    "start": 10.946,
+    "end": 11.167,
+    "score": 0.639
+  },
+  {
+    "word": "whose",
+    "start": 11.227,
+    "end": 11.407,
+    "score": 0.601
+  },
+  {
+    "word": "passing",
+    "start": 11.467,
+    "end": 11.868,
+    "score": 0.936
+  },
+  {
+    "word": "he",
+    "start": 11.908,
+    "end": 12.008,
+    "score": 0.81
+  },
+  {
+    "word": "watches",
+    "start": 12.068,
+    "end": 12.448,
+    "score": 0.818
+  },
+  {
+    "word": "with",
+    "start": 12.489,
+    "end": 12.609,
+    "score": 0.878
+  },
+  {
+    "word": "infinite",
+    "start": 12.689,
+    "end": 13.089,
+    "score": 0.812
+  },
+  {
+    "word": "sorrow",
+    "start": 13.149,
+    "end": 13.47,
+    "score": 0.74
+  },
+  {
+    "word": "and",
+    "start": 13.51,
+    "end": 13.59,
+    "score": 0.864
+  },
+  {
+    "word": "regret.",
+    "start": 13.63,
+    "end": 14.011,
+    "score": 0.785
+  },
+  {
+    "word": "It",
+    "start": 14.551,
+    "end": 14.612,
+    "score": 0.936
+  },
+  {
+    "word": "is",
+    "start": 14.672,
+    "end": 14.732,
+    "score": 0.754
+  },
+  {
+    "word": "the",
+    "start": 14.772,
+    "end": 14.872,
+    "score": 0.836
+  },
+  {
+    "word": "thing",
+    "start": 14.912,
+    "end": 15.132,
+    "score": 0.733
+  },
+  {
+    "word": "whose",
+    "start": 15.192,
+    "end": 15.353,
+    "score": 0.891
+  },
+  {
+    "word": "loss",
+    "start": 15.433,
+    "end": 15.653,
+    "score": 0.97
+  },
+  {
+    "word": "he",
+    "start": 15.693,
+    "end": 15.793,
+    "score": 0.586
+  },
+  {
+    "word": "really",
+    "start": 15.913,
+    "end": 16.154,
+    "score": 0.839
+  },
+  {
+    "word": "welcomes",
+    "start": 16.194,
+    "end": 16.654,
+    "score": 0.729
+  },
+  {
+    "word": "with",
+    "start": 16.694,
+    "end": 16.815,
+    "score": 0.75
+  },
+  {
+    "word": "a",
+    "start": 16.835,
+    "end": 16.875,
+    "score": 0.255
+  },
+  {
+    "word": "sad",
+    "start": 16.935,
+    "end": 17.275,
+    "score": 0.79
+  },
+  {
+    "word": "and",
+    "start": 17.315,
+    "end": 17.435,
+    "score": 0.613
+  },
+  {
+    "word": "secret",
+    "start": 17.496,
+    "end": 17.876,
+    "score": 0.869
+  },
+  {
+    "word": "joy.",
+    "start": 17.936,
+    "end": 18.217,
+    "score": 0.913
+  },
+  {
+    "word": "The",
+    "start": 18.898,
+    "end": 19.018,
+    "score": 0.782
+  },
+  {
+    "word": "thing",
+    "start": 19.058,
+    "end": 19.278,
+    "score": 0.672
+  },
+  {
+    "word": "he",
+    "start": 19.338,
+    "end": 19.398,
+    "score": 0.812
+  },
+  {
+    "word": "would",
+    "start": 19.418,
+    "end": 19.578,
+    "score": 0.812
+  },
+  {
+    "word": "never",
+    "start": 19.679,
+    "end": 19.899,
+    "score": 0.836
+  },
+  {
+    "word": "willingly",
+    "start": 19.979,
+    "end": 20.36,
+    "score": 0.877
+  },
+  {
+    "word": "relive",
+    "start": 20.42,
+    "end": 20.72,
+    "score": 0.785
+  },
+  {
+    "word": "again.",
+    "start": 20.76,
+    "end": 20.98,
+    "score": 0.968
+  }
+]

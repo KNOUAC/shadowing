@@ -1,0 +1,392 @@
+[
+  {
+    "word": "My",
+    "start": 0.111,
+    "end": 0.231,
+    "score": 0.828
+  },
+  {
+    "word": "father",
+    "start": 0.292,
+    "end": 0.592,
+    "score": 0.824
+  },
+  {
+    "word": "would",
+    "start": 0.632,
+    "end": 0.752,
+    "score": 0.911
+  },
+  {
+    "word": "tell",
+    "start": 0.772,
+    "end": 0.933,
+    "score": 0.779
+  },
+  {
+    "word": "me",
+    "start": 0.973,
+    "end": 1.033,
+    "score": 0.772
+  },
+  {
+    "word": "how",
+    "start": 1.073,
+    "end": 1.193,
+    "score": 0.844
+  },
+  {
+    "word": "quietly",
+    "start": 1.293,
+    "end": 1.714,
+    "score": 0.807
+  },
+  {
+    "word": "Mama",
+    "start": 1.774,
+    "end": 2.035,
+    "score": 0.748
+  },
+  {
+    "word": "slept",
+    "start": 2.115,
+    "end": 2.356,
+    "score": 0.768
+  },
+  {
+    "word": "there,",
+    "start": 2.396,
+    "end": 2.616,
+    "score": 0.861
+  },
+  {
+    "word": "and",
+    "start": 3.077,
+    "end": 3.177,
+    "score": 0.813
+  },
+  {
+    "word": "that",
+    "start": 3.197,
+    "end": 3.297,
+    "score": 1.0
+  },
+  {
+    "word": "he",
+    "start": 3.358,
+    "end": 3.478,
+    "score": 0.796
+  },
+  {
+    "word": "and",
+    "start": 3.518,
+    "end": 3.618,
+    "score": 0.754
+  },
+  {
+    "word": "his",
+    "start": 3.658,
+    "end": 3.778,
+    "score": 0.883
+  },
+  {
+    "word": "little",
+    "start": 3.818,
+    "end": 4.019,
+    "score": 0.918
+  },
+  {
+    "word": "Betsy",
+    "start": 4.079,
+    "end": 4.38,
+    "score": 0.954
+  },
+  {
+    "word": "would",
+    "start": 4.42,
+    "end": 4.56,
+    "score": 0.8
+  },
+  {
+    "word": "one",
+    "start": 4.64,
+    "end": 4.74,
+    "score": 0.676
+  },
+  {
+    "word": "day",
+    "start": 4.78,
+    "end": 4.921,
+    "score": 0.821
+  },
+  {
+    "word": "sleep",
+    "start": 5.001,
+    "end": 5.221,
+    "score": 0.832
+  },
+  {
+    "word": "beside",
+    "start": 5.261,
+    "end": 5.602,
+    "score": 0.883
+  },
+  {
+    "word": "Mama",
+    "start": 5.642,
+    "end": 5.882,
+    "score": 0.861
+  },
+  {
+    "word": "in",
+    "start": 5.943,
+    "end": 6.003,
+    "score": 0.75
+  },
+  {
+    "word": "that",
+    "start": 6.023,
+    "end": 6.163,
+    "score": 0.812
+  },
+  {
+    "word": "grave.",
+    "start": 6.223,
+    "end": 6.584,
+    "score": 0.806
+  },
+  {
+    "word": "When",
+    "start": 7.646,
+    "end": 7.766,
+    "score": 0.877
+  },
+  {
+    "word": "I",
+    "start": 7.806,
+    "end": 7.846,
+    "score": 0.974
+  },
+  {
+    "word": "went",
+    "start": 7.906,
+    "end": 8.047,
+    "score": 0.871
+  },
+  {
+    "word": "to",
+    "start": 8.087,
+    "end": 8.167,
+    "score": 0.861
+  },
+  {
+    "word": "bed,",
+    "start": 8.227,
+    "end": 8.448,
+    "score": 0.844
+  },
+  {
+    "word": "as",
+    "start": 8.888,
+    "end": 8.969,
+    "score": 0.974
+  },
+  {
+    "word": "I",
+    "start": 9.029,
+    "end": 9.089,
+    "score": 0.475
+  },
+  {
+    "word": "laid",
+    "start": 9.129,
+    "end": 9.309,
+    "score": 0.983
+  },
+  {
+    "word": "my",
+    "start": 9.369,
+    "end": 9.47,
+    "score": 0.723
+  },
+  {
+    "word": "little",
+    "start": 9.51,
+    "end": 9.73,
+    "score": 0.813
+  },
+  {
+    "word": "head",
+    "start": 9.77,
+    "end": 9.91,
+    "score": 0.631
+  },
+  {
+    "word": "on",
+    "start": 9.95,
+    "end": 10.011,
+    "score": 0.998
+  },
+  {
+    "word": "the",
+    "start": 10.051,
+    "end": 10.131,
+    "score": 0.842
+  },
+  {
+    "word": "pillow,",
+    "start": 10.151,
+    "end": 10.472,
+    "score": 0.78
+  },
+  {
+    "word": "I",
+    "start": 10.932,
+    "end": 10.993,
+    "score": 0.667
+  },
+  {
+    "word": "used",
+    "start": 11.053,
+    "end": 11.193,
+    "score": 0.867
+  },
+  {
+    "word": "to",
+    "start": 11.213,
+    "end": 11.313,
+    "score": 0.483
+  },
+  {
+    "word": "wish",
+    "start": 11.373,
+    "end": 11.554,
+    "score": 0.748
+  },
+  {
+    "word": "I",
+    "start": 11.634,
+    "end": 11.674,
+    "score": 0.5
+  },
+  {
+    "word": "was",
+    "start": 11.714,
+    "end": 11.834,
+    "score": 0.992
+  },
+  {
+    "word": "sleeping",
+    "start": 11.894,
+    "end": 12.215,
+    "score": 0.89
+  },
+  {
+    "word": "in",
+    "start": 12.235,
+    "end": 12.295,
+    "score": 0.754
+  },
+  {
+    "word": "the",
+    "start": 12.315,
+    "end": 12.395,
+    "score": 0.837
+  },
+  {
+    "word": "grave",
+    "start": 12.435,
+    "end": 12.696,
+    "score": 0.838
+  },
+  {
+    "word": "with",
+    "start": 12.736,
+    "end": 12.836,
+    "score": 0.879
+  },
+  {
+    "word": "my",
+    "start": 12.876,
+    "end": 12.976,
+    "score": 0.829
+  },
+  {
+    "word": "Papa",
+    "start": 13.017,
+    "end": 13.377,
+    "score": 0.996
+  },
+  {
+    "word": "and",
+    "start": 13.457,
+    "end": 13.538,
+    "score": 0.852
+  },
+  {
+    "word": "Mama.",
+    "start": 13.578,
+    "end": 13.858,
+    "score": 0.934
+  },
+  {
+    "word": "In",
+    "start": 14.519,
+    "end": 14.58,
+    "score": 0.942
+  },
+  {
+    "word": "my",
+    "start": 14.62,
+    "end": 14.72,
+    "score": 0.833
+  },
+  {
+    "word": "childish",
+    "start": 14.76,
+    "end": 15.161,
+    "score": 0.759
+  },
+  {
+    "word": "dreams",
+    "start": 15.201,
+    "end": 15.541,
+    "score": 0.852
+  },
+  {
+    "word": "I",
+    "start": 15.602,
+    "end": 15.642,
+    "score": 0.626
+  },
+  {
+    "word": "used",
+    "start": 15.702,
+    "end": 15.822,
+    "score": 0.873
+  },
+  {
+    "word": "to",
+    "start": 15.862,
+    "end": 15.922,
+    "score": 0.753
+  },
+  {
+    "word": "fancy",
+    "start": 15.982,
+    "end": 16.323,
+    "score": 0.797
+  },
+  {
+    "word": "myself",
+    "start": 16.343,
+    "end": 16.664,
+    "score": 0.91
+  },
+  {
+    "word": "there.",
+    "start": 16.704,
+    "end": 16.924,
+    "score": 0.924
+  }
+]

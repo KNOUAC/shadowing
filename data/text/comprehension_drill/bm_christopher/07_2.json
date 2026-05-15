@@ -1,0 +1,272 @@
+[
+  {
+    "word": "In",
+    "start": 0.111,
+    "end": 0.171,
+    "score": 0.819
+  },
+  {
+    "word": "the",
+    "start": 0.212,
+    "end": 0.292,
+    "score": 0.825
+  },
+  {
+    "word": "overall",
+    "start": 0.372,
+    "end": 0.693,
+    "score": 0.881
+  },
+  {
+    "word": "ecosystem",
+    "start": 0.753,
+    "end": 1.275,
+    "score": 0.935
+  },
+  {
+    "word": "of",
+    "start": 1.315,
+    "end": 1.375,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 1.415,
+    "end": 1.475,
+    "score": 0.996
+  },
+  {
+    "word": "earth,",
+    "start": 1.556,
+    "end": 1.736,
+    "score": 0.934
+  },
+  {
+    "word": "total",
+    "start": 2.158,
+    "end": 2.479,
+    "score": 0.922
+  },
+  {
+    "word": "animal",
+    "start": 2.559,
+    "end": 2.82,
+    "score": 0.818
+  },
+  {
+    "word": "energy",
+    "start": 2.9,
+    "end": 3.181,
+    "score": 0.777
+  },
+  {
+    "word": "is",
+    "start": 3.221,
+    "end": 3.301,
+    "score": 0.742
+  },
+  {
+    "word": "limited",
+    "start": 3.381,
+    "end": 3.722,
+    "score": 0.775
+  },
+  {
+    "word": "by",
+    "start": 3.803,
+    "end": 3.923,
+    "score": 0.788
+  },
+  {
+    "word": "the",
+    "start": 3.943,
+    "end": 4.003,
+    "score": 0.998
+  },
+  {
+    "word": "amount",
+    "start": 4.043,
+    "end": 4.284,
+    "score": 0.799
+  },
+  {
+    "word": "of",
+    "start": 4.324,
+    "end": 4.384,
+    "score": 0.75
+  },
+  {
+    "word": "solar",
+    "start": 4.465,
+    "end": 4.746,
+    "score": 0.815
+  },
+  {
+    "word": "energy",
+    "start": 4.806,
+    "end": 5.087,
+    "score": 0.809
+  },
+  {
+    "word": "plants",
+    "start": 5.127,
+    "end": 5.428,
+    "score": 0.832
+  },
+  {
+    "word": "embodied",
+    "start": 5.488,
+    "end": 5.909,
+    "score": 0.783
+  },
+  {
+    "word": "in",
+    "start": 5.949,
+    "end": 6.03,
+    "score": 0.828
+  },
+  {
+    "word": "organic",
+    "start": 6.07,
+    "end": 6.431,
+    "score": 0.733
+  },
+  {
+    "word": "compounds.",
+    "start": 6.471,
+    "end": 7.033,
+    "score": 0.849
+  },
+  {
+    "word": "Since",
+    "start": 7.755,
+    "end": 7.976,
+    "score": 0.738
+  },
+  {
+    "word": "combustion",
+    "start": 8.016,
+    "end": 8.537,
+    "score": 0.844
+  },
+  {
+    "word": "consumes",
+    "start": 8.577,
+    "end": 9.039,
+    "score": 0.764
+  },
+  {
+    "word": "oxygen,",
+    "start": 9.119,
+    "end": 9.54,
+    "score": 0.877
+  },
+  {
+    "word": "the",
+    "start": 9.982,
+    "end": 10.042,
+    "score": 0.605
+  },
+  {
+    "word": "amount",
+    "start": 10.062,
+    "end": 10.283,
+    "score": 0.752
+  },
+  {
+    "word": "of",
+    "start": 10.323,
+    "end": 10.363,
+    "score": 1.0
+  },
+  {
+    "word": "combustion",
+    "start": 10.423,
+    "end": 10.945,
+    "score": 0.824
+  },
+  {
+    "word": "the",
+    "start": 10.965,
+    "end": 11.025,
+    "score": 0.998
+  },
+  {
+    "word": "earth",
+    "start": 11.065,
+    "end": 11.226,
+    "score": 0.89
+  },
+  {
+    "word": "can",
+    "start": 11.266,
+    "end": 11.406,
+    "score": 0.989
+  },
+  {
+    "word": "sustain",
+    "start": 11.466,
+    "end": 11.908,
+    "score": 0.785
+  },
+  {
+    "word": "is",
+    "start": 12.369,
+    "end": 12.429,
+    "score": 0.752
+  },
+  {
+    "word": "limited",
+    "start": 12.49,
+    "end": 12.851,
+    "score": 0.732
+  },
+  {
+    "word": "by",
+    "start": 12.911,
+    "end": 13.031,
+    "score": 0.817
+  },
+  {
+    "word": "the",
+    "start": 13.071,
+    "end": 13.132,
+    "score": 0.998
+  },
+  {
+    "word": "ecosystem's",
+    "start": 13.212,
+    "end": 13.914,
+    "score": 0.73
+  },
+  {
+    "word": "net",
+    "start": 13.994,
+    "end": 14.155,
+    "score": 0.958
+  },
+  {
+    "word": "production",
+    "start": 14.195,
+    "end": 14.656,
+    "score": 0.797
+  },
+  {
+    "word": "of",
+    "start": 14.676,
+    "end": 14.737,
+    "score": 0.75
+  },
+  {
+    "word": "free",
+    "start": 14.817,
+    "end": 14.977,
+    "score": 0.858
+  },
+  {
+    "word": "oxygen.",
+    "start": 15.058,
+    "end": 15.439,
+    "score": 0.986
+  }
+]

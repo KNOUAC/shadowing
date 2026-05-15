@@ -1,0 +1,476 @@
+[
+  {
+    "word": "Perhaps",
+    "start": 0.111,
+    "end": 0.411,
+    "score": 0.834
+  },
+  {
+    "word": "the",
+    "start": 0.472,
+    "end": 0.552,
+    "score": 0.962
+  },
+  {
+    "word": "most",
+    "start": 0.592,
+    "end": 0.712,
+    "score": 0.855
+  },
+  {
+    "word": "striking",
+    "start": 0.752,
+    "end": 1.192,
+    "score": 0.809
+  },
+  {
+    "word": "living",
+    "start": 1.253,
+    "end": 1.453,
+    "score": 0.871
+  },
+  {
+    "word": "example",
+    "start": 1.533,
+    "end": 1.973,
+    "score": 0.971
+  },
+  {
+    "word": "of",
+    "start": 2.013,
+    "end": 2.074,
+    "score": 0.75
+  },
+  {
+    "word": "Christian",
+    "start": 2.154,
+    "end": 2.534,
+    "score": 0.727
+  },
+  {
+    "word": "compassion",
+    "start": 2.574,
+    "end": 3.135,
+    "score": 0.885
+  },
+  {
+    "word": "is",
+    "start": 3.655,
+    "end": 3.716,
+    "score": 0.989
+  },
+  {
+    "word": "Dr.",
+    "start": 3.776,
+    "end": 4.076,
+    "score": 0.859
+  },
+  {
+    "word": "Albert",
+    "start": 4.156,
+    "end": 4.436,
+    "score": 0.87
+  },
+  {
+    "word": "Schweitzer.",
+    "start": 4.477,
+    "end": 4.997,
+    "score": 0.75
+  },
+  {
+    "word": "By",
+    "start": 5.918,
+    "end": 6.018,
+    "score": 0.94
+  },
+  {
+    "word": "the",
+    "start": 6.058,
+    "end": 6.159,
+    "score": 0.67
+  },
+  {
+    "word": "time",
+    "start": 6.199,
+    "end": 6.399,
+    "score": 0.776
+  },
+  {
+    "word": "he",
+    "start": 6.439,
+    "end": 6.499,
+    "score": 0.868
+  },
+  {
+    "word": "was",
+    "start": 6.539,
+    "end": 6.639,
+    "score": 0.678
+  },
+  {
+    "word": "thirty",
+    "start": 6.699,
+    "end": 7.08,
+    "score": 0.742
+  },
+  {
+    "word": "he",
+    "start": 7.12,
+    "end": 7.2,
+    "score": 0.514
+  },
+  {
+    "word": "had",
+    "start": 7.22,
+    "end": 7.3,
+    "score": 0.833
+  },
+  {
+    "word": "acquired",
+    "start": 7.32,
+    "end": 7.68,
+    "score": 0.871
+  },
+  {
+    "word": "fame",
+    "start": 7.781,
+    "end": 8.061,
+    "score": 0.872
+  },
+  {
+    "word": "as",
+    "start": 8.101,
+    "end": 8.181,
+    "score": 0.758
+  },
+  {
+    "word": "scholar,",
+    "start": 8.241,
+    "end": 8.602,
+    "score": 0.827
+  },
+  {
+    "word": "musician",
+    "start": 8.642,
+    "end": 9.082,
+    "score": 0.788
+  },
+  {
+    "word": "and",
+    "start": 9.122,
+    "end": 9.222,
+    "score": 0.801
+  },
+  {
+    "word": "philosopher.",
+    "start": 9.262,
+    "end": 9.783,
+    "score": 0.915
+  },
+  {
+    "word": "Then",
+    "start": 10.724,
+    "end": 10.884,
+    "score": 0.916
+  },
+  {
+    "word": "one",
+    "start": 10.985,
+    "end": 11.085,
+    "score": 0.669
+  },
+  {
+    "word": "day",
+    "start": 11.125,
+    "end": 11.325,
+    "score": 0.8
+  },
+  {
+    "word": "he",
+    "start": 11.405,
+    "end": 11.485,
+    "score": 0.776
+  },
+  {
+    "word": "read",
+    "start": 11.545,
+    "end": 11.685,
+    "score": 0.788
+  },
+  {
+    "word": "an",
+    "start": 11.725,
+    "end": 11.786,
+    "score": 0.748
+  },
+  {
+    "word": "account",
+    "start": 11.826,
+    "end": 12.166,
+    "score": 0.829
+  },
+  {
+    "word": "of",
+    "start": 12.206,
+    "end": 12.266,
+    "score": 0.755
+  },
+  {
+    "word": "the",
+    "start": 12.326,
+    "end": 12.386,
+    "score": 1.0
+  },
+  {
+    "word": "Congo",
+    "start": 12.426,
+    "end": 12.767,
+    "score": 0.908
+  },
+  {
+    "word": "natives",
+    "start": 12.807,
+    "end": 13.207,
+    "score": 0.777
+  },
+  {
+    "word": "in",
+    "start": 13.247,
+    "end": 13.327,
+    "score": 0.287
+  },
+  {
+    "word": "their",
+    "start": 13.347,
+    "end": 13.508,
+    "score": 0.807
+  },
+  {
+    "word": "miserable",
+    "start": 13.568,
+    "end": 13.988,
+    "score": 0.83
+  },
+  {
+    "word": "plight.",
+    "start": 14.048,
+    "end": 14.369,
+    "score": 0.859
+  },
+  {
+    "word": "Since",
+    "start": 15.21,
+    "end": 15.41,
+    "score": 0.95
+  },
+  {
+    "word": "by",
+    "start": 15.45,
+    "end": 15.59,
+    "score": 0.771
+  },
+  {
+    "word": "nature",
+    "start": 15.65,
+    "end": 15.971,
+    "score": 0.746
+  },
+  {
+    "word": "he",
+    "start": 15.991,
+    "end": 16.071,
+    "score": 0.542
+  },
+  {
+    "word": "had",
+    "start": 16.111,
+    "end": 16.231,
+    "score": 0.67
+  },
+  {
+    "word": "to",
+    "start": 16.271,
+    "end": 16.351,
+    "score": 0.754
+  },
+  {
+    "word": "feel",
+    "start": 16.451,
+    "end": 16.732,
+    "score": 0.779
+  },
+  {
+    "word": "with",
+    "start": 16.772,
+    "end": 16.912,
+    "score": 0.841
+  },
+  {
+    "word": "them,",
+    "start": 16.952,
+    "end": 17.112,
+    "score": 0.913
+  },
+  {
+    "word": "he",
+    "start": 17.513,
+    "end": 17.573,
+    "score": 0.859
+  },
+  {
+    "word": "had",
+    "start": 17.593,
+    "end": 17.673,
+    "score": 0.997
+  },
+  {
+    "word": "also",
+    "start": 17.713,
+    "end": 17.953,
+    "score": 0.857
+  },
+  {
+    "word": "to",
+    "start": 18.013,
+    "end": 18.073,
+    "score": 0.995
+  },
+  {
+    "word": "take",
+    "start": 18.113,
+    "end": 18.294,
+    "score": 0.702
+  },
+  {
+    "word": "action",
+    "start": 18.434,
+    "end": 18.734,
+    "score": 0.784
+  },
+  {
+    "word": "for",
+    "start": 18.794,
+    "end": 18.954,
+    "score": 0.885
+  },
+  {
+    "word": "them.",
+    "start": 18.994,
+    "end": 19.135,
+    "score": 0.811
+  },
+  {
+    "word": "He",
+    "start": 19.795,
+    "end": 19.876,
+    "score": 0.5
+  },
+  {
+    "word": "abandoned",
+    "start": 19.916,
+    "end": 20.396,
+    "score": 0.846
+  },
+  {
+    "word": "fame",
+    "start": 20.476,
+    "end": 20.777,
+    "score": 0.768
+  },
+  {
+    "word": "and",
+    "start": 20.817,
+    "end": 20.917,
+    "score": 0.771
+  },
+  {
+    "word": "security",
+    "start": 20.957,
+    "end": 21.538,
+    "score": 0.795
+  },
+  {
+    "word": "to",
+    "start": 21.578,
+    "end": 21.678,
+    "score": 0.75
+  },
+  {
+    "word": "spend",
+    "start": 21.718,
+    "end": 21.958,
+    "score": 0.898
+  },
+  {
+    "word": "his",
+    "start": 21.998,
+    "end": 22.118,
+    "score": 0.654
+  },
+  {
+    "word": "life",
+    "start": 22.158,
+    "end": 22.359,
+    "score": 0.712
+  },
+  {
+    "word": "as",
+    "start": 22.399,
+    "end": 22.479,
+    "score": 0.565
+  },
+  {
+    "word": "a",
+    "start": 22.519,
+    "end": 22.559,
+    "score": 0.499
+  },
+  {
+    "word": "doctor",
+    "start": 22.599,
+    "end": 22.939,
+    "score": 0.889
+  },
+  {
+    "word": "among",
+    "start": 22.979,
+    "end": 23.2,
+    "score": 0.856
+  },
+  {
+    "word": "them,",
+    "start": 23.24,
+    "end": 23.36,
+    "score": 0.9
+  },
+  {
+    "word": "sharing",
+    "start": 23.8,
+    "end": 24.121,
+    "score": 0.887
+  },
+  {
+    "word": "their",
+    "start": 24.161,
+    "end": 24.321,
+    "score": 0.896
+  },
+  {
+    "word": "hardships",
+    "start": 24.341,
+    "end": 24.882,
+    "score": 0.831
+  },
+  {
+    "word": "and",
+    "start": 24.942,
+    "end": 25.022,
+    "score": 0.84
+  },
+  {
+    "word": "suffering.",
+    "start": 25.082,
+    "end": 25.483,
+    "score": 0.923
+  }
+]

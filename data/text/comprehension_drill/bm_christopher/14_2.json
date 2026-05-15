@@ -1,0 +1,458 @@
+[
+  {
+    "word": "Pyramus",
+    "start": 0.091,
+    "end": 0.511,
+    "score": 0.775
+  },
+  {
+    "word": "and",
+    "start": 0.551,
+    "end": 0.631,
+    "score": 0.862
+  },
+  {
+    "word": "Thysbe",
+    "start": 0.671,
+    "end": 1.052,
+    "score": 0.851
+  },
+  {
+    "word": "lived",
+    "start": 1.112,
+    "end": 1.312,
+    "score": 0.85
+  },
+  {
+    "word": "in",
+    "start": 1.352,
+    "end": 1.412,
+    "score": 0.77
+  },
+  {
+    "word": "Babylon,",
+    "start": 1.472,
+    "end": 1.912,
+    "score": 0.886
+  },
+  {
+    "word": "in",
+    "start": 2.392,
+    "end": 2.452,
+    "score": 1.0
+  },
+  {
+    "word": "houses",
+    "start": 2.512,
+    "end": 2.852,
+    "score": 0.878
+  },
+  {
+    "word": "so",
+    "start": 2.932,
+    "end": 3.093,
+    "score": 0.875
+  },
+  {
+    "word": "close",
+    "start": 3.133,
+    "end": 3.353,
+    "score": 0.82
+  },
+  {
+    "word": "together",
+    "start": 3.393,
+    "end": 3.733,
+    "score": 0.812
+  },
+  {
+    "word": "that",
+    "start": 3.773,
+    "end": 3.893,
+    "score": 0.889
+  },
+  {
+    "word": "one",
+    "start": 4.013,
+    "end": 4.133,
+    "score": 0.611
+  },
+  {
+    "word": "wall",
+    "start": 4.173,
+    "end": 4.373,
+    "score": 0.813
+  },
+  {
+    "word": "was",
+    "start": 4.393,
+    "end": 4.513,
+    "score": 0.729
+  },
+  {
+    "word": "common",
+    "start": 4.553,
+    "end": 4.813,
+    "score": 0.976
+  },
+  {
+    "word": "to",
+    "start": 4.853,
+    "end": 4.913,
+    "score": 0.992
+  },
+  {
+    "word": "both.",
+    "start": 4.953,
+    "end": 5.214,
+    "score": 0.847
+  },
+  {
+    "word": "Growing",
+    "start": 6.034,
+    "end": 6.334,
+    "score": 0.771
+  },
+  {
+    "word": "up,",
+    "start": 6.394,
+    "end": 6.514,
+    "score": 0.891
+  },
+  {
+    "word": "thus",
+    "start": 6.574,
+    "end": 6.774,
+    "score": 0.933
+  },
+  {
+    "word": "side",
+    "start": 6.874,
+    "end": 7.114,
+    "score": 0.702
+  },
+  {
+    "word": "by",
+    "start": 7.134,
+    "end": 7.275,
+    "score": 0.71
+  },
+  {
+    "word": "side,",
+    "start": 7.355,
+    "end": 7.655,
+    "score": 0.834
+  },
+  {
+    "word": "they",
+    "start": 7.695,
+    "end": 7.835,
+    "score": 0.717
+  },
+  {
+    "word": "learned",
+    "start": 7.875,
+    "end": 8.075,
+    "score": 0.868
+  },
+  {
+    "word": "to",
+    "start": 8.115,
+    "end": 8.195,
+    "score": 0.759
+  },
+  {
+    "word": "love",
+    "start": 8.255,
+    "end": 8.395,
+    "score": 0.876
+  },
+  {
+    "word": "each",
+    "start": 8.435,
+    "end": 8.575,
+    "score": 0.626
+  },
+  {
+    "word": "other.",
+    "start": 8.635,
+    "end": 8.815,
+    "score": 0.829
+  },
+  {
+    "word": "They",
+    "start": 9.376,
+    "end": 9.516,
+    "score": 0.657
+  },
+  {
+    "word": "longed",
+    "start": 9.556,
+    "end": 9.756,
+    "score": 0.631
+  },
+  {
+    "word": "to",
+    "start": 9.796,
+    "end": 9.876,
+    "score": 0.966
+  },
+  {
+    "word": "marry,",
+    "start": 9.916,
+    "end": 10.256,
+    "score": 0.956
+  },
+  {
+    "word": "but",
+    "start": 10.536,
+    "end": 10.636,
+    "score": 0.995
+  },
+  {
+    "word": "their",
+    "start": 10.656,
+    "end": 10.796,
+    "score": 0.88
+  },
+  {
+    "word": "parents",
+    "start": 10.836,
+    "end": 11.216,
+    "score": 0.725
+  },
+  {
+    "word": "forbade.",
+    "start": 11.297,
+    "end": 11.777,
+    "score": 0.813
+  },
+  {
+    "word": "Love,",
+    "start": 12.497,
+    "end": 12.757,
+    "score": 0.862
+  },
+  {
+    "word": "however,",
+    "start": 12.817,
+    "end": 13.217,
+    "score": 0.852
+  },
+  {
+    "word": "cannot",
+    "start": 13.558,
+    "end": 13.858,
+    "score": 0.835
+  },
+  {
+    "word": "be",
+    "start": 13.898,
+    "end": 13.998,
+    "score": 0.891
+  },
+  {
+    "word": "forbidden.",
+    "start": 14.058,
+    "end": 14.438,
+    "score": 0.908
+  },
+  {
+    "word": "The",
+    "start": 15.098,
+    "end": 15.198,
+    "score": 0.793
+  },
+  {
+    "word": "more",
+    "start": 15.218,
+    "end": 15.419,
+    "score": 0.648
+  },
+  {
+    "word": "that",
+    "start": 15.439,
+    "end": 15.599,
+    "score": 0.671
+  },
+  {
+    "word": "flame",
+    "start": 15.679,
+    "end": 15.939,
+    "score": 0.905
+  },
+  {
+    "word": "is",
+    "start": 15.979,
+    "end": 16.059,
+    "score": 0.682
+  },
+  {
+    "word": "covered",
+    "start": 16.099,
+    "end": 16.359,
+    "score": 0.789
+  },
+  {
+    "word": "up,",
+    "start": 16.399,
+    "end": 16.519,
+    "score": 0.888
+  },
+  {
+    "word": "the",
+    "start": 16.559,
+    "end": 16.659,
+    "score": 0.885
+  },
+  {
+    "word": "hotter",
+    "start": 16.699,
+    "end": 16.939,
+    "score": 0.936
+  },
+  {
+    "word": "it",
+    "start": 16.979,
+    "end": 17.059,
+    "score": 0.772
+  },
+  {
+    "word": "burns.",
+    "start": 17.099,
+    "end": 17.54,
+    "score": 0.826
+  },
+  {
+    "word": "Also,",
+    "start": 18.28,
+    "end": 18.64,
+    "score": 0.82
+  },
+  {
+    "word": "love",
+    "start": 18.72,
+    "end": 18.92,
+    "score": 0.752
+  },
+  {
+    "word": "can",
+    "start": 18.96,
+    "end": 19.1,
+    "score": 0.894
+  },
+  {
+    "word": "always",
+    "start": 19.2,
+    "end": 19.501,
+    "score": 0.573
+  },
+  {
+    "word": "find",
+    "start": 19.561,
+    "end": 19.781,
+    "score": 0.657
+  },
+  {
+    "word": "a",
+    "start": 19.841,
+    "end": 19.861,
+    "score": 0.999
+  },
+  {
+    "word": "way.",
+    "start": 19.901,
+    "end": 20.121,
+    "score": 0.867
+  },
+  {
+    "word": "It",
+    "start": 20.701,
+    "end": 20.761,
+    "score": 0.762
+  },
+  {
+    "word": "was",
+    "start": 20.781,
+    "end": 20.881,
+    "score": 0.676
+  },
+  {
+    "word": "impossible",
+    "start": 20.921,
+    "end": 21.462,
+    "score": 0.816
+  },
+  {
+    "word": "that",
+    "start": 21.502,
+    "end": 21.622,
+    "score": 0.754
+  },
+  {
+    "word": "these",
+    "start": 21.662,
+    "end": 21.842,
+    "score": 0.733
+  },
+  {
+    "word": "two",
+    "start": 21.922,
+    "end": 22.102,
+    "score": 0.869
+  },
+  {
+    "word": "whose",
+    "start": 22.162,
+    "end": 22.322,
+    "score": 0.749
+  },
+  {
+    "word": "hearts",
+    "start": 22.362,
+    "end": 22.622,
+    "score": 0.882
+  },
+  {
+    "word": "were",
+    "start": 22.662,
+    "end": 22.782,
+    "score": 0.88
+  },
+  {
+    "word": "on",
+    "start": 22.822,
+    "end": 22.882,
+    "score": 0.846
+  },
+  {
+    "word": "fire",
+    "start": 22.962,
+    "end": 23.222,
+    "score": 0.84
+  },
+  {
+    "word": "should",
+    "start": 23.242,
+    "end": 23.422,
+    "score": 0.76
+  },
+  {
+    "word": "be",
+    "start": 23.442,
+    "end": 23.503,
+    "score": 0.751
+  },
+  {
+    "word": "kept",
+    "start": 23.543,
+    "end": 23.763,
+    "score": 0.828
+  },
+  {
+    "word": "apart.",
+    "start": 23.823,
+    "end": 24.163,
+    "score": 0.915
+  }
+]

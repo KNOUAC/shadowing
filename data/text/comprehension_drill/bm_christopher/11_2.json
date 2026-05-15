@@ -1,0 +1,284 @@
+[
+  {
+    "word": "As",
+    "start": 0.111,
+    "end": 0.191,
+    "score": 0.824
+  },
+  {
+    "word": "he",
+    "start": 0.211,
+    "end": 0.291,
+    "score": 0.735
+  },
+  {
+    "word": "approached",
+    "start": 0.332,
+    "end": 0.692,
+    "score": 0.736
+  },
+  {
+    "word": "the",
+    "start": 0.732,
+    "end": 0.812,
+    "score": 0.835
+  },
+  {
+    "word": "village,",
+    "start": 0.832,
+    "end": 1.153,
+    "score": 0.878
+  },
+  {
+    "word": "he",
+    "start": 1.213,
+    "end": 1.293,
+    "score": 0.754
+  },
+  {
+    "word": "met",
+    "start": 1.333,
+    "end": 1.494,
+    "score": 0.8
+  },
+  {
+    "word": "a",
+    "start": 1.534,
+    "end": 1.554,
+    "score": 0.999
+  },
+  {
+    "word": "number",
+    "start": 1.594,
+    "end": 1.774,
+    "score": 0.908
+  },
+  {
+    "word": "of",
+    "start": 1.814,
+    "end": 1.874,
+    "score": 0.75
+  },
+  {
+    "word": "people,",
+    "start": 1.914,
+    "end": 2.235,
+    "score": 0.747
+  },
+  {
+    "word": "but",
+    "start": 2.716,
+    "end": 2.816,
+    "score": 0.845
+  },
+  {
+    "word": "none",
+    "start": 2.876,
+    "end": 3.036,
+    "score": 0.787
+  },
+  {
+    "word": "whom",
+    "start": 3.096,
+    "end": 3.237,
+    "score": 0.916
+  },
+  {
+    "word": "he",
+    "start": 3.277,
+    "end": 3.377,
+    "score": 0.812
+  },
+  {
+    "word": "knew,",
+    "start": 3.457,
+    "end": 3.698,
+    "score": 0.823
+  },
+  {
+    "word": "which",
+    "start": 4.178,
+    "end": 4.319,
+    "score": 0.9
+  },
+  {
+    "word": "somewhat",
+    "start": 4.359,
+    "end": 4.639,
+    "score": 0.776
+  },
+  {
+    "word": "surprised",
+    "start": 4.679,
+    "end": 5.12,
+    "score": 0.883
+  },
+  {
+    "word": "him,",
+    "start": 5.16,
+    "end": 5.28,
+    "score": 0.96
+  },
+  {
+    "word": "for",
+    "start": 5.641,
+    "end": 5.721,
+    "score": 1.0
+  },
+  {
+    "word": "he",
+    "start": 5.741,
+    "end": 5.801,
+    "score": 0.75
+  },
+  {
+    "word": "had",
+    "start": 5.821,
+    "end": 5.901,
+    "score": 0.835
+  },
+  {
+    "word": "thought",
+    "start": 5.921,
+    "end": 6.142,
+    "score": 0.717
+  },
+  {
+    "word": "himself",
+    "start": 6.182,
+    "end": 6.482,
+    "score": 0.839
+  },
+  {
+    "word": "acquainted",
+    "start": 6.543,
+    "end": 6.963,
+    "score": 0.75
+  },
+  {
+    "word": "with",
+    "start": 7.003,
+    "end": 7.124,
+    "score": 0.786
+  },
+  {
+    "word": "everyone",
+    "start": 7.284,
+    "end": 7.685,
+    "score": 0.825
+  },
+  {
+    "word": "in",
+    "start": 7.725,
+    "end": 7.785,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 7.825,
+    "end": 7.905,
+    "score": 0.852
+  },
+  {
+    "word": "country",
+    "start": 7.945,
+    "end": 8.266,
+    "score": 0.813
+  },
+  {
+    "word": "round.",
+    "start": 8.326,
+    "end": 8.686,
+    "score": 0.83
+  },
+  {
+    "word": "Their",
+    "start": 9.348,
+    "end": 9.488,
+    "score": 0.913
+  },
+  {
+    "word": "dress,",
+    "start": 9.548,
+    "end": 9.808,
+    "score": 0.96
+  },
+  {
+    "word": "too,",
+    "start": 9.848,
+    "end": 10.069,
+    "score": 0.924
+  },
+  {
+    "word": "was",
+    "start": 10.109,
+    "end": 10.229,
+    "score": 0.745
+  },
+  {
+    "word": "of",
+    "start": 10.269,
+    "end": 10.329,
+    "score": 0.753
+  },
+  {
+    "word": "a",
+    "start": 10.369,
+    "end": 10.409,
+    "score": 0.498
+  },
+  {
+    "word": "different",
+    "start": 10.429,
+    "end": 10.73,
+    "score": 0.776
+  },
+  {
+    "word": "fashion",
+    "start": 10.77,
+    "end": 11.131,
+    "score": 0.815
+  },
+  {
+    "word": "from",
+    "start": 11.211,
+    "end": 11.351,
+    "score": 0.834
+  },
+  {
+    "word": "that",
+    "start": 11.391,
+    "end": 11.551,
+    "score": 0.833
+  },
+  {
+    "word": "to",
+    "start": 11.592,
+    "end": 11.652,
+    "score": 0.813
+  },
+  {
+    "word": "which",
+    "start": 11.692,
+    "end": 11.832,
+    "score": 0.802
+  },
+  {
+    "word": "he",
+    "start": 11.872,
+    "end": 11.932,
+    "score": 0.77
+  },
+  {
+    "word": "was",
+    "start": 11.952,
+    "end": 12.072,
+    "score": 0.569
+  },
+  {
+    "word": "accustomed.",
+    "start": 12.112,
+    "end": 12.593,
+    "score": 0.863
+  }
+]

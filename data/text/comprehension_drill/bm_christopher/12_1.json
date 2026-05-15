@@ -1,0 +1,356 @@
+[
+  {
+    "word": "Of",
+    "start": 0.091,
+    "end": 0.171,
+    "score": 0.84
+  },
+  {
+    "word": "all",
+    "start": 0.231,
+    "end": 0.372,
+    "score": 0.832
+  },
+  {
+    "word": "arts,",
+    "start": 0.492,
+    "end": 0.712,
+    "score": 0.938
+  },
+  {
+    "word": "music",
+    "start": 1.113,
+    "end": 1.434,
+    "score": 0.817
+  },
+  {
+    "word": "is",
+    "start": 1.494,
+    "end": 1.574,
+    "score": 0.678
+  },
+  {
+    "word": "the",
+    "start": 1.614,
+    "end": 1.715,
+    "score": 0.685
+  },
+  {
+    "word": "freest.",
+    "start": 1.755,
+    "end": 2.175,
+    "score": 0.805
+  },
+  {
+    "word": "Most",
+    "start": 2.897,
+    "end": 3.097,
+    "score": 0.938
+  },
+  {
+    "word": "music",
+    "start": 3.158,
+    "end": 3.418,
+    "score": 0.829
+  },
+  {
+    "word": "does",
+    "start": 3.458,
+    "end": 3.578,
+    "score": 0.878
+  },
+  {
+    "word": "not",
+    "start": 3.619,
+    "end": 3.719,
+    "score": 0.836
+  },
+  {
+    "word": "mean",
+    "start": 3.759,
+    "end": 3.899,
+    "score": 0.876
+  },
+  {
+    "word": "anything,",
+    "start": 3.959,
+    "end": 4.3,
+    "score": 0.792
+  },
+  {
+    "word": "except",
+    "start": 4.701,
+    "end": 5.041,
+    "score": 0.845
+  },
+  {
+    "word": "in",
+    "start": 5.102,
+    "end": 5.162,
+    "score": 0.908
+  },
+  {
+    "word": "its",
+    "start": 5.222,
+    "end": 5.322,
+    "score": 0.835
+  },
+  {
+    "word": "own",
+    "start": 5.382,
+    "end": 5.482,
+    "score": 0.92
+  },
+  {
+    "word": "world",
+    "start": 5.543,
+    "end": 5.843,
+    "score": 0.702
+  },
+  {
+    "word": "and",
+    "start": 5.903,
+    "end": 5.983,
+    "score": 0.932
+  },
+  {
+    "word": "on",
+    "start": 6.044,
+    "end": 6.104,
+    "score": 0.895
+  },
+  {
+    "word": "its",
+    "start": 6.164,
+    "end": 6.244,
+    "score": 0.858
+  },
+  {
+    "word": "own",
+    "start": 6.304,
+    "end": 6.424,
+    "score": 0.617
+  },
+  {
+    "word": "terms.",
+    "start": 6.464,
+    "end": 6.865,
+    "score": 0.836
+  },
+  {
+    "word": "But",
+    "start": 7.507,
+    "end": 7.607,
+    "score": 1.0
+  },
+  {
+    "word": "because",
+    "start": 7.647,
+    "end": 7.907,
+    "score": 0.829
+  },
+  {
+    "word": "it",
+    "start": 7.948,
+    "end": 7.988,
+    "score": 1.0
+  },
+  {
+    "word": "has",
+    "start": 8.028,
+    "end": 8.188,
+    "score": 0.78
+  },
+  {
+    "word": "little",
+    "start": 8.248,
+    "end": 8.469,
+    "score": 0.836
+  },
+  {
+    "word": "to",
+    "start": 8.509,
+    "end": 8.589,
+    "score": 0.722
+  },
+  {
+    "word": "do",
+    "start": 8.629,
+    "end": 8.749,
+    "score": 0.75
+  },
+  {
+    "word": "with",
+    "start": 8.789,
+    "end": 8.89,
+    "score": 0.876
+  },
+  {
+    "word": "what",
+    "start": 8.93,
+    "end": 9.05,
+    "score": 0.75
+  },
+  {
+    "word": "we",
+    "start": 9.07,
+    "end": 9.15,
+    "score": 0.814
+  },
+  {
+    "word": "call",
+    "start": 9.17,
+    "end": 9.371,
+    "score": 0.727
+  },
+  {
+    "word": "real",
+    "start": 9.411,
+    "end": 9.611,
+    "score": 0.794
+  },
+  {
+    "word": "life,",
+    "start": 9.671,
+    "end": 9.932,
+    "score": 0.897
+  },
+  {
+    "word": "because",
+    "start": 10.513,
+    "end": 10.733,
+    "score": 0.78
+  },
+  {
+    "word": "it",
+    "start": 10.773,
+    "end": 10.834,
+    "score": 0.758
+  },
+  {
+    "word": "is",
+    "start": 10.894,
+    "end": 10.954,
+    "score": 0.764
+  },
+  {
+    "word": "free",
+    "start": 11.054,
+    "end": 11.234,
+    "score": 0.888
+  },
+  {
+    "word": "of",
+    "start": 11.275,
+    "end": 11.335,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 11.375,
+    "end": 11.455,
+    "score": 0.836
+  },
+  {
+    "word": "weekday,",
+    "start": 11.495,
+    "end": 11.996,
+    "score": 0.729
+  },
+  {
+    "word": "it",
+    "start": 12.597,
+    "end": 12.637,
+    "score": 0.7
+  },
+  {
+    "word": "can",
+    "start": 12.677,
+    "end": 12.778,
+    "score": 0.988
+  },
+  {
+    "word": "effectively",
+    "start": 12.838,
+    "end": 13.399,
+    "score": 0.868
+  },
+  {
+    "word": "take",
+    "start": 13.439,
+    "end": 13.639,
+    "score": 0.939
+  },
+  {
+    "word": "us",
+    "start": 13.68,
+    "end": 13.76,
+    "score": 0.788
+  },
+  {
+    "word": "away",
+    "start": 13.82,
+    "end": 14.02,
+    "score": 0.748
+  },
+  {
+    "word": "from",
+    "start": 14.06,
+    "end": 14.201,
+    "score": 0.704
+  },
+  {
+    "word": "our",
+    "start": 14.261,
+    "end": 14.381,
+    "score": 0.648
+  },
+  {
+    "word": "own",
+    "start": 14.441,
+    "end": 14.541,
+    "score": 0.883
+  },
+  {
+    "word": "lives,",
+    "start": 14.581,
+    "end": 14.942,
+    "score": 0.8
+  },
+  {
+    "word": "from",
+    "start": 15.443,
+    "end": 15.584,
+    "score": 0.724
+  },
+  {
+    "word": "our",
+    "start": 15.624,
+    "end": 15.724,
+    "score": 0.955
+  },
+  {
+    "word": "nine",
+    "start": 15.764,
+    "end": 15.964,
+    "score": 0.825
+  },
+  {
+    "word": "to",
+    "start": 16.004,
+    "end": 16.085,
+    "score": 0.736
+  },
+  {
+    "word": "five",
+    "start": 16.125,
+    "end": 16.385,
+    "score": 0.784
+  },
+  {
+    "word": "worries.",
+    "start": 16.445,
+    "end": 16.806,
+    "score": 0.932
+  }
+]

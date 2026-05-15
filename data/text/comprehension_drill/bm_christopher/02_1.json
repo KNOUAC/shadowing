@@ -1,0 +1,290 @@
+[
+  {
+    "word": "I",
+    "start": 0.111,
+    "end": 0.151,
+    "score": 0.999
+  },
+  {
+    "word": "had",
+    "start": 0.171,
+    "end": 0.252,
+    "score": 0.688
+  },
+  {
+    "word": "discovered",
+    "start": 0.292,
+    "end": 0.693,
+    "score": 0.884
+  },
+  {
+    "word": "the",
+    "start": 0.733,
+    "end": 0.814,
+    "score": 0.833
+  },
+  {
+    "word": "weight",
+    "start": 0.854,
+    "end": 1.074,
+    "score": 0.854
+  },
+  {
+    "word": "of",
+    "start": 1.115,
+    "end": 1.175,
+    "score": 0.944
+  },
+  {
+    "word": "a",
+    "start": 1.235,
+    "end": 1.255,
+    "score": 0.987
+  },
+  {
+    "word": "white",
+    "start": 1.315,
+    "end": 1.516,
+    "score": 0.837
+  },
+  {
+    "word": "people",
+    "start": 1.556,
+    "end": 1.797,
+    "score": 0.801
+  },
+  {
+    "word": "in",
+    "start": 1.837,
+    "end": 1.897,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 1.917,
+    "end": 1.998,
+    "score": 0.838
+  },
+  {
+    "word": "world.",
+    "start": 2.038,
+    "end": 2.359,
+    "score": 0.778
+  },
+  {
+    "word": "I",
+    "start": 3.001,
+    "end": 3.041,
+    "score": 0.5
+  },
+  {
+    "word": "saw",
+    "start": 3.101,
+    "end": 3.302,
+    "score": 0.879
+  },
+  {
+    "word": "that",
+    "start": 3.342,
+    "end": 3.462,
+    "score": 0.876
+  },
+  {
+    "word": "this",
+    "start": 3.502,
+    "end": 3.663,
+    "score": 0.802
+  },
+  {
+    "word": "had",
+    "start": 3.703,
+    "end": 3.824,
+    "score": 0.677
+  },
+  {
+    "word": "been",
+    "start": 3.864,
+    "end": 4.024,
+    "score": 0.755
+  },
+  {
+    "word": "for",
+    "start": 4.064,
+    "end": 4.185,
+    "score": 0.862
+  },
+  {
+    "word": "my",
+    "start": 4.225,
+    "end": 4.345,
+    "score": 0.834
+  },
+  {
+    "word": "ancestors,",
+    "start": 4.426,
+    "end": 4.987,
+    "score": 0.854
+  },
+  {
+    "word": "and",
+    "start": 5.409,
+    "end": 5.489,
+    "score": 0.834
+  },
+  {
+    "word": "now",
+    "start": 5.529,
+    "end": 5.69,
+    "score": 0.697
+  },
+  {
+    "word": "would",
+    "start": 5.73,
+    "end": 5.87,
+    "score": 0.801
+  },
+  {
+    "word": "be",
+    "start": 5.89,
+    "end": 5.991,
+    "score": 0.704
+  },
+  {
+    "word": "for",
+    "start": 6.031,
+    "end": 6.151,
+    "score": 0.965
+  },
+  {
+    "word": "me",
+    "start": 6.191,
+    "end": 6.292,
+    "score": 0.83
+  },
+  {
+    "word": "an",
+    "start": 6.332,
+    "end": 6.372,
+    "score": 1.0
+  },
+  {
+    "word": "awful",
+    "start": 6.533,
+    "end": 6.813,
+    "score": 0.8
+  },
+  {
+    "word": "thing",
+    "start": 6.834,
+    "end": 7.014,
+    "score": 0.706
+  },
+  {
+    "word": "to",
+    "start": 7.054,
+    "end": 7.135,
+    "score": 0.752
+  },
+  {
+    "word": "live",
+    "start": 7.175,
+    "end": 7.315,
+    "score": 0.86
+  },
+  {
+    "word": "with,",
+    "start": 7.375,
+    "end": 7.536,
+    "score": 0.857
+  },
+  {
+    "word": "and",
+    "start": 7.997,
+    "end": 8.078,
+    "score": 0.922
+  },
+  {
+    "word": "that",
+    "start": 8.118,
+    "end": 8.238,
+    "score": 0.875
+  },
+  {
+    "word": "the",
+    "start": 8.258,
+    "end": 8.359,
+    "score": 0.711
+  },
+  {
+    "word": "bitterness",
+    "start": 8.439,
+    "end": 8.88,
+    "score": 0.884
+  },
+  {
+    "word": "which",
+    "start": 8.92,
+    "end": 9.061,
+    "score": 0.9
+  },
+  {
+    "word": "had",
+    "start": 9.101,
+    "end": 9.221,
+    "score": 0.84
+  },
+  {
+    "word": "helped",
+    "start": 9.262,
+    "end": 9.482,
+    "score": 0.866
+  },
+  {
+    "word": "to",
+    "start": 9.502,
+    "end": 9.563,
+    "score": 0.75
+  },
+  {
+    "word": "kill",
+    "start": 9.603,
+    "end": 9.763,
+    "score": 0.894
+  },
+  {
+    "word": "my",
+    "start": 9.803,
+    "end": 9.904,
+    "score": 0.984
+  },
+  {
+    "word": "father",
+    "start": 9.964,
+    "end": 10.265,
+    "score": 0.807
+  },
+  {
+    "word": "could",
+    "start": 10.325,
+    "end": 10.466,
+    "score": 0.971
+  },
+  {
+    "word": "also",
+    "start": 10.646,
+    "end": 10.967,
+    "score": 0.791
+  },
+  {
+    "word": "kill",
+    "start": 11.068,
+    "end": 11.288,
+    "score": 0.766
+  },
+  {
+    "word": "me.",
+    "start": 11.328,
+    "end": 11.409,
+    "score": 0.988
+  }
+]

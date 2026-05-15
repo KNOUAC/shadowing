@@ -1,0 +1,410 @@
+[
+  {
+    "word": "Democracy",
+    "start": 0.111,
+    "end": 0.612,
+    "score": 0.954
+  },
+  {
+    "word": "is,",
+    "start": 0.712,
+    "end": 0.872,
+    "score": 0.823
+  },
+  {
+    "word": "historically",
+    "start": 1.313,
+    "end": 1.834,
+    "score": 0.79
+  },
+  {
+    "word": "speaking,",
+    "start": 1.874,
+    "end": 2.275,
+    "score": 0.871
+  },
+  {
+    "word": "something",
+    "start": 2.315,
+    "end": 2.595,
+    "score": 0.788
+  },
+  {
+    "word": "very",
+    "start": 2.635,
+    "end": 2.836,
+    "score": 0.617
+  },
+  {
+    "word": "recent.",
+    "start": 2.896,
+    "end": 3.277,
+    "score": 0.836
+  },
+  {
+    "word": "It",
+    "start": 4.038,
+    "end": 4.098,
+    "score": 0.755
+  },
+  {
+    "word": "is",
+    "start": 4.138,
+    "end": 4.198,
+    "score": 0.796
+  },
+  {
+    "word": "first",
+    "start": 4.278,
+    "end": 4.539,
+    "score": 0.777
+  },
+  {
+    "word": "of",
+    "start": 4.579,
+    "end": 4.639,
+    "score": 0.75
+  },
+  {
+    "word": "all",
+    "start": 4.679,
+    "end": 4.799,
+    "score": 0.786
+  },
+  {
+    "word": "the",
+    "start": 4.819,
+    "end": 4.899,
+    "score": 0.83
+  },
+  {
+    "word": "belief",
+    "start": 4.939,
+    "end": 5.26,
+    "score": 0.803
+  },
+  {
+    "word": "that",
+    "start": 5.3,
+    "end": 5.44,
+    "score": 0.772
+  },
+  {
+    "word": "individual",
+    "start": 5.52,
+    "end": 6.021,
+    "score": 0.875
+  },
+  {
+    "word": "human",
+    "start": 6.061,
+    "end": 6.342,
+    "score": 0.868
+  },
+  {
+    "word": "beings",
+    "start": 6.402,
+    "end": 6.742,
+    "score": 0.683
+  },
+  {
+    "word": "are",
+    "start": 6.803,
+    "end": 6.883,
+    "score": 0.826
+  },
+  {
+    "word": "what",
+    "start": 6.903,
+    "end": 7.043,
+    "score": 0.797
+  },
+  {
+    "word": "matter",
+    "start": 7.103,
+    "end": 7.363,
+    "score": 0.801
+  },
+  {
+    "word": "most,",
+    "start": 7.404,
+    "end": 7.684,
+    "score": 0.903
+  },
+  {
+    "word": "more",
+    "start": 8.165,
+    "end": 8.305,
+    "score": 0.88
+  },
+  {
+    "word": "than",
+    "start": 8.325,
+    "end": 8.465,
+    "score": 0.803
+  },
+  {
+    "word": "the",
+    "start": 8.505,
+    "end": 8.586,
+    "score": 0.836
+  },
+  {
+    "word": "state,",
+    "start": 8.646,
+    "end": 8.966,
+    "score": 0.858
+  },
+  {
+    "word": "or",
+    "start": 9.467,
+    "end": 9.527,
+    "score": 0.952
+  },
+  {
+    "word": "the",
+    "start": 9.567,
+    "end": 9.647,
+    "score": 0.834
+  },
+  {
+    "word": "total",
+    "start": 9.707,
+    "end": 10.048,
+    "score": 0.797
+  },
+  {
+    "word": "of",
+    "start": 10.068,
+    "end": 10.128,
+    "score": 0.75
+  },
+  {
+    "word": "national",
+    "start": 10.188,
+    "end": 10.529,
+    "score": 0.772
+  },
+  {
+    "word": "wealth,",
+    "start": 10.589,
+    "end": 10.869,
+    "score": 0.84
+  },
+  {
+    "word": "or",
+    "start": 11.33,
+    "end": 11.39,
+    "score": 0.978
+  },
+  {
+    "word": "anything",
+    "start": 11.45,
+    "end": 11.731,
+    "score": 0.898
+  },
+  {
+    "word": "else,",
+    "start": 11.811,
+    "end": 12.031,
+    "score": 0.791
+  },
+  {
+    "word": "whatever.",
+    "start": 12.232,
+    "end": 12.652,
+    "score": 0.895
+  },
+  {
+    "word": "Then",
+    "start": 13.474,
+    "end": 13.654,
+    "score": 0.801
+  },
+  {
+    "word": "it",
+    "start": 13.734,
+    "end": 13.794,
+    "score": 0.975
+  },
+  {
+    "word": "is",
+    "start": 13.875,
+    "end": 13.955,
+    "score": 0.669
+  },
+  {
+    "word": "the",
+    "start": 13.995,
+    "end": 14.075,
+    "score": 0.833
+  },
+  {
+    "word": "belief",
+    "start": 14.115,
+    "end": 14.395,
+    "score": 0.841
+  },
+  {
+    "word": "in",
+    "start": 14.456,
+    "end": 14.516,
+    "score": 0.83
+  },
+  {
+    "word": "equality,",
+    "start": 14.556,
+    "end": 15.157,
+    "score": 0.901
+  },
+  {
+    "word": "not",
+    "start": 15.678,
+    "end": 15.818,
+    "score": 0.917
+  },
+  {
+    "word": "in",
+    "start": 15.878,
+    "end": 15.938,
+    "score": 0.76
+  },
+  {
+    "word": "the",
+    "start": 15.978,
+    "end": 16.058,
+    "score": 0.837
+  },
+  {
+    "word": "sense",
+    "start": 16.098,
+    "end": 16.359,
+    "score": 0.695
+  },
+  {
+    "word": "that",
+    "start": 16.379,
+    "end": 16.519,
+    "score": 0.879
+  },
+  {
+    "word": "everybody's",
+    "start": 16.619,
+    "end": 17.04,
+    "score": 0.797
+  },
+  {
+    "word": "alike",
+    "start": 17.08,
+    "end": 17.401,
+    "score": 0.799
+  },
+  {
+    "word": "or",
+    "start": 17.461,
+    "end": 17.541,
+    "score": 0.967
+  },
+  {
+    "word": "equally",
+    "start": 17.621,
+    "end": 17.901,
+    "score": 0.841
+  },
+  {
+    "word": "gifted,",
+    "start": 17.941,
+    "end": 18.342,
+    "score": 0.922
+  },
+  {
+    "word": "which",
+    "start": 18.823,
+    "end": 18.963,
+    "score": 0.804
+  },
+  {
+    "word": "is",
+    "start": 19.023,
+    "end": 19.083,
+    "score": 0.872
+  },
+  {
+    "word": "obviously",
+    "start": 19.144,
+    "end": 19.504,
+    "score": 0.813
+  },
+  {
+    "word": "untrue,",
+    "start": 19.564,
+    "end": 20.025,
+    "score": 0.858
+  },
+  {
+    "word": "but",
+    "start": 20.546,
+    "end": 20.646,
+    "score": 0.834
+  },
+  {
+    "word": "in",
+    "start": 20.686,
+    "end": 20.766,
+    "score": 0.685
+  },
+  {
+    "word": "the",
+    "start": 20.806,
+    "end": 20.887,
+    "score": 0.835
+  },
+  {
+    "word": "sense",
+    "start": 20.927,
+    "end": 21.167,
+    "score": 0.758
+  },
+  {
+    "word": "that",
+    "start": 21.207,
+    "end": 21.327,
+    "score": 0.99
+  },
+  {
+    "word": "everyone",
+    "start": 21.427,
+    "end": 21.788,
+    "score": 0.846
+  },
+  {
+    "word": "should",
+    "start": 21.828,
+    "end": 22.008,
+    "score": 0.753
+  },
+  {
+    "word": "have",
+    "start": 22.048,
+    "end": 22.189,
+    "score": 0.728
+  },
+  {
+    "word": "certain",
+    "start": 22.269,
+    "end": 22.609,
+    "score": 0.758
+  },
+  {
+    "word": "basic",
+    "start": 22.67,
+    "end": 22.99,
+    "score": 0.944
+  },
+  {
+    "word": "opportunities.",
+    "start": 23.03,
+    "end": 23.691,
+    "score": 0.903
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "word": "Most",
+    "start": 0.111,
+    "end": 0.291,
+    "score": 0.991
+  },
+  {
+    "word": "students",
+    "start": 0.331,
+    "end": 0.692,
+    "score": 0.905
+  },
+  {
+    "word": "who",
+    "start": 0.732,
+    "end": 0.832,
+    "score": 0.918
+  },
+  {
+    "word": "plan",
+    "start": 0.872,
+    "end": 1.052,
+    "score": 0.919
+  },
+  {
+    "word": "to",
+    "start": 1.092,
+    "end": 1.152,
+    "score": 0.766
+  },
+  {
+    "word": "attend",
+    "start": 1.192,
+    "end": 1.433,
+    "score": 0.828
+  },
+  {
+    "word": "college",
+    "start": 1.473,
+    "end": 1.833,
+    "score": 0.847
+  },
+  {
+    "word": "take",
+    "start": 1.893,
+    "end": 2.074,
+    "score": 0.841
+  },
+  {
+    "word": "a",
+    "start": 2.114,
+    "end": 2.134,
+    "score": 0.999
+  },
+  {
+    "word": "standardized",
+    "start": 2.194,
+    "end": 2.855,
+    "score": 0.807
+  },
+  {
+    "word": "test",
+    "start": 2.895,
+    "end": 3.235,
+    "score": 0.881
+  },
+  {
+    "word": "called",
+    "start": 3.335,
+    "end": 3.596,
+    "score": 0.792
+  },
+  {
+    "word": "a",
+    "start": 3.956,
+    "end": 3.976,
+    "score": 0.994
+  },
+  {
+    "word": "college",
+    "start": 4.036,
+    "end": 4.356,
+    "score": 0.898
+  },
+  {
+    "word": "entrance",
+    "start": 4.457,
+    "end": 4.817,
+    "score": 0.856
+  },
+  {
+    "word": "examination",
+    "start": 4.877,
+    "end": 5.518,
+    "score": 0.855
+  },
+  {
+    "word": "during",
+    "start": 5.598,
+    "end": 5.838,
+    "score": 0.78
+  },
+  {
+    "word": "their",
+    "start": 5.858,
+    "end": 5.999,
+    "score": 0.918
+  },
+  {
+    "word": "junior",
+    "start": 6.059,
+    "end": 6.399,
+    "score": 0.921
+  },
+  {
+    "word": "or",
+    "start": 6.459,
+    "end": 6.519,
+    "score": 0.834
+  },
+  {
+    "word": "senior",
+    "start": 6.559,
+    "end": 6.84,
+    "score": 0.864
+  },
+  {
+    "word": "year",
+    "start": 6.86,
+    "end": 7.08,
+    "score": 0.767
+  },
+  {
+    "word": "in",
+    "start": 7.12,
+    "end": 7.2,
+    "score": 0.696
+  },
+  {
+    "word": "high",
+    "start": 7.22,
+    "end": 7.4,
+    "score": 0.624
+  },
+  {
+    "word": "school.",
+    "start": 7.44,
+    "end": 7.721,
+    "score": 0.813
+  },
+  {
+    "word": "This",
+    "start": 8.502,
+    "end": 8.662,
+    "score": 0.763
+  },
+  {
+    "word": "test",
+    "start": 8.722,
+    "end": 9.002,
+    "score": 0.88
+  },
+  {
+    "word": "measures",
+    "start": 9.082,
+    "end": 9.363,
+    "score": 0.784
+  },
+  {
+    "word": "some",
+    "start": 9.423,
+    "end": 9.583,
+    "score": 0.873
+  },
+  {
+    "word": "of",
+    "start": 9.623,
+    "end": 9.663,
+    "score": 1.0
+  },
+  {
+    "word": "the",
+    "start": 9.703,
+    "end": 9.783,
+    "score": 0.834
+  },
+  {
+    "word": "abilities",
+    "start": 9.823,
+    "end": 10.284,
+    "score": 0.886
+  },
+  {
+    "word": "thought",
+    "start": 10.364,
+    "end": 10.604,
+    "score": 0.902
+  },
+  {
+    "word": "to",
+    "start": 10.644,
+    "end": 10.684,
+    "score": 1.0
+  },
+  {
+    "word": "contribute",
+    "start": 10.745,
+    "end": 11.225,
+    "score": 0.785
+  },
+  {
+    "word": "to",
+    "start": 11.265,
+    "end": 11.345,
+    "score": 0.75
+  },
+  {
+    "word": "success",
+    "start": 11.385,
+    "end": 11.786,
+    "score": 0.875
+  },
+  {
+    "word": "in",
+    "start": 11.846,
+    "end": 11.926,
+    "score": 0.833
+  },
+  {
+    "word": "college.",
+    "start": 11.966,
+    "end": 12.327,
+    "score": 0.999
+  }
+]

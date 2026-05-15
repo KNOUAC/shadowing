@@ -1,0 +1,434 @@
+[
+  {
+    "word": "Music",
+    "start": 0.111,
+    "end": 0.411,
+    "score": 0.886
+  },
+  {
+    "word": "has",
+    "start": 0.451,
+    "end": 0.571,
+    "score": 0.9
+  },
+  {
+    "word": "been",
+    "start": 0.612,
+    "end": 0.772,
+    "score": 0.834
+  },
+  {
+    "word": "called",
+    "start": 0.812,
+    "end": 1.132,
+    "score": 0.743
+  },
+  {
+    "word": "the",
+    "start": 1.172,
+    "end": 1.272,
+    "score": 0.763
+  },
+  {
+    "word": "universal",
+    "start": 1.352,
+    "end": 1.813,
+    "score": 0.813
+  },
+  {
+    "word": "language,",
+    "start": 1.853,
+    "end": 2.293,
+    "score": 0.831
+  },
+  {
+    "word": "and",
+    "start": 2.793,
+    "end": 2.894,
+    "score": 0.764
+  },
+  {
+    "word": "today,",
+    "start": 2.934,
+    "end": 3.274,
+    "score": 0.852
+  },
+  {
+    "word": "more",
+    "start": 3.634,
+    "end": 3.794,
+    "score": 0.787
+  },
+  {
+    "word": "than",
+    "start": 3.814,
+    "end": 3.934,
+    "score": 0.803
+  },
+  {
+    "word": "ever,",
+    "start": 4.015,
+    "end": 4.215,
+    "score": 0.802
+  },
+  {
+    "word": "music",
+    "start": 4.655,
+    "end": 4.915,
+    "score": 0.909
+  },
+  {
+    "word": "is",
+    "start": 4.975,
+    "end": 5.055,
+    "score": 0.605
+  },
+  {
+    "word": "truly",
+    "start": 5.196,
+    "end": 5.596,
+    "score": 0.804
+  },
+  {
+    "word": "universal.",
+    "start": 5.716,
+    "end": 6.277,
+    "score": 0.821
+  },
+  {
+    "word": "For",
+    "start": 6.917,
+    "end": 7.037,
+    "score": 0.851
+  },
+  {
+    "word": "music",
+    "start": 7.077,
+    "end": 7.358,
+    "score": 0.866
+  },
+  {
+    "word": "to",
+    "start": 7.378,
+    "end": 7.458,
+    "score": 0.71
+  },
+  {
+    "word": "become",
+    "start": 7.498,
+    "end": 7.758,
+    "score": 0.806
+  },
+  {
+    "word": "an",
+    "start": 7.778,
+    "end": 7.818,
+    "score": 0.999
+  },
+  {
+    "word": "important",
+    "start": 7.858,
+    "end": 8.278,
+    "score": 0.804
+  },
+  {
+    "word": "part",
+    "start": 8.318,
+    "end": 8.519,
+    "score": 0.73
+  },
+  {
+    "word": "of",
+    "start": 8.539,
+    "end": 8.599,
+    "score": 0.75
+  },
+  {
+    "word": "our",
+    "start": 8.659,
+    "end": 8.739,
+    "score": 0.878
+  },
+  {
+    "word": "culture",
+    "start": 8.779,
+    "end": 9.119,
+    "score": 0.835
+  },
+  {
+    "word": "and",
+    "start": 9.139,
+    "end": 9.219,
+    "score": 0.84
+  },
+  {
+    "word": "civilization,",
+    "start": 9.259,
+    "end": 9.96,
+    "score": 0.911
+  },
+  {
+    "word": "more",
+    "start": 10.36,
+    "end": 10.52,
+    "score": 0.775
+  },
+  {
+    "word": "is",
+    "start": 10.58,
+    "end": 10.66,
+    "score": 0.59
+  },
+  {
+    "word": "necessary",
+    "start": 10.741,
+    "end": 11.301,
+    "score": 0.843
+  },
+  {
+    "word": "than",
+    "start": 11.341,
+    "end": 11.481,
+    "score": 0.896
+  },
+  {
+    "word": "the",
+    "start": 11.501,
+    "end": 11.581,
+    "score": 0.833
+  },
+  {
+    "word": "creative",
+    "start": 11.641,
+    "end": 12.062,
+    "score": 0.809
+  },
+  {
+    "word": "genius",
+    "start": 12.122,
+    "end": 12.482,
+    "score": 0.78
+  },
+  {
+    "word": "of",
+    "start": 12.502,
+    "end": 12.562,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 12.602,
+    "end": 12.682,
+    "score": 0.833
+  },
+  {
+    "word": "composers",
+    "start": 12.722,
+    "end": 13.263,
+    "score": 0.867
+  },
+  {
+    "word": "and",
+    "start": 13.623,
+    "end": 13.703,
+    "score": 0.845
+  },
+  {
+    "word": "the",
+    "start": 13.743,
+    "end": 13.803,
+    "score": 1.0
+  },
+  {
+    "word": "artistic",
+    "start": 13.843,
+    "end": 14.324,
+    "score": 0.799
+  },
+  {
+    "word": "talents",
+    "start": 14.384,
+    "end": 14.784,
+    "score": 0.846
+  },
+  {
+    "word": "of",
+    "start": 14.844,
+    "end": 14.904,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 14.944,
+    "end": 15.024,
+    "score": 0.833
+  },
+  {
+    "word": "professional",
+    "start": 15.064,
+    "end": 15.485,
+    "score": 0.85
+  },
+  {
+    "word": "musicians",
+    "start": 15.525,
+    "end": 16.065,
+    "score": 0.784
+  },
+  {
+    "word": "who",
+    "start": 16.105,
+    "end": 16.225,
+    "score": 0.733
+  },
+  {
+    "word": "perform",
+    "start": 16.265,
+    "end": 16.566,
+    "score": 0.947
+  },
+  {
+    "word": "their",
+    "start": 16.606,
+    "end": 16.766,
+    "score": 0.89
+  },
+  {
+    "word": "works.",
+    "start": 16.806,
+    "end": 17.206,
+    "score": 0.817
+  },
+  {
+    "word": "The",
+    "start": 18.567,
+    "end": 18.668,
+    "score": 0.787
+  },
+  {
+    "word": "highest",
+    "start": 18.708,
+    "end": 18.968,
+    "score": 0.861
+  },
+  {
+    "word": "development",
+    "start": 19.028,
+    "end": 19.488,
+    "score": 0.889
+  },
+  {
+    "word": "of",
+    "start": 19.528,
+    "end": 19.588,
+    "score": 0.75
+  },
+  {
+    "word": "music",
+    "start": 19.648,
+    "end": 19.969,
+    "score": 0.814
+  },
+  {
+    "word": "depends",
+    "start": 20.009,
+    "end": 20.309,
+    "score": 0.843
+  },
+  {
+    "word": "also",
+    "start": 20.369,
+    "end": 20.569,
+    "score": 0.946
+  },
+  {
+    "word": "on",
+    "start": 20.629,
+    "end": 20.689,
+    "score": 0.766
+  },
+  {
+    "word": "the",
+    "start": 20.709,
+    "end": 20.789,
+    "score": 0.833
+  },
+  {
+    "word": "intelligence",
+    "start": 20.83,
+    "end": 21.39,
+    "score": 0.884
+  },
+  {
+    "word": "and",
+    "start": 21.43,
+    "end": 21.51,
+    "score": 0.833
+  },
+  {
+    "word": "appreciation",
+    "start": 21.53,
+    "end": 22.151,
+    "score": 0.797
+  },
+  {
+    "word": "of",
+    "start": 22.191,
+    "end": 22.251,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 22.291,
+    "end": 22.371,
+    "score": 0.833
+  },
+  {
+    "word": "vast",
+    "start": 22.411,
+    "end": 22.671,
+    "score": 0.863
+  },
+  {
+    "word": "majority",
+    "start": 22.711,
+    "end": 23.132,
+    "score": 0.809
+  },
+  {
+    "word": "of",
+    "start": 23.152,
+    "end": 23.212,
+    "score": 0.75
+  },
+  {
+    "word": "people",
+    "start": 23.272,
+    "end": 23.572,
+    "score": 0.723
+  },
+  {
+    "word": "who",
+    "start": 23.612,
+    "end": 23.712,
+    "score": 0.837
+  },
+  {
+    "word": "are",
+    "start": 23.752,
+    "end": 23.832,
+    "score": 0.901
+  },
+  {
+    "word": "the",
+    "start": 23.852,
+    "end": 23.932,
+    "score": 0.832
+  },
+  {
+    "word": "listeners,",
+    "start": 23.972,
+    "end": 24.333,
+    "score": 0.88
+  }
+]

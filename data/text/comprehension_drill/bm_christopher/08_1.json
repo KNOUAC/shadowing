@@ -1,0 +1,218 @@
+[
+  {
+    "word": "Wisdom",
+    "start": 0.111,
+    "end": 0.413,
+    "score": 0.92
+  },
+  {
+    "word": "is",
+    "start": 0.473,
+    "end": 0.553,
+    "score": 0.684
+  },
+  {
+    "word": "needed",
+    "start": 0.633,
+    "end": 0.975,
+    "score": 0.859
+  },
+  {
+    "word": "in",
+    "start": 1.035,
+    "end": 1.095,
+    "score": 0.916
+  },
+  {
+    "word": "the",
+    "start": 1.135,
+    "end": 1.216,
+    "score": 0.833
+  },
+  {
+    "word": "choice",
+    "start": 1.276,
+    "end": 1.537,
+    "score": 0.87
+  },
+  {
+    "word": "of",
+    "start": 1.577,
+    "end": 1.637,
+    "score": 0.75
+  },
+  {
+    "word": "ends",
+    "start": 1.838,
+    "end": 2.14,
+    "score": 0.613
+  },
+  {
+    "word": "to",
+    "start": 2.18,
+    "end": 2.26,
+    "score": 0.816
+  },
+  {
+    "word": "be",
+    "start": 2.3,
+    "end": 2.401,
+    "score": 0.825
+  },
+  {
+    "word": "pursued.",
+    "start": 2.441,
+    "end": 2.983,
+    "score": 0.881
+  },
+  {
+    "word": "Even",
+    "start": 3.726,
+    "end": 3.887,
+    "score": 0.792
+  },
+  {
+    "word": "an",
+    "start": 3.947,
+    "end": 4.007,
+    "score": 0.75
+  },
+  {
+    "word": "end",
+    "start": 4.107,
+    "end": 4.268,
+    "score": 0.722
+  },
+  {
+    "word": "which",
+    "start": 4.328,
+    "end": 4.489,
+    "score": 0.84
+  },
+  {
+    "word": "it",
+    "start": 4.529,
+    "end": 4.569,
+    "score": 0.999
+  },
+  {
+    "word": "would",
+    "start": 4.61,
+    "end": 4.75,
+    "score": 0.901
+  },
+  {
+    "word": "be",
+    "start": 4.79,
+    "end": 4.871,
+    "score": 0.668
+  },
+  {
+    "word": "noble",
+    "start": 4.951,
+    "end": 5.252,
+    "score": 0.846
+  },
+  {
+    "word": "to",
+    "start": 5.292,
+    "end": 5.353,
+    "score": 0.914
+  },
+  {
+    "word": "pursue",
+    "start": 5.393,
+    "end": 5.734,
+    "score": 0.869
+  },
+  {
+    "word": "if",
+    "start": 5.794,
+    "end": 5.855,
+    "score": 0.994
+  },
+  {
+    "word": "it",
+    "start": 5.915,
+    "end": 5.955,
+    "score": 1.0
+  },
+  {
+    "word": "were",
+    "start": 5.995,
+    "end": 6.116,
+    "score": 0.763
+  },
+  {
+    "word": "attainable",
+    "start": 6.156,
+    "end": 6.638,
+    "score": 0.831
+  },
+  {
+    "word": "may",
+    "start": 7.1,
+    "end": 7.24,
+    "score": 0.894
+  },
+  {
+    "word": "be",
+    "start": 7.28,
+    "end": 7.361,
+    "score": 0.612
+  },
+  {
+    "word": "pursued",
+    "start": 7.421,
+    "end": 7.782,
+    "score": 0.819
+  },
+  {
+    "word": "unwisely",
+    "start": 7.822,
+    "end": 8.425,
+    "score": 0.883
+  },
+  {
+    "word": "if",
+    "start": 8.505,
+    "end": 8.566,
+    "score": 0.891
+  },
+  {
+    "word": "it",
+    "start": 8.626,
+    "end": 8.686,
+    "score": 0.912
+  },
+  {
+    "word": "is",
+    "start": 8.746,
+    "end": 8.827,
+    "score": 0.942
+  },
+  {
+    "word": "inherently",
+    "start": 8.887,
+    "end": 9.369,
+    "score": 0.795
+  },
+  {
+    "word": "impossible",
+    "start": 9.409,
+    "end": 9.911,
+    "score": 0.835
+  },
+  {
+    "word": "of",
+    "start": 9.951,
+    "end": 10.011,
+    "score": 0.749
+  },
+  {
+    "word": "achievement.",
+    "start": 10.052,
+    "end": 10.533,
+    "score": 0.812
+  }
+]

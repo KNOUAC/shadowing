@@ -1,0 +1,254 @@
+[
+  {
+    "word": "A",
+    "start": 0.111,
+    "end": 0.151,
+    "score": 0.755
+  },
+  {
+    "word": "silence",
+    "start": 0.272,
+    "end": 0.713,
+    "score": 0.857
+  },
+  {
+    "word": "fell",
+    "start": 0.793,
+    "end": 1.074,
+    "score": 0.846
+  },
+  {
+    "word": "suddenly",
+    "start": 1.235,
+    "end": 1.576,
+    "score": 0.834
+  },
+  {
+    "word": "between",
+    "start": 1.636,
+    "end": 1.977,
+    "score": 0.839
+  },
+  {
+    "word": "us,",
+    "start": 2.037,
+    "end": 2.137,
+    "score": 0.744
+  },
+  {
+    "word": "which",
+    "start": 2.639,
+    "end": 2.779,
+    "score": 0.904
+  },
+  {
+    "word": "I",
+    "start": 2.839,
+    "end": 2.9,
+    "score": 0.667
+  },
+  {
+    "word": "somehow",
+    "start": 3.0,
+    "end": 3.361,
+    "score": 0.894
+  },
+  {
+    "word": "expected",
+    "start": 3.441,
+    "end": 4.003,
+    "score": 0.867
+  },
+  {
+    "word": "to",
+    "start": 4.023,
+    "end": 4.083,
+    "score": 0.754
+  },
+  {
+    "word": "be",
+    "start": 4.103,
+    "end": 4.184,
+    "score": 0.582
+  },
+  {
+    "word": "unbroken.",
+    "start": 4.244,
+    "end": 4.765,
+    "score": 0.852
+  },
+  {
+    "word": "But",
+    "start": 5.588,
+    "end": 5.688,
+    "score": 0.833
+  },
+  {
+    "word": "it",
+    "start": 5.708,
+    "end": 5.748,
+    "score": 0.804
+  },
+  {
+    "word": "had",
+    "start": 5.788,
+    "end": 5.889,
+    "score": 0.827
+  },
+  {
+    "word": "not",
+    "start": 5.929,
+    "end": 6.069,
+    "score": 0.78
+  },
+  {
+    "word": "fallen",
+    "start": 6.129,
+    "end": 6.47,
+    "score": 0.879
+  },
+  {
+    "word": "for",
+    "start": 6.511,
+    "end": 6.631,
+    "score": 0.724
+  },
+  {
+    "word": "more",
+    "start": 6.651,
+    "end": 6.791,
+    "score": 0.818
+  },
+  {
+    "word": "than",
+    "start": 6.832,
+    "end": 6.932,
+    "score": 0.954
+  },
+  {
+    "word": "a",
+    "start": 6.972,
+    "end": 6.992,
+    "score": 1.0
+  },
+  {
+    "word": "few",
+    "start": 7.032,
+    "end": 7.213,
+    "score": 0.828
+  },
+  {
+    "word": "seconds",
+    "start": 7.253,
+    "end": 7.674,
+    "score": 0.715
+  },
+  {
+    "word": "when,",
+    "start": 7.754,
+    "end": 7.935,
+    "score": 0.951
+  },
+  {
+    "word": "in",
+    "start": 8.356,
+    "end": 8.416,
+    "score": 0.766
+  },
+  {
+    "word": "the",
+    "start": 8.436,
+    "end": 8.517,
+    "score": 0.844
+  },
+  {
+    "word": "utter",
+    "start": 8.557,
+    "end": 8.777,
+    "score": 0.896
+  },
+  {
+    "word": "stillness,",
+    "start": 8.838,
+    "end": 9.279,
+    "score": 0.934
+  },
+  {
+    "word": "I",
+    "start": 9.72,
+    "end": 9.78,
+    "score": 0.672
+  },
+  {
+    "word": "distinctly",
+    "start": 9.821,
+    "end": 10.342,
+    "score": 0.845
+  },
+  {
+    "word": "heard",
+    "start": 10.382,
+    "end": 10.583,
+    "score": 0.774
+  },
+  {
+    "word": "very",
+    "start": 10.743,
+    "end": 11.004,
+    "score": 0.732
+  },
+  {
+    "word": "rapid",
+    "start": 11.084,
+    "end": 11.365,
+    "score": 0.905
+  },
+  {
+    "word": "steps",
+    "start": 11.445,
+    "end": 11.766,
+    "score": 0.772
+  },
+  {
+    "word": "coming",
+    "start": 11.827,
+    "end": 12.067,
+    "score": 0.858
+  },
+  {
+    "word": "nearer",
+    "start": 12.127,
+    "end": 12.408,
+    "score": 0.751
+  },
+  {
+    "word": "and",
+    "start": 12.469,
+    "end": 12.569,
+    "score": 0.668
+  },
+  {
+    "word": "nearer",
+    "start": 12.629,
+    "end": 12.91,
+    "score": 0.756
+  },
+  {
+    "word": "along",
+    "start": 12.97,
+    "end": 13.171,
+    "score": 0.802
+  },
+  {
+    "word": "the",
+    "start": 13.191,
+    "end": 13.271,
+    "score": 0.858
+  },
+  {
+    "word": "street.",
+    "start": 13.311,
+    "end": 13.612,
+    "score": 0.904
+  }
+]
