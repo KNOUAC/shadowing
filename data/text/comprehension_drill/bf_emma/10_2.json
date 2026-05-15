@@ -1,0 +1,410 @@
+[
+  {
+    "word": "One",
+    "start": 0.051,
+    "end": 0.151,
+    "score": 0.683
+  },
+  {
+    "word": "of",
+    "start": 0.171,
+    "end": 0.211,
+    "score": 1.0
+  },
+  {
+    "word": "the",
+    "start": 0.251,
+    "end": 0.331,
+    "score": 0.834
+  },
+  {
+    "word": "first",
+    "start": 0.371,
+    "end": 0.592,
+    "score": 0.703
+  },
+  {
+    "word": "things",
+    "start": 0.632,
+    "end": 0.812,
+    "score": 0.892
+  },
+  {
+    "word": "you",
+    "start": 0.852,
+    "end": 0.932,
+    "score": 0.879
+  },
+  {
+    "word": "are",
+    "start": 0.972,
+    "end": 1.052,
+    "score": 0.843
+  },
+  {
+    "word": "told",
+    "start": 1.072,
+    "end": 1.373,
+    "score": 0.669
+  },
+  {
+    "word": "is",
+    "start": 1.453,
+    "end": 1.513,
+    "score": 0.796
+  },
+  {
+    "word": "that",
+    "start": 1.553,
+    "end": 1.653,
+    "score": 0.919
+  },
+  {
+    "word": "you",
+    "start": 1.673,
+    "end": 1.793,
+    "score": 0.803
+  },
+  {
+    "word": "must",
+    "start": 1.833,
+    "end": 1.993,
+    "score": 0.909
+  },
+  {
+    "word": "study",
+    "start": 2.033,
+    "end": 2.314,
+    "score": 0.992
+  },
+  {
+    "word": "hard.",
+    "start": 2.374,
+    "end": 2.674,
+    "score": 0.873
+  },
+  {
+    "word": "But",
+    "start": 3.235,
+    "end": 3.355,
+    "score": 0.833
+  },
+  {
+    "word": "this",
+    "start": 3.375,
+    "end": 3.555,
+    "score": 0.717
+  },
+  {
+    "word": "is",
+    "start": 3.635,
+    "end": 3.715,
+    "score": 0.818
+  },
+  {
+    "word": "only",
+    "start": 3.775,
+    "end": 3.975,
+    "score": 0.62
+  },
+  {
+    "word": "half",
+    "start": 4.036,
+    "end": 4.236,
+    "score": 0.87
+  },
+  {
+    "word": "of",
+    "start": 4.256,
+    "end": 4.316,
+    "score": 0.747
+  },
+  {
+    "word": "the",
+    "start": 4.356,
+    "end": 4.436,
+    "score": 0.833
+  },
+  {
+    "word": "story.",
+    "start": 4.476,
+    "end": 4.856,
+    "score": 0.804
+  },
+  {
+    "word": "The",
+    "start": 5.417,
+    "end": 5.517,
+    "score": 0.684
+  },
+  {
+    "word": "other",
+    "start": 5.557,
+    "end": 5.737,
+    "score": 0.719
+  },
+  {
+    "word": "half",
+    "start": 5.778,
+    "end": 6.018,
+    "score": 0.888
+  },
+  {
+    "word": "is",
+    "start": 6.078,
+    "end": 6.158,
+    "score": 0.74
+  },
+  {
+    "word": "that",
+    "start": 6.178,
+    "end": 6.318,
+    "score": 0.934
+  },
+  {
+    "word": "beyond",
+    "start": 6.378,
+    "end": 6.618,
+    "score": 0.812
+  },
+  {
+    "word": "a",
+    "start": 6.659,
+    "end": 6.699,
+    "score": 0.5
+  },
+  {
+    "word": "certain",
+    "start": 6.739,
+    "end": 7.079,
+    "score": 0.834
+  },
+  {
+    "word": "point",
+    "start": 7.139,
+    "end": 7.399,
+    "score": 0.749
+  },
+  {
+    "word": "which",
+    "start": 7.439,
+    "end": 7.56,
+    "score": 0.998
+  },
+  {
+    "word": "is",
+    "start": 7.62,
+    "end": 7.68,
+    "score": 0.803
+  },
+  {
+    "word": "easily",
+    "start": 7.8,
+    "end": 8.1,
+    "score": 0.811
+  },
+  {
+    "word": "reached,",
+    "start": 8.16,
+    "end": 8.501,
+    "score": 0.745
+  },
+  {
+    "word": "the",
+    "start": 8.901,
+    "end": 9.001,
+    "score": 0.675
+  },
+  {
+    "word": "more",
+    "start": 9.021,
+    "end": 9.141,
+    "score": 0.916
+  },
+  {
+    "word": "you",
+    "start": 9.181,
+    "end": 9.302,
+    "score": 0.802
+  },
+  {
+    "word": "work",
+    "start": 9.322,
+    "end": 9.562,
+    "score": 0.796
+  },
+  {
+    "word": "the",
+    "start": 9.582,
+    "end": 9.662,
+    "score": 0.833
+  },
+  {
+    "word": "poorer",
+    "start": 9.682,
+    "end": 9.962,
+    "score": 0.644
+  },
+  {
+    "word": "the",
+    "start": 9.982,
+    "end": 10.062,
+    "score": 0.84
+  },
+  {
+    "word": "results.",
+    "start": 10.102,
+    "end": 10.503,
+    "score": 0.929
+  },
+  {
+    "word": "In",
+    "start": 11.444,
+    "end": 11.504,
+    "score": 0.76
+  },
+  {
+    "word": "my",
+    "start": 11.544,
+    "end": 11.684,
+    "score": 0.863
+  },
+  {
+    "word": "particular",
+    "start": 11.724,
+    "end": 12.185,
+    "score": 0.908
+  },
+  {
+    "word": "college",
+    "start": 12.225,
+    "end": 12.585,
+    "score": 0.89
+  },
+  {
+    "word": "you",
+    "start": 12.745,
+    "end": 12.826,
+    "score": 0.835
+  },
+  {
+    "word": "would",
+    "start": 12.846,
+    "end": 12.966,
+    "score": 0.992
+  },
+  {
+    "word": "be",
+    "start": 12.986,
+    "end": 13.046,
+    "score": 0.75
+  },
+  {
+    "word": "supposed",
+    "start": 13.086,
+    "end": 13.426,
+    "score": 0.89
+  },
+  {
+    "word": "to",
+    "start": 13.466,
+    "end": 13.506,
+    "score": 1.0
+  },
+  {
+    "word": "devote",
+    "start": 13.546,
+    "end": 13.847,
+    "score": 0.841
+  },
+  {
+    "word": "not",
+    "start": 13.927,
+    "end": 14.067,
+    "score": 0.778
+  },
+  {
+    "word": "more",
+    "start": 14.107,
+    "end": 14.247,
+    "score": 0.829
+  },
+  {
+    "word": "than",
+    "start": 14.267,
+    "end": 14.407,
+    "score": 0.713
+  },
+  {
+    "word": "15",
+    "start": 14.507,
+    "end": 14.768,
+    "score": 0.416
+  },
+  {
+    "word": "hours",
+    "start": 14.808,
+    "end": 15.068,
+    "score": 0.8
+  },
+  {
+    "word": "a",
+    "start": 15.128,
+    "end": 15.168,
+    "score": 0.975
+  },
+  {
+    "word": "week",
+    "start": 15.208,
+    "end": 15.408,
+    "score": 0.87
+  },
+  {
+    "word": "to",
+    "start": 15.449,
+    "end": 15.529,
+    "score": 0.752
+  },
+  {
+    "word": "classes",
+    "start": 15.549,
+    "end": 15.989,
+    "score": 0.94
+  },
+  {
+    "word": "and",
+    "start": 16.39,
+    "end": 16.49,
+    "score": 0.751
+  },
+  {
+    "word": "another",
+    "start": 16.53,
+    "end": 16.81,
+    "score": 0.818
+  },
+  {
+    "word": "30",
+    "start": 17.07,
+    "end": 17.211,
+    "score": 0.782
+  },
+  {
+    "word": "to",
+    "start": 17.251,
+    "end": 17.351,
+    "score": 0.712
+  },
+  {
+    "word": "outside",
+    "start": 17.431,
+    "end": 17.831,
+    "score": 0.939
+  },
+  {
+    "word": "assignments.",
+    "start": 17.871,
+    "end": 18.412,
+    "score": 0.893
+  }
+]

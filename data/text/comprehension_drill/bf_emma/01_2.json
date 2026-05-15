@@ -1,0 +1,248 @@
+[
+  {
+    "word": "Doctors",
+    "start": 0.031,
+    "end": 0.392,
+    "score": 0.753
+  },
+  {
+    "word": "encourage",
+    "start": 0.472,
+    "end": 0.933,
+    "score": 0.894
+  },
+  {
+    "word": "people",
+    "start": 0.973,
+    "end": 1.294,
+    "score": 0.846
+  },
+  {
+    "word": "to",
+    "start": 1.334,
+    "end": 1.415,
+    "score": 0.759
+  },
+  {
+    "word": "have",
+    "start": 1.455,
+    "end": 1.595,
+    "score": 0.84
+  },
+  {
+    "word": "complete",
+    "start": 1.635,
+    "end": 2.056,
+    "score": 0.8
+  },
+  {
+    "word": "physical",
+    "start": 2.116,
+    "end": 2.477,
+    "score": 0.86
+  },
+  {
+    "word": "examinations",
+    "start": 2.538,
+    "end": 3.3,
+    "score": 0.846
+  },
+  {
+    "word": "regularly",
+    "start": 3.4,
+    "end": 3.881,
+    "score": 0.814
+  },
+  {
+    "word": "and",
+    "start": 4.302,
+    "end": 4.382,
+    "score": 0.841
+  },
+  {
+    "word": "not",
+    "start": 4.442,
+    "end": 4.583,
+    "score": 0.885
+  },
+  {
+    "word": "to",
+    "start": 4.623,
+    "end": 4.703,
+    "score": 0.993
+  },
+  {
+    "word": "wait",
+    "start": 4.743,
+    "end": 5.004,
+    "score": 0.852
+  },
+  {
+    "word": "until",
+    "start": 5.345,
+    "end": 5.626,
+    "score": 0.773
+  },
+  {
+    "word": "illnesses",
+    "start": 5.706,
+    "end": 6.167,
+    "score": 0.788
+  },
+  {
+    "word": "have",
+    "start": 6.207,
+    "end": 6.307,
+    "score": 0.875
+  },
+  {
+    "word": "become",
+    "start": 6.327,
+    "end": 6.628,
+    "score": 0.929
+  },
+  {
+    "word": "serious",
+    "start": 6.708,
+    "end": 7.15,
+    "score": 0.841
+  },
+  {
+    "word": "before",
+    "start": 7.21,
+    "end": 7.49,
+    "score": 0.891
+  },
+  {
+    "word": "having",
+    "start": 7.531,
+    "end": 7.751,
+    "score": 0.917
+  },
+  {
+    "word": "them",
+    "start": 7.791,
+    "end": 7.932,
+    "score": 0.876
+  },
+  {
+    "word": "treated.",
+    "start": 7.992,
+    "end": 8.393,
+    "score": 0.782
+  },
+  {
+    "word": "Everybody",
+    "start": 9.435,
+    "end": 9.816,
+    "score": 0.867
+  },
+  {
+    "word": "believes",
+    "start": 9.877,
+    "end": 10.217,
+    "score": 0.795
+  },
+  {
+    "word": "that",
+    "start": 10.278,
+    "end": 10.478,
+    "score": 0.832
+  },
+  {
+    "word": "an",
+    "start": 10.959,
+    "end": 11.04,
+    "score": 0.917
+  },
+  {
+    "word": "ounce",
+    "start": 11.16,
+    "end": 11.36,
+    "score": 0.793
+  },
+  {
+    "word": "of",
+    "start": 11.401,
+    "end": 11.461,
+    "score": 0.752
+  },
+  {
+    "word": "prevention",
+    "start": 11.521,
+    "end": 12.042,
+    "score": 0.866
+  },
+  {
+    "word": "is",
+    "start": 12.122,
+    "end": 12.183,
+    "score": 0.75
+  },
+  {
+    "word": "worth",
+    "start": 12.243,
+    "end": 12.463,
+    "score": 0.794
+  },
+  {
+    "word": "a",
+    "start": 12.503,
+    "end": 12.523,
+    "score": 0.999
+  },
+  {
+    "word": "pound",
+    "start": 12.564,
+    "end": 12.784,
+    "score": 0.743
+  },
+  {
+    "word": "of",
+    "start": 12.804,
+    "end": 12.864,
+    "score": 0.751
+  },
+  {
+    "word": "cure,",
+    "start": 12.904,
+    "end": 13.225,
+    "score": 0.814
+  },
+  {
+    "word": "but",
+    "start": 13.747,
+    "end": 13.867,
+    "score": 0.833
+  },
+  {
+    "word": "not",
+    "start": 13.907,
+    "end": 14.047,
+    "score": 0.783
+  },
+  {
+    "word": "everybody",
+    "start": 14.188,
+    "end": 14.589,
+    "score": 0.709
+  },
+  {
+    "word": "follows",
+    "start": 14.649,
+    "end": 14.97,
+    "score": 0.896
+  },
+  {
+    "word": "this",
+    "start": 15.01,
+    "end": 15.17,
+    "score": 0.724
+  },
+  {
+    "word": "advice.",
+    "start": 15.231,
+    "end": 15.632,
+    "score": 0.973
+  }
+]

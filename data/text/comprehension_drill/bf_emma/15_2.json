@@ -1,0 +1,440 @@
+[
+  {
+    "word": "Now",
+    "start": 0.071,
+    "end": 0.211,
+    "score": 0.938
+  },
+  {
+    "word": "that",
+    "start": 0.272,
+    "end": 0.372,
+    "score": 0.875
+  },
+  {
+    "word": "you",
+    "start": 0.392,
+    "end": 0.492,
+    "score": 0.683
+  },
+  {
+    "word": "are",
+    "start": 0.532,
+    "end": 0.612,
+    "score": 0.984
+  },
+  {
+    "word": "in",
+    "start": 0.652,
+    "end": 0.712,
+    "score": 0.762
+  },
+  {
+    "word": "college",
+    "start": 0.773,
+    "end": 1.133,
+    "score": 0.942
+  },
+  {
+    "word": "and",
+    "start": 1.213,
+    "end": 1.294,
+    "score": 0.834
+  },
+  {
+    "word": "going",
+    "start": 1.334,
+    "end": 1.574,
+    "score": 0.844
+  },
+  {
+    "word": "to",
+    "start": 1.614,
+    "end": 1.674,
+    "score": 1.0
+  },
+  {
+    "word": "classes,",
+    "start": 1.715,
+    "end": 2.155,
+    "score": 0.876
+  },
+  {
+    "word": "pause",
+    "start": 2.616,
+    "end": 2.897,
+    "score": 0.931
+  },
+  {
+    "word": "long",
+    "start": 2.957,
+    "end": 3.097,
+    "score": 0.788
+  },
+  {
+    "word": "enough",
+    "start": 3.138,
+    "end": 3.358,
+    "score": 0.669
+  },
+  {
+    "word": "to",
+    "start": 3.418,
+    "end": 3.478,
+    "score": 0.996
+  },
+  {
+    "word": "ask",
+    "start": 3.558,
+    "end": 3.719,
+    "score": 0.682
+  },
+  {
+    "word": "yourself",
+    "start": 3.739,
+    "end": 4.059,
+    "score": 0.833
+  },
+  {
+    "word": "why",
+    "start": 4.12,
+    "end": 4.3,
+    "score": 0.825
+  },
+  {
+    "word": "we",
+    "start": 4.36,
+    "end": 4.44,
+    "score": 0.756
+  },
+  {
+    "word": "are",
+    "start": 4.48,
+    "end": 4.54,
+    "score": 1.0
+  },
+  {
+    "word": "teaching",
+    "start": 4.581,
+    "end": 4.981,
+    "score": 0.692
+  },
+  {
+    "word": "and",
+    "start": 5.062,
+    "end": 5.162,
+    "score": 0.682
+  },
+  {
+    "word": "you",
+    "start": 5.182,
+    "end": 5.262,
+    "score": 0.993
+  },
+  {
+    "word": "are",
+    "start": 5.322,
+    "end": 5.402,
+    "score": 0.844
+  },
+  {
+    "word": "learning.",
+    "start": 5.422,
+    "end": 5.803,
+    "score": 0.809
+  },
+  {
+    "word": "In",
+    "start": 6.585,
+    "end": 6.665,
+    "score": 0.748
+  },
+  {
+    "word": "spite",
+    "start": 6.725,
+    "end": 6.986,
+    "score": 0.839
+  },
+  {
+    "word": "of",
+    "start": 7.046,
+    "end": 7.086,
+    "score": 1.0
+  },
+  {
+    "word": "what",
+    "start": 7.126,
+    "end": 7.246,
+    "score": 0.876
+  },
+  {
+    "word": "you",
+    "start": 7.286,
+    "end": 7.386,
+    "score": 0.819
+  },
+  {
+    "word": "may",
+    "start": 7.406,
+    "end": 7.507,
+    "score": 0.856
+  },
+  {
+    "word": "have",
+    "start": 7.527,
+    "end": 7.627,
+    "score": 0.907
+  },
+  {
+    "word": "heard",
+    "start": 7.667,
+    "end": 7.847,
+    "score": 0.705
+  },
+  {
+    "word": "from",
+    "start": 7.908,
+    "end": 8.028,
+    "score": 0.902
+  },
+  {
+    "word": "us",
+    "start": 8.108,
+    "end": 8.208,
+    "score": 0.819
+  },
+  {
+    "word": "or",
+    "start": 8.469,
+    "end": 8.549,
+    "score": 0.81
+  },
+  {
+    "word": "your",
+    "start": 8.569,
+    "end": 8.749,
+    "score": 0.646
+  },
+  {
+    "word": "high",
+    "start": 8.789,
+    "end": 8.99,
+    "score": 0.792
+  },
+  {
+    "word": "school",
+    "start": 9.03,
+    "end": 9.25,
+    "score": 0.749
+  },
+  {
+    "word": "teachers",
+    "start": 9.31,
+    "end": 9.731,
+    "score": 0.744
+  },
+  {
+    "word": "or",
+    "start": 9.912,
+    "end": 9.992,
+    "score": 0.736
+  },
+  {
+    "word": "your",
+    "start": 10.032,
+    "end": 10.152,
+    "score": 0.871
+  },
+  {
+    "word": "parents,",
+    "start": 10.192,
+    "end": 10.593,
+    "score": 0.906
+  },
+  {
+    "word": "the",
+    "start": 11.114,
+    "end": 11.214,
+    "score": 0.686
+  },
+  {
+    "word": "answer",
+    "start": 11.295,
+    "end": 11.575,
+    "score": 0.819
+  },
+  {
+    "word": "is",
+    "start": 11.655,
+    "end": 11.716,
+    "score": 0.752
+  },
+  {
+    "word": "not",
+    "start": 11.796,
+    "end": 11.976,
+    "score": 0.743
+  },
+  {
+    "word": "that",
+    "start": 12.036,
+    "end": 12.156,
+    "score": 0.761
+  },
+  {
+    "word": "we",
+    "start": 12.176,
+    "end": 12.257,
+    "score": 0.995
+  },
+  {
+    "word": "know",
+    "start": 12.317,
+    "end": 12.477,
+    "score": 0.786
+  },
+  {
+    "word": "the",
+    "start": 12.517,
+    "end": 12.617,
+    "score": 0.83
+  },
+  {
+    "word": "final",
+    "start": 12.657,
+    "end": 12.998,
+    "score": 0.891
+  },
+  {
+    "word": "answers",
+    "start": 13.118,
+    "end": 13.439,
+    "score": 0.764
+  },
+  {
+    "word": "to",
+    "start": 13.479,
+    "end": 13.539,
+    "score": 1.0
+  },
+  {
+    "word": "the",
+    "start": 13.579,
+    "end": 13.66,
+    "score": 0.833
+  },
+  {
+    "word": "problems",
+    "start": 13.68,
+    "end": 14.121,
+    "score": 0.726
+  },
+  {
+    "word": "we",
+    "start": 14.181,
+    "end": 14.261,
+    "score": 0.788
+  },
+  {
+    "word": "are",
+    "start": 14.281,
+    "end": 14.361,
+    "score": 0.833
+  },
+  {
+    "word": "discussing.",
+    "start": 14.401,
+    "end": 14.902,
+    "score": 0.847
+  },
+  {
+    "word": "We",
+    "start": 15.704,
+    "end": 15.764,
+    "score": 0.776
+  },
+  {
+    "word": "are",
+    "start": 15.804,
+    "end": 15.904,
+    "score": 0.674
+  },
+  {
+    "word": "teaching",
+    "start": 15.924,
+    "end": 16.345,
+    "score": 0.56
+  },
+  {
+    "word": "because",
+    "start": 16.606,
+    "end": 16.826,
+    "score": 0.924
+  },
+  {
+    "word": "we",
+    "start": 16.846,
+    "end": 16.926,
+    "score": 0.72
+  },
+  {
+    "word": "have",
+    "start": 16.946,
+    "end": 17.047,
+    "score": 0.923
+  },
+  {
+    "word": "studied",
+    "start": 17.087,
+    "end": 17.407,
+    "score": 0.916
+  },
+  {
+    "word": "carefully",
+    "start": 17.488,
+    "end": 17.888,
+    "score": 0.939
+  },
+  {
+    "word": "subjects",
+    "start": 17.949,
+    "end": 18.43,
+    "score": 0.837
+  },
+  {
+    "word": "in",
+    "start": 18.49,
+    "end": 18.55,
+    "score": 0.996
+  },
+  {
+    "word": "which",
+    "start": 18.59,
+    "end": 18.75,
+    "score": 0.837
+  },
+  {
+    "word": "you",
+    "start": 18.79,
+    "end": 18.871,
+    "score": 0.863
+  },
+  {
+    "word": "are",
+    "start": 18.931,
+    "end": 19.031,
+    "score": 0.794
+  },
+  {
+    "word": "a",
+    "start": 19.071,
+    "end": 19.091,
+    "score": 1.0
+  },
+  {
+    "word": "beginner.",
+    "start": 19.131,
+    "end": 19.472,
+    "score": 0.928
+  }
+]

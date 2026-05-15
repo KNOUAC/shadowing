@@ -1,0 +1,368 @@
+[
+  {
+    "word": "But",
+    "start": 0.031,
+    "end": 0.312,
+    "score": 0.789
+  },
+  {
+    "word": "100",
+    "start": 0.352,
+    "end": 0.632,
+    "score": 0.414
+  },
+  {
+    "word": "years",
+    "start": 0.672,
+    "end": 0.893,
+    "score": 0.766
+  },
+  {
+    "word": "later,",
+    "start": 0.933,
+    "end": 1.293,
+    "score": 0.799
+  },
+  {
+    "word": "we",
+    "start": 1.674,
+    "end": 1.774,
+    "score": 0.906
+  },
+  {
+    "word": "must",
+    "start": 1.814,
+    "end": 1.975,
+    "score": 0.853
+  },
+  {
+    "word": "face",
+    "start": 2.035,
+    "end": 2.255,
+    "score": 0.928
+  },
+  {
+    "word": "the",
+    "start": 2.295,
+    "end": 2.376,
+    "score": 0.834
+  },
+  {
+    "word": "tragic",
+    "start": 2.396,
+    "end": 2.756,
+    "score": 0.823
+  },
+  {
+    "word": "fact",
+    "start": 2.816,
+    "end": 3.077,
+    "score": 0.915
+  },
+  {
+    "word": "that",
+    "start": 3.137,
+    "end": 3.237,
+    "score": 1.0
+  },
+  {
+    "word": "the",
+    "start": 3.257,
+    "end": 3.337,
+    "score": 0.837
+  },
+  {
+    "word": "Negro",
+    "start": 3.377,
+    "end": 3.698,
+    "score": 0.742
+  },
+  {
+    "word": "is",
+    "start": 3.758,
+    "end": 3.818,
+    "score": 0.75
+  },
+  {
+    "word": "still",
+    "start": 3.858,
+    "end": 4.059,
+    "score": 0.872
+  },
+  {
+    "word": "not",
+    "start": 4.119,
+    "end": 4.259,
+    "score": 0.835
+  },
+  {
+    "word": "free.",
+    "start": 4.319,
+    "end": 4.58,
+    "score": 0.735
+  },
+  {
+    "word": "100",
+    "start": 5.522,
+    "end": 5.882,
+    "score": 0.313
+  },
+  {
+    "word": "years",
+    "start": 5.902,
+    "end": 6.123,
+    "score": 0.82
+  },
+  {
+    "word": "later,",
+    "start": 6.183,
+    "end": 6.524,
+    "score": 0.881
+  },
+  {
+    "word": "the",
+    "start": 6.904,
+    "end": 7.004,
+    "score": 0.676
+  },
+  {
+    "word": "life",
+    "start": 7.045,
+    "end": 7.225,
+    "score": 0.874
+  },
+  {
+    "word": "of",
+    "start": 7.265,
+    "end": 7.325,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 7.345,
+    "end": 7.425,
+    "score": 0.835
+  },
+  {
+    "word": "Negro",
+    "start": 7.465,
+    "end": 7.766,
+    "score": 0.878
+  },
+  {
+    "word": "is",
+    "start": 7.826,
+    "end": 7.906,
+    "score": 0.502
+  },
+  {
+    "word": "still",
+    "start": 7.926,
+    "end": 8.167,
+    "score": 0.795
+  },
+  {
+    "word": "sadly",
+    "start": 8.207,
+    "end": 8.547,
+    "score": 0.746
+  },
+  {
+    "word": "crippled",
+    "start": 8.608,
+    "end": 8.948,
+    "score": 0.779
+  },
+  {
+    "word": "by",
+    "start": 9.008,
+    "end": 9.129,
+    "score": 0.83
+  },
+  {
+    "word": "the",
+    "start": 9.149,
+    "end": 9.229,
+    "score": 0.833
+  },
+  {
+    "word": "manacles",
+    "start": 9.269,
+    "end": 9.65,
+    "score": 0.852
+  },
+  {
+    "word": "of",
+    "start": 9.69,
+    "end": 9.75,
+    "score": 0.75
+  },
+  {
+    "word": "segregation",
+    "start": 9.77,
+    "end": 10.451,
+    "score": 0.897
+  },
+  {
+    "word": "and",
+    "start": 10.832,
+    "end": 10.912,
+    "score": 0.954
+  },
+  {
+    "word": "the",
+    "start": 10.952,
+    "end": 11.032,
+    "score": 0.834
+  },
+  {
+    "word": "chains",
+    "start": 11.072,
+    "end": 11.433,
+    "score": 0.898
+  },
+  {
+    "word": "of",
+    "start": 11.473,
+    "end": 11.533,
+    "score": 0.75
+  },
+  {
+    "word": "discrimination.",
+    "start": 11.573,
+    "end": 12.355,
+    "score": 0.829
+  },
+  {
+    "word": "100",
+    "start": 13.277,
+    "end": 13.677,
+    "score": 0.187
+  },
+  {
+    "word": "years",
+    "start": 13.717,
+    "end": 13.958,
+    "score": 0.681
+  },
+  {
+    "word": "later,",
+    "start": 14.018,
+    "end": 14.359,
+    "score": 0.867
+  },
+  {
+    "word": "the",
+    "start": 14.719,
+    "end": 14.82,
+    "score": 0.68
+  },
+  {
+    "word": "Negro",
+    "start": 14.86,
+    "end": 15.18,
+    "score": 0.82
+  },
+  {
+    "word": "lives",
+    "start": 15.24,
+    "end": 15.521,
+    "score": 0.88
+  },
+  {
+    "word": "on",
+    "start": 15.581,
+    "end": 15.661,
+    "score": 0.832
+  },
+  {
+    "word": "a",
+    "start": 15.681,
+    "end": 15.721,
+    "score": 0.501
+  },
+  {
+    "word": "lonely",
+    "start": 15.761,
+    "end": 16.082,
+    "score": 0.759
+  },
+  {
+    "word": "island",
+    "start": 16.262,
+    "end": 16.543,
+    "score": 0.86
+  },
+  {
+    "word": "of",
+    "start": 16.563,
+    "end": 16.623,
+    "score": 0.762
+  },
+  {
+    "word": "poverty",
+    "start": 16.683,
+    "end": 17.104,
+    "score": 0.821
+  },
+  {
+    "word": "in",
+    "start": 17.525,
+    "end": 17.585,
+    "score": 0.754
+  },
+  {
+    "word": "the",
+    "start": 17.625,
+    "end": 17.685,
+    "score": 1.0
+  },
+  {
+    "word": "midst",
+    "start": 17.725,
+    "end": 17.926,
+    "score": 0.887
+  },
+  {
+    "word": "of",
+    "start": 17.966,
+    "end": 18.026,
+    "score": 0.75
+  },
+  {
+    "word": "a",
+    "start": 18.066,
+    "end": 18.106,
+    "score": 0.5
+  },
+  {
+    "word": "vast",
+    "start": 18.146,
+    "end": 18.447,
+    "score": 0.857
+  },
+  {
+    "word": "ocean",
+    "start": 18.607,
+    "end": 18.887,
+    "score": 0.892
+  },
+  {
+    "word": "of",
+    "start": 18.907,
+    "end": 18.968,
+    "score": 0.752
+  },
+  {
+    "word": "material",
+    "start": 19.028,
+    "end": 19.469,
+    "score": 0.855
+  },
+  {
+    "word": "prosperity.",
+    "start": 19.529,
+    "end": 20.11,
+    "score": 0.862
+  }
+]

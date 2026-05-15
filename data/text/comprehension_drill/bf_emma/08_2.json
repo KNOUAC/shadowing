@@ -1,0 +1,356 @@
+[
+  {
+    "word": "Had",
+    "start": 0.051,
+    "end": 0.151,
+    "score": 0.848
+  },
+  {
+    "word": "we",
+    "start": 0.191,
+    "end": 0.251,
+    "score": 0.997
+  },
+  {
+    "word": "shown",
+    "start": 0.292,
+    "end": 0.532,
+    "score": 0.748
+  },
+  {
+    "word": "other",
+    "start": 0.612,
+    "end": 0.793,
+    "score": 0.934
+  },
+  {
+    "word": "nations",
+    "start": 0.853,
+    "end": 1.293,
+    "score": 0.817
+  },
+  {
+    "word": "the",
+    "start": 1.354,
+    "end": 1.434,
+    "score": 0.975
+  },
+  {
+    "word": "test",
+    "start": 1.474,
+    "end": 1.714,
+    "score": 0.962
+  },
+  {
+    "word": "explosion",
+    "start": 1.794,
+    "end": 2.316,
+    "score": 0.931
+  },
+  {
+    "word": "at",
+    "start": 2.356,
+    "end": 2.416,
+    "score": 0.888
+  },
+  {
+    "word": "Alamogordo,",
+    "start": 2.456,
+    "end": 3.137,
+    "score": 0.89
+  },
+  {
+    "word": "New",
+    "start": 3.257,
+    "end": 3.398,
+    "score": 0.719
+  },
+  {
+    "word": "Mexico,",
+    "start": 3.418,
+    "end": 3.939,
+    "score": 0.86
+  },
+  {
+    "word": "we",
+    "start": 4.44,
+    "end": 4.52,
+    "score": 0.998
+  },
+  {
+    "word": "could",
+    "start": 4.54,
+    "end": 4.68,
+    "score": 0.833
+  },
+  {
+    "word": "have",
+    "start": 4.7,
+    "end": 4.8,
+    "score": 0.875
+  },
+  {
+    "word": "used",
+    "start": 4.881,
+    "end": 5.041,
+    "score": 0.901
+  },
+  {
+    "word": "it",
+    "start": 5.101,
+    "end": 5.161,
+    "score": 0.866
+  },
+  {
+    "word": "as",
+    "start": 5.261,
+    "end": 5.321,
+    "score": 0.888
+  },
+  {
+    "word": "an",
+    "start": 5.362,
+    "end": 5.422,
+    "score": 0.749
+  },
+  {
+    "word": "education",
+    "start": 5.482,
+    "end": 6.083,
+    "score": 0.881
+  },
+  {
+    "word": "for",
+    "start": 6.123,
+    "end": 6.243,
+    "score": 0.722
+  },
+  {
+    "word": "new",
+    "start": 6.303,
+    "end": 6.424,
+    "score": 0.885
+  },
+  {
+    "word": "ideas.",
+    "start": 6.504,
+    "end": 6.945,
+    "score": 0.857
+  },
+  {
+    "word": "It",
+    "start": 7.646,
+    "end": 7.706,
+    "score": 0.724
+  },
+  {
+    "word": "would",
+    "start": 7.726,
+    "end": 7.826,
+    "score": 1.0
+  },
+  {
+    "word": "have",
+    "start": 7.846,
+    "end": 7.927,
+    "score": 1.0
+  },
+  {
+    "word": "been",
+    "start": 7.947,
+    "end": 8.067,
+    "score": 1.0
+  },
+  {
+    "word": "an",
+    "start": 8.087,
+    "end": 8.127,
+    "score": 0.996
+  },
+  {
+    "word": "impressive",
+    "start": 8.187,
+    "end": 8.688,
+    "score": 0.868
+  },
+  {
+    "word": "and",
+    "start": 8.748,
+    "end": 8.828,
+    "score": 0.864
+  },
+  {
+    "word": "favourable",
+    "start": 8.889,
+    "end": 9.349,
+    "score": 0.724
+  },
+  {
+    "word": "moment",
+    "start": 9.41,
+    "end": 9.73,
+    "score": 0.925
+  },
+  {
+    "word": "to",
+    "start": 10.031,
+    "end": 10.111,
+    "score": 0.975
+  },
+  {
+    "word": "make",
+    "start": 10.151,
+    "end": 10.291,
+    "score": 0.751
+  },
+  {
+    "word": "considered",
+    "start": 10.331,
+    "end": 10.752,
+    "score": 0.85
+  },
+  {
+    "word": "proposals",
+    "start": 10.792,
+    "end": 11.313,
+    "score": 0.819
+  },
+  {
+    "word": "for",
+    "start": 11.353,
+    "end": 11.474,
+    "score": 0.677
+  },
+  {
+    "word": "world",
+    "start": 11.494,
+    "end": 11.754,
+    "score": 0.877
+  },
+  {
+    "word": "order",
+    "start": 11.854,
+    "end": 12.055,
+    "score": 0.913
+  },
+  {
+    "word": "to",
+    "start": 12.075,
+    "end": 12.155,
+    "score": 0.861
+  },
+  {
+    "word": "end",
+    "start": 12.255,
+    "end": 12.395,
+    "score": 0.807
+  },
+  {
+    "word": "war.",
+    "start": 12.436,
+    "end": 12.716,
+    "score": 0.896
+  },
+  {
+    "word": "Our",
+    "start": 13.678,
+    "end": 13.778,
+    "score": 0.673
+  },
+  {
+    "word": "renunciation",
+    "start": 13.798,
+    "end": 14.5,
+    "score": 0.878
+  },
+  {
+    "word": "of",
+    "start": 14.54,
+    "end": 14.58,
+    "score": 1.0
+  },
+  {
+    "word": "this",
+    "start": 14.62,
+    "end": 14.76,
+    "score": 0.758
+  },
+  {
+    "word": "weapon",
+    "start": 14.82,
+    "end": 15.101,
+    "score": 0.831
+  },
+  {
+    "word": "as",
+    "start": 15.181,
+    "end": 15.261,
+    "score": 0.824
+  },
+  {
+    "word": "too",
+    "start": 15.321,
+    "end": 15.502,
+    "score": 0.888
+  },
+  {
+    "word": "terrible",
+    "start": 15.542,
+    "end": 15.922,
+    "score": 0.856
+  },
+  {
+    "word": "to",
+    "start": 15.983,
+    "end": 16.063,
+    "score": 0.751
+  },
+  {
+    "word": "use",
+    "start": 16.203,
+    "end": 16.343,
+    "score": 0.825
+  },
+  {
+    "word": "would",
+    "start": 16.403,
+    "end": 16.524,
+    "score": 0.9
+  },
+  {
+    "word": "have",
+    "start": 16.544,
+    "end": 16.624,
+    "score": 1.0
+  },
+  {
+    "word": "carried",
+    "start": 16.644,
+    "end": 16.944,
+    "score": 0.858
+  },
+  {
+    "word": "great",
+    "start": 17.005,
+    "end": 17.245,
+    "score": 0.925
+  },
+  {
+    "word": "weight",
+    "start": 17.305,
+    "end": 17.566,
+    "score": 0.878
+  },
+  {
+    "word": "in",
+    "start": 17.646,
+    "end": 17.706,
+    "score": 0.998
+  },
+  {
+    "word": "negotiations.",
+    "start": 17.746,
+    "end": 18.588,
+    "score": 0.84
+  }
+]

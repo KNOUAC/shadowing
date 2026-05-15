@@ -1,0 +1,422 @@
+[
+  {
+    "word": "What",
+    "start": 0.031,
+    "end": 0.171,
+    "score": 0.644
+  },
+  {
+    "word": "is",
+    "start": 0.211,
+    "end": 0.292,
+    "score": 0.534
+  },
+  {
+    "word": "the",
+    "start": 0.312,
+    "end": 0.372,
+    "score": 1.0
+  },
+  {
+    "word": "use",
+    "start": 0.472,
+    "end": 0.572,
+    "score": 0.892
+  },
+  {
+    "word": "of",
+    "start": 0.612,
+    "end": 0.672,
+    "score": 0.75
+  },
+  {
+    "word": "poetry?",
+    "start": 0.732,
+    "end": 1.213,
+    "score": 0.738
+  },
+  {
+    "word": "A",
+    "start": 1.715,
+    "end": 1.755,
+    "score": 0.85
+  },
+  {
+    "word": "lot",
+    "start": 1.795,
+    "end": 1.935,
+    "score": 0.723
+  },
+  {
+    "word": "of",
+    "start": 1.975,
+    "end": 2.015,
+    "score": 1.0
+  },
+  {
+    "word": "young",
+    "start": 2.075,
+    "end": 2.256,
+    "score": 0.735
+  },
+  {
+    "word": "people,",
+    "start": 2.296,
+    "end": 2.657,
+    "score": 0.767
+  },
+  {
+    "word": "and",
+    "start": 2.977,
+    "end": 3.077,
+    "score": 0.78
+  },
+  {
+    "word": "a",
+    "start": 3.097,
+    "end": 3.138,
+    "score": 0.501
+  },
+  {
+    "word": "lot",
+    "start": 3.178,
+    "end": 3.318,
+    "score": 0.948
+  },
+  {
+    "word": "of",
+    "start": 3.358,
+    "end": 3.418,
+    "score": 0.75
+  },
+  {
+    "word": "grownups",
+    "start": 3.458,
+    "end": 3.919,
+    "score": 0.84
+  },
+  {
+    "word": "too",
+    "start": 3.959,
+    "end": 4.16,
+    "score": 0.773
+  },
+  {
+    "word": "who",
+    "start": 4.22,
+    "end": 4.32,
+    "score": 0.791
+  },
+  {
+    "word": "ought",
+    "start": 4.36,
+    "end": 4.5,
+    "score": 0.802
+  },
+  {
+    "word": "to",
+    "start": 4.52,
+    "end": 4.561,
+    "score": 1.0
+  },
+  {
+    "word": "know",
+    "start": 4.601,
+    "end": 4.721,
+    "score": 0.756
+  },
+  {
+    "word": "better",
+    "start": 4.741,
+    "end": 5.021,
+    "score": 0.85
+  },
+  {
+    "word": "ask",
+    "start": 5.162,
+    "end": 5.362,
+    "score": 0.762
+  },
+  {
+    "word": "this",
+    "start": 5.402,
+    "end": 5.543,
+    "score": 0.758
+  },
+  {
+    "word": "question.",
+    "start": 5.623,
+    "end": 6.044,
+    "score": 0.869
+  },
+  {
+    "word": "They",
+    "start": 6.765,
+    "end": 6.885,
+    "score": 0.79
+  },
+  {
+    "word": "are",
+    "start": 6.905,
+    "end": 7.006,
+    "score": 0.74
+  },
+  {
+    "word": "suspicious",
+    "start": 7.046,
+    "end": 7.547,
+    "score": 0.797
+  },
+  {
+    "word": "of",
+    "start": 7.587,
+    "end": 7.627,
+    "score": 1.0
+  },
+  {
+    "word": "poetry.",
+    "start": 7.687,
+    "end": 8.188,
+    "score": 0.788
+  },
+  {
+    "word": "When",
+    "start": 8.749,
+    "end": 8.91,
+    "score": 0.796
+  },
+  {
+    "word": "someone",
+    "start": 8.95,
+    "end": 9.23,
+    "score": 0.754
+  },
+  {
+    "word": "is",
+    "start": 9.25,
+    "end": 9.31,
+    "score": 0.75
+  },
+  {
+    "word": "suspicious",
+    "start": 9.371,
+    "end": 9.872,
+    "score": 0.768
+  },
+  {
+    "word": "of",
+    "start": 9.912,
+    "end": 9.972,
+    "score": 0.75
+  },
+  {
+    "word": "poetry",
+    "start": 10.012,
+    "end": 10.493,
+    "score": 0.761
+  },
+  {
+    "word": "or",
+    "start": 10.593,
+    "end": 10.673,
+    "score": 0.592
+  },
+  {
+    "word": "painting",
+    "start": 10.733,
+    "end": 11.174,
+    "score": 0.786
+  },
+  {
+    "word": "or",
+    "start": 11.255,
+    "end": 11.315,
+    "score": 0.974
+  },
+  {
+    "word": "music,",
+    "start": 11.375,
+    "end": 11.756,
+    "score": 0.892
+  },
+  {
+    "word": "it",
+    "start": 12.036,
+    "end": 12.096,
+    "score": 0.928
+  },
+  {
+    "word": "is",
+    "start": 12.156,
+    "end": 12.237,
+    "score": 0.676
+  },
+  {
+    "word": "generally",
+    "start": 12.297,
+    "end": 12.678,
+    "score": 0.96
+  },
+  {
+    "word": "because",
+    "start": 12.738,
+    "end": 12.958,
+    "score": 0.725
+  },
+  {
+    "word": "he",
+    "start": 12.978,
+    "end": 13.038,
+    "score": 0.811
+  },
+  {
+    "word": "does",
+    "start": 13.078,
+    "end": 13.219,
+    "score": 0.663
+  },
+  {
+    "word": "not",
+    "start": 13.259,
+    "end": 13.399,
+    "score": 0.758
+  },
+  {
+    "word": "understand",
+    "start": 13.439,
+    "end": 13.88,
+    "score": 0.74
+  },
+  {
+    "word": "them,",
+    "start": 13.92,
+    "end": 14.04,
+    "score": 1.0
+  },
+  {
+    "word": "does",
+    "start": 14.121,
+    "end": 14.281,
+    "score": 0.754
+  },
+  {
+    "word": "not",
+    "start": 14.321,
+    "end": 14.461,
+    "score": 0.722
+  },
+  {
+    "word": "see",
+    "start": 14.501,
+    "end": 14.622,
+    "score": 0.983
+  },
+  {
+    "word": "the",
+    "start": 14.642,
+    "end": 14.722,
+    "score": 0.882
+  },
+  {
+    "word": "point",
+    "start": 14.762,
+    "end": 15.022,
+    "score": 0.757
+  },
+  {
+    "word": "of",
+    "start": 15.042,
+    "end": 15.103,
+    "score": 0.75
+  },
+  {
+    "word": "them.",
+    "start": 15.143,
+    "end": 15.303,
+    "score": 0.904
+  },
+  {
+    "word": "We",
+    "start": 16.025,
+    "end": 16.105,
+    "score": 0.988
+  },
+  {
+    "word": "are",
+    "start": 16.145,
+    "end": 16.245,
+    "score": 0.686
+  },
+  {
+    "word": "always",
+    "start": 16.305,
+    "end": 16.586,
+    "score": 0.759
+  },
+  {
+    "word": "suspicious",
+    "start": 16.626,
+    "end": 17.227,
+    "score": 0.738
+  },
+  {
+    "word": "and",
+    "start": 17.327,
+    "end": 17.428,
+    "score": 0.694
+  },
+  {
+    "word": "a",
+    "start": 17.448,
+    "end": 17.488,
+    "score": 0.5
+  },
+  {
+    "word": "little",
+    "start": 17.528,
+    "end": 17.728,
+    "score": 0.795
+  },
+  {
+    "word": "afraid",
+    "start": 17.768,
+    "end": 18.069,
+    "score": 0.773
+  },
+  {
+    "word": "of",
+    "start": 18.089,
+    "end": 18.149,
+    "score": 0.752
+  },
+  {
+    "word": "things",
+    "start": 18.189,
+    "end": 18.45,
+    "score": 0.744
+  },
+  {
+    "word": "we",
+    "start": 18.49,
+    "end": 18.59,
+    "score": 0.909
+  },
+  {
+    "word": "do",
+    "start": 18.63,
+    "end": 18.71,
+    "score": 0.87
+  },
+  {
+    "word": "not",
+    "start": 18.75,
+    "end": 18.871,
+    "score": 0.885
+  },
+  {
+    "word": "understand.",
+    "start": 18.931,
+    "end": 19.432,
+    "score": 0.876
+  }
+]

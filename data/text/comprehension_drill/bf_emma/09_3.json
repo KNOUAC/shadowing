@@ -1,0 +1,326 @@
+[
+  {
+    "word": "When",
+    "start": 0.031,
+    "end": 0.131,
+    "score": 0.999
+  },
+  {
+    "word": "Henry",
+    "start": 0.191,
+    "end": 0.432,
+    "score": 0.936
+  },
+  {
+    "word": "Arthur",
+    "start": 0.532,
+    "end": 0.772,
+    "score": 0.79
+  },
+  {
+    "word": "Jones,",
+    "start": 0.812,
+    "end": 1.253,
+    "score": 0.856
+  },
+  {
+    "word": "then",
+    "start": 1.533,
+    "end": 1.673,
+    "score": 0.739
+  },
+  {
+    "word": "a",
+    "start": 1.713,
+    "end": 1.734,
+    "score": 0.999
+  },
+  {
+    "word": "well-known",
+    "start": 1.774,
+    "end": 2.194,
+    "score": 0.73
+  },
+  {
+    "word": "playwright,",
+    "start": 2.254,
+    "end": 2.775,
+    "score": 0.744
+  },
+  {
+    "word": "read",
+    "start": 3.075,
+    "end": 3.256,
+    "score": 0.907
+  },
+  {
+    "word": "my",
+    "start": 3.296,
+    "end": 3.436,
+    "score": 0.71
+  },
+  {
+    "word": "first",
+    "start": 3.476,
+    "end": 3.716,
+    "score": 0.62
+  },
+  {
+    "word": "novel,",
+    "start": 3.777,
+    "end": 4.057,
+    "score": 0.855
+  },
+  {
+    "word": "he",
+    "start": 4.578,
+    "end": 4.658,
+    "score": 0.5
+  },
+  {
+    "word": "told",
+    "start": 4.698,
+    "end": 4.898,
+    "score": 0.628
+  },
+  {
+    "word": "a",
+    "start": 4.938,
+    "end": 4.978,
+    "score": 0.502
+  },
+  {
+    "word": "friend",
+    "start": 5.018,
+    "end": 5.279,
+    "score": 0.765
+  },
+  {
+    "word": "that",
+    "start": 5.319,
+    "end": 5.459,
+    "score": 0.654
+  },
+  {
+    "word": "in",
+    "start": 5.499,
+    "end": 5.579,
+    "score": 0.805
+  },
+  {
+    "word": "due",
+    "start": 5.619,
+    "end": 5.799,
+    "score": 0.844
+  },
+  {
+    "word": "course",
+    "start": 5.86,
+    "end": 6.16,
+    "score": 0.824
+  },
+  {
+    "word": "I",
+    "start": 6.36,
+    "end": 6.4,
+    "score": 0.811
+  },
+  {
+    "word": "should",
+    "start": 6.44,
+    "end": 6.601,
+    "score": 0.834
+  },
+  {
+    "word": "be",
+    "start": 6.621,
+    "end": 6.681,
+    "score": 0.754
+  },
+  {
+    "word": "one",
+    "start": 6.741,
+    "end": 6.821,
+    "score": 0.893
+  },
+  {
+    "word": "of",
+    "start": 6.841,
+    "end": 6.901,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 6.921,
+    "end": 7.001,
+    "score": 0.833
+  },
+  {
+    "word": "most",
+    "start": 7.041,
+    "end": 7.202,
+    "score": 0.617
+  },
+  {
+    "word": "successful",
+    "start": 7.242,
+    "end": 7.782,
+    "score": 0.84
+  },
+  {
+    "word": "dramatists",
+    "start": 7.842,
+    "end": 8.423,
+    "score": 0.932
+  },
+  {
+    "word": "of",
+    "start": 8.463,
+    "end": 8.523,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 8.544,
+    "end": 8.624,
+    "score": 0.859
+  },
+  {
+    "word": "day.",
+    "start": 8.664,
+    "end": 8.924,
+    "score": 0.75
+  },
+  {
+    "word": "I",
+    "start": 9.966,
+    "end": 10.026,
+    "score": 0.665
+  },
+  {
+    "word": "suppose",
+    "start": 10.066,
+    "end": 10.406,
+    "score": 0.831
+  },
+  {
+    "word": "he",
+    "start": 10.446,
+    "end": 10.526,
+    "score": 0.758
+  },
+  {
+    "word": "saw",
+    "start": 10.566,
+    "end": 10.767,
+    "score": 0.834
+  },
+  {
+    "word": "in",
+    "start": 10.807,
+    "end": 10.867,
+    "score": 0.751
+  },
+  {
+    "word": "it",
+    "start": 10.927,
+    "end": 10.987,
+    "score": 0.889
+  },
+  {
+    "word": "directness",
+    "start": 11.027,
+    "end": 11.648,
+    "score": 0.872
+  },
+  {
+    "word": "and",
+    "start": 12.089,
+    "end": 12.169,
+    "score": 0.838
+  },
+  {
+    "word": "an",
+    "start": 12.209,
+    "end": 12.269,
+    "score": 0.75
+  },
+  {
+    "word": "effective",
+    "start": 12.309,
+    "end": 12.71,
+    "score": 0.909
+  },
+  {
+    "word": "way",
+    "start": 12.75,
+    "end": 12.91,
+    "score": 0.89
+  },
+  {
+    "word": "of",
+    "start": 12.95,
+    "end": 13.01,
+    "score": 0.75
+  },
+  {
+    "word": "presenting",
+    "start": 13.07,
+    "end": 13.471,
+    "score": 0.9
+  },
+  {
+    "word": "a",
+    "start": 13.511,
+    "end": 13.531,
+    "score": 1.0
+  },
+  {
+    "word": "scene",
+    "start": 13.611,
+    "end": 13.911,
+    "score": 0.619
+  },
+  {
+    "word": "that",
+    "start": 13.971,
+    "end": 14.092,
+    "score": 0.847
+  },
+  {
+    "word": "suggested",
+    "start": 14.132,
+    "end": 14.592,
+    "score": 0.855
+  },
+  {
+    "word": "a",
+    "start": 14.632,
+    "end": 14.652,
+    "score": 1.0
+  },
+  {
+    "word": "sense",
+    "start": 14.693,
+    "end": 14.953,
+    "score": 0.86
+  },
+  {
+    "word": "of",
+    "start": 14.973,
+    "end": 15.033,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 15.073,
+    "end": 15.153,
+    "score": 0.837
+  },
+  {
+    "word": "theatre.",
+    "start": 15.193,
+    "end": 15.594,
+    "score": 0.873
+  }
+]

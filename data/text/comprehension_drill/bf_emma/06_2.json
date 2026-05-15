@@ -1,0 +1,326 @@
+[
+  {
+    "word": "Every",
+    "start": 0.071,
+    "end": 0.272,
+    "score": 0.786
+  },
+  {
+    "word": "nation's",
+    "start": 0.332,
+    "end": 0.773,
+    "score": 0.688
+  },
+  {
+    "word": "foreign",
+    "start": 0.853,
+    "end": 1.153,
+    "score": 0.771
+  },
+  {
+    "word": "policy",
+    "start": 1.193,
+    "end": 1.654,
+    "score": 0.843
+  },
+  {
+    "word": "must",
+    "start": 1.735,
+    "end": 1.895,
+    "score": 0.802
+  },
+  {
+    "word": "be",
+    "start": 1.935,
+    "end": 2.015,
+    "score": 0.993
+  },
+  {
+    "word": "judged",
+    "start": 2.055,
+    "end": 2.416,
+    "score": 0.78
+  },
+  {
+    "word": "at",
+    "start": 2.456,
+    "end": 2.516,
+    "score": 0.75
+  },
+  {
+    "word": "every",
+    "start": 2.596,
+    "end": 2.797,
+    "score": 0.762
+  },
+  {
+    "word": "point",
+    "start": 2.857,
+    "end": 3.118,
+    "score": 0.732
+  },
+  {
+    "word": "by",
+    "start": 3.198,
+    "end": 3.338,
+    "score": 0.669
+  },
+  {
+    "word": "one",
+    "start": 3.438,
+    "end": 3.579,
+    "score": 0.862
+  },
+  {
+    "word": "consideration.",
+    "start": 3.619,
+    "end": 4.4,
+    "score": 0.85
+  },
+  {
+    "word": "Does",
+    "start": 5.042,
+    "end": 5.182,
+    "score": 0.675
+  },
+  {
+    "word": "it",
+    "start": 5.222,
+    "end": 5.262,
+    "score": 1.0
+  },
+  {
+    "word": "lead",
+    "start": 5.302,
+    "end": 5.483,
+    "score": 0.648
+  },
+  {
+    "word": "us",
+    "start": 5.543,
+    "end": 5.623,
+    "score": 0.668
+  },
+  {
+    "word": "to",
+    "start": 5.643,
+    "end": 5.743,
+    "score": 0.745
+  },
+  {
+    "word": "a",
+    "start": 5.763,
+    "end": 5.783,
+    "score": 0.997
+  },
+  {
+    "word": "world",
+    "start": 5.823,
+    "end": 6.084,
+    "score": 0.759
+  },
+  {
+    "word": "of",
+    "start": 6.104,
+    "end": 6.184,
+    "score": 0.667
+  },
+  {
+    "word": "law",
+    "start": 6.224,
+    "end": 6.445,
+    "score": 0.889
+  },
+  {
+    "word": "and",
+    "start": 6.505,
+    "end": 6.585,
+    "score": 0.888
+  },
+  {
+    "word": "order,",
+    "start": 6.685,
+    "end": 6.966,
+    "score": 0.852
+  },
+  {
+    "word": "or",
+    "start": 7.367,
+    "end": 7.427,
+    "score": 0.753
+  },
+  {
+    "word": "does",
+    "start": 7.467,
+    "end": 7.607,
+    "score": 0.64
+  },
+  {
+    "word": "it",
+    "start": 7.647,
+    "end": 7.707,
+    "score": 0.75
+  },
+  {
+    "word": "lead",
+    "start": 7.727,
+    "end": 7.888,
+    "score": 0.842
+  },
+  {
+    "word": "us",
+    "start": 7.948,
+    "end": 8.008,
+    "score": 0.765
+  },
+  {
+    "word": "back",
+    "start": 8.088,
+    "end": 8.289,
+    "score": 0.854
+  },
+  {
+    "word": "toward",
+    "start": 8.329,
+    "end": 8.629,
+    "score": 0.838
+  },
+  {
+    "word": "anarchy",
+    "start": 8.729,
+    "end": 9.11,
+    "score": 0.705
+  },
+  {
+    "word": "and",
+    "start": 9.15,
+    "end": 9.251,
+    "score": 0.677
+  },
+  {
+    "word": "death?",
+    "start": 9.271,
+    "end": 9.551,
+    "score": 0.899
+  },
+  {
+    "word": "I",
+    "start": 10.413,
+    "end": 10.453,
+    "score": 0.521
+  },
+  {
+    "word": "do",
+    "start": 10.493,
+    "end": 10.593,
+    "score": 0.885
+  },
+  {
+    "word": "not",
+    "start": 10.634,
+    "end": 10.734,
+    "score": 0.883
+  },
+  {
+    "word": "believe",
+    "start": 10.794,
+    "end": 11.074,
+    "score": 0.869
+  },
+  {
+    "word": "that",
+    "start": 11.095,
+    "end": 11.195,
+    "score": 0.98
+  },
+  {
+    "word": "we",
+    "start": 11.215,
+    "end": 11.295,
+    "score": 0.834
+  },
+  {
+    "word": "can",
+    "start": 11.315,
+    "end": 11.435,
+    "score": 0.999
+  },
+  {
+    "word": "prepare",
+    "start": 11.475,
+    "end": 11.776,
+    "score": 0.833
+  },
+  {
+    "word": "for",
+    "start": 11.816,
+    "end": 11.916,
+    "score": 0.85
+  },
+  {
+    "word": "war",
+    "start": 11.956,
+    "end": 12.217,
+    "score": 0.895
+  },
+  {
+    "word": "and",
+    "start": 12.578,
+    "end": 12.658,
+    "score": 0.848
+  },
+  {
+    "word": "at",
+    "start": 12.698,
+    "end": 12.738,
+    "score": 1.0
+  },
+  {
+    "word": "the",
+    "start": 12.778,
+    "end": 12.858,
+    "score": 0.838
+  },
+  {
+    "word": "same",
+    "start": 12.898,
+    "end": 13.119,
+    "score": 0.774
+  },
+  {
+    "word": "time",
+    "start": 13.179,
+    "end": 13.46,
+    "score": 0.788
+  },
+  {
+    "word": "prepare",
+    "start": 13.54,
+    "end": 13.9,
+    "score": 0.823
+  },
+  {
+    "word": "for",
+    "start": 13.941,
+    "end": 14.061,
+    "score": 0.726
+  },
+  {
+    "word": "a",
+    "start": 14.101,
+    "end": 14.121,
+    "score": 0.994
+  },
+  {
+    "word": "world",
+    "start": 14.161,
+    "end": 14.422,
+    "score": 0.748
+  },
+  {
+    "word": "community.",
+    "start": 14.462,
+    "end": 14.983,
+    "score": 0.914
+  }
+]

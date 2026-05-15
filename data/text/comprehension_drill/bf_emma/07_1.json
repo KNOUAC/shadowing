@@ -1,0 +1,266 @@
+[
+  {
+    "word": "The",
+    "start": 0.031,
+    "end": 0.091,
+    "score": 0.971
+  },
+  {
+    "word": "press",
+    "start": 0.131,
+    "end": 0.392,
+    "score": 0.794
+  },
+  {
+    "word": "is",
+    "start": 0.472,
+    "end": 0.532,
+    "score": 0.928
+  },
+  {
+    "word": "a",
+    "start": 0.592,
+    "end": 0.612,
+    "score": 0.995
+  },
+  {
+    "word": "political",
+    "start": 0.652,
+    "end": 1.073,
+    "score": 0.81
+  },
+  {
+    "word": "institution",
+    "start": 1.113,
+    "end": 1.714,
+    "score": 0.83
+  },
+  {
+    "word": "in",
+    "start": 1.774,
+    "end": 1.834,
+    "score": 0.753
+  },
+  {
+    "word": "its",
+    "start": 1.875,
+    "end": 1.995,
+    "score": 0.536
+  },
+  {
+    "word": "own",
+    "start": 2.075,
+    "end": 2.195,
+    "score": 0.83
+  },
+  {
+    "word": "right,",
+    "start": 2.275,
+    "end": 2.576,
+    "score": 0.87
+  },
+  {
+    "word": "intimately",
+    "start": 3.097,
+    "end": 3.538,
+    "score": 0.833
+  },
+  {
+    "word": "bound",
+    "start": 3.598,
+    "end": 3.918,
+    "score": 0.833
+  },
+  {
+    "word": "up",
+    "start": 3.999,
+    "end": 4.079,
+    "score": 0.776
+  },
+  {
+    "word": "with",
+    "start": 4.119,
+    "end": 4.239,
+    "score": 0.759
+  },
+  {
+    "word": "all",
+    "start": 4.339,
+    "end": 4.459,
+    "score": 0.769
+  },
+  {
+    "word": "the",
+    "start": 4.479,
+    "end": 4.56,
+    "score": 0.833
+  },
+  {
+    "word": "institutions",
+    "start": 4.62,
+    "end": 5.261,
+    "score": 0.797
+  },
+  {
+    "word": "of",
+    "start": 5.301,
+    "end": 5.361,
+    "score": 0.75
+  },
+  {
+    "word": "government.",
+    "start": 5.401,
+    "end": 5.862,
+    "score": 0.848
+  },
+  {
+    "word": "It",
+    "start": 6.744,
+    "end": 6.804,
+    "score": 0.998
+  },
+  {
+    "word": "affects",
+    "start": 6.864,
+    "end": 7.205,
+    "score": 0.923
+  },
+  {
+    "word": "them,",
+    "start": 7.265,
+    "end": 7.445,
+    "score": 0.864
+  },
+  {
+    "word": "and",
+    "start": 7.766,
+    "end": 7.846,
+    "score": 0.993
+  },
+  {
+    "word": "is",
+    "start": 7.906,
+    "end": 7.966,
+    "score": 0.921
+  },
+  {
+    "word": "affected",
+    "start": 8.006,
+    "end": 8.407,
+    "score": 0.857
+  },
+  {
+    "word": "by",
+    "start": 8.467,
+    "end": 8.647,
+    "score": 0.644
+  },
+  {
+    "word": "them",
+    "start": 8.687,
+    "end": 8.828,
+    "score": 0.81
+  },
+  {
+    "word": "in",
+    "start": 8.908,
+    "end": 8.988,
+    "score": 0.858
+  },
+  {
+    "word": "turn,",
+    "start": 9.048,
+    "end": 9.369,
+    "score": 0.881
+  },
+  {
+    "word": "and",
+    "start": 9.85,
+    "end": 9.93,
+    "score": 0.996
+  },
+  {
+    "word": "together",
+    "start": 9.97,
+    "end": 10.311,
+    "score": 0.85
+  },
+  {
+    "word": "they",
+    "start": 10.351,
+    "end": 10.491,
+    "score": 0.684
+  },
+  {
+    "word": "determine",
+    "start": 10.551,
+    "end": 10.992,
+    "score": 0.847
+  },
+  {
+    "word": "the",
+    "start": 11.012,
+    "end": 11.092,
+    "score": 0.833
+  },
+  {
+    "word": "nature",
+    "start": 11.132,
+    "end": 11.433,
+    "score": 0.872
+  },
+  {
+    "word": "of",
+    "start": 11.453,
+    "end": 11.513,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 11.533,
+    "end": 11.613,
+    "score": 0.833
+  },
+  {
+    "word": "nation",
+    "start": 11.653,
+    "end": 12.034,
+    "score": 0.812
+  },
+  {
+    "word": "and",
+    "start": 12.114,
+    "end": 12.214,
+    "score": 0.819
+  },
+  {
+    "word": "the",
+    "start": 12.234,
+    "end": 12.314,
+    "score": 0.832
+  },
+  {
+    "word": "quality",
+    "start": 12.354,
+    "end": 12.755,
+    "score": 0.812
+  },
+  {
+    "word": "of",
+    "start": 12.775,
+    "end": 12.835,
+    "score": 0.766
+  },
+  {
+    "word": "public",
+    "start": 12.895,
+    "end": 13.216,
+    "score": 0.815
+  },
+  {
+    "word": "life.",
+    "start": 13.276,
+    "end": 13.537,
+    "score": 0.975
+  }
+]

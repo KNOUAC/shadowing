@@ -1,0 +1,278 @@
+[
+  {
+    "word": "I",
+    "start": 0.071,
+    "end": 0.111,
+    "score": 0.5
+  },
+  {
+    "word": "wanted",
+    "start": 0.151,
+    "end": 0.392,
+    "score": 0.92
+  },
+  {
+    "word": "to",
+    "start": 0.432,
+    "end": 0.512,
+    "score": 0.712
+  },
+  {
+    "word": "write",
+    "start": 0.552,
+    "end": 0.793,
+    "score": 0.756
+  },
+  {
+    "word": "without",
+    "start": 0.833,
+    "end": 1.094,
+    "score": 0.822
+  },
+  {
+    "word": "any",
+    "start": 1.174,
+    "end": 1.295,
+    "score": 0.744
+  },
+  {
+    "word": "frills",
+    "start": 1.355,
+    "end": 1.676,
+    "score": 0.827
+  },
+  {
+    "word": "of",
+    "start": 1.696,
+    "end": 1.756,
+    "score": 0.75
+  },
+  {
+    "word": "language.",
+    "start": 1.796,
+    "end": 2.217,
+    "score": 0.834
+  },
+  {
+    "word": "I",
+    "start": 2.799,
+    "end": 2.839,
+    "score": 0.513
+  },
+  {
+    "word": "wanted",
+    "start": 2.879,
+    "end": 3.16,
+    "score": 0.752
+  },
+  {
+    "word": "merely",
+    "start": 3.2,
+    "end": 3.501,
+    "score": 0.844
+  },
+  {
+    "word": "to",
+    "start": 3.541,
+    "end": 3.621,
+    "score": 0.906
+  },
+  {
+    "word": "set",
+    "start": 3.681,
+    "end": 3.862,
+    "score": 0.75
+  },
+  {
+    "word": "down",
+    "start": 3.902,
+    "end": 4.042,
+    "score": 0.857
+  },
+  {
+    "word": "the",
+    "start": 4.082,
+    "end": 4.162,
+    "score": 0.832
+  },
+  {
+    "word": "facts.",
+    "start": 4.203,
+    "end": 4.544,
+    "score": 0.91
+  },
+  {
+    "word": "I",
+    "start": 5.286,
+    "end": 5.326,
+    "score": 0.824
+  },
+  {
+    "word": "began",
+    "start": 5.386,
+    "end": 5.687,
+    "score": 0.911
+  },
+  {
+    "word": "with",
+    "start": 5.727,
+    "end": 5.867,
+    "score": 0.706
+  },
+  {
+    "word": "the",
+    "start": 5.887,
+    "end": 5.988,
+    "score": 0.676
+  },
+  {
+    "word": "impossible",
+    "start": 6.048,
+    "end": 6.589,
+    "score": 0.833
+  },
+  {
+    "word": "aim",
+    "start": 6.71,
+    "end": 6.83,
+    "score": 0.991
+  },
+  {
+    "word": "of",
+    "start": 6.87,
+    "end": 6.93,
+    "score": 0.75
+  },
+  {
+    "word": "using",
+    "start": 7.03,
+    "end": 7.231,
+    "score": 0.796
+  },
+  {
+    "word": "no",
+    "start": 7.291,
+    "end": 7.452,
+    "score": 0.862
+  },
+  {
+    "word": "adjectives",
+    "start": 7.552,
+    "end": 8.033,
+    "score": 0.926
+  },
+  {
+    "word": "at",
+    "start": 8.093,
+    "end": 8.154,
+    "score": 0.752
+  },
+  {
+    "word": "all.",
+    "start": 8.274,
+    "end": 8.414,
+    "score": 0.883
+  },
+  {
+    "word": "I",
+    "start": 9.056,
+    "end": 9.116,
+    "score": 0.667
+  },
+  {
+    "word": "thought",
+    "start": 9.176,
+    "end": 9.397,
+    "score": 0.795
+  },
+  {
+    "word": "that",
+    "start": 9.437,
+    "end": 9.558,
+    "score": 0.881
+  },
+  {
+    "word": "if",
+    "start": 9.598,
+    "end": 9.638,
+    "score": 1.0
+  },
+  {
+    "word": "you",
+    "start": 9.678,
+    "end": 9.778,
+    "score": 0.862
+  },
+  {
+    "word": "could",
+    "start": 9.798,
+    "end": 9.939,
+    "score": 0.896
+  },
+  {
+    "word": "find",
+    "start": 9.979,
+    "end": 10.199,
+    "score": 0.826
+  },
+  {
+    "word": "the",
+    "start": 10.239,
+    "end": 10.32,
+    "score": 0.835
+  },
+  {
+    "word": "exact",
+    "start": 10.38,
+    "end": 10.701,
+    "score": 0.9
+  },
+  {
+    "word": "term",
+    "start": 10.761,
+    "end": 11.062,
+    "score": 0.934
+  },
+  {
+    "word": "a",
+    "start": 11.142,
+    "end": 11.182,
+    "score": 0.748
+  },
+  {
+    "word": "qualifying",
+    "start": 11.242,
+    "end": 11.824,
+    "score": 0.818
+  },
+  {
+    "word": "epithet",
+    "start": 11.904,
+    "end": 12.265,
+    "score": 0.933
+  },
+  {
+    "word": "could",
+    "start": 12.305,
+    "end": 12.425,
+    "score": 0.905
+  },
+  {
+    "word": "be",
+    "start": 12.446,
+    "end": 12.506,
+    "score": 0.776
+  },
+  {
+    "word": "dispensed",
+    "start": 12.546,
+    "end": 13.007,
+    "score": 0.833
+  },
+  {
+    "word": "with.",
+    "start": 13.067,
+    "end": 13.228,
+    "score": 0.939
+  }
+]

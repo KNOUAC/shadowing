@@ -1,0 +1,428 @@
+[
+  {
+    "word": "Dear",
+    "start": 0.031,
+    "end": 0.191,
+    "score": 0.871
+  },
+  {
+    "word": "Santa",
+    "start": 0.251,
+    "end": 0.552,
+    "score": 0.939
+  },
+  {
+    "word": "Claus,",
+    "start": 0.572,
+    "end": 0.953,
+    "score": 0.941
+  },
+  {
+    "word": "this",
+    "start": 1.394,
+    "end": 1.534,
+    "score": 0.931
+  },
+  {
+    "word": "year",
+    "start": 1.594,
+    "end": 1.775,
+    "score": 0.757
+  },
+  {
+    "word": "you",
+    "start": 1.815,
+    "end": 1.915,
+    "score": 0.78
+  },
+  {
+    "word": "needn't",
+    "start": 1.935,
+    "end": 2.216,
+    "score": 0.746
+  },
+  {
+    "word": "mind",
+    "start": 2.256,
+    "end": 2.516,
+    "score": 0.601
+  },
+  {
+    "word": "leaving",
+    "start": 2.576,
+    "end": 2.857,
+    "score": 0.781
+  },
+  {
+    "word": "me",
+    "start": 2.897,
+    "end": 2.977,
+    "score": 0.677
+  },
+  {
+    "word": "anything,",
+    "start": 3.037,
+    "end": 3.378,
+    "score": 0.886
+  },
+  {
+    "word": "but",
+    "start": 3.739,
+    "end": 3.859,
+    "score": 0.835
+  },
+  {
+    "word": "if",
+    "start": 3.899,
+    "end": 3.959,
+    "score": 0.982
+  },
+  {
+    "word": "you",
+    "start": 3.999,
+    "end": 4.1,
+    "score": 0.911
+  },
+  {
+    "word": "could",
+    "start": 4.14,
+    "end": 4.26,
+    "score": 0.9
+  },
+  {
+    "word": "give",
+    "start": 4.28,
+    "end": 4.44,
+    "score": 0.795
+  },
+  {
+    "word": "Daddy",
+    "start": 4.5,
+    "end": 4.781,
+    "score": 1.0
+  },
+  {
+    "word": "something",
+    "start": 4.821,
+    "end": 5.142,
+    "score": 0.803
+  },
+  {
+    "word": "that",
+    "start": 5.162,
+    "end": 5.262,
+    "score": 0.876
+  },
+  {
+    "word": "would",
+    "start": 5.282,
+    "end": 5.422,
+    "score": 0.8
+  },
+  {
+    "word": "make",
+    "start": 5.463,
+    "end": 5.623,
+    "score": 0.92
+  },
+  {
+    "word": "him",
+    "start": 5.663,
+    "end": 5.743,
+    "score": 0.833
+  },
+  {
+    "word": "like",
+    "start": 5.783,
+    "end": 5.903,
+    "score": 0.878
+  },
+  {
+    "word": "he",
+    "start": 5.944,
+    "end": 6.024,
+    "score": 0.958
+  },
+  {
+    "word": "used",
+    "start": 6.104,
+    "end": 6.224,
+    "score": 0.873
+  },
+  {
+    "word": "to",
+    "start": 6.264,
+    "end": 6.324,
+    "score": 0.75
+  },
+  {
+    "word": "be,",
+    "start": 6.364,
+    "end": 6.545,
+    "score": 0.899
+  },
+  {
+    "word": "make",
+    "start": 7.006,
+    "end": 7.166,
+    "score": 0.878
+  },
+  {
+    "word": "him",
+    "start": 7.206,
+    "end": 7.306,
+    "score": 0.682
+  },
+  {
+    "word": "smoke",
+    "start": 7.387,
+    "end": 7.647,
+    "score": 0.932
+  },
+  {
+    "word": "his",
+    "start": 7.707,
+    "end": 7.807,
+    "score": 0.774
+  },
+  {
+    "word": "pipe",
+    "start": 7.868,
+    "end": 8.128,
+    "score": 0.785
+  },
+  {
+    "word": "again",
+    "start": 8.168,
+    "end": 8.409,
+    "score": 0.842
+  },
+  {
+    "word": "and",
+    "start": 8.489,
+    "end": 8.569,
+    "score": 0.838
+  },
+  {
+    "word": "tell",
+    "start": 8.609,
+    "end": 8.79,
+    "score": 0.668
+  },
+  {
+    "word": "me",
+    "start": 8.83,
+    "end": 8.93,
+    "score": 0.833
+  },
+  {
+    "word": "stories,",
+    "start": 8.97,
+    "end": 9.371,
+    "score": 0.853
+  },
+  {
+    "word": "I",
+    "start": 9.651,
+    "end": 9.712,
+    "score": 0.958
+  },
+  {
+    "word": "do",
+    "start": 9.752,
+    "end": 9.872,
+    "score": 0.844
+  },
+  {
+    "word": "wish",
+    "start": 9.912,
+    "end": 10.052,
+    "score": 0.932
+  },
+  {
+    "word": "you",
+    "start": 10.092,
+    "end": 10.193,
+    "score": 0.853
+  },
+  {
+    "word": "would.",
+    "start": 10.213,
+    "end": 10.453,
+    "score": 0.78
+  },
+  {
+    "word": "I",
+    "start": 11.375,
+    "end": 11.455,
+    "score": 0.745
+  },
+  {
+    "word": "heard",
+    "start": 11.495,
+    "end": 11.656,
+    "score": 0.71
+  },
+  {
+    "word": "him",
+    "start": 11.696,
+    "end": 11.776,
+    "score": 0.964
+  },
+  {
+    "word": "say",
+    "start": 11.856,
+    "end": 12.036,
+    "score": 0.997
+  },
+  {
+    "word": "to",
+    "start": 12.097,
+    "end": 12.177,
+    "score": 0.884
+  },
+  {
+    "word": "Mommy",
+    "start": 12.217,
+    "end": 12.457,
+    "score": 0.972
+  },
+  {
+    "word": "once",
+    "start": 12.537,
+    "end": 12.718,
+    "score": 0.813
+  },
+  {
+    "word": "that",
+    "start": 12.758,
+    "end": 12.878,
+    "score": 0.947
+  },
+  {
+    "word": "only",
+    "start": 12.998,
+    "end": 13.179,
+    "score": 0.832
+  },
+  {
+    "word": "eternity",
+    "start": 13.259,
+    "end": 13.72,
+    "score": 0.784
+  },
+  {
+    "word": "could",
+    "start": 13.76,
+    "end": 13.9,
+    "score": 0.8
+  },
+  {
+    "word": "cure",
+    "start": 13.94,
+    "end": 14.181,
+    "score": 0.796
+  },
+  {
+    "word": "his",
+    "start": 14.241,
+    "end": 14.321,
+    "score": 0.835
+  },
+  {
+    "word": "sorrow.",
+    "start": 14.361,
+    "end": 14.702,
+    "score": 0.892
+  },
+  {
+    "word": "Could",
+    "start": 15.223,
+    "end": 15.343,
+    "score": 0.905
+  },
+  {
+    "word": "you",
+    "start": 15.363,
+    "end": 15.444,
+    "score": 0.834
+  },
+  {
+    "word": "bring",
+    "start": 15.484,
+    "end": 15.644,
+    "score": 0.741
+  },
+  {
+    "word": "him",
+    "start": 15.684,
+    "end": 15.784,
+    "score": 0.779
+  },
+  {
+    "word": "some",
+    "start": 15.824,
+    "end": 15.965,
+    "score": 0.824
+  },
+  {
+    "word": "of",
+    "start": 16.005,
+    "end": 16.065,
+    "score": 0.75
+  },
+  {
+    "word": "that",
+    "start": 16.105,
+    "end": 16.305,
+    "score": 0.865
+  },
+  {
+    "word": "and",
+    "start": 16.466,
+    "end": 16.566,
+    "score": 0.783
+  },
+  {
+    "word": "I",
+    "start": 16.606,
+    "end": 16.646,
+    "score": 1.0
+  },
+  {
+    "word": "will",
+    "start": 16.686,
+    "end": 16.827,
+    "score": 0.867
+  },
+  {
+    "word": "be",
+    "start": 16.847,
+    "end": 16.927,
+    "score": 0.678
+  },
+  {
+    "word": "your",
+    "start": 16.947,
+    "end": 17.107,
+    "score": 0.833
+  },
+  {
+    "word": "good",
+    "start": 17.147,
+    "end": 17.308,
+    "score": 0.837
+  },
+  {
+    "word": "little",
+    "start": 17.348,
+    "end": 17.568,
+    "score": 0.828
+  },
+  {
+    "word": "girl.",
+    "start": 17.608,
+    "end": 17.829,
+    "score": 0.96
+  }
+]

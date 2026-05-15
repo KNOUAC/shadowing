@@ -1,0 +1,386 @@
+[
+  {
+    "word": "Some",
+    "start": 0.071,
+    "end": 0.251,
+    "score": 0.99
+  },
+  {
+    "word": "recent",
+    "start": 0.312,
+    "end": 0.672,
+    "score": 0.84
+  },
+  {
+    "word": "scientific,",
+    "start": 0.712,
+    "end": 1.414,
+    "score": 0.911
+  },
+  {
+    "word": "economic",
+    "start": 1.675,
+    "end": 2.176,
+    "score": 0.896
+  },
+  {
+    "word": "and",
+    "start": 2.236,
+    "end": 2.336,
+    "score": 0.791
+  },
+  {
+    "word": "political",
+    "start": 2.356,
+    "end": 2.777,
+    "score": 0.866
+  },
+  {
+    "word": "research",
+    "start": 2.817,
+    "end": 3.298,
+    "score": 0.687
+  },
+  {
+    "word": "suggests",
+    "start": 3.799,
+    "end": 4.22,
+    "score": 0.827
+  },
+  {
+    "word": "that",
+    "start": 4.28,
+    "end": 4.401,
+    "score": 0.875
+  },
+  {
+    "word": "the",
+    "start": 4.421,
+    "end": 4.481,
+    "score": 1.0
+  },
+  {
+    "word": "curves",
+    "start": 4.521,
+    "end": 4.841,
+    "score": 0.784
+  },
+  {
+    "word": "for",
+    "start": 4.882,
+    "end": 5.002,
+    "score": 0.839
+  },
+  {
+    "word": "food",
+    "start": 5.042,
+    "end": 5.242,
+    "score": 0.77
+  },
+  {
+    "word": "demand",
+    "start": 5.282,
+    "end": 5.603,
+    "score": 0.92
+  },
+  {
+    "word": "and",
+    "start": 5.663,
+    "end": 5.743,
+    "score": 0.891
+  },
+  {
+    "word": "food",
+    "start": 5.784,
+    "end": 6.024,
+    "score": 0.845
+  },
+  {
+    "word": "supply",
+    "start": 6.044,
+    "end": 6.425,
+    "score": 0.889
+  },
+  {
+    "word": "will",
+    "start": 6.465,
+    "end": 6.625,
+    "score": 0.926
+  },
+  {
+    "word": "cross",
+    "start": 6.665,
+    "end": 6.926,
+    "score": 0.824
+  },
+  {
+    "word": "in",
+    "start": 6.986,
+    "end": 7.066,
+    "score": 0.803
+  },
+  {
+    "word": "a",
+    "start": 7.086,
+    "end": 7.126,
+    "score": 0.499
+  },
+  {
+    "word": "maximum",
+    "start": 7.167,
+    "end": 7.567,
+    "score": 0.888
+  },
+  {
+    "word": "of",
+    "start": 7.608,
+    "end": 7.668,
+    "score": 0.75
+  },
+  {
+    "word": "60",
+    "start": 7.708,
+    "end": 8.008,
+    "score": 0.774
+  },
+  {
+    "word": "years.",
+    "start": 8.048,
+    "end": 8.389,
+    "score": 0.7
+  },
+  {
+    "word": "By",
+    "start": 9.291,
+    "end": 9.411,
+    "score": 0.774
+  },
+  {
+    "word": "then,",
+    "start": 9.452,
+    "end": 9.692,
+    "score": 0.805
+  },
+  {
+    "word": "man's",
+    "start": 10.133,
+    "end": 10.394,
+    "score": 0.814
+  },
+  {
+    "word": "overpopulation,",
+    "start": 10.454,
+    "end": 11.316,
+    "score": 0.919
+  },
+  {
+    "word": "increasing",
+    "start": 11.696,
+    "end": 12.177,
+    "score": 0.851
+  },
+  {
+    "word": "pollution",
+    "start": 12.218,
+    "end": 12.659,
+    "score": 0.834
+  },
+  {
+    "word": "and",
+    "start": 13.099,
+    "end": 13.2,
+    "score": 0.709
+  },
+  {
+    "word": "the",
+    "start": 13.22,
+    "end": 13.3,
+    "score": 0.833
+  },
+  {
+    "word": "diminishing",
+    "start": 13.32,
+    "end": 13.801,
+    "score": 0.771
+  },
+  {
+    "word": "food",
+    "start": 13.861,
+    "end": 14.082,
+    "score": 0.984
+  },
+  {
+    "word": "supply",
+    "start": 14.122,
+    "end": 14.543,
+    "score": 0.806
+  },
+  {
+    "word": "could",
+    "start": 14.603,
+    "end": 14.763,
+    "score": 0.753
+  },
+  {
+    "word": "threaten",
+    "start": 14.803,
+    "end": 15.164,
+    "score": 0.89
+  },
+  {
+    "word": "to",
+    "start": 15.184,
+    "end": 15.264,
+    "score": 0.651
+  },
+  {
+    "word": "end",
+    "start": 15.364,
+    "end": 15.505,
+    "score": 0.779
+  },
+  {
+    "word": "human",
+    "start": 15.545,
+    "end": 15.825,
+    "score": 0.863
+  },
+  {
+    "word": "life",
+    "start": 15.886,
+    "end": 16.126,
+    "score": 0.712
+  },
+  {
+    "word": "on",
+    "start": 16.186,
+    "end": 16.246,
+    "score": 0.86
+  },
+  {
+    "word": "our",
+    "start": 16.286,
+    "end": 16.387,
+    "score": 0.677
+  },
+  {
+    "word": "planet.",
+    "start": 16.427,
+    "end": 16.788,
+    "score": 0.917
+  },
+  {
+    "word": "Being",
+    "start": 17.629,
+    "end": 17.85,
+    "score": 0.743
+  },
+  {
+    "word": "aware",
+    "start": 17.91,
+    "end": 18.191,
+    "score": 0.861
+  },
+  {
+    "word": "of",
+    "start": 18.211,
+    "end": 18.271,
+    "score": 0.758
+  },
+  {
+    "word": "this",
+    "start": 18.311,
+    "end": 18.451,
+    "score": 0.798
+  },
+  {
+    "word": "research,",
+    "start": 18.511,
+    "end": 18.972,
+    "score": 0.884
+  },
+  {
+    "word": "I",
+    "start": 19.493,
+    "end": 19.554,
+    "score": 0.657
+  },
+  {
+    "word": "could",
+    "start": 19.574,
+    "end": 19.714,
+    "score": 0.932
+  },
+  {
+    "word": "not",
+    "start": 19.734,
+    "end": 19.854,
+    "score": 0.69
+  },
+  {
+    "word": "help",
+    "start": 19.914,
+    "end": 20.115,
+    "score": 0.75
+  },
+  {
+    "word": "wondering",
+    "start": 20.175,
+    "end": 20.496,
+    "score": 0.891
+  },
+  {
+    "word": "what",
+    "start": 20.516,
+    "end": 20.676,
+    "score": 0.71
+  },
+  {
+    "word": "steps",
+    "start": 20.736,
+    "end": 21.017,
+    "score": 0.868
+  },
+  {
+    "word": "man",
+    "start": 21.057,
+    "end": 21.257,
+    "score": 0.865
+  },
+  {
+    "word": "could",
+    "start": 21.317,
+    "end": 21.438,
+    "score": 0.925
+  },
+  {
+    "word": "take",
+    "start": 21.478,
+    "end": 21.658,
+    "score": 0.846
+  },
+  {
+    "word": "to",
+    "start": 21.718,
+    "end": 21.818,
+    "score": 0.794
+  },
+  {
+    "word": "ensure",
+    "start": 21.879,
+    "end": 22.239,
+    "score": 0.765
+  },
+  {
+    "word": "his",
+    "start": 22.3,
+    "end": 22.4,
+    "score": 0.853
+  },
+  {
+    "word": "survival.",
+    "start": 22.44,
+    "end": 22.881,
+    "score": 0.982
+  }
+]

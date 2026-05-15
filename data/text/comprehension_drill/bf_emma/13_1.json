@@ -1,0 +1,320 @@
+[
+  {
+    "word": "The",
+    "start": 0.031,
+    "end": 0.091,
+    "score": 0.999
+  },
+  {
+    "word": "black",
+    "start": 0.131,
+    "end": 0.351,
+    "score": 0.827
+  },
+  {
+    "word": "man",
+    "start": 0.391,
+    "end": 0.592,
+    "score": 0.701
+  },
+  {
+    "word": "insists,",
+    "start": 0.672,
+    "end": 1.212,
+    "score": 0.876
+  },
+  {
+    "word": "by",
+    "start": 1.573,
+    "end": 1.693,
+    "score": 0.668
+  },
+  {
+    "word": "whatever",
+    "start": 1.733,
+    "end": 2.093,
+    "score": 0.774
+  },
+  {
+    "word": "means",
+    "start": 2.133,
+    "end": 2.353,
+    "score": 0.693
+  },
+  {
+    "word": "he",
+    "start": 2.393,
+    "end": 2.473,
+    "score": 0.879
+  },
+  {
+    "word": "finds",
+    "start": 2.513,
+    "end": 2.814,
+    "score": 0.802
+  },
+  {
+    "word": "at",
+    "start": 2.854,
+    "end": 2.894,
+    "score": 1.0
+  },
+  {
+    "word": "his",
+    "start": 2.934,
+    "end": 3.034,
+    "score": 0.862
+  },
+  {
+    "word": "disposal,",
+    "start": 3.074,
+    "end": 3.655,
+    "score": 0.868
+  },
+  {
+    "word": "that",
+    "start": 4.135,
+    "end": 4.255,
+    "score": 0.866
+  },
+  {
+    "word": "the",
+    "start": 4.275,
+    "end": 4.335,
+    "score": 1.0
+  },
+  {
+    "word": "white",
+    "start": 4.375,
+    "end": 4.595,
+    "score": 0.85
+  },
+  {
+    "word": "man",
+    "start": 4.656,
+    "end": 4.896,
+    "score": 0.786
+  },
+  {
+    "word": "ceased",
+    "start": 4.956,
+    "end": 5.176,
+    "score": 0.683
+  },
+  {
+    "word": "to",
+    "start": 5.216,
+    "end": 5.276,
+    "score": 1.0
+  },
+  {
+    "word": "regard",
+    "start": 5.336,
+    "end": 5.676,
+    "score": 0.86
+  },
+  {
+    "word": "him",
+    "start": 5.717,
+    "end": 5.837,
+    "score": 0.808
+  },
+  {
+    "word": "as",
+    "start": 5.917,
+    "end": 5.997,
+    "score": 0.69
+  },
+  {
+    "word": "an",
+    "start": 6.037,
+    "end": 6.077,
+    "score": 1.0
+  },
+  {
+    "word": "exotic",
+    "start": 6.117,
+    "end": 6.517,
+    "score": 0.915
+  },
+  {
+    "word": "rarity",
+    "start": 6.557,
+    "end": 7.058,
+    "score": 0.851
+  },
+  {
+    "word": "and",
+    "start": 7.458,
+    "end": 7.558,
+    "score": 0.724
+  },
+  {
+    "word": "recognize",
+    "start": 7.618,
+    "end": 8.119,
+    "score": 0.82
+  },
+  {
+    "word": "him",
+    "start": 8.159,
+    "end": 8.299,
+    "score": 0.817
+  },
+  {
+    "word": "as",
+    "start": 8.399,
+    "end": 8.479,
+    "score": 0.694
+  },
+  {
+    "word": "a",
+    "start": 8.519,
+    "end": 8.539,
+    "score": 0.999
+  },
+  {
+    "word": "human",
+    "start": 8.579,
+    "end": 8.9,
+    "score": 0.76
+  },
+  {
+    "word": "being.",
+    "start": 8.94,
+    "end": 9.26,
+    "score": 0.82
+  },
+  {
+    "word": "This",
+    "start": 10.221,
+    "end": 10.381,
+    "score": 0.848
+  },
+  {
+    "word": "is",
+    "start": 10.441,
+    "end": 10.521,
+    "score": 0.913
+  },
+  {
+    "word": "a",
+    "start": 10.561,
+    "end": 10.601,
+    "score": 0.5
+  },
+  {
+    "word": "very",
+    "start": 10.641,
+    "end": 10.842,
+    "score": 0.914
+  },
+  {
+    "word": "charged",
+    "start": 10.942,
+    "end": 11.382,
+    "score": 0.908
+  },
+  {
+    "word": "and",
+    "start": 11.442,
+    "end": 11.522,
+    "score": 0.844
+  },
+  {
+    "word": "difficult",
+    "start": 11.542,
+    "end": 11.943,
+    "score": 0.751
+  },
+  {
+    "word": "moment,",
+    "start": 11.983,
+    "end": 12.343,
+    "score": 0.897
+  },
+  {
+    "word": "for",
+    "start": 12.763,
+    "end": 12.863,
+    "score": 0.928
+  },
+  {
+    "word": "there",
+    "start": 12.884,
+    "end": 13.064,
+    "score": 0.628
+  },
+  {
+    "word": "is",
+    "start": 13.104,
+    "end": 13.184,
+    "score": 0.503
+  },
+  {
+    "word": "a",
+    "start": 13.224,
+    "end": 13.244,
+    "score": 1.0
+  },
+  {
+    "word": "great",
+    "start": 13.284,
+    "end": 13.524,
+    "score": 0.704
+  },
+  {
+    "word": "deal",
+    "start": 13.564,
+    "end": 13.744,
+    "score": 0.676
+  },
+  {
+    "word": "of",
+    "start": 13.784,
+    "end": 13.824,
+    "score": 1.0
+  },
+  {
+    "word": "willpower",
+    "start": 13.884,
+    "end": 14.425,
+    "score": 0.874
+  },
+  {
+    "word": "involved",
+    "start": 14.505,
+    "end": 14.905,
+    "score": 0.852
+  },
+  {
+    "word": "in",
+    "start": 14.946,
+    "end": 14.986,
+    "score": 1.0
+  },
+  {
+    "word": "the",
+    "start": 15.026,
+    "end": 15.106,
+    "score": 0.833
+  },
+  {
+    "word": "white",
+    "start": 15.126,
+    "end": 15.346,
+    "score": 0.779
+  },
+  {
+    "word": "man's",
+    "start": 15.406,
+    "end": 15.686,
+    "score": 0.733
+  },
+  {
+    "word": "naivety.",
+    "start": 15.746,
+    "end": 16.427,
+    "score": 0.887
+  }
+]

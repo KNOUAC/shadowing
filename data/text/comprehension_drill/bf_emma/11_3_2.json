@@ -1,0 +1,776 @@
+[
+  {
+    "word": "Jean-Marc",
+    "start": 0.051,
+    "end": 0.491,
+    "score": 0.806
+  },
+  {
+    "word": "Gaspard",
+    "start": 0.531,
+    "end": 0.892,
+    "score": 0.76
+  },
+  {
+    "word": "Itard,",
+    "start": 0.952,
+    "end": 1.352,
+    "score": 0.877
+  },
+  {
+    "word": "a",
+    "start": 1.372,
+    "end": 1.412,
+    "score": 0.513
+  },
+  {
+    "word": "young",
+    "start": 1.452,
+    "end": 1.632,
+    "score": 0.833
+  },
+  {
+    "word": "doctor,",
+    "start": 1.672,
+    "end": 2.052,
+    "score": 0.908
+  },
+  {
+    "word": "was",
+    "start": 2.433,
+    "end": 2.553,
+    "score": 0.741
+  },
+  {
+    "word": "convinced,",
+    "start": 2.593,
+    "end": 3.033,
+    "score": 0.839
+  },
+  {
+    "word": "however,",
+    "start": 3.073,
+    "end": 3.413,
+    "score": 0.858
+  },
+  {
+    "word": "that",
+    "start": 3.433,
+    "end": 3.553,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 3.573,
+    "end": 3.654,
+    "score": 0.834
+  },
+  {
+    "word": "boy",
+    "start": 3.674,
+    "end": 3.854,
+    "score": 0.616
+  },
+  {
+    "word": "would",
+    "start": 3.874,
+    "end": 3.994,
+    "score": 0.901
+  },
+  {
+    "word": "be",
+    "start": 4.014,
+    "end": 4.094,
+    "score": 0.582
+  },
+  {
+    "word": "helped,",
+    "start": 4.134,
+    "end": 4.434,
+    "score": 0.81
+  },
+  {
+    "word": "since",
+    "start": 4.894,
+    "end": 5.054,
+    "score": 0.879
+  },
+  {
+    "word": "he",
+    "start": 5.074,
+    "end": 5.155,
+    "score": 0.526
+  },
+  {
+    "word": "believed",
+    "start": 5.195,
+    "end": 5.515,
+    "score": 0.824
+  },
+  {
+    "word": "that",
+    "start": 5.555,
+    "end": 5.655,
+    "score": 0.892
+  },
+  {
+    "word": "his",
+    "start": 5.695,
+    "end": 5.795,
+    "score": 0.668
+  },
+  {
+    "word": "low",
+    "start": 5.835,
+    "end": 6.015,
+    "score": 0.813
+  },
+  {
+    "word": "intelligence",
+    "start": 6.055,
+    "end": 6.636,
+    "score": 0.861
+  },
+  {
+    "word": "was",
+    "start": 6.676,
+    "end": 6.776,
+    "score": 0.737
+  },
+  {
+    "word": "caused",
+    "start": 6.816,
+    "end": 7.096,
+    "score": 0.921
+  },
+  {
+    "word": "by",
+    "start": 7.156,
+    "end": 7.256,
+    "score": 0.97
+  },
+  {
+    "word": "his",
+    "start": 7.316,
+    "end": 7.396,
+    "score": 0.833
+  },
+  {
+    "word": "solitary",
+    "start": 7.436,
+    "end": 7.856,
+    "score": 0.82
+  },
+  {
+    "word": "life",
+    "start": 7.896,
+    "end": 8.137,
+    "score": 0.823
+  },
+  {
+    "word": "in",
+    "start": 8.197,
+    "end": 8.257,
+    "score": 0.876
+  },
+  {
+    "word": "the",
+    "start": 8.297,
+    "end": 8.357,
+    "score": 1.0
+  },
+  {
+    "word": "woods",
+    "start": 8.397,
+    "end": 8.657,
+    "score": 0.784
+  },
+  {
+    "word": "from",
+    "start": 8.757,
+    "end": 8.877,
+    "score": 0.874
+  },
+  {
+    "word": "about",
+    "start": 8.897,
+    "end": 9.077,
+    "score": 0.844
+  },
+  {
+    "word": "the",
+    "start": 9.117,
+    "end": 9.197,
+    "score": 0.834
+  },
+  {
+    "word": "age",
+    "start": 9.297,
+    "end": 9.458,
+    "score": 0.867
+  },
+  {
+    "word": "of",
+    "start": 9.498,
+    "end": 9.558,
+    "score": 0.75
+  },
+  {
+    "word": "seven",
+    "start": 9.598,
+    "end": 9.918,
+    "score": 0.784
+  },
+  {
+    "word": "and",
+    "start": 10.358,
+    "end": 10.458,
+    "score": 0.677
+  },
+  {
+    "word": "by",
+    "start": 10.498,
+    "end": 10.638,
+    "score": 0.814
+  },
+  {
+    "word": "his",
+    "start": 10.678,
+    "end": 10.798,
+    "score": 0.614
+  },
+  {
+    "word": "ignorance",
+    "start": 10.879,
+    "end": 11.279,
+    "score": 0.862
+  },
+  {
+    "word": "of",
+    "start": 11.319,
+    "end": 11.379,
+    "score": 0.756
+  },
+  {
+    "word": "language.",
+    "start": 11.439,
+    "end": 11.839,
+    "score": 0.841
+  },
+  {
+    "word": "Itard",
+    "start": 12.74,
+    "end": 13.02,
+    "score": 0.914
+  },
+  {
+    "word": "took",
+    "start": 13.06,
+    "end": 13.22,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 13.26,
+    "end": 13.34,
+    "score": 0.834
+  },
+  {
+    "word": "boy",
+    "start": 13.36,
+    "end": 13.6,
+    "score": 0.797
+  },
+  {
+    "word": "and",
+    "start": 13.64,
+    "end": 13.74,
+    "score": 0.746
+  },
+  {
+    "word": "worked",
+    "start": 13.761,
+    "end": 14.001,
+    "score": 0.788
+  },
+  {
+    "word": "with",
+    "start": 14.021,
+    "end": 14.121,
+    "score": 0.875
+  },
+  {
+    "word": "him",
+    "start": 14.141,
+    "end": 14.261,
+    "score": 0.852
+  },
+  {
+    "word": "for",
+    "start": 14.301,
+    "end": 14.421,
+    "score": 0.747
+  },
+  {
+    "word": "five",
+    "start": 14.461,
+    "end": 14.701,
+    "score": 0.866
+  },
+  {
+    "word": "years.",
+    "start": 14.741,
+    "end": 15.041,
+    "score": 0.747
+  },
+  {
+    "word": "Victor,",
+    "start": 15.842,
+    "end": 16.222,
+    "score": 0.956
+  },
+  {
+    "word": "as",
+    "start": 16.422,
+    "end": 16.482,
+    "score": 0.849
+  },
+  {
+    "word": "Itard",
+    "start": 16.562,
+    "end": 16.863,
+    "score": 0.827
+  },
+  {
+    "word": "called",
+    "start": 16.903,
+    "end": 17.163,
+    "score": 0.912
+  },
+  {
+    "word": "him,",
+    "start": 17.203,
+    "end": 17.323,
+    "score": 0.987
+  },
+  {
+    "word": "did",
+    "start": 17.543,
+    "end": 17.663,
+    "score": 0.88
+  },
+  {
+    "word": "not",
+    "start": 17.703,
+    "end": 17.823,
+    "score": 0.796
+  },
+  {
+    "word": "learn",
+    "start": 17.863,
+    "end": 18.043,
+    "score": 0.803
+  },
+  {
+    "word": "to",
+    "start": 18.084,
+    "end": 18.144,
+    "score": 0.766
+  },
+  {
+    "word": "speak",
+    "start": 18.184,
+    "end": 18.404,
+    "score": 0.783
+  },
+  {
+    "word": "French,",
+    "start": 18.484,
+    "end": 18.784,
+    "score": 0.91
+  },
+  {
+    "word": "but",
+    "start": 19.284,
+    "end": 19.384,
+    "score": 0.887
+  },
+  {
+    "word": "he",
+    "start": 19.404,
+    "end": 19.464,
+    "score": 0.764
+  },
+  {
+    "word": "was",
+    "start": 19.504,
+    "end": 19.585,
+    "score": 0.835
+  },
+  {
+    "word": "able",
+    "start": 19.645,
+    "end": 19.805,
+    "score": 0.742
+  },
+  {
+    "word": "to",
+    "start": 19.825,
+    "end": 19.885,
+    "score": 0.757
+  },
+  {
+    "word": "understand",
+    "start": 19.945,
+    "end": 20.405,
+    "score": 0.801
+  },
+  {
+    "word": "a",
+    "start": 20.445,
+    "end": 20.485,
+    "score": 0.589
+  },
+  {
+    "word": "large",
+    "start": 20.545,
+    "end": 20.845,
+    "score": 0.918
+  },
+  {
+    "word": "number",
+    "start": 20.905,
+    "end": 21.106,
+    "score": 0.902
+  },
+  {
+    "word": "of",
+    "start": 21.146,
+    "end": 21.186,
+    "score": 1.0
+  },
+  {
+    "word": "written",
+    "start": 21.226,
+    "end": 21.486,
+    "score": 0.885
+  },
+  {
+    "word": "words",
+    "start": 21.526,
+    "end": 21.826,
+    "score": 0.874
+  },
+  {
+    "word": "and",
+    "start": 21.886,
+    "end": 21.966,
+    "score": 0.837
+  },
+  {
+    "word": "phrases.",
+    "start": 22.006,
+    "end": 22.487,
+    "score": 0.825
+  },
+  {
+    "word": "He",
+    "start": 22.647,
+    "end": 22.707,
+    "score": 0.748
+  },
+  {
+    "word": "would",
+    "start": 22.727,
+    "end": 22.847,
+    "score": 0.9
+  },
+  {
+    "word": "obey",
+    "start": 22.907,
+    "end": 23.127,
+    "score": 0.742
+  },
+  {
+    "word": "simple",
+    "start": 23.207,
+    "end": 23.487,
+    "score": 0.949
+  },
+  {
+    "word": "written",
+    "start": 23.527,
+    "end": 23.807,
+    "score": 0.874
+  },
+  {
+    "word": "commands",
+    "start": 23.847,
+    "end": 24.308,
+    "score": 0.855
+  },
+  {
+    "word": "and",
+    "start": 24.668,
+    "end": 24.748,
+    "score": 0.836
+  },
+  {
+    "word": "could",
+    "start": 24.768,
+    "end": 24.908,
+    "score": 0.898
+  },
+  {
+    "word": "use",
+    "start": 25.008,
+    "end": 25.128,
+    "score": 0.797
+  },
+  {
+    "word": "word",
+    "start": 25.168,
+    "end": 25.409,
+    "score": 0.79
+  },
+  {
+    "word": "cards",
+    "start": 25.469,
+    "end": 25.809,
+    "score": 0.807
+  },
+  {
+    "word": "to",
+    "start": 25.849,
+    "end": 25.949,
+    "score": 0.595
+  },
+  {
+    "word": "show",
+    "start": 25.989,
+    "end": 26.189,
+    "score": 0.875
+  },
+  {
+    "word": "his",
+    "start": 26.249,
+    "end": 26.349,
+    "score": 0.769
+  },
+  {
+    "word": "desires.",
+    "start": 26.389,
+    "end": 26.85,
+    "score": 0.92
+  },
+  {
+    "word": "He",
+    "start": 27.59,
+    "end": 27.671,
+    "score": 0.753
+  },
+  {
+    "word": "also",
+    "start": 27.731,
+    "end": 27.972,
+    "score": 0.867
+  },
+  {
+    "word": "acquired",
+    "start": 28.032,
+    "end": 28.393,
+    "score": 0.894
+  },
+  {
+    "word": "the",
+    "start": 28.434,
+    "end": 28.514,
+    "score": 0.834
+  },
+  {
+    "word": "manners",
+    "start": 28.554,
+    "end": 28.835,
+    "score": 0.869
+  },
+  {
+    "word": "and",
+    "start": 28.895,
+    "end": 28.976,
+    "score": 0.84
+  },
+  {
+    "word": "appearance",
+    "start": 29.016,
+    "end": 29.477,
+    "score": 0.894
+  },
+  {
+    "word": "of",
+    "start": 29.518,
+    "end": 29.578,
+    "score": 0.809
+  },
+  {
+    "word": "a",
+    "start": 29.618,
+    "end": 29.658,
+    "score": 0.505
+  },
+  {
+    "word": "civilized",
+    "start": 29.718,
+    "end": 30.24,
+    "score": 0.817
+  },
+  {
+    "word": "young",
+    "start": 30.28,
+    "end": 30.461,
+    "score": 0.896
+  },
+  {
+    "word": "man.",
+    "start": 30.501,
+    "end": 30.722,
+    "score": 0.745
+  },
+  {
+    "word": "Victor",
+    "start": 31.525,
+    "end": 31.846,
+    "score": 0.799
+  },
+  {
+    "word": "had",
+    "start": 31.906,
+    "end": 32.007,
+    "score": 0.824
+  },
+  {
+    "word": "obviously",
+    "start": 32.107,
+    "end": 32.529,
+    "score": 0.82
+  },
+  {
+    "word": "been",
+    "start": 32.569,
+    "end": 32.709,
+    "score": 0.857
+  },
+  {
+    "word": "helped",
+    "start": 32.75,
+    "end": 33.011,
+    "score": 0.79
+  },
+  {
+    "word": "by",
+    "start": 33.051,
+    "end": 33.171,
+    "score": 0.832
+  },
+  {
+    "word": "education,",
+    "start": 33.251,
+    "end": 33.854,
+    "score": 0.844
+  },
+  {
+    "word": "but",
+    "start": 34.376,
+    "end": 34.476,
+    "score": 0.98
+  },
+  {
+    "word": "Itard",
+    "start": 34.556,
+    "end": 34.898,
+    "score": 0.868
+  },
+  {
+    "word": "finally",
+    "start": 34.958,
+    "end": 35.359,
+    "score": 0.808
+  },
+  {
+    "word": "concluded",
+    "start": 35.399,
+    "end": 35.881,
+    "score": 0.881
+  },
+  {
+    "word": "that",
+    "start": 35.921,
+    "end": 36.042,
+    "score": 0.775
+  },
+  {
+    "word": "Victor",
+    "start": 36.102,
+    "end": 36.383,
+    "score": 0.953
+  },
+  {
+    "word": "could",
+    "start": 36.423,
+    "end": 36.564,
+    "score": 0.804
+  },
+  {
+    "word": "not",
+    "start": 36.604,
+    "end": 36.724,
+    "score": 0.845
+  },
+  {
+    "word": "be",
+    "start": 36.765,
+    "end": 36.865,
+    "score": 0.804
+  },
+  {
+    "word": "further",
+    "start": 36.905,
+    "end": 37.206,
+    "score": 0.794
+  },
+  {
+    "word": "improved",
+    "start": 37.266,
+    "end": 37.728,
+    "score": 0.743
+  },
+  {
+    "word": "because",
+    "start": 38.069,
+    "end": 38.29,
+    "score": 0.855
+  },
+  {
+    "word": "his",
+    "start": 38.33,
+    "end": 38.431,
+    "score": 0.868
+  },
+  {
+    "word": "intelligence",
+    "start": 38.491,
+    "end": 39.093,
+    "score": 0.868
+  },
+  {
+    "word": "was",
+    "start": 39.133,
+    "end": 39.234,
+    "score": 0.998
+  },
+  {
+    "word": "subnormal.",
+    "start": 39.274,
+    "end": 39.796,
+    "score": 0.871
+  }
+]

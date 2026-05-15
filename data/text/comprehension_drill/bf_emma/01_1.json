@@ -1,0 +1,374 @@
+[
+  {
+    "word": "Breakfast",
+    "start": 0.031,
+    "end": 0.452,
+    "score": 0.806
+  },
+  {
+    "word": "normally",
+    "start": 0.512,
+    "end": 0.853,
+    "score": 0.767
+  },
+  {
+    "word": "consists",
+    "start": 0.893,
+    "end": 1.313,
+    "score": 0.801
+  },
+  {
+    "word": "of",
+    "start": 1.354,
+    "end": 1.414,
+    "score": 0.75
+  },
+  {
+    "word": "eggs,",
+    "start": 1.534,
+    "end": 1.774,
+    "score": 0.853
+  },
+  {
+    "word": "some",
+    "start": 2.195,
+    "end": 2.376,
+    "score": 0.757
+  },
+  {
+    "word": "meat,",
+    "start": 2.416,
+    "end": 2.656,
+    "score": 0.897
+  },
+  {
+    "word": "toast,",
+    "start": 2.957,
+    "end": 3.337,
+    "score": 0.827
+  },
+  {
+    "word": "fruit",
+    "start": 3.518,
+    "end": 3.758,
+    "score": 0.741
+  },
+  {
+    "word": "or",
+    "start": 3.818,
+    "end": 3.878,
+    "score": 0.99
+  },
+  {
+    "word": "fruit",
+    "start": 3.918,
+    "end": 4.139,
+    "score": 0.653
+  },
+  {
+    "word": "juice",
+    "start": 4.159,
+    "end": 4.399,
+    "score": 0.899
+  },
+  {
+    "word": "and",
+    "start": 4.46,
+    "end": 4.54,
+    "score": 0.843
+  },
+  {
+    "word": "coffee.",
+    "start": 4.58,
+    "end": 4.94,
+    "score": 0.923
+  },
+  {
+    "word": "Lunch",
+    "start": 5.822,
+    "end": 6.043,
+    "score": 0.941
+  },
+  {
+    "word": "is",
+    "start": 6.103,
+    "end": 6.163,
+    "score": 0.764
+  },
+  {
+    "word": "likewise",
+    "start": 6.203,
+    "end": 6.604,
+    "score": 0.76
+  },
+  {
+    "word": "a",
+    "start": 6.624,
+    "end": 6.664,
+    "score": 0.59
+  },
+  {
+    "word": "light",
+    "start": 6.704,
+    "end": 6.904,
+    "score": 0.558
+  },
+  {
+    "word": "meal",
+    "start": 6.944,
+    "end": 7.185,
+    "score": 0.824
+  },
+  {
+    "word": "and",
+    "start": 7.245,
+    "end": 7.325,
+    "score": 0.836
+  },
+  {
+    "word": "is",
+    "start": 7.385,
+    "end": 7.465,
+    "score": 0.558
+  },
+  {
+    "word": "normally",
+    "start": 7.505,
+    "end": 7.826,
+    "score": 0.932
+  },
+  {
+    "word": "eaten",
+    "start": 7.926,
+    "end": 8.147,
+    "score": 0.81
+  },
+  {
+    "word": "away",
+    "start": 8.187,
+    "end": 8.387,
+    "score": 0.869
+  },
+  {
+    "word": "from",
+    "start": 8.447,
+    "end": 8.567,
+    "score": 0.87
+  },
+  {
+    "word": "home.",
+    "start": 8.628,
+    "end": 8.868,
+    "score": 0.847
+  },
+  {
+    "word": "People",
+    "start": 9.549,
+    "end": 9.81,
+    "score": 0.756
+  },
+  {
+    "word": "who",
+    "start": 9.83,
+    "end": 9.95,
+    "score": 0.623
+  },
+  {
+    "word": "work",
+    "start": 9.99,
+    "end": 10.211,
+    "score": 0.752
+  },
+  {
+    "word": "must",
+    "start": 10.271,
+    "end": 10.431,
+    "score": 0.778
+  },
+  {
+    "word": "either",
+    "start": 10.531,
+    "end": 10.732,
+    "score": 0.769
+  },
+  {
+    "word": "take",
+    "start": 10.772,
+    "end": 10.992,
+    "score": 0.637
+  },
+  {
+    "word": "lunch",
+    "start": 11.052,
+    "end": 11.273,
+    "score": 0.809
+  },
+  {
+    "word": "with",
+    "start": 11.313,
+    "end": 11.433,
+    "score": 0.758
+  },
+  {
+    "word": "them",
+    "start": 11.473,
+    "end": 11.613,
+    "score": 0.914
+  },
+  {
+    "word": "or",
+    "start": 11.693,
+    "end": 11.774,
+    "score": 0.563
+  },
+  {
+    "word": "get",
+    "start": 11.814,
+    "end": 11.954,
+    "score": 0.791
+  },
+  {
+    "word": "it",
+    "start": 11.994,
+    "end": 12.054,
+    "score": 0.75
+  },
+  {
+    "word": "near",
+    "start": 12.094,
+    "end": 12.234,
+    "score": 0.751
+  },
+  {
+    "word": "the",
+    "start": 12.255,
+    "end": 12.335,
+    "score": 0.834
+  },
+  {
+    "word": "place",
+    "start": 12.355,
+    "end": 12.615,
+    "score": 0.801
+  },
+  {
+    "word": "where",
+    "start": 12.655,
+    "end": 12.796,
+    "score": 0.929
+  },
+  {
+    "word": "they",
+    "start": 12.816,
+    "end": 12.956,
+    "score": 0.744
+  },
+  {
+    "word": "work,",
+    "start": 13.016,
+    "end": 13.297,
+    "score": 0.899
+  },
+  {
+    "word": "and",
+    "start": 13.838,
+    "end": 13.938,
+    "score": 0.754
+  },
+  {
+    "word": "children",
+    "start": 13.978,
+    "end": 14.318,
+    "score": 0.688
+  },
+  {
+    "word": "in",
+    "start": 14.339,
+    "end": 14.419,
+    "score": 0.802
+  },
+  {
+    "word": "school",
+    "start": 14.479,
+    "end": 14.739,
+    "score": 0.731
+  },
+  {
+    "word": "take",
+    "start": 14.799,
+    "end": 15.02,
+    "score": 0.777
+  },
+  {
+    "word": "sandwiches,",
+    "start": 15.06,
+    "end": 15.701,
+    "score": 0.799
+  },
+  {
+    "word": "fruit",
+    "start": 15.942,
+    "end": 16.222,
+    "score": 0.6
+  },
+  {
+    "word": "and",
+    "start": 16.282,
+    "end": 16.382,
+    "score": 0.692
+  },
+  {
+    "word": "cookies",
+    "start": 16.423,
+    "end": 16.763,
+    "score": 0.851
+  },
+  {
+    "word": "along",
+    "start": 16.823,
+    "end": 17.024,
+    "score": 0.849
+  },
+  {
+    "word": "with",
+    "start": 17.044,
+    "end": 17.164,
+    "score": 0.754
+  },
+  {
+    "word": "them",
+    "start": 17.204,
+    "end": 17.384,
+    "score": 0.817
+  },
+  {
+    "word": "or",
+    "start": 17.565,
+    "end": 17.645,
+    "score": 0.718
+  },
+  {
+    "word": "eat",
+    "start": 17.745,
+    "end": 17.905,
+    "score": 0.623
+  },
+  {
+    "word": "in",
+    "start": 17.986,
+    "end": 18.066,
+    "score": 0.86
+  },
+  {
+    "word": "school",
+    "start": 18.126,
+    "end": 18.406,
+    "score": 0.789
+  },
+  {
+    "word": "cafeterias.",
+    "start": 18.446,
+    "end": 19.128,
+    "score": 0.927
+  }
+]

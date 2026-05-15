@@ -1,0 +1,368 @@
+[
+  {
+    "word": "It",
+    "start": 0.051,
+    "end": 0.111,
+    "score": 0.764
+  },
+  {
+    "word": "was",
+    "start": 0.151,
+    "end": 0.251,
+    "score": 0.846
+  },
+  {
+    "word": "difficult",
+    "start": 0.311,
+    "end": 0.692,
+    "score": 0.865
+  },
+  {
+    "word": "for",
+    "start": 0.732,
+    "end": 0.832,
+    "score": 0.833
+  },
+  {
+    "word": "a",
+    "start": 0.872,
+    "end": 0.892,
+    "score": 1.0
+  },
+  {
+    "word": "city",
+    "start": 0.932,
+    "end": 1.193,
+    "score": 0.909
+  },
+  {
+    "word": "merchant",
+    "start": 1.233,
+    "end": 1.633,
+    "score": 0.845
+  },
+  {
+    "word": "to",
+    "start": 1.694,
+    "end": 1.794,
+    "score": 0.63
+  },
+  {
+    "word": "believe",
+    "start": 1.814,
+    "end": 2.134,
+    "score": 0.713
+  },
+  {
+    "word": "that",
+    "start": 2.154,
+    "end": 2.274,
+    "score": 0.766
+  },
+  {
+    "word": "his",
+    "start": 2.335,
+    "end": 2.455,
+    "score": 0.947
+  },
+  {
+    "word": "way",
+    "start": 2.515,
+    "end": 2.675,
+    "score": 0.832
+  },
+  {
+    "word": "of",
+    "start": 2.715,
+    "end": 2.775,
+    "score": 0.75
+  },
+  {
+    "word": "living",
+    "start": 2.835,
+    "end": 3.116,
+    "score": 0.808
+  },
+  {
+    "word": "was",
+    "start": 3.196,
+    "end": 3.336,
+    "score": 0.676
+  },
+  {
+    "word": "less",
+    "start": 3.396,
+    "end": 3.576,
+    "score": 0.751
+  },
+  {
+    "word": "proper",
+    "start": 3.637,
+    "end": 3.937,
+    "score": 0.708
+  },
+  {
+    "word": "than",
+    "start": 3.977,
+    "end": 4.097,
+    "score": 0.889
+  },
+  {
+    "word": "that",
+    "start": 4.137,
+    "end": 4.298,
+    "score": 0.729
+  },
+  {
+    "word": "of",
+    "start": 4.338,
+    "end": 4.378,
+    "score": 1.0
+  },
+  {
+    "word": "others.",
+    "start": 4.458,
+    "end": 4.738,
+    "score": 0.787
+  },
+  {
+    "word": "It",
+    "start": 5.539,
+    "end": 5.58,
+    "score": 1.0
+  },
+  {
+    "word": "was",
+    "start": 5.62,
+    "end": 5.72,
+    "score": 0.834
+  },
+  {
+    "word": "difficult",
+    "start": 5.76,
+    "end": 6.16,
+    "score": 0.758
+  },
+  {
+    "word": "for",
+    "start": 6.18,
+    "end": 6.281,
+    "score": 0.81
+  },
+  {
+    "word": "him",
+    "start": 6.321,
+    "end": 6.481,
+    "score": 0.752
+  },
+  {
+    "word": "to",
+    "start": 6.541,
+    "end": 6.621,
+    "score": 0.74
+  },
+  {
+    "word": "understand",
+    "start": 6.681,
+    "end": 7.202,
+    "score": 0.862
+  },
+  {
+    "word": "that",
+    "start": 7.502,
+    "end": 7.623,
+    "score": 0.743
+  },
+  {
+    "word": "the",
+    "start": 7.643,
+    "end": 7.723,
+    "score": 0.843
+  },
+  {
+    "word": "competition",
+    "start": 7.763,
+    "end": 8.364,
+    "score": 0.887
+  },
+  {
+    "word": "necessary",
+    "start": 8.424,
+    "end": 8.905,
+    "score": 0.86
+  },
+  {
+    "word": "for",
+    "start": 8.925,
+    "end": 9.025,
+    "score": 0.915
+  },
+  {
+    "word": "his",
+    "start": 9.065,
+    "end": 9.165,
+    "score": 0.907
+  },
+  {
+    "word": "success",
+    "start": 9.205,
+    "end": 9.666,
+    "score": 0.807
+  },
+  {
+    "word": "was",
+    "start": 9.766,
+    "end": 9.886,
+    "score": 0.719
+  },
+  {
+    "word": "opposed",
+    "start": 9.926,
+    "end": 10.307,
+    "score": 0.837
+  },
+  {
+    "word": "to",
+    "start": 10.347,
+    "end": 10.427,
+    "score": 0.75
+  },
+  {
+    "word": "moral",
+    "start": 10.467,
+    "end": 10.747,
+    "score": 0.748
+  },
+  {
+    "word": "law.",
+    "start": 10.808,
+    "end": 11.088,
+    "score": 0.91
+  },
+  {
+    "word": "He",
+    "start": 11.869,
+    "end": 11.929,
+    "score": 0.993
+  },
+  {
+    "word": "began",
+    "start": 11.969,
+    "end": 12.23,
+    "score": 0.876
+  },
+  {
+    "word": "to",
+    "start": 12.29,
+    "end": 12.37,
+    "score": 0.75
+  },
+  {
+    "word": "doubt",
+    "start": 12.41,
+    "end": 12.61,
+    "score": 0.806
+  },
+  {
+    "word": "the",
+    "start": 12.65,
+    "end": 12.731,
+    "score": 0.831
+  },
+  {
+    "word": "teachings",
+    "start": 12.771,
+    "end": 13.231,
+    "score": 0.757
+  },
+  {
+    "word": "of",
+    "start": 13.251,
+    "end": 13.311,
+    "score": 0.75
+  },
+  {
+    "word": "the",
+    "start": 13.331,
+    "end": 13.412,
+    "score": 0.832
+  },
+  {
+    "word": "priests.",
+    "start": 13.452,
+    "end": 13.832,
+    "score": 0.788
+  },
+  {
+    "word": "They",
+    "start": 14.453,
+    "end": 14.553,
+    "score": 0.887
+  },
+  {
+    "word": "were",
+    "start": 14.573,
+    "end": 14.694,
+    "score": 0.751
+  },
+  {
+    "word": "only",
+    "start": 14.734,
+    "end": 14.914,
+    "score": 0.73
+  },
+  {
+    "word": "men",
+    "start": 14.954,
+    "end": 15.154,
+    "score": 0.77
+  },
+  {
+    "word": "like",
+    "start": 15.194,
+    "end": 15.375,
+    "score": 0.787
+  },
+  {
+    "word": "everyone",
+    "start": 15.475,
+    "end": 15.795,
+    "score": 0.843
+  },
+  {
+    "word": "else",
+    "start": 15.855,
+    "end": 16.016,
+    "score": 0.985
+  },
+  {
+    "word": "and",
+    "start": 16.076,
+    "end": 16.156,
+    "score": 0.861
+  },
+  {
+    "word": "therefore",
+    "start": 16.196,
+    "end": 16.637,
+    "score": 0.751
+  },
+  {
+    "word": "could",
+    "start": 16.697,
+    "end": 16.857,
+    "score": 0.845
+  },
+  {
+    "word": "make",
+    "start": 16.897,
+    "end": 17.057,
+    "score": 0.67
+  },
+  {
+    "word": "errors.",
+    "start": 17.157,
+    "end": 17.438,
+    "score": 0.875
+  }
+]

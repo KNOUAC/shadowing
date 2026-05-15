@@ -1,0 +1,308 @@
+[
+  {
+    "word": "Home",
+    "start": 0.051,
+    "end": 0.271,
+    "score": 0.892
+  },
+  {
+    "word": "economics",
+    "start": 0.291,
+    "end": 0.833,
+    "score": 0.868
+  },
+  {
+    "word": "involves",
+    "start": 0.893,
+    "end": 1.273,
+    "score": 0.863
+  },
+  {
+    "word": "every",
+    "start": 1.414,
+    "end": 1.614,
+    "score": 0.888
+  },
+  {
+    "word": "area",
+    "start": 1.734,
+    "end": 1.975,
+    "score": 0.874
+  },
+  {
+    "word": "of",
+    "start": 2.015,
+    "end": 2.075,
+    "score": 0.751
+  },
+  {
+    "word": "home",
+    "start": 2.135,
+    "end": 2.335,
+    "score": 0.861
+  },
+  {
+    "word": "life,",
+    "start": 2.396,
+    "end": 2.656,
+    "score": 0.893
+  },
+  {
+    "word": "including",
+    "start": 2.977,
+    "end": 3.397,
+    "score": 0.786
+  },
+  {
+    "word": "cooking,",
+    "start": 3.437,
+    "end": 3.818,
+    "score": 0.899
+  },
+  {
+    "word": "clothing,",
+    "start": 4.059,
+    "end": 4.5,
+    "score": 0.833
+  },
+  {
+    "word": "home",
+    "start": 4.64,
+    "end": 4.84,
+    "score": 0.762
+  },
+  {
+    "word": "furnishings",
+    "start": 4.88,
+    "end": 5.381,
+    "score": 0.767
+  },
+  {
+    "word": "and",
+    "start": 5.441,
+    "end": 5.521,
+    "score": 0.927
+  },
+  {
+    "word": "family",
+    "start": 5.582,
+    "end": 5.942,
+    "score": 0.931
+  },
+  {
+    "word": "relations.",
+    "start": 6.002,
+    "end": 6.543,
+    "score": 0.854
+  },
+  {
+    "word": "It",
+    "start": 7.385,
+    "end": 7.445,
+    "score": 0.922
+  },
+  {
+    "word": "teaches",
+    "start": 7.505,
+    "end": 7.846,
+    "score": 0.772
+  },
+  {
+    "word": "people",
+    "start": 7.906,
+    "end": 8.187,
+    "score": 0.835
+  },
+  {
+    "word": "how",
+    "start": 8.227,
+    "end": 8.347,
+    "score": 0.839
+  },
+  {
+    "word": "to",
+    "start": 8.407,
+    "end": 8.467,
+    "score": 0.75
+  },
+  {
+    "word": "eat",
+    "start": 8.527,
+    "end": 8.647,
+    "score": 0.987
+  },
+  {
+    "word": "better,",
+    "start": 8.708,
+    "end": 9.028,
+    "score": 0.856
+  },
+  {
+    "word": "dress",
+    "start": 9.309,
+    "end": 9.549,
+    "score": 0.816
+  },
+  {
+    "word": "well,",
+    "start": 9.609,
+    "end": 9.87,
+    "score": 0.95
+  },
+  {
+    "word": "care",
+    "start": 10.03,
+    "end": 10.27,
+    "score": 0.945
+  },
+  {
+    "word": "for",
+    "start": 10.311,
+    "end": 10.411,
+    "score": 0.836
+  },
+  {
+    "word": "their",
+    "start": 10.431,
+    "end": 10.611,
+    "score": 0.777
+  },
+  {
+    "word": "home,",
+    "start": 10.651,
+    "end": 10.892,
+    "score": 0.864
+  },
+  {
+    "word": "and",
+    "start": 11.232,
+    "end": 11.333,
+    "score": 0.669
+  },
+  {
+    "word": "spend",
+    "start": 11.373,
+    "end": 11.613,
+    "score": 0.788
+  },
+  {
+    "word": "money",
+    "start": 11.633,
+    "end": 11.813,
+    "score": 0.756
+  },
+  {
+    "word": "wisely.",
+    "start": 11.874,
+    "end": 12.354,
+    "score": 0.911
+  },
+  {
+    "word": "It",
+    "start": 13.276,
+    "end": 13.356,
+    "score": 0.766
+  },
+  {
+    "word": "also",
+    "start": 13.437,
+    "end": 13.677,
+    "score": 0.983
+  },
+  {
+    "word": "teaches",
+    "start": 13.737,
+    "end": 14.078,
+    "score": 0.718
+  },
+  {
+    "word": "family",
+    "start": 14.138,
+    "end": 14.499,
+    "score": 0.832
+  },
+  {
+    "word": "members",
+    "start": 14.539,
+    "end": 14.899,
+    "score": 0.846
+  },
+  {
+    "word": "how",
+    "start": 14.959,
+    "end": 15.08,
+    "score": 0.865
+  },
+  {
+    "word": "to",
+    "start": 15.12,
+    "end": 15.18,
+    "score": 0.752
+  },
+  {
+    "word": "get",
+    "start": 15.2,
+    "end": 15.32,
+    "score": 0.943
+  },
+  {
+    "word": "along",
+    "start": 15.36,
+    "end": 15.561,
+    "score": 0.784
+  },
+  {
+    "word": "with",
+    "start": 15.581,
+    "end": 15.701,
+    "score": 0.844
+  },
+  {
+    "word": "one",
+    "start": 15.781,
+    "end": 15.861,
+    "score": 0.834
+  },
+  {
+    "word": "another",
+    "start": 15.901,
+    "end": 16.182,
+    "score": 0.878
+  },
+  {
+    "word": "and",
+    "start": 16.402,
+    "end": 16.482,
+    "score": 0.847
+  },
+  {
+    "word": "build",
+    "start": 16.522,
+    "end": 16.723,
+    "score": 0.66
+  },
+  {
+    "word": "a",
+    "start": 16.763,
+    "end": 16.803,
+    "score": 0.5
+  },
+  {
+    "word": "happy",
+    "start": 16.843,
+    "end": 17.104,
+    "score": 0.867
+  },
+  {
+    "word": "home",
+    "start": 17.164,
+    "end": 17.384,
+    "score": 0.726
+  },
+  {
+    "word": "life.",
+    "start": 17.424,
+    "end": 17.705,
+    "score": 0.909
+  }
+]

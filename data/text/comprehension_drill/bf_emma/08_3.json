@@ -1,0 +1,266 @@
+[
+  {
+    "word": "Early",
+    "start": 0.091,
+    "end": 0.312,
+    "score": 0.75
+  },
+  {
+    "word": "agricultural",
+    "start": 0.412,
+    "end": 1.054,
+    "score": 0.878
+  },
+  {
+    "word": "man",
+    "start": 1.094,
+    "end": 1.355,
+    "score": 0.906
+  },
+  {
+    "word": "would",
+    "start": 1.395,
+    "end": 1.515,
+    "score": 0.992
+  },
+  {
+    "word": "have",
+    "start": 1.555,
+    "end": 1.635,
+    "score": 0.999
+  },
+  {
+    "word": "found",
+    "start": 1.655,
+    "end": 1.836,
+    "score": 0.777
+  },
+  {
+    "word": "it",
+    "start": 1.876,
+    "end": 1.936,
+    "score": 0.75
+  },
+  {
+    "word": "virtually",
+    "start": 1.976,
+    "end": 2.397,
+    "score": 0.848
+  },
+  {
+    "word": "impossible",
+    "start": 2.458,
+    "end": 2.979,
+    "score": 0.834
+  },
+  {
+    "word": "to",
+    "start": 3.039,
+    "end": 3.119,
+    "score": 0.852
+  },
+  {
+    "word": "cope",
+    "start": 3.159,
+    "end": 3.42,
+    "score": 0.834
+  },
+  {
+    "word": "with",
+    "start": 3.46,
+    "end": 3.581,
+    "score": 0.875
+  },
+  {
+    "word": "the",
+    "start": 3.601,
+    "end": 3.681,
+    "score": 0.833
+  },
+  {
+    "word": "heavy",
+    "start": 3.721,
+    "end": 3.941,
+    "score": 0.922
+  },
+  {
+    "word": "sod",
+    "start": 4.002,
+    "end": 4.202,
+    "score": 0.954
+  },
+  {
+    "word": "of",
+    "start": 4.222,
+    "end": 4.282,
+    "score": 0.751
+  },
+  {
+    "word": "grasslands.",
+    "start": 4.323,
+    "end": 4.884,
+    "score": 0.845
+  },
+  {
+    "word": "And",
+    "start": 5.566,
+    "end": 5.646,
+    "score": 0.862
+  },
+  {
+    "word": "so",
+    "start": 5.706,
+    "end": 5.867,
+    "score": 0.871
+  },
+  {
+    "word": "he",
+    "start": 5.927,
+    "end": 6.007,
+    "score": 0.938
+  },
+  {
+    "word": "can",
+    "start": 6.047,
+    "end": 6.188,
+    "score": 0.56
+  },
+  {
+    "word": "find",
+    "start": 6.228,
+    "end": 6.528,
+    "score": 0.775
+  },
+  {
+    "word": "his",
+    "start": 6.569,
+    "end": 6.669,
+    "score": 0.98
+  },
+  {
+    "word": "efforts",
+    "start": 6.769,
+    "end": 7.05,
+    "score": 0.948
+  },
+  {
+    "word": "to",
+    "start": 7.11,
+    "end": 7.19,
+    "score": 0.822
+  },
+  {
+    "word": "the",
+    "start": 7.21,
+    "end": 7.29,
+    "score": 0.82
+  },
+  {
+    "word": "flood",
+    "start": 7.331,
+    "end": 7.551,
+    "score": 0.858
+  },
+  {
+    "word": "plains",
+    "start": 7.611,
+    "end": 7.892,
+    "score": 0.835
+  },
+  {
+    "word": "of",
+    "start": 7.932,
+    "end": 7.992,
+    "score": 0.751
+  },
+  {
+    "word": "rivers,",
+    "start": 8.053,
+    "end": 8.353,
+    "score": 0.932
+  },
+  {
+    "word": "where",
+    "start": 8.754,
+    "end": 8.895,
+    "score": 0.9
+  },
+  {
+    "word": "the",
+    "start": 8.915,
+    "end": 8.995,
+    "score": 0.839
+  },
+  {
+    "word": "soil",
+    "start": 9.055,
+    "end": 9.336,
+    "score": 0.808
+  },
+  {
+    "word": "was",
+    "start": 9.356,
+    "end": 9.476,
+    "score": 0.734
+  },
+  {
+    "word": "fertile,",
+    "start": 9.516,
+    "end": 10.038,
+    "score": 0.74
+  },
+  {
+    "word": "well",
+    "start": 10.619,
+    "end": 10.78,
+    "score": 0.936
+  },
+  {
+    "word": "watered",
+    "start": 10.82,
+    "end": 11.201,
+    "score": 0.819
+  },
+  {
+    "word": "and",
+    "start": 11.321,
+    "end": 11.422,
+    "score": 0.748
+  },
+  {
+    "word": "easy",
+    "start": 11.522,
+    "end": 11.742,
+    "score": 0.874
+  },
+  {
+    "word": "to",
+    "start": 11.783,
+    "end": 11.863,
+    "score": 0.75
+  },
+  {
+    "word": "cultivate",
+    "start": 11.903,
+    "end": 12.384,
+    "score": 0.829
+  },
+  {
+    "word": "with",
+    "start": 12.444,
+    "end": 12.545,
+    "score": 0.888
+  },
+  {
+    "word": "simple",
+    "start": 12.605,
+    "end": 12.885,
+    "score": 0.878
+  },
+  {
+    "word": "tools.",
+    "start": 12.946,
+    "end": 13.287,
+    "score": 0.91
+  }
+]
