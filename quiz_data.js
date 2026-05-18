@@ -1,15 +1,15 @@
 const quizData = [
     {
-        "question": "강의별 실전 암기 퀴즈 (1강 ~ 15강)\n[제1강] 동사의 종류 (Verbs)\nBreakfast normally _______ of eggs, some meat, and toast.",
+        "question": "동사의 종류 (Verbs)\nBreakfast normally _______ of eggs, some meat, and toast.",
         "options": {
             "1": "(A) consists",
             "2": "(B) consist",
             "3": "(C) is consisted",
             "4": "(D) consisting"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제1강 1번 문항 핵심 개념]\nconsist of는 자동사로 수동태 불가능"
+        "explanation": "💡 [제1강 1번 핵심 개념]\nconsist of는 자동사로 수동태 불가능",
+        "opt_type": "alpha"
     },
     {
         "question": "People who work must _______ lunch with them.",
@@ -19,9 +19,9 @@ const quizData = [
             "3": "(C) be taken",
             "4": "(D) taking"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제1강 2번 문항 핵심 개념]\n조동사(must) 뒤 동사원형"
+        "explanation": "💡 [제1강 2번 핵심 개념]\n조동사(must) 뒤 동사원형",
+        "opt_type": "alpha"
     },
     {
         "question": "Children in school often _______ in school cafeterias.",
@@ -31,9 +31,9 @@ const quizData = [
             "3": "(C) eat",
             "4": "(D) eaten"
         },
-        "opt_type": "alpha",
         "answer": "3",
-        "explanation": "💡 [제1강 3번 문항 핵심 개념]\n주어(children)에 따른 동사 수 일치"
+        "explanation": "💡 [제1강 3번 핵심 개념]\n주어(children)에 따른 동사 수 일치",
+        "opt_type": "alpha"
     },
     {
         "question": "Doctors _______ people to have physical examinations regularly.",
@@ -43,9 +43,9 @@ const quizData = [
             "3": "(C) encourage",
             "4": "(D) encourages"
         },
-        "opt_type": "alpha",
         "answer": "3",
-        "explanation": "💡 [제1강 4번 문항 핵심 개념]\n3인칭 복수 주어의 일반동사 현재형"
+        "explanation": "💡 [제1강 4번 핵심 개념]\n3인칭 복수 주어의 일반동사 현재형",
+        "opt_type": "alpha"
     },
     {
         "question": "Not many people could _______, and not many could read.",
@@ -55,9 +55,9 @@ const quizData = [
             "3": "(C) wrote",
             "4": "(D) write"
         },
-        "opt_type": "alpha",
         "answer": "4",
-        "explanation": "💡 [제1강 5번 문항 핵심 개념]\n조동사(could) 뒤 동사원형"
+        "explanation": "💡 [제1강 5번 핵심 개념]\n조동사(could) 뒤 동사원형",
+        "opt_type": "alpha"
     },
     {
         "question": "다음 중 'consists'의 성격으로 옳은 것은?",
@@ -67,9 +67,9 @@ const quizData = [
             "3": "(C) 완전타동사",
             "4": "(D) 수여동사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제1강 6번 문항 핵심 개념]\nconsists of는 수동태가 안 되는 완전자동사"
+        "explanation": "💡 [제1강 6번 핵심 개념]\nconsists of는 수동태가 안 되는 완전자동사",
+        "opt_type": "alpha"
     },
     {
         "question": "'encourage' 동사가 5형식으로 쓰일 때 목적격 보어의 형태는?",
@@ -79,9 +79,9 @@ const quizData = [
             "3": "(C) 현재분사",
             "4": "(D) 과거분사"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제1강 7번 문항 핵심 개념]\nencourage + O + to-V (5형식 문형)"
+        "explanation": "💡 [제1강 7번 핵심 개념]\nencourage + O + to-V (5형식 문형)",
+        "opt_type": "alpha"
     },
     {
         "question": "'Lunch is likewise a light meal'에서 'is'는 몇 형식 동사인가?",
@@ -91,9 +91,9 @@ const quizData = [
             "3": "(C) 3형식",
             "4": "(D) 4형식"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제1강 8번 문항 핵심 개념]\n주격보어를 취하는 2형식 연결동사"
+        "explanation": "💡 [제1강 8번 핵심 개념]\n주격보어를 취하는 2형식 연결동사",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [3]의 'read'는 무엇으로 쓰였는가?",
@@ -103,9 +103,9 @@ const quizData = [
             "3": "(C) 명사",
             "4": "(D) 형용사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제1강 9번 문항 핵심 개념]\n문맥상 목적어가 생략된 자동사적 쓰임"
+        "explanation": "💡 [제1강 9번 핵심 개념]\n문맥상 목적어가 생략된 자동사적 쓰임",
+        "opt_type": "alpha"
     },
     {
         "question": "'take lunch with them'에서 'take'는 무엇을 필요로 하는가?",
@@ -115,9 +115,9 @@ const quizData = [
             "3": "(C) 간접목적어",
             "4": "(D) 부사구만 필수"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제1강 10번 문항 핵심 개념]\n타동사 take 뒤에는 목적어가 필수적임"
+        "explanation": "💡 [제1강 10번 핵심 개념]\n타동사 take 뒤에는 목적어가 필수적임",
+        "opt_type": "alpha"
     },
     {
         "question": "'illnesses have become serious'에서 'become'의 문형은?",
@@ -127,9 +127,9 @@ const quizData = [
             "3": "(C) 3형식",
             "4": "(D) 5형식"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제1강 11번 문항 핵심 개념]\nbecome은 형용사 보어를 취하는 2형식 동사"
+        "explanation": "💡 [제1강 11번 핵심 개념]\nbecome은 형용사 보어를 취하는 2형식 동사",
+        "opt_type": "alpha"
     },
     {
         "question": "'follows this advice'에서 'follows'의 종류는?",
@@ -139,9 +139,9 @@ const quizData = [
             "3": "(C) 불완전자동사",
             "4": "(D) 수여동사"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제1강 12번 문항 핵심 개념]\n목적어를 취하는 완전타동사"
+        "explanation": "💡 [제1강 12번 핵심 개념]\n목적어를 취하는 완전타동사",
+        "opt_type": "alpha"
     },
     {
         "question": "'certain people were especially trained'에서 'trained'의 역할은?",
@@ -151,9 +151,9 @@ const quizData = [
             "3": "(C) 부사",
             "4": "(D) 동사원형"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제1강 13번 문항 핵심 개념]\n수동태 문장에서 주격보어로 쓰인 과거분사"
+        "explanation": "💡 [제1강 13번 핵심 개념]\n수동태 문장에서 주격보어로 쓰인 과거분사",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [1]의 'eaten'은 'is'와 결합하여 어떤 태를 형성하는가?",
@@ -163,9 +163,9 @@ const quizData = [
             "3": "(C) 완료태",
             "4": "(D) 진행태"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제1강 14번 문항 핵심 개념]\nbe + p.p. 수동태 형성"
+        "explanation": "💡 [제1강 14번 핵심 개념]\nbe + p.p. 수동태 형성",
+        "opt_type": "alpha"
     },
     {
         "question": "'writing was done by hand'에서 'do'의 성격은?",
@@ -175,21 +175,21 @@ const quizData = [
             "3": "(C) 조동사",
             "4": "(D) 연결동사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제1강 15번 문항 핵심 개념]\nwrite와 달리 do는 타동사로 주로 쓰임"
+        "explanation": "💡 [제1강 15번 핵심 개념]\nwrite와 달리 do는 타동사로 주로 쓰임",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제2강] 시제 (Tense)\nI _______ that this had been for my ancestors.",
+        "question": "시제 (Tense)\nI _______ that this had been for my ancestors.",
         "options": {
             "1": "(A) see",
             "2": "(B) saw",
             "3": "(C) seen",
             "4": "(D) seeing"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 1번 문항 핵심 개념]\n주절 동사 시점(과거)"
+        "explanation": "💡 [제2강 1번 핵심 개념]\n주절 동사 시점(과거)",
+        "opt_type": "alpha"
     },
     {
         "question": "I saw that this _______ for my ancestors.",
@@ -199,9 +199,9 @@ const quizData = [
             "3": "(C) was",
             "4": "(D) been"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 2번 문항 핵심 개념]\n과거(saw)보다 이전의 사실을 나타내는 과거완료"
+        "explanation": "💡 [제2강 2번 핵심 개념]\n과거(saw)보다 이전의 사실을 나타내는 과거완료",
+        "opt_type": "alpha"
     },
     {
         "question": "It _______ for me an awful thing to live with.",
@@ -211,9 +211,9 @@ const quizData = [
             "3": "(C) shall",
             "4": "(D) had"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 3번 문항 핵심 개념]\n과거 시점에서의 미래 추측(would)"
+        "explanation": "💡 [제2강 3번 핵심 개념]\n과거 시점에서의 미래 추측(would)",
+        "opt_type": "alpha"
     },
     {
         "question": "Bitterness which _______ to kill my father could also kill me.",
@@ -223,9 +223,9 @@ const quizData = [
             "3": "(C) had helped",
             "4": "(D) has helped"
         },
-        "opt_type": "alpha",
         "answer": "3",
-        "explanation": "💡 [제2강 4번 문항 핵심 개념]\n과거 시점(could kill) 이전의 사건이므로 과거완료"
+        "explanation": "💡 [제2강 4번 핵심 개념]\n과거 시점(could kill) 이전의 사건이므로 과거완료",
+        "opt_type": "alpha"
     },
     {
         "question": "Music _______ the “universal language.”",
@@ -235,9 +235,9 @@ const quizData = [
             "3": "(C) is calling",
             "4": "(D) called"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 5번 문항 핵심 개념]\n지금까지 불려왔다는 의미의 현재완료 수동태"
+        "explanation": "💡 [제2강 5번 핵심 개념]\n지금까지 불려왔다는 의미의 현재완료 수동태",
+        "opt_type": "alpha"
     },
     {
         "question": "A silence _______ suddenly between us.",
@@ -247,9 +247,9 @@ const quizData = [
             "3": "(C) fell",
             "4": "(D) feels"
         },
-        "opt_type": "alpha",
         "answer": "3",
-        "explanation": "💡 [제2강 6번 문항 핵심 개념]\n과거의 특정 사건을 나타내는 단순과거"
+        "explanation": "💡 [제2강 6번 핵심 개념]\n과거의 특정 사건을 나타내는 단순과거",
+        "opt_type": "alpha"
     },
     {
         "question": "But it _______ for more than a few seconds when...",
@@ -259,9 +259,9 @@ const quizData = [
             "3": "(C) fell not",
             "4": "(D) not fall"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 7번 문항 핵심 개념]\n특정 시점까지 지속되지 않았음을 나타내는 과거완료"
+        "explanation": "💡 [제2강 7번 핵심 개념]\n특정 시점까지 지속되지 않았음을 나타내는 과거완료",
+        "opt_type": "alpha"
     },
     {
         "question": "'saw'의 시점에서 'had been'은 어느 때를 나타내는가?",
@@ -271,9 +271,9 @@ const quizData = [
             "3": "(C) 미래",
             "4": "(D) 현재"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제2강 8번 문항 핵심 개념]\n대과거(Past Perfect)의 개념"
+        "explanation": "💡 [제2강 8번 핵심 개념]\n대과거(Past Perfect)의 개념",
+        "opt_type": "alpha"
     },
     {
         "question": "'has been called'의 시제와 태는?",
@@ -283,9 +283,9 @@ const quizData = [
             "3": "(C) 과거완료 수동",
             "4": "(D) 현재진행 수동 25. 'had helped to kill'에서 과거완료가 쓰인 이유는? (A) 미래의 가정 (B) 'saw'보다 먼저 일어난 일 (C) 현재까지의 지속 (D) 반복적 습관"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 9번 문항 핵심 개념]\nhave been p.p. (현재완료 수동)"
+        "explanation": "💡 [제2강 9번 핵심 개념]\nhave been p.p. (현재완료 수동)",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [2]의 'depends'가 현재 시제인 이유는?",
@@ -295,9 +295,9 @@ const quizData = [
             "3": "(C) 진행 중인 일",
             "4": "(D) 미래 대용"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 10번 문항 핵심 개념]\n시간의 선후 관계를 명확히 하는 대과거"
+        "explanation": "💡 [제2강 10번 핵심 개념]\n시간의 선후 관계를 명확히 하는 대과거",
+        "opt_type": "alpha"
     },
     {
         "question": "'heard rapid steps coming'에서 'coming'의 의미는?",
@@ -307,9 +307,9 @@ const quizData = [
             "3": "(C) 수동",
             "4": "(D) 목적"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 11번 문항 핵심 개념]\n일반적인 정의나 진리는 현재 시제로 표현"
+        "explanation": "💡 [제2강 11번 핵심 개념]\n일반적인 정의나 진리는 현재 시제로 표현",
+        "opt_type": "alpha"
     },
     {
         "question": "'would be'가 나타내는 것은 무엇인가?",
@@ -319,9 +319,9 @@ const quizData = [
             "3": "(C) 현재의 추측",
             "4": "(D) 불가능한 소망"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 12번 문항 핵심 개념]\n지각동사 + 목적어 + ~ing(진행의 의미)"
+        "explanation": "💡 [제2강 12번 핵심 개념]\n지각동사 + 목적어 + ~ing(진행의 의미)",
+        "opt_type": "alpha"
     },
     {
         "question": "'is truly universal'에서 'is'의 시제적 특징은?",
@@ -331,9 +331,9 @@ const quizData = [
             "3": "(C) 일시적 사건",
             "4": "(D) 역사적 사실"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 13번 문항 핵심 개념]\n과거에서 본 미래를 나타내는 조동사 과거형"
+        "explanation": "💡 [제2강 13번 핵심 개념]\n과거에서 본 미래를 나타내는 조동사 과거형",
+        "opt_type": "alpha"
     },
     {
         "question": "'had not fallen' 구문에서 'when'절과의 관계는?",
@@ -343,21 +343,21 @@ const quizData = [
             "3": "(C) 조건",
             "4": "(D) 양보"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제2강 14번 문항 핵심 개념]\n변함없는 속성을 나타내는 현재 시제"
+        "explanation": "💡 [제2강 14번 핵심 개념]\n변함없는 속성을 나타내는 현재 시제",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제3강] 부정사 (Infinitive)\nMost students who plan _______ college take a test.",
+        "question": "부정사 (Infinitive)\nMost students who plan _______ college take a test.",
         "options": {
             "1": "(A) attend",
             "2": "(B) attending",
             "3": "(C) to attend",
             "4": "(D) attended"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제2강 15번 문항 핵심 개념]\n'채 ~하기도 전에 ...했다'는 과거완료 구문"
+        "answer": "3",
+        "explanation": "💡 [제3강 1번 핵심 개념]\nplan은 미래 지향적 의미로 to-V를 목적어로 취함",
+        "opt_type": "alpha"
     },
     {
         "question": "This test measures abilities thought _______ to success.",
@@ -367,9 +367,9 @@ const quizData = [
             "3": "(C) contributing",
             "4": "(D) contributed"
         },
-        "opt_type": "alpha",
-        "answer": "3",
-        "explanation": "💡 [제3강 1번 문항 핵심 개념]\nplan은 미래 지향적 의미로 to-V를 목적어로 취함"
+        "answer": "2",
+        "explanation": "💡 [제3강 2번 핵심 개념]\n수동의 의미를 갖는 형용사적 용법 (thought to)",
+        "opt_type": "alpha"
     },
     {
         "question": "It teaches people _______ better.",
@@ -379,9 +379,9 @@ const quizData = [
             "3": "(C) eat",
             "4": "(D) eating"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제3강 2번 문항 핵심 개념]\n수동의 의미를 갖는 형용사적 용법 (thought to)"
+        "answer": "1",
+        "explanation": "💡 [제3강 3번 핵심 개념]\n의문사 + to-V (명사구 역할)",
+        "opt_type": "alpha"
     },
     {
         "question": "It also teaches family members _______ along.",
@@ -391,9 +391,9 @@ const quizData = [
             "3": "(C) getting",
             "4": "(D) gotten"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제3강 3번 문항 핵심 개념]\n의문사 + to-V (명사구 역할)"
+        "answer": "2",
+        "explanation": "💡 [제3강 4번 핵심 개념]\n방법(~하는 법)을 나타내는 how to-V",
+        "opt_type": "alpha"
     },
     {
         "question": "_______ was difficult _______ a city merchant _______ believe...",
@@ -403,9 +403,9 @@ const quizData = [
             "3": "(C) There/for/to",
             "4": "(D) That/of/to"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제3강 4번 문항 핵심 개념]\n방법(~하는 법)을 나타내는 how to-V"
+        "answer": "1",
+        "explanation": "💡 [제3강 5번 핵심 개념]\nIt(가주어) for(의미상주어) to(진주어) 구문",
+        "opt_type": "alpha"
     },
     {
         "question": "He began _______ the teachings of the priests.",
@@ -415,9 +415,9 @@ const quizData = [
             "3": "(C) doubted",
             "4": "(D) of doubting"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제3강 5번 문항 핵심 개념]\nIt(가주어) for(의미상주어) to(진주어) 구문"
+        "answer": "2",
+        "explanation": "💡 [제3강 6번 핵심 개념]\nbegin은 to-V를 목적어로 취할 수 있음",
+        "opt_type": "alpha"
     },
     {
         "question": "'to attend'의 명사적 용법 중 역할은?",
@@ -427,9 +427,9 @@ const quizData = [
             "3": "(C) 보어",
             "4": "(D) 동격"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제3강 6번 문항 핵심 개념]\nbegin은 to-V를 목적어로 취할 수 있음"
+        "explanation": "💡 [제3강 7번 핵심 개념]\n동사 plan의 목적어 역할",
+        "opt_type": "alpha"
     },
     {
         "question": "'thought to contribute'에서 'to contribute'의 용법은?",
@@ -439,9 +439,9 @@ const quizData = [
             "3": "(C) 부사적 (목적)",
             "4": "(D) 독립부정사"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제3강 7번 문항 핵심 개념]\n동사 plan의 목적어 역할"
+        "explanation": "💡 [제3강 8번 핵심 개념]\nabilities를 수식하는 형용사적 용법의 분사 보어",
+        "opt_type": "alpha"
     },
     {
         "question": "'It was difficult for a city merchant'에서 'It'의 명칭은?",
@@ -451,9 +451,9 @@ const quizData = [
             "3": "(C) 비인칭주어",
             "4": "(D) 강조구문"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제3강 8번 문항 핵심 개념]\nabilities를 수식하는 형용사적 용법의 분사 보어"
+        "explanation": "💡 [제3강 9번 핵심 개념]\n형식상의 주어 It",
+        "opt_type": "alpha"
     },
     {
         "question": "'for a city merchant'의 역할은?",
@@ -463,9 +463,9 @@ const quizData = [
             "3": "(C) 목적어",
             "4": "(D) 이유의 부사구"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제3강 9번 문항 핵심 개념]\n형식상의 주어 It"
+        "explanation": "💡 [제3강 10번 핵심 개념]\nfor + 목적격은 부정사의 의미상 주어 표시",
+        "opt_type": "alpha"
     },
     {
         "question": "'how to get along'과 병렬 구조를 이루는 것은?",
@@ -475,9 +475,9 @@ const quizData = [
             "3": "(C) family members",
             "4": "(D) along"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제3강 10번 문항 핵심 개념]\nfor + 목적격은 부정사의 의미상 주어 표시"
+        "answer": "1",
+        "explanation": "💡 [제3강 11번 핵심 개념]\nand로 연결된 how to 뒤의 동사원형 병렬",
+        "opt_type": "alpha"
     },
     {
         "question": "'to believe'와 'to understand'의 공통된 주체는?",
@@ -487,9 +487,9 @@ const quizData = [
             "3": "(C) the test",
             "4": "(D) home life"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제3강 11번 문항 핵심 개념]\nand로 연결된 how to 뒤의 동사원형 병렬"
+        "explanation": "💡 [제3강 12번 핵심 개념]\n의미상 주어(merchant)가 행하는 동작들",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [1]의 'to attend'를 절로 바꾸면?",
@@ -499,9 +499,9 @@ const quizData = [
             "3": "(C) if attend",
             "4": "(D) which attend"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제3강 12번 문항 핵심 개념]\n의미상 주어(merchant)가 행하는 동작들"
+        "explanation": "💡 [제3강 13번 핵심 개념]\n명사절 접속사 that을 활용한 절 전환",
+        "opt_type": "alpha"
     },
     {
         "question": "'to doubt the teachings'에서 'to doubt'의 용법은?",
@@ -511,9 +511,9 @@ const quizData = [
             "3": "(C) 결과의 부사적 용법",
             "4": "(D) 형용사적 용법"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제3강 13번 문항 핵심 개념]\n명사절 접속사 that을 활용한 절 전환"
+        "explanation": "💡 [제3강 14번 핵심 개념]\nbegin의 목적어인 명사적 용법",
+        "opt_type": "alpha"
     },
     {
         "question": "'teaches people how to eat'에서 'how to eat'은 문장 내에서 무엇인가?",
@@ -523,21 +523,21 @@ const quizData = [
             "3": "(C) 주격보어",
             "4": "(D) 부사어"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제3강 14번 문항 핵심 개념]\nbegin의 목적어인 명사적 용법"
+        "explanation": "💡 [제3강 15번 핵심 개념]\n4형식/5형식 구조에서 직접목적어에 해당",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제4강] 동명사 (Gerund)\nRotted stakes of academic tradition are _______.",
+        "question": "동명사 (Gerund)\nRotted stakes of academic tradition are _______.",
         "options": {
             "1": "(A) worth to dream",
             "2": "(B) worth dreaming about",
             "3": "(C) worthy dream",
             "4": "(D) dream"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제3강 15번 문항 핵심 개념]\n4형식/5형식 구조에서 직접목적어에 해당"
+        "answer": "2",
+        "explanation": "💡 [제4강 1번 핵심 개념]\nbe worth -ing: ~할 가치가 있다 (관용 표현)",
+        "opt_type": "alpha"
     },
     {
         "question": "I _______ what steps man could take to ensure his survival.",
@@ -547,9 +547,9 @@ const quizData = [
             "3": "(C) cannot help but wondering",
             "4": "(D) help wondering"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제4강 1번 문항 핵심 개념]\nbe worth -ing: ~할 가치가 있다 (관용 표현)"
+        "explanation": "💡 [제4강 2번 핵심 개념]\ncannot help -ing: ~하지 않을 수 없다",
+        "opt_type": "alpha"
     },
     {
         "question": "_______ that when we read the lives of great men...",
@@ -559,9 +559,9 @@ const quizData = [
             "3": "(C) That goes without saying",
             "4": "(D) It goes to say"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제4강 2번 문항 핵심 개념]\ncannot help -ing: ~하지 않을 수 없다"
+        "explanation": "💡 [제4강 3번 핵심 개념]\nIt goes without saying that: ~은 말할 것도 없다",
+        "opt_type": "alpha"
     },
     {
         "question": "'worth dreaming about'에서 'dreaming'의 성격은?",
@@ -571,9 +571,9 @@ const quizData = [
             "3": "(C) 본동사",
             "4": "(D) 명사"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제4강 3번 문항 핵심 개념]\nIt goes without saying that: ~은 말할 것도 없다"
+        "explanation": "💡 [제4강 4번 핵심 개념]\n전치사(worth의 목적어 격) 뒤 동명사",
+        "opt_type": "alpha"
     },
     {
         "question": "'could not help wondering'의 의미와 같은 것은?",
@@ -583,9 +583,9 @@ const quizData = [
             "3": "(C) avoided wondering",
             "4": "(D) stopped to wonder"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제4강 4번 문항 핵심 개념]\n전치사(worth의 목적어 격) 뒤 동명사"
+        "answer": "1",
+        "explanation": "💡 [제4강 5번 핵심 개념]\ncannot but + 동사원형과 같은 의미",
+        "opt_type": "alpha"
     },
     {
         "question": "'It goes without saying that'의 의미는?",
@@ -595,9 +595,9 @@ const quizData = [
             "3": "(C) ~하는 것은 불가능하다",
             "4": "(D) ~이 사실이 아니다"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제4강 5번 문항 핵심 개념]\ncannot but + 동사원형과 같은 의미"
+        "explanation": "💡 [제4강 6번 핵심 개념]\n너무나 당연하여 말할 필요가 없다는 관용구",
+        "opt_type": "alpha"
     },
     {
         "question": "'pulling at those stakes'에서 'pulling'은 무엇의 목적어인가?",
@@ -607,9 +607,9 @@ const quizData = [
             "3": "(C) pointers",
             "4": "(D) give"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제4강 6번 문항 핵심 개념]\n너무나 당연하여 말할 필요가 없다는 관용구"
+        "explanation": "💡 [제4강 7번 핵심 개념]\nhow to 뒤에 걸리는 명사구",
+        "opt_type": "alpha"
     },
     {
         "question": "'increasing pollution'에서 'increasing'은?",
@@ -619,9 +619,9 @@ const quizData = [
             "3": "(C) 명사",
             "4": "(D) 동사"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제4강 7번 문항 핵심 개념]\nhow to 뒤에 걸리는 명사구"
+        "answer": "2",
+        "explanation": "💡 [제4강 8번 핵심 개념]\npollution을 수식하는 형용사 역할의 현재분사",
+        "opt_type": "alpha"
     },
     {
         "question": "'diminishing food supply'에서 'diminishing'의 역할은?",
@@ -631,9 +631,9 @@ const quizData = [
             "3": "(C) 동명사 주어",
             "4": "(D) 조동사"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제4강 8번 문항 핵심 개념]\npollution을 수식하는 형용사 역할의 현재분사"
+        "explanation": "💡 [제4강 9번 핵심 개념]\n분사가 명사 앞에서 수식하는 형태",
+        "opt_type": "alpha"
     },
     {
         "question": "'Being aware of this research'에서 'Being'의 용법은?",
@@ -643,9 +643,9 @@ const quizData = [
             "3": "(C) 진행형",
             "4": "(D) 보어"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제4강 9번 문항 핵심 개념]\n분사가 명사 앞에서 수식하는 형태"
+        "explanation": "💡 [제4강 10번 핵심 개념]\n'알고 있었기 때문에'라는 의미의 분사구문",
+        "opt_type": "alpha"
     },
     {
         "question": "'how to pull at those stakes'에서 'at'의 역할은?",
@@ -655,9 +655,9 @@ const quizData = [
             "3": "(C) 시간 표시",
             "4": "(D) 수단 표시"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제4강 10번 문항 핵심 개념]\n'알고 있었기 때문에'라는 의미의 분사구문"
+        "answer": "1",
+        "explanation": "💡 [제4강 11번 핵심 개념]\npull at: ~을 잡아당기다 (대상 강조)",
+        "opt_type": "alpha"
     },
     {
         "question": "'rotted stakes'에서 'rotted'의 품사는?",
@@ -667,9 +667,9 @@ const quizData = [
             "3": "(C) 명사",
             "4": "(D) 부사"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제4강 11번 문항 핵심 개념]\npull at: ~을 잡아당기다 (대상 강조)"
+        "answer": "2",
+        "explanation": "💡 [제4강 12번 핵심 개념]\n'썩은' 상태를 나타내는 과거분사의 형용사화",
+        "opt_type": "alpha"
     },
     {
         "question": "'by then'에서 'then'이 가리키는 시간은?",
@@ -679,9 +679,9 @@ const quizData = [
             "3": "(C) 과거",
             "4": "(D) 학기 말"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제4강 12번 문항 핵심 개념]\n'썩은' 상태를 나타내는 과거분사의 형용사화"
+        "explanation": "💡 [제4강 13번 핵심 개념]\n지문 앞부분의 '60 years' 시점을 의미",
+        "opt_type": "alpha"
     },
     {
         "question": "'making use of'에서 'making'의 성격은?",
@@ -691,9 +691,9 @@ const quizData = [
             "3": "(C) 정동사",
             "4": "(D) 수동태"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제4강 13번 문항 핵심 개념]\n지문 앞부분의 '60 years' 시점을 의미"
+        "explanation": "💡 [제4강 14번 핵심 개념]\n수동태 문장의 분사구문 (부수 상황)",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [3]의 'cannot but be struck'의 'struck'은?",
@@ -703,21 +703,21 @@ const quizData = [
             "3": "(C) 동사원형",
             "4": "(D) 현재분사"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제4강 14번 문항 핵심 개념]\n수동태 문장의 분사구문 (부수 상황)"
+        "explanation": "💡 [제4강 15번 핵심 개념]\nbe struck by: ~에 감명/충격을 받다 (수동태)",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제5강] 분사 (Participle)\nMr. Houghton was given to _______ monologues.",
+        "question": "분사 (Participle)\nMr. Houghton was given to _______ monologues.",
         "options": {
             "1": "(A) high-mind",
             "2": "(B) high-minded",
             "3": "(C) high-minding",
             "4": "(D) highly-mind"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제4강 15번 문항 핵심 개념]\nbe struck by: ~에 감명/충격을 받다 (수동태)"
+        "explanation": "💡 [제5강 1번 핵심 개념]\n'고결한'의 의미를 가진 복합 형용사(p.p. 형)",
+        "opt_type": "alpha"
     },
     {
         "question": "Democracy is, _______, something very recent.",
@@ -727,9 +727,9 @@ const quizData = [
             "3": "(C) spoken historically",
             "4": "(D) history speaking"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제5강 1번 문항 핵심 개념]\n'고결한'의 의미를 가진 복합 형용사(p.p. 형)"
+        "explanation": "💡 [제5강 2번 핵심 개념]\nhistorically speaking: 독립분사구문 관용 표현",
+        "opt_type": "alpha"
     },
     {
         "question": "Nearly all the sports _______ nowadays are competitive.",
@@ -739,9 +739,9 @@ const quizData = [
             "3": "(C) practice",
             "4": "(D) to practice"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제5강 2번 문항 핵심 개념]\nhistorically speaking: 독립분사구문 관용 표현"
+        "explanation": "💡 [제5강 3번 핵심 개념]\nsports (which are) practised: 후치 수식 과거분사",
+        "opt_type": "alpha"
     },
     {
         "question": "'high-minded'에서 '-ed'가 붙은 형태의 기능은?",
@@ -751,9 +751,9 @@ const quizData = [
             "3": "(C) 과거 시제",
             "4": "(D) 동명사"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제5강 3번 문항 핵심 개념]\nsports (which are) practised: 후치 수식 과거분사"
+        "explanation": "💡 [제5강 4번 핵심 개념]\n명사(monologues)를 수식하는 형용사적 기능",
+        "opt_type": "alpha"
     },
     {
         "question": "'historically speaking'은 어떤 종류의 분사구문인가?",
@@ -763,9 +763,9 @@ const quizData = [
             "3": "(C) 수동 분사구문",
             "4": "(D) 주격 분사구문"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제5강 4번 문항 핵심 개념]\n명사(monologues)를 수식하는 형용사적 기능"
+        "answer": "1",
+        "explanation": "💡 [제5강 5번 핵심 개념]\n주어가 일반인인 경우 생략하는 비인칭 독립분사구문",
+        "opt_type": "alpha"
     },
     {
         "question": "'sports practised'에서 'practised'의 수식 대상은?",
@@ -775,9 +775,9 @@ const quizData = [
             "3": "(C) competitive",
             "4": "(D) nearly"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제5강 5번 문항 핵심 개념]\n주어가 일반인인 경우 생략하는 비인칭 독립분사구문"
+        "explanation": "💡 [제5강 6번 핵심 개념]\n뒤에서 앞으로(Post-modification) 명사 수식",
+        "opt_type": "alpha"
     },
     {
         "question": "'tapping along on her neat little feet'에서 'tapping'의 의미상 주어는?",
@@ -787,9 +787,9 @@ const quizData = [
             "3": "(C) the window",
             "4": "(D) monologues"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제5강 6번 문항 핵심 개념]\n뒤에서 앞으로(Post-modification) 명사 수식"
+        "answer": "2",
+        "explanation": "💡 [제5강 7번 핵심 개념]\ntapping의 주체는 앞의 a girl",
+        "opt_type": "alpha"
     },
     {
         "question": "'ruled not by thought'의 'ruled' 앞에 생략된 단어는?",
@@ -799,9 +799,9 @@ const quizData = [
             "3": "(C) been",
             "4": "(D) was"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제5강 7번 문항 핵심 개념]\ntapping의 주체는 앞의 a girl"
+        "answer": "1",
+        "explanation": "💡 [제5강 8번 핵심 개념]\n분사구문에서 Being이 생략된 형태",
+        "opt_type": "alpha"
     },
     {
         "question": "'equally gifted'에서 'gifted'의 의미는?",
@@ -811,9 +811,9 @@ const quizData = [
             "3": "(C) 평범한",
             "4": "(D) 주어진"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제5강 8번 문항 핵심 개념]\n분사구문에서 Being이 생략된 형태"
+        "answer": "2",
+        "explanation": "💡 [제5강 9번 핵심 개념]\n'재능을 부여받은'의 의미에서 유래한 형용사",
+        "opt_type": "alpha"
     },
     {
         "question": "'feeling of local patriotism is involved'에서 'involved'의 태는?",
@@ -823,9 +823,9 @@ const quizData = [
             "3": "(C) 진행",
             "4": "(D) 완료"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제5강 9번 문항 핵심 개념]\n'재능을 부여받은'의 의미에서 유래한 형용사"
+        "explanation": "💡 [제5강 10번 핵심 개념]\nbe involved in: ~에 연루/관련되다",
+        "opt_type": "alpha"
     },
     {
         "question": "'savage combative instincts are aroused'에서 'aroused'의 원형은?",
@@ -835,9 +835,9 @@ const quizData = [
             "3": "(C) rose",
             "4": "(D) rousing"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제5강 10번 문항 핵심 개념]\nbe involved in: ~에 연루/관련되다"
+        "explanation": "💡 [제5강 11번 핵심 개념]\narouse(타동사): 불러일으키다 (수동태 are aroused)",
+        "opt_type": "alpha"
     },
     {
         "question": "'tapping along'에서 분사의 역할은?",
@@ -847,9 +847,9 @@ const quizData = [
             "3": "(C) 결과",
             "4": "(D) 조건"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제5강 11번 문항 핵심 개념]\narouse(타동사): 불러일으키다 (수동태 are aroused)"
+        "answer": "1",
+        "explanation": "💡 [제5강 12번 핵심 개념]\n주절의 상황과 함께 벌어지는 부수 상황",
+        "opt_type": "alpha"
     },
     {
         "question": "'disgraced'의 문법적 성격은?",
@@ -859,9 +859,9 @@ const quizData = [
             "3": "(C) 동명사",
             "4": "(D) 동사원형"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제5강 12번 문항 핵심 개념]\n주절의 상황과 함께 벌어지는 부수 상황"
+        "explanation": "💡 [제5강 13번 핵심 개념]\n수동의 의미를 나타내는 과거분사",
+        "opt_type": "alpha"
     },
     {
         "question": "'irresistible spring'에서 'irresistible'은 무엇을 수식하는가?",
@@ -871,9 +871,9 @@ const quizData = [
             "3": "(C) instance",
             "4": "(D) thought"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제5강 13번 문항 핵심 개념]\n수동의 의미를 나타내는 과거분사"
+        "explanation": "💡 [제5강 14번 핵심 개념]\n'저항할 수 없는 용솟음(충동)' 수식",
+        "opt_type": "alpha"
     },
     {
         "question": "분사구문의 부정을 만들 때 'not'의 위치는?",
@@ -883,21 +883,21 @@ const quizData = [
             "3": "(C) 문장 끝",
             "4": "(D) 조동사 뒤"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제5강 14번 문항 핵심 개념]\n'저항할 수 없는 용솟음(충동)' 수식"
+        "explanation": "💡 [제5강 15번 핵심 개념]\n분사구문의 부정어(not, never)는 분사 바로 앞",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제6강] 조동사 (Auxiliary)\n_______ wisdom in the sense of impartiality be taught?",
+        "question": "조동사 (Auxiliary)\n_______ wisdom in the sense of impartiality be taught?",
         "options": {
             "1": "(A) Can",
             "2": "(B) Must",
             "3": "(C) Should",
             "4": "(D) Will"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제5강 15번 문항 핵심 개념]\n분사구문의 부정어(not, never)는 분사 바로 앞"
+        "explanation": "💡 [제6강 1번 핵심 개념]\n가능성이나 능력을 묻는 조동사 Can",
+        "opt_type": "alpha"
     },
     {
         "question": "And, if it can, _______ the teaching of it be one of the aims?",
@@ -907,9 +907,9 @@ const quizData = [
             "3": "(C) might",
             "4": "(D) shall"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제6강 1번 문항 핵심 개념]\n가능성이나 능력을 묻는 조동사 Can"
+        "answer": "2",
+        "explanation": "💡 [제6강 2번 핵심 개념]\n당위성(~해야 하는가?)을 묻는 조동사 Should",
+        "opt_type": "alpha"
     },
     {
         "question": "It _______ be protested that it is right to hate.",
@@ -919,9 +919,9 @@ const quizData = [
             "3": "(C) might",
             "4": "(D) should"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제6강 2번 문항 핵심 개념]\n당위성(~해야 하는가?)을 묻는 조동사 Should"
+        "answer": "3",
+        "explanation": "💡 [제6강 3번 핵심 개념]\n약한 추측(~일지도 모른다)의 might",
+        "opt_type": "alpha"
     },
     {
         "question": "Every nation’s foreign policy _______ be judged.",
@@ -931,9 +931,9 @@ const quizData = [
             "3": "(C) would",
             "4": "(D) may"
         },
-        "opt_type": "alpha",
-        "answer": "3",
-        "explanation": "💡 [제6강 3번 문항 핵심 개념]\n약한 추측(~일지도 모른다)의 might"
+        "answer": "1",
+        "explanation": "💡 [제6강 4번 핵심 개념]\n강한 의무 및 필연성을 나타내는 must",
+        "opt_type": "alpha"
     },
     {
         "question": "I do not believe that we _______ prepare for war.",
@@ -943,9 +943,9 @@ const quizData = [
             "3": "(C) shall",
             "4": "(D) would"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제6강 4번 문항 핵심 개념]\n강한 의무 및 필연성을 나타내는 must"
+        "answer": "2",
+        "explanation": "💡 [제6강 5번 핵심 개념]\n가능성 유무를 나타내는 can",
+        "opt_type": "alpha"
     },
     {
         "question": "My father _______ tell me how quietly mamma slept.",
@@ -955,9 +955,9 @@ const quizData = [
             "3": "(C) must",
             "4": "(D) should"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제6강 5번 문항 핵심 개념]\n가능성 유무를 나타내는 can"
+        "explanation": "💡 [제6강 6번 핵심 개념]\n과거의 불규칙한 습관(~하곤 했다)",
+        "opt_type": "alpha"
     },
     {
         "question": "In my childish dreams I _______ fancy myself there.",
@@ -967,9 +967,9 @@ const quizData = [
             "3": "(C) might",
             "4": "(D) could"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제6강 6번 문항 핵심 개념]\n과거의 불규칙한 습관(~하곤 했다)"
+        "answer": "1",
+        "explanation": "💡 [제6강 7번 핵심 개념]\n과거의 지속적 상태나 규칙적 습관",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [1]에서 'Can'이 묻는 주된 뉘앙스는?",
@@ -979,9 +979,9 @@ const quizData = [
             "3": "(C) 강한 의무",
             "4": "(D) 추측"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제6강 7번 문항 핵심 개념]\n과거의 지속적 상태나 규칙적 습관"
+        "answer": "2",
+        "explanation": "💡 [제6강 8번 핵심 개념]\n교육이 가능한지 여부(possibility) 확인",
+        "opt_type": "alpha"
     },
     {
         "question": "'should the teaching... be'에서 'should'의 의미는?",
@@ -991,9 +991,9 @@ const quizData = [
             "3": "(C) 과거의 습관",
             "4": "(D) 강한 추측"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제6강 8번 문항 핵심 개념]\n교육이 가능한지 여부(possibility) 확인"
+        "explanation": "💡 [제6강 9번 핵심 개념]\n교육의 목표가 되어야 한다는 당위성",
+        "opt_type": "alpha"
     },
     {
         "question": "'might be protested'에서 'might'의 역할은?",
@@ -1003,9 +1003,9 @@ const quizData = [
             "3": "(C) 능력",
             "4": "(D) 의무"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제6강 9번 문항 핵심 개념]\n교육의 목표가 되어야 한다는 당위성"
+        "explanation": "💡 [제6강 10번 핵심 개념]\n반론이 제기될 수도 있다는 가능성 제시",
+        "opt_type": "alpha"
     },
     {
         "question": "'must be judged'에서 'must'의 의미는?",
@@ -1015,9 +1015,9 @@ const quizData = [
             "3": "(C) 금지",
             "4": "(D) 과거의 사실"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제6강 10번 문항 핵심 개념]\n반론이 제기될 수도 있다는 가능성 제시"
+        "answer": "1",
+        "explanation": "💡 [제6강 11번 핵심 개념]\n판단의 기준이 반드시 되어야 한다는 필요성",
+        "opt_type": "alpha"
     },
     {
         "question": "'would'와 'used to'의 공통된 의미는?",
@@ -1027,9 +1027,9 @@ const quizData = [
             "3": "(C) 가능성",
             "4": "(D) 의무"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제6강 11번 문항 핵심 개념]\n판단의 기준이 반드시 되어야 한다는 필요성"
+        "answer": "2",
+        "explanation": "💡 [제6강 12번 핵심 개념]\n과거 시점의 동작/상태 반복을 표현",
+        "opt_type": "alpha"
     },
     {
         "question": "'used to' 뒤에 오는 동사의 형태는?",
@@ -1039,9 +1039,9 @@ const quizData = [
             "3": "(C) 과거분사",
             "4": "(D) to-부정사"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제6강 12번 문항 핵심 개념]\n과거 시점의 동작/상태 반복을 표현"
+        "answer": "1",
+        "explanation": "💡 [제6강 13번 핵심 개념]\nused to + 동사원형 구문",
+        "opt_type": "alpha"
     },
     {
         "question": "'can prepare'에서 'can'의 부정형은?",
@@ -1051,9 +1051,9 @@ const quizData = [
             "3": "(C) should not",
             "4": "(D) may not"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제6강 13번 문항 핵심 개념]\nused to + 동사원형 구문"
+        "explanation": "💡 [제6강 14번 핵심 개념]\ncannot (할 수 없다)",
+        "opt_type": "alpha"
     },
     {
         "question": "'I should answer'에서 'should'는 어떤 용법인가?",
@@ -1063,21 +1063,21 @@ const quizData = [
             "3": "(C) 결과",
             "4": "(D) 조건"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제6강 14번 문항 핵심 개념]\ncannot (할 수 없다)"
+        "answer": "2",
+        "explanation": "💡 [제6강 15번 핵심 개념]\n겸손하거나 조심스러운 주장을 펼칠 때 사용",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제7강] 능동태/수동태 (Voice)\nIt affects them and _______ by them in turn.",
+        "question": "능동태/수동태 (Voice)\nIt affects them and _______ by them in turn.",
         "options": {
             "1": "(A) affect",
             "2": "(B) affected",
             "3": "(C) is affected",
             "4": "(D) affecting"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제6강 15번 문항 핵심 개념]\n겸손하거나 조심스러운 주장을 펼칠 때 사용"
+        "answer": "3",
+        "explanation": "💡 [제7강 1번 핵심 개념]\nis affected by: ~에 의해 영향을 받다",
+        "opt_type": "alpha"
     },
     {
         "question": "Total animal energy _______ by the amount of solar energy.",
@@ -1087,9 +1087,9 @@ const quizData = [
             "3": "(C) limits",
             "4": "(D) are limited"
         },
-        "opt_type": "alpha",
-        "answer": "3",
-        "explanation": "💡 [제7강 1번 문항 핵심 개념]\nis affected by: ~에 의해 영향을 받다"
+        "answer": "2",
+        "explanation": "💡 [제7강 2번 핵심 개념]\n수동태의 수 일치 (energy is)",
+        "opt_type": "alpha"
     },
     {
         "question": "Men _______ by machine.",
@@ -1099,9 +1099,9 @@ const quizData = [
             "3": "(C) is dwarfed",
             "4": "(D) become dwarfing"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제7강 2번 문항 핵심 개념]\n수동태의 수 일치 (energy is)"
+        "answer": "1",
+        "explanation": "💡 [제7강 3번 핵심 개념]\nbecome + p.p.: 동작보다 상태 변화 강조",
+        "opt_type": "alpha"
     },
     {
         "question": "Nature _______, artifacts _______...",
@@ -1111,9 +1111,9 @@ const quizData = [
             "3": "(C) excludes / exclude",
             "4": "(D) excluded / excluded"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제7강 3번 문항 핵심 개념]\nbecome + p.p.: 동작보다 상태 변화 강조"
+        "answer": "2",
+        "explanation": "💡 [제7강 4번 핵심 개념]\n주어의 수에 따른 be동사 변화 (is/are)",
+        "opt_type": "alpha"
     },
     {
         "question": "'is affected'에서 주어 'It'이 가리키는 구체적인 명사는?",
@@ -1123,9 +1123,9 @@ const quizData = [
             "3": "(C) Nation",
             "4": "(D) Government"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제7강 4번 문항 핵심 개념]\n주어의 수에 따른 be동사 변화 (is/are)"
+        "answer": "1",
+        "explanation": "💡 [제7강 5번 핵심 개념]\n언론(The press)이 영향을 주고받음",
+        "opt_type": "alpha"
     },
     {
         "question": "'is limited'의 수동태 용법 중 성격은?",
@@ -1135,9 +1135,9 @@ const quizData = [
             "3": "(C) 미래 진행",
             "4": "(D) 수여 수동"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제7강 5번 문항 핵심 개념]\n언론(The press)이 영향을 주고받음"
+        "answer": "2",
+        "explanation": "💡 [제7강 6번 핵심 개념]\n정해져 있는 한계 상황(상태) 설명",
+        "opt_type": "alpha"
     },
     {
         "question": "'become dwarfed'에서 'become'의 쓰임새는?",
@@ -1147,9 +1147,9 @@ const quizData = [
             "3": "(C) 조동사",
             "4": "(D) 지각동사"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제7강 6번 문항 핵심 개념]\n정해져 있는 한계 상황(상태) 설명"
+        "answer": "1",
+        "explanation": "💡 [제7강 7번 핵심 개념]\n2형식 상태 변화 동사로 수동태의 의미를 가짐",
+        "opt_type": "alpha"
     },
     {
         "question": "'are excluded'의 능동태 전환 시 목적어였던 성분은?",
@@ -1159,9 +1159,9 @@ const quizData = [
             "3": "(C) nature",
             "4": "(D) routine"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제7강 7번 문항 핵심 개념]\n2형식 상태 변화 동사로 수동태의 의미를 가짐"
+        "answer": "2",
+        "explanation": "💡 [제7강 8번 핵심 개념]\n능동태: (Something) excludes artifacts",
+        "opt_type": "alpha"
     },
     {
         "question": "다음 중 수동태로 변환할 수 없는 동사는?",
@@ -1171,9 +1171,9 @@ const quizData = [
             "3": "(C) become",
             "4": "(D) exclude"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제7강 8번 문항 핵심 개념]\n능동태: (Something) excludes artifacts"
+        "answer": "3",
+        "explanation": "💡 [제7강 9번 핵심 개념]\nbecome, have, lack 등은 수동태 불가",
+        "opt_type": "alpha"
     },
     {
         "question": "'bound up with'에서 'bound'의 원형은?",
@@ -1183,9 +1183,9 @@ const quizData = [
             "3": "(C) band",
             "4": "(D) binden"
         },
-        "opt_type": "alpha",
-        "answer": "3",
-        "explanation": "💡 [제7강 9번 문항 핵심 개념]\nbecome, have, lack 등은 수동태 불가"
+        "answer": "1",
+        "explanation": "💡 [제7강 10번 핵심 개념]\nbind(묶다)의 과거분사",
+        "opt_type": "alpha"
     },
     {
         "question": "'is determined'에서 determine은 몇 형식 동사인가?",
@@ -1195,9 +1195,9 @@ const quizData = [
             "3": "(C) 3형식",
             "4": "(D) 4형식"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제7강 10번 문항 핵심 개념]\nbind(묶다)의 과거분사"
+        "answer": "3",
+        "explanation": "💡 [제7강 11번 핵심 개념]\n'~을 결정하다'라는 목적어를 갖는 타동사",
+        "opt_type": "alpha"
     },
     {
         "question": "'can sustain'의 태는 무엇인가?",
@@ -1207,9 +1207,9 @@ const quizData = [
             "3": "(C) 완료태",
             "4": "(D) 진행태"
         },
-        "opt_type": "alpha",
-        "answer": "3",
-        "explanation": "💡 [제7강 11번 문항 핵심 개념]\n'~을 결정하다'라는 목적어를 갖는 타동사"
+        "answer": "1",
+        "explanation": "💡 [제7강 12번 핵심 개념]\n조동사 can 뒤 능동형",
+        "opt_type": "alpha"
     },
     {
         "question": "'embodied in organic compounds'의 'embodied'는 무엇을 수식하는가?",
@@ -1219,9 +1219,9 @@ const quizData = [
             "3": "(C) solar energy",
             "4": "(D) solar energy plants"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제7강 12번 문항 핵심 개념]\n조동사 can 뒤 능동형"
+        "answer": "4",
+        "explanation": "💡 [제7강 13번 핵심 개념]\n'식물 속에 담긴(embodied) 태양 에너지' 수식",
+        "opt_type": "alpha"
     },
     {
         "question": "'is affected'와 'is limited'의 공통된 태는?",
@@ -1231,9 +1231,9 @@ const quizData = [
             "3": "(C) 완료",
             "4": "(D) 진행"
         },
-        "opt_type": "alpha",
-        "answer": "4",
-        "explanation": "💡 [제7강 13번 문항 핵심 개념]\n'식물 속에 담긴(embodied) 태양 에너지' 수식"
+        "answer": "2",
+        "explanation": "💡 [제7강 14번 핵심 개념]\n목적어에 가해지는 동작을 설명하는 수동태",
+        "opt_type": "alpha"
     },
     {
         "question": "'have to learn'의 'have to'는 수동태로 바꿀 수 있는가?",
@@ -1243,21 +1243,21 @@ const quizData = [
             "3": "(C) 수동 조동사이다",
             "4": "(D) 본동사가 learn이므로 가능하다"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제7강 14번 문항 핵심 개념]\n목적어에 가해지는 동작을 설명하는 수동태"
+        "explanation": "💡 [제7강 15번 핵심 개념]\nhave to는 조동사적 성격으로 수동태 주어가 될 수 없음",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제8강] 가정법 (Mood)\nEven an end which it would be noble to pursue _______ attainable...",
+        "question": "가정법 (Mood)\nEven an end which it would be noble to pursue _______ attainable...",
         "options": {
             "1": "(A) if it is",
             "2": "(B) if it were",
             "3": "(C) if it had been",
             "4": "(D) if it be"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제7강 15번 문항 핵심 개념]\nhave to는 조동사적 성격으로 수동태 주어가 될 수 없음"
+        "explanation": "💡 [제8강 1번 핵심 개념]\n현재 사실의 반대 가정 (if it were)",
+        "opt_type": "alpha"
     },
     {
         "question": "_______ we shown other nations the test explosion...",
@@ -1267,9 +1267,9 @@ const quizData = [
             "3": "(C) Have",
             "4": "(D) Should"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제8강 1번 문항 핵심 개념]\n현재 사실의 반대 가정 (if it were)"
+        "explanation": "💡 [제8강 2번 핵심 개념]\nIf we had shown에서 If 생략 시 도치",
+        "opt_type": "alpha"
     },
     {
         "question": "We _______ it as an education for new ideas.",
@@ -1279,9 +1279,9 @@ const quizData = [
             "3": "(C) used",
             "4": "(D) had used"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제8강 2번 문항 핵심 개념]\nIf we had shown에서 If 생략 시 도치"
+        "explanation": "💡 [제8강 3번 핵심 개념]\n과거 사실에 대한 반대 가정의 결과 (could have p.p.)",
+        "opt_type": "alpha"
     },
     {
         "question": "It _______ an impressive and favorable moment.",
@@ -1291,9 +1291,9 @@ const quizData = [
             "3": "(C) will be",
             "4": "(D) was"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제8강 3번 문항 핵심 개념]\n과거 사실에 대한 반대 가정의 결과 (could have p.p.)"
+        "explanation": "💡 [제8강 4번 핵심 개념]\n과거 상황에 대한 추측성 귀결절",
+        "opt_type": "alpha"
     },
     {
         "question": "Our renunciation _______ great weight in negotiations.",
@@ -1303,9 +1303,9 @@ const quizData = [
             "3": "(C) will carry",
             "4": "(D) carried"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제8강 4번 문항 핵심 개념]\n과거 상황에 대한 추측성 귀결절"
+        "answer": "1",
+        "explanation": "💡 [제8강 5번 핵심 개념]\n과거 사실과 반대되는 결과를 가정",
+        "opt_type": "alpha"
     },
     {
         "question": "Early agricultural man _______ found it virtually impossible.",
@@ -1315,9 +1315,9 @@ const quizData = [
             "3": "(C) could have",
             "4": "(D) should have"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제8강 5번 문항 핵심 개념]\n과거 사실과 반대되는 결과를 가정"
+        "explanation": "💡 [제8강 6번 핵심 개념]\n과거 상황에 대한 강한 추측성 가정",
+        "opt_type": "alpha"
     },
     {
         "question": "'if it were'가 나타내는 사실은?",
@@ -1327,9 +1327,9 @@ const quizData = [
             "3": "(C) 미래의 불확실한 일",
             "4": "(D) 불변의 진리"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제8강 6번 문항 핵심 개념]\n과거 상황에 대한 강한 추측성 가정"
+        "explanation": "💡 [제8강 7번 핵심 개념]\n현재 도달하기 어렵다는 것을 가정함",
+        "opt_type": "alpha"
     },
     {
         "question": "'Had we shown'은 무엇이 생략되어 도치된 것인가?",
@@ -1339,9 +1339,9 @@ const quizData = [
             "3": "(C) Because",
             "4": "(D) Although"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제8강 7번 문항 핵심 개념]\n현재 도달하기 어렵다는 것을 가정함"
+        "explanation": "💡 [제8강 8번 핵심 개념]\n조건절의 접속사 생략과 도치",
+        "opt_type": "alpha"
     },
     {
         "question": "'could have used'의 의미는?",
@@ -1351,9 +1351,9 @@ const quizData = [
             "3": "(C) 사용해야만 했다",
             "4": "(D) 사용될 것이다"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제8강 8번 문항 핵심 개념]\n조건절의 접속사 생략과 도치"
+        "answer": "2",
+        "explanation": "💡 [제8강 9번 핵심 개념]\n과거에 하지 못한 일에 대한 아쉬움/가정",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [2]의 전체적인 시점은 무엇에 관한 가정인가?",
@@ -1363,9 +1363,9 @@ const quizData = [
             "3": "(C) 미래",
             "4": "(D) 혼합"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제8강 9번 문항 핵심 개념]\n과거에 하지 못한 일에 대한 아쉬움/가정"
+        "explanation": "💡 [제8강 10번 핵심 개념]\nNew Mexico 테스트 폭발이라는 과거 사건 기반",
+        "opt_type": "alpha"
     },
     {
         "question": "'would have been'에서 'would have'는 무엇을 표시하는가?",
@@ -1375,9 +1375,9 @@ const quizData = [
             "3": "(C) 미래의 완료",
             "4": "(D) 의무의 과거"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제8강 10번 문항 핵심 개념]\nNew Mexico 테스트 폭발이라는 과거 사건 기반"
+        "answer": "1",
+        "explanation": "💡 [제8강 11번 핵심 개념]\n과거 사실에 대한 가정법적 결과(귀결)",
+        "opt_type": "alpha"
     },
     {
         "question": "'would be noble'에서 'would'의 쓰임은?",
@@ -1387,9 +1387,9 @@ const quizData = [
             "3": "(C) 의지",
             "4": "(D) 단순 미래"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제8강 11번 문항 핵심 개념]\n과거 사실에 대한 가정법적 결과(귀결)"
+        "explanation": "💡 [제8강 12번 핵심 개념]\n가정법 과거 구문의 일부",
+        "opt_type": "alpha"
     },
     {
         "question": "'impossible of achievement'에서 achievement의 품사는?",
@@ -1399,9 +1399,9 @@ const quizData = [
             "3": "(C) 형용사",
             "4": "(D) 부사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제8강 12번 문항 핵심 개념]\n가정법 과거 구문의 일부"
+        "explanation": "💡 [제8강 13번 핵심 개념]\n전치사 of의 목적어 역할",
+        "opt_type": "alpha"
     },
     {
         "question": "가정법 과거완료의 기본 구조는?",
@@ -1411,9 +1411,9 @@ const quizData = [
             "3": "(C) If S+p.p, S+will+V",
             "4": "(D) If S+were, S+would+V"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제8강 13번 문항 핵심 개념]\n전치사 of의 목적어 역할"
+        "explanation": "💡 [제8강 14번 핵심 개념]\n가정법 과거완료의 표준 공식",
+        "opt_type": "alpha"
     },
     {
         "question": "'virtually impossible'에서 virtually의 수식 대상은?",
@@ -1423,21 +1423,21 @@ const quizData = [
             "3": "(C) man",
             "4": "(D) cope"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제8강 14번 문항 핵심 개념]\n가정법 과거완료의 표준 공식"
+        "answer": "2",
+        "explanation": "💡 [제8강 15번 핵심 개념]\n'사실상 불가능한' 형용사 수식 부사",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제9강] 일치와 화법 (Agreement & Narration)\nI said to myself: _______ your inclinations...",
+        "question": "일치와 화법 (Agreement & Narration)\nI said to myself: _______ your inclinations...",
         "options": {
             "1": "(A) follow",
             "2": "(B) followed",
             "3": "(C) following",
             "4": "(D) to follow"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제8강 15번 문항 핵심 개념]\n'사실상 불가능한' 형용사 수식 부사"
+        "answer": "1",
+        "explanation": "💡 [제9강 1번 핵심 개념]\n직접화법 인용문 내의 명령문",
+        "opt_type": "alpha"
     },
     {
         "question": "I _______ that if you could find the exact term...",
@@ -1447,9 +1447,9 @@ const quizData = [
             "3": "(C) am thinking",
             "4": "(D) had thought"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제9강 1번 문항 핵심 개념]\n직접화법 인용문 내의 명령문"
+        "answer": "2",
+        "explanation": "💡 [제9강 2번 핵심 개념]\n과거 시점의 생각을 나타내는 주절 동사",
+        "opt_type": "alpha"
     },
     {
         "question": "If you _______ the exact term...",
@@ -1459,9 +1459,9 @@ const quizData = [
             "3": "(C) will find",
             "4": "(D) find"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제9강 2번 문항 핵심 개념]\n과거 시점의 생각을 나타내는 주절 동사"
+        "explanation": "💡 [제9강 3번 핵심 개념]\n주절이 과거일 때 종속절의 can은 could로 일치",
+        "opt_type": "alpha"
     },
     {
         "question": "A qualifying epithet _______ with.",
@@ -1471,9 +1471,9 @@ const quizData = [
             "3": "(C) is dispensed",
             "4": "(D) dispensed"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제9강 3번 문항 핵심 개념]\n주절이 과거일 때 종속절의 can은 could로 일치"
+        "explanation": "💡 [제9강 4번 핵심 개념]\n시제 일치 원칙에 따른 조동사 과거형",
+        "opt_type": "alpha"
     },
     {
         "question": "In due course I _______ one of the most successful dramatists.",
@@ -1483,9 +1483,9 @@ const quizData = [
             "3": "(C) will be",
             "4": "(D) am"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제9강 4번 문항 핵심 개념]\n시제 일치 원칙에 따른 조동사 과거형"
+        "explanation": "💡 [제9강 5번 핵심 개념]\n간접화법에서 전달동사 시점에 맞춘 조동사 변화",
+        "opt_type": "alpha"
     },
     {
         "question": "'I said to myself'에서 전달동사의 시제는?",
@@ -1495,9 +1495,9 @@ const quizData = [
             "3": "(C) 미래",
             "4": "(D) 현재완료"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제9강 5번 문항 핵심 개념]\n간접화법에서 전달동사 시점에 맞춘 조동사 변화"
+        "explanation": "💡 [제9강 6번 핵심 개념]\n전달동사(Reporting Verb)의 시제",
+        "opt_type": "alpha"
     },
     {
         "question": "콜론(:) 뒤의 'follow your inclinations'는 어떤 화법인가?",
@@ -1507,9 +1507,9 @@ const quizData = [
             "3": "(C) 자유간접화법",
             "4": "(D) 묘사적 화법"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제9강 6번 문항 핵심 개념]\n전달동사(Reporting Verb)의 시제"
+        "answer": "1",
+        "explanation": "💡 [제9강 7번 핵심 개념]\n화자가 한 말을 그대로 인용한 형태",
+        "opt_type": "alpha"
     },
     {
         "question": "'thought'(과거) 때문에 'can find'가 'could find'가 된 원칙은?",
@@ -1519,9 +1519,9 @@ const quizData = [
             "3": "(C) 성의 일치",
             "4": "(D) 화법 전환"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제9강 7번 문항 핵심 개념]\n화자가 한 말을 그대로 인용한 형태"
+        "explanation": "💡 [제9강 8번 핵심 개념]\n영어의 Backshift Rule (시제 후퇴 법칙)",
+        "opt_type": "alpha"
     },
     {
         "question": "'Jones told a friend that...'에서 Jones가 실제로 한 말의 시제는?",
@@ -1531,9 +1531,9 @@ const quizData = [
             "3": "(C) is",
             "4": "(D) was"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제9강 8번 문항 핵심 개념]\n영어의 Backshift Rule (시제 후퇴 법칙)"
+        "explanation": "💡 [제9강 9번 핵심 개념]\n원래 직접화법 문장은 미래 시제였음",
+        "opt_type": "alpha"
     },
     {
         "question": "'should be'에서 'should'의 원형 조동사는 원래 무엇이었을 가능성이 높은가?",
@@ -1543,9 +1543,9 @@ const quizData = [
             "3": "(C) may",
             "4": "(D) can"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제9강 9번 문항 핵심 개념]\n원래 직접화법 문장은 미래 시제였음"
+        "explanation": "💡 [제9강 10번 핵심 개념]\n1인칭 주어 I와 결합하여 미래를 나타냈던 shall",
+        "opt_type": "alpha"
     },
     {
         "question": "'they suited his convenience'에서 'they'가 가리키는 것은?",
@@ -1555,9 +1555,9 @@ const quizData = [
             "3": "(C) inclinations",
             "4": "(D) reasons"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제9강 10번 문항 핵심 개념]\n1인칭 주어 I와 결합하여 미래를 나타냈던 shall"
+        "explanation": "💡 [제9강 11번 핵심 개념]\nrules of conduct (복수 명사)",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [2]의 'I wanted to write'에서 'wanted'와 시제가 일치된 동사는?",
@@ -1567,9 +1567,9 @@ const quizData = [
             "3": "(C) find",
             "4": "(D) thought"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제9강 11번 문항 핵심 개념]\nrules of conduct (복수 명사)"
+        "answer": "2",
+        "explanation": "💡 [제9강 12번 핵심 개념]\nwanted → thought → could로 이어지는 시제 일치",
+        "opt_type": "alpha"
     },
     {
         "question": "'the day'는 간접화법에서 무엇을 지칭하는가?",
@@ -1579,9 +1579,9 @@ const quizData = [
             "3": "(C) 날짜",
             "4": "(D) 낮 시간"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제9강 12번 문항 핵심 개념]\nwanted → thought → could로 이어지는 시제 일치"
+        "explanation": "💡 [제9강 13번 핵심 개념]\n당시(the day)라는 간접화법적 시간 표현",
+        "opt_type": "alpha"
     },
     {
         "question": "'I suppose he saw in it'에서 'it'이 가리키는 것은?",
@@ -1591,9 +1591,9 @@ const quizData = [
             "3": "(C) Jones",
             "4": "(D) theatre"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제9강 13번 문항 핵심 개념]\n당시(the day)라는 간접화법적 시간 표현"
+        "answer": "1",
+        "explanation": "💡 [제9강 14번 핵심 개념]\n앞에서 언급한 소설(first novel)",
+        "opt_type": "alpha"
     },
     {
         "question": "'follow your inclinations'의 문장 종류는?",
@@ -1603,21 +1603,21 @@ const quizData = [
             "3": "(C) 의문문",
             "4": "(D) 감탄문"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제9강 14번 문항 핵심 개념]\n앞에서 언급한 소설(first novel)"
+        "explanation": "💡 [제9강 15번 핵심 개념]\n주어 없이 동사원형으로 시작하는 명령문",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제10강] 관사, 명사, 대명사 (Article, Noun, Pronoun)\nI was earning barely enough money to keep _______.",
+        "question": "관사, 명사, 대명사 (Article, Noun, Pronoun)\nI was earning barely enough money to keep _______.",
         "options": {
             "1": "(A) the body and the soul together",
             "2": "(B) body and soul together",
             "3": "(C) a body and a soul together",
             "4": "(D) bodies and souls"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제9강 15번 문항 핵심 개념]\n주어 없이 동사원형으로 시작하는 명령문"
+        "answer": "2",
+        "explanation": "💡 [제10강 1번 핵심 개념]\n관용적인 대구 표현에서 관사 생략",
+        "opt_type": "alpha"
     },
     {
         "question": "She had read _______ and had written to me.",
@@ -1627,9 +1627,9 @@ const quizData = [
             "3": "(C) mine book",
             "4": "(D) a book of me"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제10강 1번 문항 핵심 개념]\n관용적인 대구 표현에서 관사 생략"
+        "explanation": "💡 [제10강 2번 핵심 개념]\na + 명사 + of + 소유대명사 (이중 소유격)",
+        "opt_type": "alpha"
     },
     {
         "question": "One of _______ first things you are told is that...",
@@ -1639,9 +1639,9 @@ const quizData = [
             "3": "(C) the",
             "4": "(D) (생략)"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제10강 2번 문항 핵심 개념]\na + 명사 + of + 소유대명사 (이중 소유격)"
+        "answer": "3",
+        "explanation": "💡 [제10강 3번 핵심 개념]\n서수(first) 앞에는 정관사 the 사용",
+        "opt_type": "alpha"
     },
     {
         "question": "Man's _______ is a wonderful thing.",
@@ -1651,9 +1651,9 @@ const quizData = [
             "3": "(C) Youths",
             "4": "(D) Youngest"
         },
-        "opt_type": "alpha",
-        "answer": "3",
-        "explanation": "💡 [제10강 3번 문항 핵심 개념]\n서수(first) 앞에는 정관사 the 사용"
+        "answer": "2",
+        "explanation": "💡 [제10강 4번 핵심 개념]\n'젊음'이라는 추상적인 개념을 나타내는 명사",
+        "opt_type": "alpha"
     },
     {
         "question": "_______ is the thing he cannot bear to lose.",
@@ -1663,9 +1663,9 @@ const quizData = [
             "3": "(C) That",
             "4": "(D) This"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제10강 4번 문항 핵심 개념]\n'젊음'이라는 추상적인 개념을 나타내는 명사"
+        "answer": "1",
+        "explanation": "💡 [제10강 5번 핵심 개념]\n'Youth'를 다시 받는 대명사",
+        "opt_type": "alpha"
     },
     {
         "question": "'body and soul together'에서 관사가 생략된 이유는?",
@@ -1675,9 +1675,9 @@ const quizData = [
             "3": "(C) 추상명사라서",
             "4": "(D) 셀 수 없어서"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제10강 5번 문항 핵심 개념]\n'Youth'를 다시 받는 대명사"
+        "answer": "2",
+        "explanation": "💡 [제10강 6번 핵심 개념]\nkeep body and soul together는 굳어진 표현",
+        "opt_type": "alpha"
     },
     {
         "question": "'a book of mine'과 같은 소유 표현의 명칭은?",
@@ -1687,9 +1687,9 @@ const quizData = [
             "3": "(C) 지시 대명사",
             "4": "(D) 동격"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제10강 6번 문항 핵심 개념]\nkeep body and soul together는 굳어진 표현"
+        "answer": "1",
+        "explanation": "💡 [제10강 7번 핵심 개념]\n소유의 의미를 중복해서 나타내는 구조",
+        "opt_type": "alpha"
     },
     {
         "question": "'the first things'에서 'the'가 사용된 이유는?",
@@ -1699,9 +1699,9 @@ const quizData = [
             "3": "(C) 유일한 것",
             "4": "(D) 이미 언급된 것"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제10강 7번 문항 핵심 개념]\n소유의 의미를 중복해서 나타내는 구조"
+        "explanation": "💡 [제10강 8번 핵심 개념]\n순서를 나타내는 말 앞의 정관사",
+        "opt_type": "alpha"
     },
     {
         "question": "'Youth'의 명사적 성격은?",
@@ -1711,9 +1711,9 @@ const quizData = [
             "3": "(C) 집합명사",
             "4": "(D) 고유명사"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제10강 8번 문항 핵심 개념]\n순서를 나타내는 말 앞의 정관사"
+        "answer": "2",
+        "explanation": "💡 [제10강 9번 핵심 개념]\n형태가 없는 추상적인 가치를 나타냄",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [3]의 세 번째 문장에서 'It'이 가리키는 대상은?",
@@ -1723,9 +1723,9 @@ const quizData = [
             "3": "(C) anguish",
             "4": "(D) magic"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제10강 9번 문항 핵심 개념]\n형태가 없는 추상적인 가치를 나타냄"
+        "explanation": "💡 [제10강 10번 핵심 개념]\n지문의 핵심 소재인 청춘(Youth)",
+        "opt_type": "alpha"
     },
     {
         "question": "'Latin quarter'는 어떤 명사인가?",
@@ -1735,9 +1735,9 @@ const quizData = [
             "3": "(C) 추상명사",
             "4": "(D) 물질명사"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제10강 10번 문항 핵심 개념]\n지문의 핵심 소재인 청춘(Youth)"
+        "answer": "1",
+        "explanation": "💡 [제10강 11번 핵심 개념]\n특정 지명을 나타내는 정형화된 이름",
+        "opt_type": "alpha"
     },
     {
         "question": "'Presently'의 의미로 지문 맥락상 가장 적절한 것은?",
@@ -1747,9 +1747,9 @@ const quizData = [
             "3": "(C) 선물로",
             "4": "(D) 직접"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제10강 11번 문항 핵심 개념]\n특정 지명을 나타내는 정형화된 이름"
+        "answer": "2",
+        "explanation": "💡 [제10강 12번 핵심 개념]\n시간이 조금 지난 후를 나타내는 부사",
+        "opt_type": "alpha"
     },
     {
         "question": "'it has gone from him'에서 'it'은?",
@@ -1759,9 +1759,9 @@ const quizData = [
             "3": "(C) anguish",
             "4": "(D) wonderful thing"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제10강 12번 문항 핵심 개념]\n시간이 조금 지난 후를 나타내는 부사"
+        "explanation": "💡 [제10강 13번 핵심 개념]\n청춘이 떠나갔음을 의미",
+        "opt_type": "alpha"
     },
     {
         "question": "'one of the first things'에서 'things'는 가산명사인가 불가산명사인가?",
@@ -1771,9 +1771,9 @@ const quizData = [
             "3": "(C) 추상명사",
             "4": "(D) 고유명사"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제10강 13번 문항 핵심 개념]\n청춘이 떠나갔음을 의미"
+        "answer": "1",
+        "explanation": "💡 [제10강 14번 핵심 개념]\nOne of the + 복수명사 구조",
+        "opt_type": "alpha"
     },
     {
         "question": "'fifteen hours a week'에서 'a'의 의미는?",
@@ -1783,21 +1783,21 @@ const quizData = [
             "3": "(C) 어떤",
             "4": "(D) 같은"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제10강 14번 문항 핵심 개념]\nOne of the + 복수명사 구조"
+        "answer": "2",
+        "explanation": "💡 [제10강 15번 핵심 개념]\na week (일주일마다, 일주일당)",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제11강] 관계사 I (Relative Pronoun I)\nThe news and opinions _______ are received from associations...",
+        "question": "관계사 I (Relative Pronoun I)\nThe news and opinions _______ are received from associations...",
         "options": {
             "1": "(A) who",
             "2": "(B) that",
             "3": "(C) what",
             "4": "(D) whom"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제10강 15번 문항 핵심 개념]\na week (일주일마다, 일주일당)"
+        "explanation": "💡 [제11강 1번 핵심 개념]\n사물 선행사와 결합하는 관계대명사",
+        "opt_type": "alpha"
     },
     {
         "question": "The newspapers in _______ they appear.",
@@ -1807,9 +1807,9 @@ const quizData = [
             "3": "(C) who",
             "4": "(D) where"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제11강 1번 문항 핵심 개념]\n사물 선행사와 결합하는 관계대명사"
+        "explanation": "💡 [제11강 2번 핵심 개념]\n'그 신문 안에서'라는 의미로 in which",
+        "opt_type": "alpha"
     },
     {
         "question": "Editorials of those _______ with them.",
@@ -1819,9 +1819,9 @@ const quizData = [
             "3": "(C) whom agree",
             "4": "(D) which agree"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제11강 2번 문항 핵심 개념]\n'그 신문 안에서'라는 의미로 in which"
+        "answer": "1",
+        "explanation": "💡 [제11강 3번 핵심 개념]\n선행사 those(사람들)와 일치하는 주격 관계사",
+        "opt_type": "alpha"
     },
     {
         "question": "None _______ he knew, _______ somewhat surprised him.",
@@ -1831,9 +1831,9 @@ const quizData = [
             "3": "(C) that / who",
             "4": "(D) which / that"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제11강 3번 문항 핵심 개념]\n선행사 those(사람들)와 일치하는 주격 관계사"
+        "answer": "2",
+        "explanation": "💡 [제11강 4번 핵심 개념]\n목적격 whom과 앞 문장 전체를 받는 which",
+        "opt_type": "alpha"
     },
     {
         "question": "That to _______ he was accustomed.",
@@ -1843,9 +1843,9 @@ const quizData = [
             "3": "(C) what",
             "4": "(D) that"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제11강 4번 문항 핵심 개념]\n목적격 whom과 앞 문장 전체를 받는 which"
+        "answer": "1",
+        "explanation": "💡 [제11강 5번 핵심 개념]\nbe accustomed to의 to 뒤에 오는 관계사",
+        "opt_type": "alpha"
     },
     {
         "question": "'that are received'에서 'that'의 선행사는?",
@@ -1855,9 +1855,9 @@ const quizData = [
             "3": "(C) writers",
             "4": "(D) towns"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제11강 5번 문항 핵심 개념]\nbe accustomed to의 to 뒤에 오는 관계사"
+        "answer": "2",
+        "explanation": "💡 [제11강 6번 핵심 개념]\n문장의 주어인 'news and opinions'를 받음",
+        "opt_type": "alpha"
     },
     {
         "question": "'which they appear'에서 'which'의 격은?",
@@ -1867,9 +1867,9 @@ const quizData = [
             "3": "(C) 소유격",
             "4": "(D) 전치사의 목적격"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제11강 6번 문항 핵심 개념]\n문장의 주어인 'news and opinions'를 받음"
+        "answer": "4",
+        "explanation": "💡 [제11강 7번 핵심 개념]\n전치사 in의 목적어 역할",
+        "opt_type": "alpha"
     },
     {
         "question": "'those who agree'에서 'those'의 의미는?",
@@ -1879,9 +1879,9 @@ const quizData = [
             "3": "(C) 그것들",
             "4": "(D) 신문들"
         },
-        "opt_type": "alpha",
-        "answer": "4",
-        "explanation": "💡 [제11강 7번 문항 핵심 개념]\n전치사 in의 목적어 역할"
+        "answer": "2",
+        "explanation": "💡 [제11강 8번 핵심 개념]\n'~하는 사람들' (those who)",
+        "opt_type": "alpha"
     },
     {
         "question": "', which somewhat surprised him'에서 'which'의 용법은?",
@@ -1891,9 +1891,9 @@ const quizData = [
             "3": "(C) 복합관계사",
             "4": "(D) 유사관계사"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제11강 8번 문항 핵심 개념]\n'~하는 사람들' (those who)"
+        "explanation": "💡 [제11강 9번 핵심 개념]\n콤마와 함께 쓰여 추가 설명을 제공",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [2]의 'which'는 무엇을 선행사로 받는가?",
@@ -1903,9 +1903,9 @@ const quizData = [
             "3": "(C) village",
             "4": "(D) country round"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제11강 9번 문항 핵심 개념]\n콤마와 함께 쓰여 추가 설명을 제공"
+        "answer": "1",
+        "explanation": "💡 [제11강 10번 핵심 개념]\n아는 사람이 아무도 없었다는 앞의 절 전체",
+        "opt_type": "alpha"
     },
     {
         "question": "'to which he was accustomed'에서 'to'의 위치는 원래 어디였는가?",
@@ -1915,9 +1915,9 @@ const quizData = [
             "3": "(C) he 앞",
             "4": "(D) fashion 뒤"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제11강 10번 문항 핵심 개념]\n아는 사람이 아무도 없었다는 앞의 절 전체"
+        "answer": "2",
+        "explanation": "💡 [제11강 11번 핵심 개념]\n관계절 끝에 있던 전치사가 관계대명사 앞으로 이동",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [3]의 'who had lived'에서 'who'는 누구를 가리키는가?",
@@ -1927,9 +1927,9 @@ const quizData = [
             "3": "(C) people",
             "4": "(D) France"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제11강 11번 문항 핵심 개념]\n관계절 끝에 있던 전치사가 관계대명사 앞으로 이동"
+        "explanation": "💡 [제11강 12번 핵심 개념]\n프랑스 숲에서 발견된 소년",
+        "opt_type": "alpha"
     },
     {
         "question": "'language... which they supposed'에서 'which'의 선행사는?",
@@ -1939,9 +1939,9 @@ const quizData = [
             "3": "(C) man",
             "4": "(D) original"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제11강 12번 문항 핵심 개념]\n프랑스 숲에서 발견된 소년"
+        "answer": "1",
+        "explanation": "💡 [제11강 13번 핵심 개념]\n히브리어일 것이라고 추측된 대상인 언어",
+        "opt_type": "alpha"
     },
     {
         "question": "'creature who scratched'에서 'who'의 격은?",
@@ -1951,9 +1951,9 @@ const quizData = [
             "3": "(C) 소유격",
             "4": "(D) 전치사의 목적격"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제11강 13번 문항 핵심 개념]\n히브리어일 것이라고 추측된 대상인 언어"
+        "explanation": "💡 [제11강 14번 핵심 개념]\ncreature를 선행사로 하는 주격 관계사",
+        "opt_type": "alpha"
     },
     {
         "question": "'Dr. Pinel, who specialized...'에서 콤마(,)의 역할은?",
@@ -1963,21 +1963,21 @@ const quizData = [
             "3": "(C) 동격",
             "4": "(D) 강조"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제11강 14번 문항 핵심 개념]\ncreature를 선행사로 하는 주격 관계사"
+        "explanation": "💡 [제11강 15번 핵심 개념]\n고유명사 뒤에서 신분을 추가로 설명",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제12강] 관계사 II (Relative Pronoun II)\nIt has little to do _______ we call real life.",
+        "question": "관계사 II (Relative Pronoun II)\nIt has little to do _______ we call real life.",
         "options": {
             "1": "(A) with what",
             "2": "(B) with that",
             "3": "(C) which",
             "4": "(D) in what"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제11강 15번 문항 핵심 개념]\n고유명사 뒤에서 신분을 추가로 설명"
+        "explanation": "💡 [제12강 1번 핵심 개념]\nwhat: 선행사를 포함하여 '~하는 것'",
+        "opt_type": "alpha"
     },
     {
         "question": "_______ I am judging is an “I” like me.",
@@ -1987,9 +1987,9 @@ const quizData = [
             "3": "(C) Whomever",
             "4": "(D) Whichever"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제12강 1번 문항 핵심 개념]\nwhat: 선행사를 포함하여 '~하는 것'"
+        "explanation": "💡 [제12강 2번 핵심 개념]\n'~하는 누구라도' 의미의 복합관계대명사",
+        "opt_type": "alpha"
     },
     {
         "question": "We are always suspicious of _______ do not understand.",
@@ -1999,9 +1999,9 @@ const quizData = [
             "3": "(C) things that we",
             "4": "(D) B, C 모두 정답"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제12강 2번 문항 핵심 개념]\n'~하는 누구라도' 의미의 복합관계대명사"
+        "answer": "4",
+        "explanation": "💡 [제12강 3번 핵심 개념]\n목적격 관계대명사는 생략하거나 that/which 사용",
+        "opt_type": "alpha"
     },
     {
         "question": "'what we call real life'에서 'what'의 문법적 정의는?",
@@ -2011,9 +2011,9 @@ const quizData = [
             "3": "(C) 지시 대명사",
             "4": "(D) 복합 관계대명사"
         },
-        "opt_type": "alpha",
-        "answer": "4",
-        "explanation": "💡 [제12강 3번 문항 핵심 개념]\n목적격 관계대명사는 생략하거나 that/which 사용"
+        "answer": "1",
+        "explanation": "💡 [제12강 4번 핵심 개념]\nthe thing which의 의미",
+        "opt_type": "alpha"
     },
     {
         "question": "'Whoever I am judging'의 문장 내 역할은?",
@@ -2023,9 +2023,9 @@ const quizData = [
             "3": "(C) 부사절",
             "4": "(D) 보어절"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제12강 4번 문항 핵심 개념]\nthe thing which의 의미"
+        "explanation": "💡 [제12강 5번 핵심 개념]\n문장 전체의 주어 역할을 하는 명사절",
+        "opt_type": "alpha"
     },
     {
         "question": "'things we do not understand'에서 'things'와 'we' 사이의 생략된 것은?",
@@ -2035,9 +2035,9 @@ const quizData = [
             "3": "(C) 소유격 관계대명사",
             "4": "(D) 관계부사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제12강 5번 문항 핵심 개념]\n문장 전체의 주어 역할을 하는 명사절"
+        "explanation": "💡 [제12강 6번 핵심 개념]\n명사와 대명사 주어 사이 목적격 관계사 생략",
+        "opt_type": "alpha"
     },
     {
         "question": "'grown-ups... who ought to know better'에서 'who'의 선행사는?",
@@ -2047,9 +2047,9 @@ const quizData = [
             "3": "(C) question",
             "4": "(D) poetry"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제12강 6번 문항 핵심 개념]\n명사와 대명사 주어 사이 목적격 관계사 생략"
+        "explanation": "💡 [제12강 7번 핵심 개념]\n후치 수식을 받는 성인들",
+        "opt_type": "alpha"
     },
     {
         "question": "'what we call' 구문의 관용적 해석은?",
@@ -2059,9 +2059,9 @@ const quizData = [
             "3": "(C) 우리가 부르는 것",
             "4": "(D) 이름 없는"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제12강 7번 문항 핵심 개념]\n후치 수식을 받는 성인들"
+        "explanation": "💡 [제12강 8번 핵심 개념]\nwhat we call = so-called",
+        "opt_type": "alpha"
     },
     {
         "question": "'Whoever'를 'no matter who'로 바꿀 수 있는 경우는?",
@@ -2071,9 +2071,9 @@ const quizData = [
             "3": "(C) 주어일 때",
             "4": "(D) 목적어일 때"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제12강 8번 문항 핵심 개념]\nwhat we call = so-called"
+        "answer": "2",
+        "explanation": "💡 [제12강 9번 핵심 개념]\n부사절로 쓰일 때만 양보의 의미로 전환 가능",
+        "opt_type": "alpha"
     },
     {
         "question": "'music is the freest' (지문 [1])에서 music은 어떤 선행사로 쓰였는가?",
@@ -2083,9 +2083,9 @@ const quizData = [
             "3": "(C) real life",
             "4": "(D) term"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제12강 9번 문항 핵심 개념]\n부사절로 쓰일 때만 양보의 의미로 전환 가능"
+        "explanation": "💡 [제12강 10번 핵심 개념]\n모든 예술 중에서(범위 중 하나)",
+        "opt_type": "alpha"
     },
     {
         "question": "'One of these days I am going to die'에서 생략된 관계사는?",
@@ -2095,9 +2095,9 @@ const quizData = [
             "3": "(C) where",
             "4": "(D) how"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제12강 10번 문항 핵심 개념]\n모든 예술 중에서(범위 중 하나)"
+        "answer": "1",
+        "explanation": "💡 [제12강 11번 핵심 개념]\n시간의 선행사 days를 수식하는 관계부사 생략",
+        "opt_type": "alpha"
     },
     {
         "question": "'the point of them'에서 'them'이 가리키는 대상들은?",
@@ -2107,9 +2107,9 @@ const quizData = [
             "3": "(C) young people",
             "4": "(D) questions"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제12강 11번 문항 핵심 개념]\n시간의 선행사 days를 수식하는 관계부사 생략"
+        "explanation": "💡 [제12강 12번 핵심 개념]\n앞서 열거된 예술 장르들",
+        "opt_type": "alpha"
     },
     {
         "question": "'little to do with'에서 'little'의 의미는?",
@@ -2119,9 +2119,9 @@ const quizData = [
             "3": "(C) 작은",
             "4": "(D) 아주 많은"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제12강 12번 문항 핵심 개념]\n앞서 열거된 예술 장르들"
+        "explanation": "💡 [제12강 13번 핵심 개념]\n'거의 없는' (부정적 수량)",
+        "opt_type": "alpha"
     },
     {
         "question": "'free of the weekday'에서 'free'의 의미는?",
@@ -2131,9 +2131,9 @@ const quizData = [
             "3": "(C) 자유로운",
             "4": "(D) 한가한"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제12강 13번 문항 핵심 개념]\n'거의 없는' (부정적 수량)"
+        "explanation": "💡 [제12강 14번 핵심 개념]\n'~로부터 자유로운' (벗어난 상태)",
+        "opt_type": "alpha"
     },
     {
         "question": "'what is the use of poetry?'에서 'what'의 품사는?",
@@ -2143,21 +2143,21 @@ const quizData = [
             "3": "(C) 지시 대명사",
             "4": "(D) 형용사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제12강 14번 문항 핵심 개념]\n'~로부터 자유로운' (벗어난 상태)"
+        "explanation": "💡 [제12강 15번 핵심 개념]\n질문을 만드는 의문사",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제13강] 형용사와 부사 (Adjective & Adverb)\nBy _______ means he finds at his disposal.",
+        "question": "형용사와 부사 (Adjective & Adverb)\nBy _______ means he finds at his disposal.",
         "options": {
             "1": "(A) what",
             "2": "(B) whatever",
             "3": "(C) whichever",
             "4": "(D) any"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제12강 15번 문항 핵심 개념]\n질문을 만드는 의문사"
+        "answer": "2",
+        "explanation": "💡 [제13강 1번 핵심 개념]\n어떤 수단이든지 간에 (복합관계형용사)",
+        "opt_type": "alpha"
     },
     {
         "question": "There is _______ will power involved.",
@@ -2167,9 +2167,9 @@ const quizData = [
             "3": "(C) a number of",
             "4": "(D) few"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제13강 1번 문항 핵심 개념]\n어떤 수단이든지 간에 (복합관계형용사)"
+        "explanation": "💡 [제13강 2번 핵심 개념]\n불가산 명사(will power)를 수식하는 수량구",
+        "opt_type": "alpha"
     },
     {
         "question": "Mr. Bennet was _______ quick parts.",
@@ -2179,9 +2179,9 @@ const quizData = [
             "3": "(C) a so odd mixture",
             "4": "(D) odd so a mixture"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제13강 2번 문항 핵심 개념]\n불가산 명사(will power)를 수식하는 수량구"
+        "explanation": "💡 [제13강 3번 핵심 개념]\nso + adj + a + noun의 특수 어순",
+        "opt_type": "alpha"
     },
     {
         "question": "The life of the Negro is still _______ crippled.",
@@ -2191,9 +2191,9 @@ const quizData = [
             "3": "(C) sadness",
             "4": "(D) sadden"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제13강 3번 문항 핵심 개념]\nso + adj + a + noun의 특수 어순"
+        "explanation": "💡 [제13강 4번 핵심 개념]\n분사 형용사(crippled)를 수식하는 부사",
+        "opt_type": "alpha"
     },
     {
         "question": "'whatever means'에서 'whatever'의 역할은?",
@@ -2203,9 +2203,9 @@ const quizData = [
             "3": "(C) 복합관계부사",
             "4": "(D) 지시형용사"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제13강 4번 문항 핵심 개념]\n분사 형용사(crippled)를 수식하는 부사"
+        "answer": "1",
+        "explanation": "💡 [제13강 5번 핵심 개념]\n명사 means를 직접 수식하는 역할",
+        "opt_type": "alpha"
     },
     {
         "question": "'a great deal of' 뒤에 오는 명사의 특징은?",
@@ -2215,9 +2215,9 @@ const quizData = [
             "3": "(C) 고유 명사",
             "4": "(D) 대명사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제13강 5번 문항 핵심 개념]\n명사 means를 직접 수식하는 역할"
+        "explanation": "💡 [제13강 6번 핵심 개념]\n양(amount)을 나타내는 표현",
+        "opt_type": "alpha"
     },
     {
         "question": "'so + 형용사 + a + 명사' 어순을 취하는 다른 부사는?",
@@ -2227,9 +2227,9 @@ const quizData = [
             "3": "(C) very",
             "4": "(D) quite"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제13강 6번 문항 핵심 개념]\n양(amount)을 나타내는 표현"
+        "answer": "2",
+        "explanation": "💡 [제13강 7번 핵심 개념]\nas, too, how, so 등은 이 어순을 따름",
+        "opt_type": "alpha"
     },
     {
         "question": "'sadly'가 수식하는 문장 성분은?",
@@ -2239,9 +2239,9 @@ const quizData = [
             "3": "(C) still (부사)",
             "4": "(D) Negro (명사)"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제13강 7번 문항 핵심 개념]\nas, too, how, so 등은 이 어순을 따름"
+        "answer": "1",
+        "explanation": "💡 [제13강 8번 핵심 개념]\n'슬프게 불구가 된'의 관계",
+        "opt_type": "alpha"
     },
     {
         "question": "'quick parts'에서 parts의 의미는?",
@@ -2251,9 +2251,9 @@ const quizData = [
             "3": "(C) 재능/역량",
             "4": "(D) 지역들"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제13강 8번 문항 핵심 개념]\n'슬프게 불구가 된'의 관계"
+        "answer": "3",
+        "explanation": "💡 [제13강 9번 핵심 개념]\n지적 능력이나 재기발랄함을 뜻하는 복수형",
+        "opt_type": "alpha"
     },
     {
         "question": "'uncertain temper'에서 'uncertain'의 용법은?",
@@ -2263,9 +2263,9 @@ const quizData = [
             "3": "(C) 부사적 용법",
             "4": "(D) 동격"
         },
-        "opt_type": "alpha",
-        "answer": "3",
-        "explanation": "💡 [제13강 9번 문항 핵심 개념]\n지적 능력이나 재기발랄함을 뜻하는 복수형"
+        "answer": "1",
+        "explanation": "💡 [제13강 10번 핵심 개념]\n보통의, 평범한 수준의 이해력",
+        "opt_type": "alpha"
     },
     {
         "question": "'mean understanding'에서 'mean'의 의미는?",
@@ -2275,9 +2275,9 @@ const quizData = [
             "3": "(C) 수단",
             "4": "(D) 중간의"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제13강 10번 문항 핵심 개념]\n보통의, 평범한 수준의 이해력"
+        "explanation": "💡 [제13강 11번 핵심 개념]\n명사 앞에서 성질을 제한적으로 설명",
+        "opt_type": "alpha"
     },
     {
         "question": "'lonely island'에서 'lonely'의 품사는?",
@@ -2287,9 +2287,9 @@ const quizData = [
             "3": "(C) 명사",
             "4": "(D) 동사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제13강 11번 문항 핵심 개념]\n명사 앞에서 성질을 제한적으로 설명"
+        "explanation": "💡 [제13강 12번 핵심 개념]\nly로 끝나지만 명사를 수식하는 형용사",
+        "opt_type": "alpha"
     },
     {
         "question": "'material prosperity'에서 'material'은 무엇을 수식하는가?",
@@ -2299,9 +2299,9 @@ const quizData = [
             "3": "(C) Negro",
             "4": "(D) island"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제13강 12번 문항 핵심 개념]\nly로 끝나지만 명사를 수식하는 형용사"
+        "explanation": "💡 [제13강 13번 핵심 개념]\n번영(prosperity)의 질적 속성을 수식",
+        "opt_type": "alpha"
     },
     {
         "question": "'still'의 부사적 의미는?",
@@ -2311,9 +2311,9 @@ const quizData = [
             "3": "(C) 그럼에도 불구하고",
             "4": "(D) 정지한"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제13강 13번 문항 핵심 개념]\n번영(prosperity)의 질적 속성을 수식"
+        "answer": "2",
+        "explanation": "💡 [제13강 14번 핵심 개념]\n'여전히'라는 의미의 시간 부사",
+        "opt_type": "alpha"
     },
     {
         "question": "'at his disposal'의 의미는?",
@@ -2323,21 +2323,21 @@ const quizData = [
             "3": "(C) 그의 배치에 따른",
             "4": "(D) 그가 결정한"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제13강 14번 문항 핵심 개념]\n'여전히'라는 의미의 시간 부사"
+        "answer": "1",
+        "explanation": "💡 [제13강 15번 핵심 개념]\nat one's disposal: ~의 임의대로",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제14강] 비교 (Comparison)\nPeople are _______ naturally reflective _______ they are naturally malicious.",
+        "question": "비교 (Comparison)\nPeople are _______ naturally reflective _______ they are naturally malicious.",
         "options": {
             "1": "(A) not / any more than",
             "2": "(B) no / any more than",
             "3": "(C) more / than",
             "4": "(D) as / as"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제13강 15번 문항 핵심 개념]\nat one's disposal: ~의 임의대로"
+        "explanation": "💡 [제14강 1번 핵심 개념]\nnot A any more than B: A도 B도 아니다",
+        "opt_type": "alpha"
     },
     {
         "question": "_______ that flame is covered up, _______ it burns.",
@@ -2347,9 +2347,9 @@ const quizData = [
             "3": "(C) Most / hottest",
             "4": "(D) Much / hotter"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제14강 1번 문항 핵심 개념]\nnot A any more than B: A도 B도 아니다"
+        "answer": "2",
+        "explanation": "💡 [제14강 2번 핵심 개념]\nThe 비교급, the 비교급 구조",
+        "opt_type": "alpha"
     },
     {
         "question": "It was at meal times that he was _______ intolerable.",
@@ -2359,9 +2359,9 @@ const quizData = [
             "3": "(C) many",
             "4": "(D) much"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제14강 2번 문항 핵심 개념]\nThe 비교급, the 비교급 구조"
+        "answer": "1",
+        "explanation": "💡 [제14강 3번 핵심 개념]\n부사적 성격의 최상급 (매우, 가장)",
+        "opt_type": "alpha"
     },
     {
         "question": "For _______ an hour then he had us at his mercy.",
@@ -2371,9 +2371,9 @@ const quizData = [
             "3": "(C) best part of",
             "4": "(D) the best part of"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제14강 3번 문항 핵심 개념]\n부사적 성격의 최상급 (매우, 가장)"
+        "answer": "2",
+        "explanation": "💡 [제14강 4번 핵심 개념]\nthe better part of: 대부분의 (관용구)",
+        "opt_type": "alpha"
     },
     {
         "question": "'not A any more than B'의 정확한 해석은?",
@@ -2383,9 +2383,9 @@ const quizData = [
             "3": "(C) B만큼 A하다",
             "4": "(D) A보다는 B가 낫다"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제14강 4번 문항 핵심 개념]\nthe better part of: 대부분의 (관용구)"
+        "answer": "1",
+        "explanation": "💡 [제14강 5번 핵심 개념]\n양자 부정 비교 구문의 전형적 해석",
+        "opt_type": "alpha"
     },
     {
         "question": "'The more..., the hotter...' 구문의 문법적 명칭은?",
@@ -2395,9 +2395,9 @@ const quizData = [
             "3": "(C) 동등 비교",
             "4": "(D) 열등 비교"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 5번 문항 핵심 개념]\n양자 부정 비교 구문의 전형적 해석"
+        "explanation": "💡 [제14강 6번 핵심 개념]\n정도의 비례 관계를 나타냄",
+        "opt_type": "alpha"
     },
     {
         "question": "'most intolerable'에서 'most'가 나타내는 급은?",
@@ -2407,9 +2407,9 @@ const quizData = [
             "3": "(C) 원급",
             "4": "(D) 절대 비교"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 6번 문항 핵심 개념]\n정도의 비례 관계를 나타냄"
+        "explanation": "💡 [제14강 7번 핵심 개념]\n'가장 참을 수 없는'",
+        "opt_type": "alpha"
     },
     {
         "question": "'the better part of'의 관용적 의미는?",
@@ -2419,9 +2419,9 @@ const quizData = [
             "3": "(C) ~보다 나은 시간",
             "4": "(D) ~의 최고 기록"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 7번 문항 핵심 개념]\n'가장 참을 수 없는'"
+        "explanation": "💡 [제14강 8번 핵심 개념]\n절반을 넘는 상당 부분",
+        "opt_type": "alpha"
     },
     {
         "question": "'houses so close together'에서 'so'는 무엇을 수식하는가?",
@@ -2431,9 +2431,9 @@ const quizData = [
             "3": "(C) together",
             "4": "(D) wall"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 8번 문항 핵심 개념]\n절반을 넘는 상당 부분"
+        "explanation": "💡 [제14강 9번 핵심 개념]\n형용사를 강조하는 부사 so",
+        "opt_type": "alpha"
     },
     {
         "question": "'better than anybody else'는 어떤 비교를 이용한 최상급 표현인가?",
@@ -2443,9 +2443,9 @@ const quizData = [
             "3": "(C) the + 최상급",
             "4": "(D) 부정어 주어 비교"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 9번 문항 핵심 개념]\n형용사를 강조하는 부사 so"
+        "explanation": "💡 [제14강 10번 핵심 개념]\n비교급을 사용해 최상의 의미 전달",
+        "opt_type": "alpha"
     },
     {
         "question": "'best-hated'에서 'best'의 기능은?",
@@ -2455,9 +2455,9 @@ const quizData = [
             "3": "(C) 가장 잘",
             "4": "(D) 기꺼이"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 10번 문항 핵심 개념]\n비교급을 사용해 최상의 의미 전달"
+        "explanation": "💡 [제14강 11번 핵심 개념]\n미움을 가장 많이 받는다는 뜻의 부사 최상급",
+        "opt_type": "alpha"
     },
     {
         "question": "'overweening vanity'에서 overweening의 의미는?",
@@ -2467,9 +2467,9 @@ const quizData = [
             "3": "(C) 슬픈",
             "4": "(D) 친절한"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 11번 문항 핵심 개념]\n미움을 가장 많이 받는다는 뜻의 부사 최상급"
+        "explanation": "💡 [제14강 12번 핵심 개념]\n과도하게 자신만만한 태도",
+        "opt_type": "alpha"
     },
     {
         "question": "'at his mercy'의 의미는?",
@@ -2479,9 +2479,9 @@ const quizData = [
             "3": "(C) 그를 용서하여",
             "4": "(D) 그와 함께"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 12번 문항 핵심 개념]\n과도하게 자신만만한 태도"
+        "explanation": "💡 [제14강 13번 핵심 개념]\n'~의 자비에 달린/처분만 기다리는'",
+        "opt_type": "alpha"
     },
     {
         "question": "'loquacious and argumentative'는 무엇을 설명하는 형용사인가?",
@@ -2491,9 +2491,9 @@ const quizData = [
             "3": "(C) 작가의 감정",
             "4": "(D) 다른 승객들의 태도"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 13번 문항 핵심 개념]\n'~의 자비에 달린/처분만 기다리는'"
+        "explanation": "💡 [제14강 14번 핵심 개념]\n말이 많고 논쟁적인 성격을 묘사",
+        "opt_type": "alpha"
     },
     {
         "question": "'impossible'의 비교급/최상급 형태는?",
@@ -2503,21 +2503,21 @@ const quizData = [
             "3": "(C) 불규칙 변화",
             "4": "(D) 변화 없음"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제14강 14번 문항 핵심 개념]\n말이 많고 논쟁적인 성격을 묘사"
+        "explanation": "💡 [제14강 15번 핵심 개념]\n3음절 이상의 형용사는 more/most 활용",
+        "opt_type": "alpha"
     },
     {
-        "question": "[제15강] 접속사 (Conjunction)\nGive Daddy something that would make him _______ he used to be.",
+        "question": "접속사 (Conjunction)\nGive Daddy something that would make him _______ he used to be.",
         "options": {
             "1": "(A) as",
             "2": "(B) like",
             "3": "(C) than",
             "4": "(D) because"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제14강 15번 문항 핵심 개념]\n3음절 이상의 형용사는 more/most 활용"
+        "answer": "2",
+        "explanation": "💡 [제15강 1번 핵심 개념]\n접속사로 쓰인 like (구어체/미국식)",
+        "opt_type": "alpha"
     },
     {
         "question": "_______ you are in college, pause long enough to ask yourself.",
@@ -2527,9 +2527,9 @@ const quizData = [
             "3": "(C) Although",
             "4": "(D) While"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제15강 1번 문항 핵심 개념]\n접속사로 쓰인 like (구어체/미국식)"
+        "explanation": "💡 [제15강 2번 핵심 개념]\n'이제 ~이니까'라는 원인 제공의 접속사",
+        "opt_type": "alpha"
     },
     {
         "question": "_______ he was 30 he had acquired fame.",
@@ -2539,9 +2539,9 @@ const quizData = [
             "3": "(C) As if",
             "4": "(D) Even if"
         },
-        "opt_type": "alpha",
         "answer": "2",
-        "explanation": "💡 [제15강 2번 문항 핵심 개념]\n'이제 ~이니까'라는 원인 제공의 접속사"
+        "explanation": "💡 [제15강 3번 핵심 개념]\nBy the time: ~할 때쯤이면 (시점의 한계)",
+        "opt_type": "alpha"
     },
     {
         "question": "'like he used to be'에서 'like'의 문법적 허용은?",
@@ -2551,9 +2551,9 @@ const quizData = [
             "3": "(C) 동사",
             "4": "(D) 형용사"
         },
-        "opt_type": "alpha",
-        "answer": "2",
-        "explanation": "💡 [제15강 3번 문항 핵심 개념]\nBy the time: ~할 때쯤이면 (시점의 한계)"
+        "answer": "1",
+        "explanation": "💡 [제15강 4번 핵심 개념]\n표준 문어체에서는 as를 권장하나 실생활에서는 빈번함",
+        "opt_type": "alpha"
     },
     {
         "question": "'Now that'이 이끄는 절의 의미적 성격은?",
@@ -2563,9 +2563,9 @@ const quizData = [
             "3": "(C) 조건",
             "4": "(D) 양보"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제15강 4번 문항 핵심 개념]\n표준 문어체에서는 as를 권장하나 실생활에서는 빈번함"
+        "explanation": "💡 [제15강 5번 핵심 개념]\n과거의 조건이 현재의 결론이 됨을 알림",
+        "opt_type": "alpha"
     },
     {
         "question": "'By the time' 구문에서 주절의 시제적 특징은?",
@@ -2575,9 +2575,9 @@ const quizData = [
             "3": "(C) 항상 과거 시제",
             "4": "(D) 진행 시제"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제15강 5번 문항 핵심 개념]\n과거의 조건이 현재의 결론이 됨을 알림"
+        "explanation": "💡 [제15강 6번 핵심 개념]\n과거 기준점까지의 일을 나타내는 과거완료 등",
+        "opt_type": "alpha"
     },
     {
         "question": "'In spite of'와 바꾸어 쓸 수 있는 접속사는?",
@@ -2587,9 +2587,9 @@ const quizData = [
             "3": "(C) If",
             "4": "(D) When"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제15강 6번 문항 핵심 개념]\n과거 기준점까지의 일을 나타내는 과거완료 등"
+        "explanation": "💡 [제15강 7번 핵심 개념]\n양보의 의미를 공유함",
+        "opt_type": "alpha"
     },
     {
         "question": "'Since by nature he had to feel'에서 'Since'의 의미는?",
@@ -2599,9 +2599,9 @@ const quizData = [
             "3": "(C) ~하는 동안",
             "4": "(D) 비록 ~일지라도"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제15강 7번 문항 핵심 개념]\n양보의 의미를 공유함"
+        "explanation": "💡 [제15강 8번 핵심 개념]\n'~이기 때문에' (because/as와 동의어)",
+        "opt_type": "alpha"
     },
     {
         "question": "'sharing their hardships'에서 'sharing'은 어떤 접속사가 생략된 분사구문인가?",
@@ -2611,9 +2611,9 @@ const quizData = [
             "3": "(C) if",
             "4": "(D) though"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제15강 8번 문항 핵심 개념]\n'~이기 때문에' (because/as와 동의어)"
+        "explanation": "💡 [제15강 9번 핵심 개념]\n고난을 나누면서(부대 상황)",
+        "opt_type": "alpha"
     },
     {
         "question": "'if you could give'에서 'if'의 용법은?",
@@ -2623,9 +2623,9 @@ const quizData = [
             "3": "(C) 양보절",
             "4": "(D) 가정법 과거의 조건절"
         },
-        "opt_type": "alpha",
-        "answer": "1",
-        "explanation": "💡 [제15강 9번 문항 핵심 개념]\n고난을 나누면서(부대 상황)"
+        "answer": "4",
+        "explanation": "💡 [제15강 10번 핵심 개념]\n실현 가능성이 낮은 현재를 가정한 조건절",
+        "opt_type": "alpha"
     },
     {
         "question": "'subjects in which you are a beginner'에서 'which'의 선행사는?",
@@ -2635,9 +2635,9 @@ const quizData = [
             "3": "(C) answer",
             "4": "(D) parents"
         },
-        "opt_type": "alpha",
-        "answer": "4",
-        "explanation": "💡 [제15강 10번 문항 핵심 개념]\n실현 가능성이 낮은 현재를 가정한 조건절"
+        "answer": "1",
+        "explanation": "💡 [제15강 11번 핵심 개념]\n'네가 초심자인 그 과목들'",
+        "opt_type": "alpha"
     },
     {
         "question": "'By the time he was 30'에서 by the time은 어떤 품사 역할을 하는가?",
@@ -2647,9 +2647,9 @@ const quizData = [
             "3": "(C) 부사",
             "4": "(D) 명사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제15강 11번 문항 핵심 개념]\n'네가 초심자인 그 과목들'"
+        "explanation": "💡 [제15강 12번 핵심 개념]\n시간을 나타내는 종속접속사구",
+        "opt_type": "alpha"
     },
     {
         "question": "'acquired fame as scholar'에서 'as'의 역할은?",
@@ -2659,9 +2659,9 @@ const quizData = [
             "3": "(C) 부사",
             "4": "(D) 관계대명사 대용"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제15강 12번 문항 핵심 개념]\n시간을 나타내는 종속접속사구"
+        "explanation": "💡 [제15강 13번 핵심 개념]\n신분이나 자격을 나타내는 전치사",
+        "opt_type": "alpha"
     },
     {
         "question": "지문 [2]의 'answer is not that...'에서 'that'은?",
@@ -2671,9 +2671,9 @@ const quizData = [
             "3": "(C) 지시대명사",
             "4": "(D) 지시형용사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제15강 13번 문항 핵심 개념]\n신분이나 자격을 나타내는 전치사"
+        "explanation": "💡 [제15강 14번 핵심 개념]\n보어절을 이끄는 명사절 접속사",
+        "opt_type": "alpha"
     },
     {
         "question": "'Perhaps'의 품사와 문장 내 기능은?",
@@ -2683,9 +2683,9 @@ const quizData = [
             "3": "(C) 접속사",
             "4": "(D) 감탄사"
         },
-        "opt_type": "alpha",
         "answer": "1",
-        "explanation": "💡 [제15강 14번 문항 핵심 개념]\n보어절을 이끄는 명사절 접속사"
+        "explanation": "💡 [제15강 15번 핵심 개념]\n문장 전체에 대한 추측의 뉘앙스를 더함",
+        "opt_type": "alpha"
     },
     {
         "question": "[핵심 퀴즈 세트] Passage의 문맥상 빈칸에 알맞은 동사의 형태는?\n\"Breakfast normally _______ of eggs, some meat, toast, fruit or fruit juice, and coffee.\"",
