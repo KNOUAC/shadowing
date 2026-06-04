@@ -1,12 +1,12 @@
 InSung | Why don't we talk over dinner together?
-Yu-Jin | Great. There's a good pizza place nearby. How about going there?
-Harry | InSung said that there is a delivery app. I want to try it.
-Yu-Jin | Oh, you can order pizza using a delivery app. If you're interested in delivered food, let's try it tonight!
+Yu-Jin | Great. There's a good pizza place nearby. **How about going there?**
+Harry | InSung said that there is a delivery app. **I want to try it**.
+Yu-Jin | Oh, you can order pizza using a delivery app. *If you're interested in delivered food*, let's try it tonight!
 Julie | Great! It's wonderful to have pizza delivered. How do I order?
 InSung | Open the app and select the pizza category. Then it will show you the names, menus, photos and prices of various restaurants. You just check the menu of a restaurant and call!
 Yu-Jin | I'll take our order then. What kind of pizza do you prefer?
 Julie | I like them all. But the shrimp potato pizza looks really delicious.
 Harry | That looks good. I'll also take this one.
-Yu-Jin | Okay. (on the phone) Hello. This is the English Guesthouse, 123-gil, Seoul-ro. I'd like to order a large shrimp potato pizza. Add garlic sauce, please. And a *15L* of Coke, too. I'll pay by credit card.
-Harry | So, all we have to do is wait for the pizza?
-InSung | The pizza will arrive in about half an hour. Why don't we set the table?
+Yu-Jin | Okay. (on the phone) Hello. This is the English Guesthouse, 123-gil, Seoul-ro. I'd like to order a large shrimp potato pizza. Add garlic sauce, please. And a *15L* of Coke, too. *I'll pay by credit card*.
+Harry | So, **all we have to do is wait for the pizza?**
+InSung | *The pizza will arrive in about half an hour*. Why don't we set the table?

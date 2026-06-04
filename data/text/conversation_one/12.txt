@@ -1,13 +1,13 @@
-Julie | I'm totally into gimbap. I think it's the best Korean food I've ever eaten.
-Yu-Jin | Gimbap is easy to make when the ingredients are ready. Julie, would you like to make it?
+Julie | **I'm totally into gimbap**. I think it's the best Korean food I've ever eaten.
+Yu-Jin | Gimbap is easy to make when the ingredients are ready. Julie, **would you like to make it?**
 Harry | Oh, are you taking Yu-Jin's Korean cooking classes?
 Yu-Jin | Do you want *to* join us, Harry?
 Harry | That would be great.
 
-[In the kitchen] |
+[In the kitchen]
 
-Yu-Jin | I've chopped all the ingredients, and now I'm going to fry them. You have to fry all the ingredients.
+Yu-Jin | I've chopped all the ingredients, and now I'm going to fry them. **You have to fry all the ingredients**.
 Harry | Okay. I'll fry them.
-Yu-Jin | Thanks, Harry. Then, place the seaweed on the bamboo roller mat and spread the seasoned rice on top of it. Cover with a thin layer of rice as if spreading butter. Place the fried ingredients on top of the rice.
-Julie | Oh, I think I know what to do next. You will roll *this* up, right?
-Yu-Jin | Exactly. Cut the rolled gimbap and it's complete.
+Yu-Jin | Thanks, Harry. Then, place the seaweed on the bamboo roller mat and *spread the seasoned rice on top of it*. Cover with a thin layer of rice *as if spreading butter*. Place the fried ingredients on top of the rice.
+Julie | Oh, I think *I know what to do next*. You will roll *this* up, right?
+Yu-Jin | Exactly. Cut the rolled gimbap and *it's complete*.
