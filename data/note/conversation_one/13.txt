@@ -1,4 +1,20 @@
 [NOTE]
+Lesson 13 - Delivery Application
+
+# Key Patterns
+I want to ~
+All we have to do is ~
+How about ~
+
+# Alternative Expressions
+How about going there?
+If you're interested in delivered food.
+I'll pay by credit card.
+The pizza will arrive in about half an hour.
+
+# Real & Live
+Excuse me, haven't I seen you somewhere before?
+I'll pay you back later.
 
 [TRANSLATION]
 인성: 우리 함께 저녁 먹으면서 얘기할까요?
