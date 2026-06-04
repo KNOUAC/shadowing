@@ -30,28 +30,16 @@
     "score": 0.887
   },
   {
-    "word": "So",
+    "word": "Soyeong,",
     "start": 4.953,
-    "end": 5.213,
+    "end": 5.593,
     "score": 0.916
   },
   {
-    "word": "young,",
-    "start": 5.273,
-    "end": 5.593,
-    "score": 0.801
-  },
-  {
-    "word": "in",
+    "word": "InSung,",
     "start": 6.013,
-    "end": 6.153,
-    "score": 0.828
-  },
-  {
-    "word": "sung,",
-    "start": 6.233,
     "end": 6.593,
-    "score": 0.843
+    "score": 0.828
   },
   {
     "word": "your",
@@ -144,16 +132,10 @@
     "score": 0.875
   },
   {
-    "word": "So",
+    "word": "Soyeong.",
     "start": 14.816,
-    "end": 15.016,
-    "score": 0.978
-  },
-  {
-    "word": "young.",
-    "start": 15.076,
     "end": 15.336,
-    "score": 0.744
+    "score": 0.978
   },
   {
     "word": "Thanks.",
