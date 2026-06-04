@@ -1,5 +1,3 @@
-[Lesson 14 - International Clinic]
-
 InSung | Julie, why do you look so sick?
 Julie | Is it that obvious? I feel like throwing up. I met my friend for dinner last night, and I have a stomachache.
 Yu-Jin | Have you tried medicine?
@@ -7,11 +5,11 @@ Julie | No, I didn't take it because I thought it would be okay, but it keeps hu
 InSung | I think you'd better go to see a doctor. I'll go to the hospital with you.
 Yu-Jin | Then let's take my car and go together.
 
-[• At the hospital]
+[At the hospital] |
 
 Doctor Hi Julie, I understand that you're not feeling well. Where does it hurt?
 Julie | Maybe the food I had last night was spoiled. I have been having diarrhea and I have no energy.
-Doctor | I think it's enteritis. Don't eat anything for a day if you can. Have a little o f the soup if you feel better.
+Doctor | I think it's enteritis. Don't eat anything for a day if you can. Have a little of the soup if you feel better.
 Julie | Thank you.
 InSung | You'd better get some rest today.
 Julie | Yes, Yu-Jin, InSung, thank you very much. When I woke up in the morning, I was in so much pain.

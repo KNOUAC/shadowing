@@ -1,10 +1,8 @@
-[Lesson 10 - Hair Shop]
-
 Harry | I think my hair is too long. I'd like to change my hairstyle. InSung, do you have any hair shops you recommend?
 InSung | There is a hair shop that I often go to. Do you want to go with me? It is quite famous.
 Harry | Oh, good. Let's go!
 
-[• At the hair shop]
+[At the hair shop] |
 
 Hairdresser | Welcome. What kind of hairstyle do you want?
 Harry | My hair is too long. I'd like to trim it, and what's the latest style?

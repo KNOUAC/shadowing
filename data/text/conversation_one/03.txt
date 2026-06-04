@@ -1,10 +1,8 @@
-[Lesson 3 - Daily Life]
-
 Harry | Julie, how's your day?
 Julie | I was looking for jobs today. I think I need to get a job.
 Harry | I see. I hope you do. How about you, Soyeong?
 Soyeong | I don't have any plans for the weekend yet. So, Julie, are you going to keep track of things this weekend?
-Julie | No, I'm not. I don't want to **search for jobs** on weekend.
+Julie | No, I'm not. I don't want to *search for jobs* on weekend.
 Soyeong | I'm with you. Julie.
 Harry | I agree. Yu-Jin says there is a cherry blossom road nearby. The cherry blossoms are in full bloom this weekend. I'm planning to visit there. Do you want to go see them together?
 Soyeong | Great idea! I'll take you to the places.
