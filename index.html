@@ -1,7 +1,336 @@
 <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Shadowing Player</title><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;1,9..144,300&display=swap" rel="stylesheet"><script src="https://accounts.google.com/gsi/client" async></script><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"></head><body><div id="authOverlay"><div class="auth-card"><div class="auth-logo"><div class="auth-logo-pip"></div>Shadowing</div><div class="auth-desc">British English 쉐도잉 플레이어<br>Google 계정으로 로그인하면<br>학습 진도가 자동으로 저장됩니다.</div><div class="auth-divider"></div><div id="customAuthBtnWrapper" style="display: flex; justify-content: center; margin-top: 20px;"><button type="button" onclick="handleCustomLogin()" style="-webkit-appearance: none; appearance: none; background: #fff; border: 1px solid #dadce0; border-radius: 20px; padding: 8px 24px; font-size: 14px; font-weight: 500; color: #3c4043; cursor: pointer; display: flex; align-items: center; gap: 10px; box-shadow: 0 1px 2px 0 rgba(60,64,67,0.3); transition: background 0.2s; outline: none; margin: 0;"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg> Sign in with Google</button></div><div class="auth-domain-note" id="authDomainNote"></div><div class="auth-error" id="authError"></div></div></div><div id="consentModal"><div class="consent-card"><div class="consent-title">학습 진도 저장 동의</div><div class="consent-body">재생 위치, 반복 횟수, 청취 시간이 포함됩니다.</div><div class="consent-key" id="consentKeyPreview" style="display: none;">shadowing:{email}:{track}</div><div class="consent-body" style="color:var(--text3);font-size:11px">• 30일 미접속 시 자동 삭제됩니다<br>• 저장 거부 시 진도는 세션 중에만 유지됩니다</div><div class="consent-actions"><button class="consent-btn-primary" onclick="giveConsent(true)">동의하고 시작</button> <button class="consent-btn-ghost" onclick="giveConsent(false)">저장 없이 이용</button></div></div></div><div id="appRoot"><header><div class="logo"><div class="logo-pip"></div>Shadowing</div><div class="header-right"><button id="settingsBtn" onclick="toggleSettingsModal()" title="텍스트 크기 설정"><i class="fa-solid fa-gear"></i></button><div class="user-badge" id="userBadge"><div class="user-avatar-placeholder" id="userAvatarPlaceholder">?</div><img class="user-avatar" id="userAvatarImg" style="display:none" src="" alt=""> <span class="user-email" id="userEmailLabel">—</span> <button class="user-signout" onclick="signOut()">로그아웃</button></div></div></header><div class="source-bar"><div class="source-tabs"><button class="source-tab active" onclick="switchTab('dropdown')">목록에서 선택</button> <button class="source-tab" onclick="switchTab('url')">URL 직접 입력</button></div><div class="source-body" id="tabDropdown"><div class="dd-row"><span class="source-label">TITLE</span> <select class="source-select" id="titleSelect" onchange="onTitleChange()"><option value="">— 타이틀 선택 —</option></select> <span class="dd-count" id="titleCount">—</span></div><div class="dd-row"><span class="source-label">VOICE</span> <select class="source-select" id="voiceSelect" onchange="onVoiceChange()"><option value="">— 보이스 선택 —</option></select> <span class="dd-count" id="voiceCount">—</span></div><div class="dd-row"><span class="source-label">TRACK</span> <select class="source-select" id="trackSelect" onchange="onTrackChange()"><option value="">— 트랙 선택 —</option></select> <span class="dd-count" id="manifestStatus">—</span></div><button class="btn-load" onclick="loadSources()">Load</button></div><div class="source-body" id="tabUrl" style="display:none"><span class="source-label">Audio</span> <input class="source-input" id="audioUrl" placeholder="https://knouac.github.io/.../audio.mp3" value=""> <span class="source-label">Text</span> <input class="source-input" id="textUrl" placeholder="https://knouac.github.io/.../text.txt" value=""> <button class="btn-load" onclick="loadSources()">Load</button></div></div><div class="player-wrap"><div class="track-info" style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;"><div class="track-name" id="trackName" style="margin: 0;">No track loaded</div><div class="track-meta" id="trackMeta" style="margin: 0;">—</div><button id="toggleNoteBtn" onclick="toggleNotePanel()" style="display:none; background:transparent; border:1px solid #666; color:#666;
              padding:4px 10px; border-radius:20px; font-size:11px; cursor:pointer; margin-left:8px;">NOTE</button> <button id="toggleTrBtn" onclick="toggleTrPanel()" style="display:none; background:transparent; border:1px solid #666; color:#666;
              padding:4px 10px; border-radius:20px; font-size:11px; cursor:pointer; margin-left:4px;">TRANSLATION</button> <button id="toggleQnaBtn" onclick="toggleQnaPanel()" style="display:none; background:transparent; border:1px solid #666; color:#666;
-             padding:4px 10px; border-radius:20px; font-size:11px; cursor:pointer; margin-left:4px;">Q&A</button></div><div class="progress-wrap" id="progressWrap" onclick="seekClick(event)" onmousedown="seekStart(event)"><div class="progress-fill" id="progressFill" style="width:0%"></div><div class="loop-region" id="loopRegion"></div><div class="progress-time" id="progressTime">0:00 / 0:00</div></div><div class="controls"><button class="ctrl-btn" onclick="seekTo(0)" title="처음으로"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M19 20L9 12l10-8v16z"/><line x1="5" y1="4" x2="5" y2="20" stroke-width="2"/></svg></button> <button class="ctrl-btn" onclick="skip(-5)" title="-5초"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5V2L7 7l5 5V9a6 6 0 110 12 6 6 0 01-6-6H4a8 8 0 108-8z"/><text x="9" y="17" font-size="5" fill="currentColor" stroke="none" font-family="monospace">5</text></svg></button> <button class="play-btn" id="playBtn" onclick="togglePlay()"><svg id="playIcon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button> <button class="ctrl-btn" onclick="skip(5)" title="+5초"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5V2l5 5-5 5V9a6 6 0 100 12 6 6 0 006-6h2a8 8 0 11-8-8z"/><text x="9" y="17" font-size="5" fill="currentColor" stroke="none" font-family="monospace">5</text></svg></button> <button class="ctrl-btn" id="loopBtn" onclick="toggleLoop()" title="루프"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17 2l4 4-4 4"/><path d="M3 11V9a4 4 0 014-4h14"/><path d="M7 22l-4-4 4-4"/><path d="M21 13v2a4 4 0 01-4 4H3"/></svg></button> <button class="ctrl-btn ab-btn" id="abBtnA" onclick="abToggle()" title="구간 반복 지정 — 클릭 후 시작·끝 단어 순서대로 클릭"><span style="font-size:12px;font-weight:700;font-family:monospace">A·B</span></button><div class="loop-indicator" id="loopIndicator"><span class="lbadge">LOOP</span> <span id="loopRangeLabel">—</span></div><div class="ctrl-sep"></div><select class="speed-select" onchange="setSpeed(this.value)"><option value="0.7">0.7×</option><option value="0.85">0.85×</option><option value="1.0" selected="selected">1.0×</option><option value="1.15">1.15×</option><option value="1.3">1.3×</option></select></div></div><div class="text-panel"><div class="text-area"><div class="text-hint"><span class="hint-item"><span class="hint-dot green"></span>쉬프트 + 클릭(시작/끝 단어) → 구간 루프</span> <span class="hint-item"><span class="hint-dot blue"></span>단어 클릭 → 루프 해제 + 해당 위치 재생</span></div><div id="textContent"><div class="empty-state"><div class="empty-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="20" height="20"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8L14 2z"/><path d="M14 2v6h6M16 13H8M16 17H8M10 9H8"/></svg></div><span style="font-size:12px">Load an audio + text file to begin</span></div></div><div id="notePanel" style="display:none; margin-top:28px; margin-bottom:8px;"></div></div><div class="right-panel"><div class="groq-panel"><div class="panel-header"><div class="panel-title"><div class="panel-title-dot" id="groqDot"></div>Word · Sentence Analysis</div><label class="groq-toggle" title="Groq 분석 ON / OFF"><input type="checkbox" id="groqToggle" checked="checked" onchange="toggleGroqEnabled(this.checked)"> <span class="groq-toggle-slider"></span></label></div><div class="groq-content" id="groqContent"><div class="groq-placeholder">단어/문장을 선택하면 분석결과가 나타납니다.<br><br>• 어휘<br>• 발음 팁<br>• 문법<br>• 유사 표현</div></div></div><div class="progress-panel"><div class="panel-title" style="margin-bottom:10px"><div class="panel-title-dot" style="background:var(--accent);box-shadow:0 0 6px var(--accent)"></div>Progress · Drill Mode</div><div class="progress-bar-wrap"><div class="progress-bar-fill" id="studyProgressBar" style="width:0%"></div></div><div class="progress-stats"><div class="stat-item"><div class="stat-val" id="statCompletions">0</div><div class="stat-key">Completions</div></div><div class="stat-item"><div class="stat-val" id="statTime">0m</div><div class="stat-key">Listen Time</div></div><div class="stat-item"><div class="stat-val" id="statLast">—</div><div class="stat-key">Last Position</div></div></div></div><div class="config-panel" id="configPanel" style="display: none;"><div class="panel-title" style="margin-bottom:10px"><div class="panel-title-dot" style="background:var(--amber);box-shadow:0 0 6px var(--amber)"></div>API Config (Admin Only)</div><div class="config-row"><div class="config-label">허용 도메인 제한 (선택, 비워두면 전체 허용)</div><input class="config-input" id="allowedDomain" placeholder="예: knou.ac.kr"></div><div class="config-row"><div class="config-label">GitHub Pages Base URL (manifest용)</div><input class="config-input" id="manifestBase" placeholder="https://knouac.github.io"></div><button class="btn-load" style="width:100%;margin-top:8px" onclick="saveConfig()">설정 저장</button></div></div></div></div><div id="settingsModal" onclick="closeSettingsModalOutside(event)"><div id="settingsModalCard"><div class="modal-title">텍스트 크기 설정 <button class="modal-close" onclick="toggleSettingsModal()">✕</button></div><div class="fs-row"><span class="fs-label">본문</span> <input type="range" class="fs-slider" id="fs-body" min="12" max="28" step="1" value="17" oninput="applyFontSize('body',this.value)"> <span class="fs-val" id="fs-body-val">17px</span></div><div class="fs-row"><span class="fs-label">NOTE</span> <input type="range" class="fs-slider" id="fs-note" min="10" max="22" step="1" value="14" oninput="applyFontSize('note',this.value)"> <span class="fs-val" id="fs-note-val">14px</span></div><div class="fs-row"><span class="fs-label">TRANSLATION</span> <input type="range" class="fs-slider" id="fs-translation" min="10" max="22" step="1" value="14" oninput="applyFontSize('translation',this.value)"> <span class="fs-val" id="fs-translation-val">14px</span></div><div class="fs-row"><span class="fs-label">Q&amp;A</span> <input type="range" class="fs-slider" id="fs-qna" min="10" max="22" step="1" value="14" oninput="applyFontSize('qna',this.value)"> <span class="fs-val" id="fs-qna-val">14px</span></div><button class="fs-reset" onclick="resetFontSizes()">기본값으로 초기화</button></div></div><div class="toast" id="toast"></div><audio id="audio" preload="auto"></audio><script>const FS_DEFAULTS = { body:17, note:14, translation:14, qna:14 };
+             padding:4px 10px; border-radius:20px; font-size:11px; cursor:pointer; margin-left:4px;">Q&A</button> <button id="toggleSubNoteBtn" onclick="toggleSubNotePanel()" style="display:none; background:transparent; border:1px solid #666; color:#666;
+             padding:4px 10px; border-radius:20px; font-size:11px; cursor:pointer; margin-left:4px;"><i class="fa-solid fa-star"></i> SUB-NOTE</button></div><div class="progress-wrap" id="progressWrap" onclick="seekClick(event)" onmousedown="seekStart(event)"><div class="progress-fill" id="progressFill" style="width:0%"></div><div class="loop-region" id="loopRegion"></div><div class="progress-time" id="progressTime">0:00 / 0:00</div></div><div class="controls"><button class="ctrl-btn" onclick="seekTo(0)" title="처음으로"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M19 20L9 12l10-8v16z"/><line x1="5" y1="4" x2="5" y2="20" stroke-width="2"/></svg></button> <button class="ctrl-btn" onclick="skip(-5)" title="-5초"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5V2L7 7l5 5V9a6 6 0 110 12 6 6 0 01-6-6H4a8 8 0 108-8z"/><text x="9" y="17" font-size="5" fill="currentColor" stroke="none" font-family="monospace">5</text></svg></button> <button class="play-btn" id="playBtn" onclick="togglePlay()"><svg id="playIcon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button> <button class="ctrl-btn" onclick="skip(5)" title="+5초"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5V2l5 5-5 5V9a6 6 0 100 12 6 6 0 006-6h2a8 8 0 11-8-8z"/><text x="9" y="17" font-size="5" fill="currentColor" stroke="none" font-family="monospace">5</text></svg></button> <button class="ctrl-btn" id="loopBtn" onclick="toggleLoop()" title="루프"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17 2l4 4-4 4"/><path d="M3 11V9a4 4 0 014-4h14"/><path d="M7 22l-4-4 4-4"/><path d="M21 13v2a4 4 0 01-4 4H3"/></svg></button> <button class="ctrl-btn ab-btn" id="abBtnA" onclick="abToggle()" title="구간 반복 지정 — 클릭 후 시작·끝 단어 순서대로 클릭"><span style="font-size:12px;font-weight:700;font-family:monospace">A·B</span></button><div class="loop-indicator" id="loopIndicator"><span class="lbadge">LOOP</span> <span id="loopRangeLabel">—</span></div><div class="ctrl-sep"></div><select class="speed-select" onchange="setSpeed(this.value)"><option value="0.7">0.7×</option><option value="0.85">0.85×</option><option value="1.0" selected="selected">1.0×</option><option value="1.15">1.15×</option><option value="1.3">1.3×</option></select></div></div><div class="text-panel"><div class="text-area"><div class="text-hint"><span class="hint-item"><span class="hint-dot green"></span>쉬프트 + 클릭(시작/끝 단어) → 구간 루프</span> <span class="hint-item"><span class="hint-dot blue"></span>단어 클릭 → 루프 해제 + 해당 위치 재생</span></div><div id="textContent"><div class="empty-state"><div class="empty-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="20" height="20"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8L14 2z"/><path d="M14 2v6h6M16 13H8M16 17H8M10 9H8"/></svg></div><span style="font-size:12px">Load an audio + text file to begin</span></div></div><div id="notePanel" style="display:none; margin-top:28px; margin-bottom:8px;"></div><div id="subNotePanel" style="display:none; margin-top:16px; margin-bottom:8px;"><div id="subNoteToolbar" style="display:flex; align-items:center; gap:3px; flex-wrap:wrap;
+        background:var(--surface,#1a1a2a); border:1px solid var(--border,#2a2a3e);
+        border-bottom:none; border-radius:8px 8px 0 0; padding:6px 10px;"><button onclick="snCmd('bold')" title="Bold" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><b>B</b></button> <button onclick="snCmd('italic')" title="Italic" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><i>I</i></button> <button onclick="snCmd('underline')" title="Underline" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><u>U</u></button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <button onclick="snCmd('h2')" title="H2" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">H2</button> <button onclick="snCmd('h3')" title="H3" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">H3</button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <button onclick="snCmd('bullet')" title="목록" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">≡</button> <button onclick="snCmd('ordered')" title="번호목록" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">1.</button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <button onclick="snCmd('code')" title="코드" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">&lt;/&gt;</button> <button onclick="snCmd('codeblock')" title="코드블록" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">```</button> <button onclick="snCmd('blockquote')" title="인용" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">"</button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <input type="color" onchange="snCmd('color',this.value)" title="글자색" style="width:22px;height:22px;border:none;background:none;cursor:pointer;padding:0;vertical-align:middle;"> <button onclick="snCmd('link')" title="링크" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><i class="fa-solid fa-link"></i></button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <span id="snSaveStatus" style="font-size:10px;color:var(--text3,#888);margin-left:4px;">—</span></div><div id="subNoteEditor" style="background:var(--surface,#141420); border:1px solid var(--border,#2a2a3e);
+        border-radius:0 0 8px 8px; padding:14px 18px;
+        min-height:100px; max-height:50vh; overflow-y:auto;
+        font-size:14px; line-height:1.8; color:var(--text2,#c8c8d8); cursor:text;"></div></div><script>// ══ SUB-NOTE 모듈 (지연 로드 방식) ══════════════════
+    // TipTap은 버튼 첫 클릭 시 동적으로 로드 → 초기 페이지에 영향 없음
+
+    let _snEditor = null, _snKey = null, _snVisible = false, _snTimer = null;
+    let _snLoading = false; // TipTap 로딩 중 중복 방지
+
+    // TipTap CDN 스크립트 지연 로드
+    const SN_CDN = [
+      "https://cdn.jsdelivr.net/npm/@tiptap/core@2.2.4/dist/index.umd.min.js",
+      "https://cdn.jsdelivr.net/npm/@tiptap/starter-kit@2.2.4/dist/index.umd.min.js",
+      "https://cdn.jsdelivr.net/npm/@tiptap/extension-link@2.2.4/dist/index.umd.min.js",
+      "https://cdn.jsdelivr.net/npm/@tiptap/extension-color@2.2.4/dist/index.umd.min.js",
+      "https://cdn.jsdelivr.net/npm/@tiptap/extension-text-style@2.2.4/dist/index.umd.min.js",
+      "https://cdn.jsdelivr.net/npm/@tiptap/extension-underline@2.2.4/dist/index.umd.min.js",
+      "https://cdn.jsdelivr.net/npm/@tiptap/extension-placeholder@2.2.4/dist/index.umd.min.js"
+    ];
+
+    async function _snLoadCDN() {
+      const statusEl = document.getElementById('_snStatus'); 
+      
+      try {
+        if (statusEl) statusEl.textContent = '에디터 모듈 로딩 중... (ESM 최적화)';
+
+        // 1. esm.sh CDN을 통해 ES Module 형태로 직접 동적 로드합니다.
+        // 내부적으로 의존성이 완벽하게 자동 연결되어 UMD 버그가 원천 차단됩니다.
+        // 브라우저가 병렬로 다운로드하므로 속도도 훨씬 빠릅니다.
+        const [
+          core,
+          starterKit,
+          link,
+          color,
+          textStyle,
+          underline,
+          placeholder
+        ] = await Promise.all([
+          import('https://esm.sh/@tiptap/core@2.2.4'),
+          import('https://esm.sh/@tiptap/starter-kit@2.2.4'),
+          import('https://esm.sh/@tiptap/extension-link@2.2.4'),
+          import('https://esm.sh/@tiptap/extension-color@2.2.4'),
+          import('https://esm.sh/@tiptap/extension-text-style@2.2.4'),
+          import('https://esm.sh/@tiptap/extension-underline@2.2.4'),
+          import('https://esm.sh/@tiptap/extension-placeholder@2.2.4')
+        ]);
+
+        // 2. 기존 코드 수정을 피하기 위해 전역 객체에 매핑
+        // 🎯 해결: .default 대신 정확한 플러그인 클래스 이름(Named Export)을 명시합니다.
+        window['@tiptap/core'] = core;
+        window['@tiptap/starter-kit'] = starterKit.StarterKit;
+        window['@tiptap/extension-link'] = link.Link;
+        window['@tiptap/extension-color'] = color.Color;
+        window['@tiptap/extension-text-style'] = textStyle.TextStyle;
+        window['@tiptap/extension-underline'] = underline.Underline;
+        window['@tiptap/extension-placeholder'] = placeholder.Placeholder;
+
+        if (statusEl) statusEl.textContent = '';
+        
+        // 3. 에디터 생성 함수 정상 호출
+        if (typeof _snInitEditor === 'function') {
+          _snInitEditor();
+        }
+        
+      } catch (error) {
+        console.error('SUB-NOTE 로딩 에러:', error);
+        if (statusEl) {
+          statusEl.textContent = '에디터 로드에 실패했습니다. (ESM 오류)';
+          statusEl.style.color = 'var(--red, #ff7070)';
+        }
+      }
+    }
+
+    // IDB 헬퍼
+    function _snDb() {
+      return new Promise((res,rej) => {
+        const r = indexedDB.open('sn_v1',1);
+        r.onupgradeneeded = e => e.target.result.createObjectStore('n',{keyPath:'k'});
+        r.onsuccess = e => res(e.target.result);
+        r.onerror   = e => rej(e);
+      });
+    }
+    async function _snIdbGet(k) {
+      const db = await _snDb();
+      return new Promise((res,rej) => {
+        const req = db.transaction('n','readonly').objectStore('n').get(k);
+        req.onsuccess = e => res(e.target.result ? e.target.result.v : null);
+        req.onerror   = e => rej(e);
+      });
+    }
+    async function _snIdbPut(k, v) {
+      const db = await _snDb();
+      return new Promise((res,rej) => {
+        const tx = db.transaction('n','readwrite');
+        tx.objectStore('n').put({k, v});
+        tx.oncomplete = () => res();
+        tx.onerror    = e => rej(e);
+      });
+    }
+
+    function _snStatus(msg) {
+      const el = document.getElementById('snSaveStatus');
+      if (el) el.textContent = msg;
+    }
+
+    async function _snSave() {
+      if (!_snEditor || !_snKey) return;
+      const content = _snEditor.getJSON();
+      await _snIdbPut(_snKey, content);
+      _snStatus('로컬 저장 ✓');
+      if (window.currentUser) {
+        const base = typeof API_BASE_URL !== 'undefined' ? API_BASE_URL : 'https://hoon1018-theowise.hf.space';
+        try {
+          await fetch(base + '/api/subnote/set', {
+            method: 'POST', headers: {'Content-Type':'application/json'},
+            body: JSON.stringify({email: window.currentUser.email, trackKey: _snKey, content}),
+            keepalive: true
+          });
+          _snStatus('저장됨 ✓');
+        } catch(e) { _snStatus('서버 저장 실패'); }
+      }
+    }
+
+    function _snMakeKey(audioUrl) {
+      if (!audioUrl) return null;
+      const parts = audioUrl.split('/');
+      const fname  = parts.pop().replace(/\.[^.]+$/, '');
+      const folder = parts.pop();
+      return (folder && folder !== 'audio') ? folder + '_' + fname : fname;
+    }
+
+    // player.js setupNoteUI에서 호출
+    function _snSetTrack(audioUrl) {
+      _snKey = _snMakeKey(audioUrl);
+      if (_snVisible) {
+        document.getElementById('subNotePanel').style.display = 'none';
+        _snVisible = false;
+        const btn = document.getElementById('toggleSubNoteBtn');
+        if (btn) btn.classList.remove('sn-btn-active');
+      }
+    }
+
+    // 1. 에디터 모듈 로드 함수
+    // 1. 에디터 모듈 로드 함수
+    function _snLoadCDN() {
+      const statusEl = document.getElementById('_snStatus');
+      if (statusEl) statusEl.textContent = '노트 에디터 로딩 중...';
+
+      if (window['@tiptap/core']) {
+        if (statusEl) statusEl.textContent = '';
+        _snInitEditor();
+        return Promise.resolve();
+      }
+
+      return Promise.all([
+        import('https://esm.sh/@tiptap/core@2.11.5'),
+        import('https://esm.sh/@tiptap/starter-kit@2.11.5'),
+        import('https://esm.sh/@tiptap/extension-color@2.11.5'),
+        import('https://esm.sh/@tiptap/extension-text-style@2.11.5'),
+        import('https://esm.sh/@tiptap/extension-underline@2.11.5'),
+        import('https://esm.sh/@tiptap/extension-link@2.11.5'),
+        import('https://esm.sh/@tiptap/extension-placeholder@2.11.5')
+      ]).then(([core, sk, col, ts, und, lnk, ph]) => {
+        
+        // 모듈 맵핑
+        window['@tiptap/core'] = core;
+        window['@tiptap/starter-kit'] = sk;
+        window['@tiptap/extension-color'] = col;
+        window['@tiptap/extension-text-style'] = ts;
+        window['@tiptap/extension-underline'] = und;
+        window['@tiptap/extension-link'] = lnk;
+        window['@tiptap/extension-placeholder'] = ph;
+        
+        if (statusEl) statusEl.textContent = '';
+        _snInitEditor();
+
+      }).catch(err => {
+        console.error('SUB-NOTE 로딩 에러:', err);
+        if (statusEl) {
+          statusEl.textContent = '에디터 로드에 실패했습니다.';
+          statusEl.style.color = 'var(--red, #ff7070)';
+        }
+      });
+    }
+
+    // 2. 에디터 초기화 함수
+    function _snInitEditor() {
+      // 🎯 [핵심 수정] 이미 에디터 객체가 존재한다면 중복 생성하지 않고 바로 빠져나갑니다!
+      if (typeof _snEditor !== 'undefined' && _snEditor) return true;
+      
+      // 혹시 남아있을지 모르는 이전 에디터 찌꺼기 DOM을 깨끗하게 청소합니다.
+      const container = document.getElementById('subNoteEditor');
+      if (container) container.innerHTML = '';
+
+      const core = window['@tiptap/core'];
+      const sk   = window['@tiptap/starter-kit'];
+      if (!core || !sk) return false;
+      
+      const exts = [sk.StarterKit];
+      
+      const ts  = window['@tiptap/extension-text-style'];
+      const col = window['@tiptap/extension-color'];
+      const und = window['@tiptap/extension-underline'];
+      const lnk = window['@tiptap/extension-link'];
+      const ph  = window['@tiptap/extension-placeholder'];
+      
+      // 🎯 여기서도 모듈 안에서 실제 확장 기능(.TextStyle, .Link 등)을 꺼내서 사용합니다!
+      if (ts && ts.TextStyle)   exts.push(ts.TextStyle);
+      if (col && col.Color)     exts.push(col.Color);
+      if (und && und.Underline) exts.push(und.Underline);
+      if (lnk && lnk.Link)      exts.push(lnk.Link.configure({openOnClick:false}));
+      if (ph && ph.Placeholder) exts.push(ph.Placeholder.configure({placeholder:'이 트랙에 대한 학습 노트를 작성하세요...'}));
+      
+      _snEditor = new core.Editor({
+        element: document.getElementById('subNoteEditor'),
+        extensions: exts,
+        content: '',
+        onUpdate: () => {
+          if (typeof _snStatus === 'function') _snStatus('저장 중...');
+          clearTimeout(_snTimer);
+          _snTimer = setTimeout(typeof _snSave === 'function' ? _snSave : () => {}, 1500);
+        },
+        // ── 빈 줄 보존 붙여넣기 ─────────────────────────────────────
+        // transformPastedText: plain text 붙여넣기에만 호출됨.
+        // HTML(bold 등 서식) 붙여넣기는 이 함수를 거치지 않으므로 서식 그대로 유지.
+        // 빈 줄('') → NBSP(\u00A0) 치환 → ProseMirror가 빈 paragraph로 인식.
+        editorProps: {
+          transformPastedText(text) {
+            return text.split('\n')
+              .map(line => line === '' ? '\u00A0' : line)
+              .join('\n');
+          }
+        }
+      });
+      return true;
+    }
+
+    function snCmd(cmd, val) {
+      if (!_snEditor) return;
+      const c = _snEditor.chain().focus();
+      if      (cmd==='bold')       c.toggleBold().run();
+      else if (cmd==='italic')     c.toggleItalic().run();
+      else if (cmd==='underline')  c.toggleUnderline().run();
+      else if (cmd==='h2')         c.toggleHeading({level:2}).run();
+      else if (cmd==='h3')         c.toggleHeading({level:3}).run();
+      else if (cmd==='bullet')     c.toggleBulletList().run();
+      else if (cmd==='ordered')    c.toggleOrderedList().run();
+      else if (cmd==='code')       c.toggleCode().run();
+      else if (cmd==='codeblock')  c.toggleCodeBlock().run();
+      else if (cmd==='blockquote') c.toggleBlockquote().run();
+      else if (cmd==='color')      c.setColor(val).run();
+      else if (cmd==='link') {
+        const url = prompt('링크 URL:','https://');
+        if (url) c.setLink({href:url}).run(); else c.unsetLink().run();
+      }
+    }
+
+    async function toggleSubNotePanel() {
+      _snVisible = !_snVisible;
+      const panel = document.getElementById('subNotePanel');
+      const btn   = document.getElementById('toggleSubNoteBtn');
+      if (!panel) return;
+      if (_snVisible) {
+        panel.style.display = 'block';
+        if (btn) btn.classList.add('sn-btn-active');
+        // 첫 클릭 시 TipTap 지연 로드
+        if (!_snEditor && !_snLoading) {
+          _snLoading = true;
+          _snStatus('TipTap 로딩 중...');
+          try {
+            await _snLoadCDN();
+            if (!_snInitEditor()) throw new Error('에디터 초기화 실패');
+            _snStatus('준비됨');
+          } catch(e) {
+            _snStatus('로드 실패: ' + e.message);
+            _snLoading = false;
+            return;
+          }
+          _snLoading = false;
+        }
+        // 노트 로드: IDB → 서버
+        if (_snKey) {
+          _snStatus('불러오는 중...');
+          let content = await _snIdbGet(_snKey);
+          if (!content && window.currentUser) {
+            const base = typeof API_BASE_URL !== 'undefined' ? API_BASE_URL : 'https://hoon1018-theowise.hf.space';
+            try {
+              const r = await fetch(base + '/api/subnote/get', {
+                method:'POST', headers:{'Content-Type':'application/json'},
+                body: JSON.stringify({email: window.currentUser.email, trackKey: _snKey})
+              });
+              const d = await r.json();
+              if (d && d.content) content = d.content;
+            } catch(e) {}
+          }
+          if (content) { _snEditor.commands.setContent(content); _snStatus('불러옴 ✓'); }
+          else          { _snEditor.commands.clearContent();      _snStatus('새 노트'); }
+        }
+        setTimeout(() => { if (_snEditor) _snEditor.commands.focus(); }, 80);
+      } else {
+        panel.style.display = 'none';
+        if (btn) btn.classList.remove('sn-btn-active');
+      }
+    }
+
+    // SUB-NOTE 버튼 active 스타일
+    const _snStyle = document.createElement('style');
+    _snStyle.textContent = `
+      #toggleSubNoteBtn.sn-btn-active {
+        background: var(--amber,#e6a817)!important;
+        color: #000!important;
+        border-color: var(--amber,#e6a817)!important;
+      }
+      #subNoteEditor .ProseMirror { outline:none; }
+      #subNoteEditor h2 { font-size:1.2em; color:var(--text,#eee); margin:10px 0 4px; }
+      #subNoteEditor h3 { font-size:1.05em; color:var(--text,#eee); margin:8px 0 3px; }
+      #subNoteEditor code { background:var(--bg2,#2a2a3e); border-radius:3px; padding:1px 5px; font-size:.9em; }
+      #subNoteEditor pre  { background:var(--bg2,#2a2a3e); border-radius:6px; padding:10px 14px; overflow-x:auto; }
+      #subNoteEditor pre code { background:none; padding:0; }
+      #subNoteEditor blockquote { border-left:3px solid var(--accent,#4a7c59); margin:0; padding-left:12px; color:var(--text3,#888); }
+      #subNoteEditor a { color:var(--accent2,#5a9fd4); text-decoration:underline; }
+      #subNoteEditor ul, #subNoteEditor ol { padding-left:20px; }
+      #subNoteEditor .ProseMirror p.is-editor-empty:first-child::before {
+        content:attr(data-placeholder); color:var(--text3,#555); pointer-events:none; float:left; height:0;
+      }
+    `;
+    document.head.appendChild(_snStyle);</script></div><div class="right-panel"><div class="groq-panel"><div class="panel-header"><div class="panel-title"><div class="panel-title-dot" id="groqDot"></div>Word · Sentence Analysis</div><label class="groq-toggle" title="Groq 분석 ON / OFF"><input type="checkbox" id="groqToggle" checked="checked" onchange="toggleGroqEnabled(this.checked)"> <span class="groq-toggle-slider"></span></label></div><div class="groq-content" id="groqContent"><div class="groq-placeholder">단어/문장을 선택하면 분석결과가 나타납니다.<br><br>• 어휘<br>• 발음 팁<br>• 문법<br>• 유사 표현</div></div></div><div class="progress-panel"><div class="panel-title" style="margin-bottom:10px"><div class="panel-title-dot" style="background:var(--accent);box-shadow:0 0 6px var(--accent)"></div>Progress · Drill Mode</div><div class="progress-bar-wrap"><div class="progress-bar-fill" id="studyProgressBar" style="width:0%"></div></div><div class="progress-stats"><div class="stat-item"><div class="stat-val" id="statCompletions">0</div><div class="stat-key">Completions</div></div><div class="stat-item"><div class="stat-val" id="statTime">0m</div><div class="stat-key">Listen Time</div></div><div class="stat-item"><div class="stat-val" id="statLast">—</div><div class="stat-key">Last Position</div></div></div></div><div class="config-panel" id="configPanel" style="display: none;"><div class="panel-title" style="margin-bottom:10px"><div class="panel-title-dot" style="background:var(--amber);box-shadow:0 0 6px var(--amber)"></div>API Config (Admin Only)</div><div class="config-row"><div class="config-label">허용 도메인 제한 (선택, 비워두면 전체 허용)</div><input class="config-input" id="allowedDomain" placeholder="예: knou.ac.kr"></div><div class="config-row"><div class="config-label">GitHub Pages Base URL (manifest용)</div><input class="config-input" id="manifestBase" placeholder="https://knouac.github.io"></div><button class="btn-load" style="width:100%;margin-top:8px" onclick="saveConfig()">설정 저장</button></div></div></div></div><div id="settingsModal" onclick="closeSettingsModalOutside(event)"><div id="settingsModalCard"><div class="modal-title">텍스트 크기 설정 <button class="modal-close" onclick="toggleSettingsModal()">✕</button></div><div class="fs-row"><span class="fs-label">본문</span> <input type="range" class="fs-slider" id="fs-body" min="12" max="28" step="1" value="17" oninput="applyFontSize('body',this.value)"> <span class="fs-val" id="fs-body-val">17px</span></div><div class="fs-row"><span class="fs-label">NOTE</span> <input type="range" class="fs-slider" id="fs-note" min="10" max="22" step="1" value="14" oninput="applyFontSize('note',this.value)"> <span class="fs-val" id="fs-note-val">14px</span></div><div class="fs-row"><span class="fs-label">TRANSLATION</span> <input type="range" class="fs-slider" id="fs-translation" min="10" max="22" step="1" value="14" oninput="applyFontSize('translation',this.value)"> <span class="fs-val" id="fs-translation-val">14px</span></div><div class="fs-row"><span class="fs-label">Q&amp;A</span> <input type="range" class="fs-slider" id="fs-qna" min="10" max="22" step="1" value="14" oninput="applyFontSize('qna',this.value)"> <span class="fs-val" id="fs-qna-val">14px</span></div><button class="fs-reset" onclick="resetFontSizes()">기본값으로 초기화</button></div></div><div class="toast" id="toast"></div><audio id="audio" preload="auto"></audio><script>const FS_DEFAULTS = { body:17, note:14, translation:14, qna:14 };
   const FS_KEY = 'shadowing_fontsize';
 
   function applyFontSize(key, val) {
