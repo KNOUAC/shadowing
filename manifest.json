@@ -1083,7 +1083,7 @@
     "voice": "course_materials",
     "stem": "05",
     "audio": "data/audio/conversation_one/course_materials/05.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/05.txt",
     "json": "data/text/conversation_one/course_materials/05.json",
     "video": null
   },
@@ -1093,7 +1093,7 @@
     "voice": "course_materials",
     "stem": "06",
     "audio": "data/audio/conversation_one/course_materials/06.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/06.txt",
     "json": "data/text/conversation_one/course_materials/06.json",
     "video": null
   },
@@ -1103,7 +1103,7 @@
     "voice": "course_materials",
     "stem": "07",
     "audio": "data/audio/conversation_one/course_materials/07.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/07.txt",
     "json": "data/text/conversation_one/course_materials/07.json",
     "video": null
   },
@@ -1113,7 +1113,7 @@
     "voice": "course_materials",
     "stem": "08",
     "audio": "data/audio/conversation_one/course_materials/08.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/08.txt",
     "json": "data/text/conversation_one/course_materials/08.json",
     "video": null
   },
@@ -1123,7 +1123,7 @@
     "voice": "course_materials",
     "stem": "09",
     "audio": "data/audio/conversation_one/course_materials/09.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/09.txt",
     "json": "data/text/conversation_one/course_materials/09.json",
     "video": null
   },
@@ -1133,7 +1133,7 @@
     "voice": "course_materials",
     "stem": "10",
     "audio": "data/audio/conversation_one/course_materials/10.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/10.txt",
     "json": "data/text/conversation_one/course_materials/10.json",
     "video": null
   },
@@ -1143,7 +1143,7 @@
     "voice": "course_materials",
     "stem": "11",
     "audio": "data/audio/conversation_one/course_materials/11.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/11.txt",
     "json": "data/text/conversation_one/course_materials/11.json",
     "video": null
   },
@@ -1153,7 +1153,7 @@
     "voice": "course_materials",
     "stem": "12",
     "audio": "data/audio/conversation_one/course_materials/12.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/12.txt",
     "json": "data/text/conversation_one/course_materials/12.json",
     "video": null
   },
@@ -1163,7 +1163,7 @@
     "voice": "course_materials",
     "stem": "13",
     "audio": "data/audio/conversation_one/course_materials/13.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/13.txt",
     "json": "data/text/conversation_one/course_materials/13.json",
     "video": null
   },
@@ -1173,7 +1173,7 @@
     "voice": "course_materials",
     "stem": "14",
     "audio": "data/audio/conversation_one/course_materials/14.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/14.txt",
     "json": "data/text/conversation_one/course_materials/14.json",
     "video": null
   },
@@ -1183,7 +1183,7 @@
     "voice": "course_materials",
     "stem": "15",
     "audio": "data/audio/conversation_one/course_materials/15.mp3",
-    "text": "",
+    "text": "data/text/conversation_one/15.txt",
     "json": "data/text/conversation_one/course_materials/15.json",
     "video": null
   }
