@@ -1,0 +1,32 @@
+name: Generate Manifest
+
+# pipeline_router.py가 트리거하거나 수동 실행
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/audio/**'
+      - 'data/text/**'
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate manifest.json
+        run: |
+          python generate_manifest.py \
+            --base https://knouac.github.io/shadowing
+
+      - name: Commit manifest.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git diff --cached --quiet || git commit -m "chore: update manifest.json [skip ci]"
+          git push
