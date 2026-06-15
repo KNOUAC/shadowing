@@ -1,0 +1,2024 @@
+[
+  {
+    "word": "Good",
+    "start": 2.329,
+    "end": 2.489,
+    "score": 0.833
+  },
+  {
+    "word": "afternoon,",
+    "start": 2.549,
+    "end": 3.089,
+    "score": 0.772
+  },
+  {
+    "word": "Soyoung.",
+    "start": 3.149,
+    "end": 3.57,
+    "score": 0.864
+  },
+  {
+    "word": "What",
+    "start": 4.05,
+    "end": 4.21,
+    "score": 0.752
+  },
+  {
+    "word": "makes",
+    "start": 4.25,
+    "end": 4.49,
+    "score": 0.755
+  },
+  {
+    "word": "you",
+    "start": 4.55,
+    "end": 4.75,
+    "score": 0.661
+  },
+  {
+    "word": "so",
+    "start": 4.83,
+    "end": 5.01,
+    "score": 0.777
+  },
+  {
+    "word": "pleasant?",
+    "start": 5.09,
+    "end": 5.551,
+    "score": 0.805
+  },
+  {
+    "word": "Hey,",
+    "start": 6.491,
+    "end": 6.811,
+    "score": 0.901
+  },
+  {
+    "word": "I",
+    "start": 7.372,
+    "end": 7.452,
+    "score": 0.771
+  },
+  {
+    "word": "was",
+    "start": 7.492,
+    "end": 7.632,
+    "score": 0.716
+  },
+  {
+    "word": "looking",
+    "start": 7.692,
+    "end": 7.972,
+    "score": 0.877
+  },
+  {
+    "word": "at",
+    "start": 8.032,
+    "end": 8.092,
+    "score": 0.952
+  },
+  {
+    "word": "my",
+    "start": 8.132,
+    "end": 8.252,
+    "score": 0.865
+  },
+  {
+    "word": "social",
+    "start": 8.312,
+    "end": 8.592,
+    "score": 0.898
+  },
+  {
+    "word": "media",
+    "start": 8.632,
+    "end": 8.972,
+    "score": 0.807
+  },
+  {
+    "word": "posts,",
+    "start": 8.992,
+    "end": 9.393,
+    "score": 0.867
+  },
+  {
+    "word": "and",
+    "start": 10.013,
+    "end": 10.153,
+    "score": 0.587
+  },
+  {
+    "word": "I'm",
+    "start": 10.233,
+    "end": 10.393,
+    "score": 0.593
+  },
+  {
+    "word": "uploading",
+    "start": 10.453,
+    "end": 10.833,
+    "score": 0.911
+  },
+  {
+    "word": "photos",
+    "start": 10.893,
+    "end": 11.314,
+    "score": 0.88
+  },
+  {
+    "word": "with",
+    "start": 11.354,
+    "end": 11.494,
+    "score": 0.834
+  },
+  {
+    "word": "my",
+    "start": 11.534,
+    "end": 11.674,
+    "score": 0.716
+  },
+  {
+    "word": "friends",
+    "start": 11.734,
+    "end": 12.014,
+    "score": 0.754
+  },
+  {
+    "word": "and",
+    "start": 12.074,
+    "end": 12.174,
+    "score": 0.79
+  },
+  {
+    "word": "tagging",
+    "start": 12.194,
+    "end": 12.574,
+    "score": 0.855
+  },
+  {
+    "word": "them.",
+    "start": 12.614,
+    "end": 12.814,
+    "score": 0.931
+  },
+  {
+    "word": "Social",
+    "start": 13.154,
+    "end": 13.555,
+    "score": 0.764
+  },
+  {
+    "word": "media?",
+    "start": 13.655,
+    "end": 14.135,
+    "score": 0.921
+  },
+  {
+    "word": "Do",
+    "start": 14.735,
+    "end": 14.875,
+    "score": 0.992
+  },
+  {
+    "word": "you",
+    "start": 14.915,
+    "end": 15.075,
+    "score": 0.776
+  },
+  {
+    "word": "use",
+    "start": 15.195,
+    "end": 15.356,
+    "score": 0.904
+  },
+  {
+    "word": "fake",
+    "start": 15.416,
+    "end": 15.696,
+    "score": 0.818
+  },
+  {
+    "word": "book",
+    "start": 15.776,
+    "end": 16.036,
+    "score": 0.902
+  },
+  {
+    "word": "or",
+    "start": 16.256,
+    "end": 16.356,
+    "score": 0.573
+  },
+  {
+    "word": "understagram?",
+    "start": 16.536,
+    "end": 17.377,
+    "score": 0.84
+  },
+  {
+    "word": "Everyone",
+    "start": 18.417,
+    "end": 18.757,
+    "score": 0.832
+  },
+  {
+    "word": "says",
+    "start": 18.797,
+    "end": 18.977,
+    "score": 0.833
+  },
+  {
+    "word": "it's",
+    "start": 19.037,
+    "end": 19.137,
+    "score": 0.894
+  },
+  {
+    "word": "important",
+    "start": 19.197,
+    "end": 19.638,
+    "score": 0.867
+  },
+  {
+    "word": "to",
+    "start": 19.678,
+    "end": 19.738,
+    "score": 0.75
+  },
+  {
+    "word": "make",
+    "start": 19.778,
+    "end": 19.918,
+    "score": 0.814
+  },
+  {
+    "word": "social",
+    "start": 19.978,
+    "end": 20.338,
+    "score": 0.855
+  },
+  {
+    "word": "media",
+    "start": 20.418,
+    "end": 20.818,
+    "score": 0.918
+  },
+  {
+    "word": "accounts",
+    "start": 20.838,
+    "end": 21.259,
+    "score": 0.782
+  },
+  {
+    "word": "and",
+    "start": 21.599,
+    "end": 21.699,
+    "score": 0.855
+  },
+  {
+    "word": "interact",
+    "start": 21.859,
+    "end": 22.319,
+    "score": 0.869
+  },
+  {
+    "word": "with",
+    "start": 22.339,
+    "end": 22.479,
+    "score": 0.823
+  },
+  {
+    "word": "as",
+    "start": 22.539,
+    "end": 22.619,
+    "score": 0.667
+  },
+  {
+    "word": "many",
+    "start": 22.679,
+    "end": 22.919,
+    "score": 0.764
+  },
+  {
+    "word": "followers",
+    "start": 23.059,
+    "end": 23.6,
+    "score": 0.788
+  },
+  {
+    "word": "as",
+    "start": 23.68,
+    "end": 23.76,
+    "score": 0.678
+  },
+  {
+    "word": "possible",
+    "start": 23.88,
+    "end": 24.42,
+    "score": 0.771
+  },
+  {
+    "word": "to",
+    "start": 24.86,
+    "end": 24.94,
+    "score": 0.999
+  },
+  {
+    "word": "become",
+    "start": 24.98,
+    "end": 25.321,
+    "score": 0.777
+  },
+  {
+    "word": "famous",
+    "start": 25.481,
+    "end": 25.961,
+    "score": 0.82
+  },
+  {
+    "word": "as",
+    "start": 26.081,
+    "end": 26.181,
+    "score": 0.609
+  },
+  {
+    "word": "a",
+    "start": 26.241,
+    "end": 26.261,
+    "score": 0.998
+  },
+  {
+    "word": "model.",
+    "start": 26.301,
+    "end": 26.661,
+    "score": 0.919
+  },
+  {
+    "word": "I'm",
+    "start": 27.302,
+    "end": 27.422,
+    "score": 0.786
+  },
+  {
+    "word": "just",
+    "start": 27.462,
+    "end": 27.642,
+    "score": 0.766
+  },
+  {
+    "word": "wondering",
+    "start": 27.722,
+    "end": 28.162,
+    "score": 0.837
+  },
+  {
+    "word": "which",
+    "start": 28.442,
+    "end": 28.662,
+    "score": 0.917
+  },
+  {
+    "word": "social",
+    "start": 28.782,
+    "end": 29.163,
+    "score": 0.853
+  },
+  {
+    "word": "media",
+    "start": 29.203,
+    "end": 29.523,
+    "score": 0.826
+  },
+  {
+    "word": "platform",
+    "start": 29.563,
+    "end": 30.083,
+    "score": 0.829
+  },
+  {
+    "word": "is",
+    "start": 30.163,
+    "end": 30.243,
+    "score": 0.67
+  },
+  {
+    "word": "more",
+    "start": 30.303,
+    "end": 30.483,
+    "score": 0.712
+  },
+  {
+    "word": "suitable",
+    "start": 30.603,
+    "end": 31.043,
+    "score": 0.761
+  },
+  {
+    "word": "for",
+    "start": 31.103,
+    "end": 31.244,
+    "score": 0.771
+  },
+  {
+    "word": "me.",
+    "start": 31.284,
+    "end": 31.504,
+    "score": 0.908
+  },
+  {
+    "word": "I",
+    "start": 32.605,
+    "end": 32.705,
+    "score": 0.988
+  },
+  {
+    "word": "agree",
+    "start": 32.765,
+    "end": 33.086,
+    "score": 0.839
+  },
+  {
+    "word": "with",
+    "start": 33.126,
+    "end": 33.266,
+    "score": 0.894
+  },
+  {
+    "word": "them.",
+    "start": 33.326,
+    "end": 33.526,
+    "score": 0.931
+  },
+  {
+    "word": "I",
+    "start": 33.967,
+    "end": 34.027,
+    "score": 0.673
+  },
+  {
+    "word": "can't",
+    "start": 34.107,
+    "end": 34.347,
+    "score": 0.819
+  },
+  {
+    "word": "believe",
+    "start": 34.387,
+    "end": 34.647,
+    "score": 0.855
+  },
+  {
+    "word": "you",
+    "start": 34.687,
+    "end": 34.807,
+    "score": 0.868
+  },
+  {
+    "word": "don't",
+    "start": 34.847,
+    "end": 35.048,
+    "score": 0.813
+  },
+  {
+    "word": "have",
+    "start": 35.088,
+    "end": 35.228,
+    "score": 0.958
+  },
+  {
+    "word": "any",
+    "start": 35.288,
+    "end": 35.448,
+    "score": 0.82
+  },
+  {
+    "word": "social",
+    "start": 35.508,
+    "end": 35.828,
+    "score": 0.884
+  },
+  {
+    "word": "media",
+    "start": 35.868,
+    "end": 36.169,
+    "score": 0.866
+  },
+  {
+    "word": "accounts",
+    "start": 36.189,
+    "end": 36.509,
+    "score": 0.827
+  },
+  {
+    "word": "yet.",
+    "start": 36.569,
+    "end": 36.789,
+    "score": 0.875
+  },
+  {
+    "word": "I",
+    "start": 37.55,
+    "end": 37.61,
+    "score": 0.998
+  },
+  {
+    "word": "use",
+    "start": 37.71,
+    "end": 37.85,
+    "score": 0.859
+  },
+  {
+    "word": "both",
+    "start": 37.89,
+    "end": 38.071,
+    "score": 0.857
+  },
+  {
+    "word": "Facebook",
+    "start": 38.171,
+    "end": 38.711,
+    "score": 0.805
+  },
+  {
+    "word": "and",
+    "start": 38.791,
+    "end": 38.871,
+    "score": 0.928
+  },
+  {
+    "word": "Instagram.",
+    "start": 39.032,
+    "end": 39.772,
+    "score": 0.771
+  },
+  {
+    "word": "They",
+    "start": 40.113,
+    "end": 40.293,
+    "score": 0.793
+  },
+  {
+    "word": "provide",
+    "start": 40.353,
+    "end": 40.693,
+    "score": 0.848
+  },
+  {
+    "word": "different",
+    "start": 40.733,
+    "end": 41.014,
+    "score": 0.838
+  },
+  {
+    "word": "functions,",
+    "start": 41.054,
+    "end": 41.574,
+    "score": 0.674
+  },
+  {
+    "word": "so",
+    "start": 41.975,
+    "end": 42.155,
+    "score": 0.951
+  },
+  {
+    "word": "I",
+    "start": 42.235,
+    "end": 42.295,
+    "score": 0.932
+  },
+  {
+    "word": "use",
+    "start": 42.415,
+    "end": 42.555,
+    "score": 0.821
+  },
+  {
+    "word": "each",
+    "start": 42.615,
+    "end": 42.775,
+    "score": 0.838
+  },
+  {
+    "word": "of",
+    "start": 42.815,
+    "end": 42.875,
+    "score": 0.842
+  },
+  {
+    "word": "them",
+    "start": 42.936,
+    "end": 43.096,
+    "score": 0.819
+  },
+  {
+    "word": "for",
+    "start": 43.136,
+    "end": 43.296,
+    "score": 0.751
+  },
+  {
+    "word": "different",
+    "start": 43.356,
+    "end": 43.636,
+    "score": 0.89
+  },
+  {
+    "word": "purposes.",
+    "start": 43.656,
+    "end": 44.237,
+    "score": 0.815
+  },
+  {
+    "word": "How",
+    "start": 45.318,
+    "end": 45.458,
+    "score": 0.963
+  },
+  {
+    "word": "are",
+    "start": 45.518,
+    "end": 45.618,
+    "score": 0.815
+  },
+  {
+    "word": "they",
+    "start": 45.658,
+    "end": 45.798,
+    "score": 0.74
+  },
+  {
+    "word": "different?",
+    "start": 45.879,
+    "end": 46.319,
+    "score": 0.889
+  },
+  {
+    "word": "They",
+    "start": 46.659,
+    "end": 46.819,
+    "score": 0.83
+  },
+  {
+    "word": "seem",
+    "start": 46.88,
+    "end": 47.16,
+    "score": 0.766
+  },
+  {
+    "word": "similar",
+    "start": 47.24,
+    "end": 47.68,
+    "score": 0.795
+  },
+  {
+    "word": "to",
+    "start": 47.74,
+    "end": 47.84,
+    "score": 0.74
+  },
+  {
+    "word": "me.",
+    "start": 47.881,
+    "end": 48.061,
+    "score": 0.943
+  },
+  {
+    "word": "On",
+    "start": 49.555,
+    "end": 49.675,
+    "score": 0.754
+  },
+  {
+    "word": "Facebook,",
+    "start": 49.735,
+    "end": 50.275,
+    "score": 0.868
+  },
+  {
+    "word": "users",
+    "start": 50.755,
+    "end": 51.075,
+    "score": 0.784
+  },
+  {
+    "word": "tend",
+    "start": 51.155,
+    "end": 51.376,
+    "score": 0.841
+  },
+  {
+    "word": "to",
+    "start": 51.416,
+    "end": 51.536,
+    "score": 0.827
+  },
+  {
+    "word": "upload",
+    "start": 51.696,
+    "end": 52.136,
+    "score": 0.784
+  },
+  {
+    "word": "rather",
+    "start": 52.236,
+    "end": 52.576,
+    "score": 0.806
+  },
+  {
+    "word": "long",
+    "start": 52.616,
+    "end": 52.856,
+    "score": 0.934
+  },
+  {
+    "word": "posts,",
+    "start": 52.896,
+    "end": 53.296,
+    "score": 0.918
+  },
+  {
+    "word": "so",
+    "start": 53.836,
+    "end": 53.996,
+    "score": 0.924
+  },
+  {
+    "word": "it's",
+    "start": 54.056,
+    "end": 54.196,
+    "score": 0.764
+  },
+  {
+    "word": "more",
+    "start": 54.256,
+    "end": 54.416,
+    "score": 0.689
+  },
+  {
+    "word": "useful",
+    "start": 54.536,
+    "end": 54.837,
+    "score": 0.811
+  },
+  {
+    "word": "to",
+    "start": 54.877,
+    "end": 54.957,
+    "score": 0.776
+  },
+  {
+    "word": "write",
+    "start": 54.997,
+    "end": 55.177,
+    "score": 0.8
+  },
+  {
+    "word": "your",
+    "start": 55.197,
+    "end": 55.337,
+    "score": 0.752
+  },
+  {
+    "word": "opinions",
+    "start": 55.377,
+    "end": 55.897,
+    "score": 0.696
+  },
+  {
+    "word": "on",
+    "start": 55.997,
+    "end": 56.077,
+    "score": 0.984
+  },
+  {
+    "word": "some",
+    "start": 56.137,
+    "end": 56.317,
+    "score": 0.877
+  },
+  {
+    "word": "issues",
+    "start": 56.377,
+    "end": 56.837,
+    "score": 0.831
+  },
+  {
+    "word": "and",
+    "start": 57.357,
+    "end": 57.457,
+    "score": 0.901
+  },
+  {
+    "word": "your",
+    "start": 57.497,
+    "end": 57.677,
+    "score": 0.835
+  },
+  {
+    "word": "experiences",
+    "start": 57.717,
+    "end": 58.598,
+    "score": 0.799
+  },
+  {
+    "word": "and",
+    "start": 58.658,
+    "end": 58.758,
+    "score": 0.729
+  },
+  {
+    "word": "feelings.",
+    "start": 58.798,
+    "end": 59.278,
+    "score": 0.916
+  },
+  {
+    "word": "If",
+    "start": 60.078,
+    "end": 60.138,
+    "score": 0.805
+  },
+  {
+    "word": "there",
+    "start": 60.178,
+    "end": 60.318,
+    "score": 0.92
+  },
+  {
+    "word": "are",
+    "start": 60.358,
+    "end": 60.458,
+    "score": 0.702
+  },
+  {
+    "word": "other",
+    "start": 60.518,
+    "end": 60.738,
+    "score": 0.844
+  },
+  {
+    "word": "users",
+    "start": 60.898,
+    "end": 61.218,
+    "score": 0.853
+  },
+  {
+    "word": "who",
+    "start": 61.258,
+    "end": 61.338,
+    "score": 0.999
+  },
+  {
+    "word": "are",
+    "start": 61.398,
+    "end": 61.479,
+    "score": 0.872
+  },
+  {
+    "word": "interested",
+    "start": 61.579,
+    "end": 62.059,
+    "score": 0.858
+  },
+  {
+    "word": "in",
+    "start": 62.099,
+    "end": 62.159,
+    "score": 0.762
+  },
+  {
+    "word": "the",
+    "start": 62.199,
+    "end": 62.299,
+    "score": 0.804
+  },
+  {
+    "word": "same",
+    "start": 62.319,
+    "end": 62.539,
+    "score": 0.701
+  },
+  {
+    "word": "field",
+    "start": 62.599,
+    "end": 62.859,
+    "score": 0.844
+  },
+  {
+    "word": "as",
+    "start": 62.919,
+    "end": 62.999,
+    "score": 0.585
+  },
+  {
+    "word": "you,",
+    "start": 63.039,
+    "end": 63.239,
+    "score": 0.883
+  },
+  {
+    "word": "you",
+    "start": 63.619,
+    "end": 63.719,
+    "score": 0.997
+  },
+  {
+    "word": "can",
+    "start": 63.759,
+    "end": 63.879,
+    "score": 0.987
+  },
+  {
+    "word": "make",
+    "start": 63.899,
+    "end": 64.079,
+    "score": 0.832
+  },
+  {
+    "word": "a",
+    "start": 64.119,
+    "end": 64.159,
+    "score": 0.55
+  },
+  {
+    "word": "group",
+    "start": 64.199,
+    "end": 64.479,
+    "score": 0.728
+  },
+  {
+    "word": "and",
+    "start": 64.699,
+    "end": 64.799,
+    "score": 0.804
+  },
+  {
+    "word": "communicate",
+    "start": 64.899,
+    "end": 65.46,
+    "score": 0.844
+  },
+  {
+    "word": "with",
+    "start": 65.48,
+    "end": 65.6,
+    "score": 0.928
+  },
+  {
+    "word": "them.",
+    "start": 65.64,
+    "end": 65.82,
+    "score": 0.97
+  },
+  {
+    "word": "On",
+    "start": 66.86,
+    "end": 66.94,
+    "score": 0.857
+  },
+  {
+    "word": "Instagram,",
+    "start": 67.08,
+    "end": 67.801,
+    "score": 0.826
+  },
+  {
+    "word": "people",
+    "start": 68.202,
+    "end": 68.522,
+    "score": 0.845
+  },
+  {
+    "word": "mainly",
+    "start": 68.582,
+    "end": 68.882,
+    "score": 0.995
+  },
+  {
+    "word": "upload",
+    "start": 68.962,
+    "end": 69.283,
+    "score": 0.916
+  },
+  {
+    "word": "photos",
+    "start": 69.323,
+    "end": 69.743,
+    "score": 0.876
+  },
+  {
+    "word": "and",
+    "start": 69.823,
+    "end": 69.903,
+    "score": 0.889
+  },
+  {
+    "word": "short",
+    "start": 69.943,
+    "end": 70.143,
+    "score": 0.838
+  },
+  {
+    "word": "videos.",
+    "start": 70.183,
+    "end": 70.664,
+    "score": 0.931
+  },
+  {
+    "word": "You",
+    "start": 71.284,
+    "end": 71.405,
+    "score": 0.998
+  },
+  {
+    "word": "can",
+    "start": 71.445,
+    "end": 71.605,
+    "score": 0.988
+  },
+  {
+    "word": "add",
+    "start": 71.685,
+    "end": 71.805,
+    "score": 0.999
+  },
+  {
+    "word": "some",
+    "start": 71.845,
+    "end": 72.025,
+    "score": 0.837
+  },
+  {
+    "word": "words",
+    "start": 72.065,
+    "end": 72.406,
+    "score": 0.79
+  },
+  {
+    "word": "or",
+    "start": 72.506,
+    "end": 72.606,
+    "score": 0.781
+  },
+  {
+    "word": "sometimes",
+    "start": 72.706,
+    "end": 73.126,
+    "score": 0.784
+  },
+  {
+    "word": "a",
+    "start": 73.166,
+    "end": 73.206,
+    "score": 0.54
+  },
+  {
+    "word": "sentence,",
+    "start": 73.266,
+    "end": 73.727,
+    "score": 0.914
+  },
+  {
+    "word": "but",
+    "start": 74.207,
+    "end": 74.427,
+    "score": 0.779
+  },
+  {
+    "word": "using",
+    "start": 74.588,
+    "end": 74.808,
+    "score": 0.87
+  },
+  {
+    "word": "hashtags",
+    "start": 74.868,
+    "end": 75.488,
+    "score": 0.852
+  },
+  {
+    "word": "is",
+    "start": 75.569,
+    "end": 75.649,
+    "score": 0.511
+  },
+  {
+    "word": "more",
+    "start": 75.709,
+    "end": 75.869,
+    "score": 0.677
+  },
+  {
+    "word": "beneficial",
+    "start": 75.929,
+    "end": 76.489,
+    "score": 0.914
+  },
+  {
+    "word": "for",
+    "start": 76.529,
+    "end": 76.67,
+    "score": 0.706
+  },
+  {
+    "word": "you",
+    "start": 76.71,
+    "end": 76.87,
+    "score": 0.734
+  },
+  {
+    "word": "to",
+    "start": 77.07,
+    "end": 77.19,
+    "score": 0.886
+  },
+  {
+    "word": "expose",
+    "start": 77.27,
+    "end": 77.671,
+    "score": 0.97
+  },
+  {
+    "word": "your",
+    "start": 77.691,
+    "end": 77.851,
+    "score": 0.754
+  },
+  {
+    "word": "posts",
+    "start": 77.911,
+    "end": 78.331,
+    "score": 0.864
+  },
+  {
+    "word": "to",
+    "start": 78.431,
+    "end": 78.511,
+    "score": 0.994
+  },
+  {
+    "word": "more",
+    "start": 78.551,
+    "end": 78.712,
+    "score": 0.859
+  },
+  {
+    "word": "people.",
+    "start": 78.752,
+    "end": 79.132,
+    "score": 0.819
+  },
+  {
+    "word": "That's",
+    "start": 80.113,
+    "end": 80.393,
+    "score": 0.8
+  },
+  {
+    "word": "interesting.",
+    "start": 80.473,
+    "end": 81.034,
+    "score": 0.911
+  },
+  {
+    "word": "So,",
+    "start": 81.574,
+    "end": 81.835,
+    "score": 0.972
+  },
+  {
+    "word": "which",
+    "start": 82.415,
+    "end": 82.595,
+    "score": 0.878
+  },
+  {
+    "word": "one",
+    "start": 82.715,
+    "end": 82.815,
+    "score": 0.761
+  },
+  {
+    "word": "do",
+    "start": 82.835,
+    "end": 82.936,
+    "score": 0.86
+  },
+  {
+    "word": "you",
+    "start": 82.956,
+    "end": 83.076,
+    "score": 0.997
+  },
+  {
+    "word": "think",
+    "start": 83.116,
+    "end": 83.316,
+    "score": 0.831
+  },
+  {
+    "word": "is",
+    "start": 83.376,
+    "end": 83.456,
+    "score": 0.533
+  },
+  {
+    "word": "better",
+    "start": 83.516,
+    "end": 83.776,
+    "score": 0.922
+  },
+  {
+    "word": "for",
+    "start": 83.836,
+    "end": 83.997,
+    "score": 0.735
+  },
+  {
+    "word": "me?",
+    "start": 84.037,
+    "end": 84.197,
+    "score": 0.985
+  },
+  {
+    "word": "If",
+    "start": 85.549,
+    "end": 85.609,
+    "score": 0.997
+  },
+  {
+    "word": "you",
+    "start": 85.649,
+    "end": 85.789,
+    "score": 0.755
+  },
+  {
+    "word": "want",
+    "start": 85.829,
+    "end": 85.989,
+    "score": 0.812
+  },
+  {
+    "word": "to",
+    "start": 86.03,
+    "end": 86.11,
+    "score": 0.968
+  },
+  {
+    "word": "share",
+    "start": 86.17,
+    "end": 86.41,
+    "score": 0.859
+  },
+  {
+    "word": "and",
+    "start": 86.47,
+    "end": 86.55,
+    "score": 0.65
+  },
+  {
+    "word": "post",
+    "start": 86.59,
+    "end": 86.81,
+    "score": 0.982
+  },
+  {
+    "word": "your",
+    "start": 86.85,
+    "end": 86.99,
+    "score": 0.94
+  },
+  {
+    "word": "photos",
+    "start": 87.03,
+    "end": 87.511,
+    "score": 0.786
+  },
+  {
+    "word": "and",
+    "start": 87.631,
+    "end": 87.731,
+    "score": 0.957
+  },
+  {
+    "word": "short",
+    "start": 87.811,
+    "end": 88.031,
+    "score": 0.93
+  },
+  {
+    "word": "videos",
+    "start": 88.071,
+    "end": 88.512,
+    "score": 0.878
+  },
+  {
+    "word": "showing",
+    "start": 88.572,
+    "end": 88.852,
+    "score": 0.873
+  },
+  {
+    "word": "your",
+    "start": 88.872,
+    "end": 89.012,
+    "score": 0.91
+  },
+  {
+    "word": "career",
+    "start": 89.092,
+    "end": 89.413,
+    "score": 0.736
+  },
+  {
+    "word": "as",
+    "start": 89.473,
+    "end": 89.593,
+    "score": 0.749
+  },
+  {
+    "word": "a",
+    "start": 89.633,
+    "end": 89.653,
+    "score": 0.993
+  },
+  {
+    "word": "model,",
+    "start": 89.693,
+    "end": 90.073,
+    "score": 0.94
+  },
+  {
+    "word": "I",
+    "start": 90.634,
+    "end": 90.734,
+    "score": 0.804
+  },
+  {
+    "word": "recommend",
+    "start": 90.774,
+    "end": 91.214,
+    "score": 0.865
+  },
+  {
+    "word": "Understagram.",
+    "start": 91.274,
+    "end": 91.955,
+    "score": 0.884
+  },
+  {
+    "word": "And",
+    "start": 92.856,
+    "end": 93.016,
+    "score": 0.652
+  },
+  {
+    "word": "if",
+    "start": 93.096,
+    "end": 93.156,
+    "score": 1.0
+  },
+  {
+    "word": "you",
+    "start": 93.196,
+    "end": 93.316,
+    "score": 0.898
+  },
+  {
+    "word": "want",
+    "start": 93.356,
+    "end": 93.496,
+    "score": 0.899
+  },
+  {
+    "word": "to",
+    "start": 93.536,
+    "end": 93.596,
+    "score": 0.994
+  },
+  {
+    "word": "communicate",
+    "start": 93.657,
+    "end": 94.157,
+    "score": 0.887
+  },
+  {
+    "word": "with",
+    "start": 94.177,
+    "end": 94.277,
+    "score": 0.883
+  },
+  {
+    "word": "your",
+    "start": 94.317,
+    "end": 94.437,
+    "score": 0.754
+  },
+  {
+    "word": "fans,",
+    "start": 94.477,
+    "end": 94.878,
+    "score": 0.926
+  },
+  {
+    "word": "Fakebook",
+    "start": 95.338,
+    "end": 95.819,
+    "score": 0.855
+  },
+  {
+    "word": "is",
+    "start": 95.879,
+    "end": 95.959,
+    "score": 0.762
+  },
+  {
+    "word": "better.",
+    "start": 96.019,
+    "end": 96.319,
+    "score": 0.921
+  },
+  {
+    "word": "So",
+    "start": 97.12,
+    "end": 97.36,
+    "score": 0.843
+  },
+  {
+    "word": "what",
+    "start": 97.6,
+    "end": 97.74,
+    "score": 0.822
+  },
+  {
+    "word": "I'm",
+    "start": 97.76,
+    "end": 97.9,
+    "score": 0.901
+  },
+  {
+    "word": "trying",
+    "start": 97.961,
+    "end": 98.241,
+    "score": 0.852
+  },
+  {
+    "word": "to",
+    "start": 98.281,
+    "end": 98.341,
+    "score": 0.766
+  },
+  {
+    "word": "say",
+    "start": 98.421,
+    "end": 98.641,
+    "score": 0.824
+  },
+  {
+    "word": "is",
+    "start": 98.741,
+    "end": 98.841,
+    "score": 0.742
+  },
+  {
+    "word": "use",
+    "start": 99.202,
+    "end": 99.362,
+    "score": 0.846
+  },
+  {
+    "word": "both",
+    "start": 99.442,
+    "end": 99.662,
+    "score": 0.911
+  },
+  {
+    "word": "of",
+    "start": 99.702,
+    "end": 99.742,
+    "score": 0.948
+  },
+  {
+    "word": "them.",
+    "start": 99.802,
+    "end": 100.022,
+    "score": 0.857
+  },
+  {
+    "word": "You're",
+    "start": 100.983,
+    "end": 101.244,
+    "score": 0.854
+  },
+  {
+    "word": "right.",
+    "start": 101.324,
+    "end": 101.624,
+    "score": 0.736
+  },
+  {
+    "word": "I",
+    "start": 102.004,
+    "end": 102.064,
+    "score": 0.651
+  },
+  {
+    "word": "don't",
+    "start": 102.104,
+    "end": 102.285,
+    "score": 0.824
+  },
+  {
+    "word": "want",
+    "start": 102.325,
+    "end": 102.505,
+    "score": 0.738
+  },
+  {
+    "word": "to",
+    "start": 102.545,
+    "end": 102.625,
+    "score": 0.77
+  },
+  {
+    "word": "be",
+    "start": 102.665,
+    "end": 102.765,
+    "score": 0.918
+  },
+  {
+    "word": "out",
+    "start": 102.845,
+    "end": 102.945,
+    "score": 0.961
+  },
+  {
+    "word": "of",
+    "start": 102.985,
+    "end": 103.045,
+    "score": 0.744
+  },
+  {
+    "word": "style,",
+    "start": 103.125,
+    "end": 103.566,
+    "score": 0.87
+  },
+  {
+    "word": "but",
+    "start": 104.146,
+    "end": 104.266,
+    "score": 0.972
+  },
+  {
+    "word": "I",
+    "start": 104.326,
+    "end": 104.406,
+    "score": 0.823
+  },
+  {
+    "word": "still",
+    "start": 104.487,
+    "end": 104.747,
+    "score": 0.833
+  },
+  {
+    "word": "feel",
+    "start": 104.807,
+    "end": 105.027,
+    "score": 0.794
+  },
+  {
+    "word": "it's",
+    "start": 105.087,
+    "end": 105.207,
+    "score": 0.958
+  },
+  {
+    "word": "too",
+    "start": 105.247,
+    "end": 105.427,
+    "score": 0.797
+  },
+  {
+    "word": "burdensome",
+    "start": 105.527,
+    "end": 106.188,
+    "score": 0.817
+  },
+  {
+    "word": "to",
+    "start": 106.248,
+    "end": 106.368,
+    "score": 0.735
+  },
+  {
+    "word": "start",
+    "start": 106.408,
+    "end": 106.689,
+    "score": 0.777
+  },
+  {
+    "word": "the",
+    "start": 106.729,
+    "end": 106.829,
+    "score": 0.975
+  },
+  {
+    "word": "two",
+    "start": 106.949,
+    "end": 107.149,
+    "score": 0.878
+  },
+  {
+    "word": "at",
+    "start": 107.169,
+    "end": 107.229,
+    "score": 0.752
+  },
+  {
+    "word": "the",
+    "start": 107.269,
+    "end": 107.349,
+    "score": 0.999
+  },
+  {
+    "word": "same",
+    "start": 107.389,
+    "end": 107.609,
+    "score": 0.913
+  },
+  {
+    "word": "time.",
+    "start": 107.689,
+    "end": 108.03,
+    "score": 0.893
+  },
+  {
+    "word": "Hmm,",
+    "start": 109.202,
+    "end": 109.602,
+    "score": 0.542
+  },
+  {
+    "word": "I",
+    "start": 110.102,
+    "end": 110.142,
+    "score": 1.0
+  },
+  {
+    "word": "don't",
+    "start": 110.182,
+    "end": 110.342,
+    "score": 0.751
+  },
+  {
+    "word": "have",
+    "start": 110.383,
+    "end": 110.523,
+    "score": 0.884
+  },
+  {
+    "word": "many",
+    "start": 110.563,
+    "end": 110.803,
+    "score": 0.797
+  },
+  {
+    "word": "fans",
+    "start": 110.903,
+    "end": 111.323,
+    "score": 0.982
+  },
+  {
+    "word": "for",
+    "start": 111.443,
+    "end": 111.583,
+    "score": 0.982
+  },
+  {
+    "word": "now,",
+    "start": 111.643,
+    "end": 111.923,
+    "score": 0.918
+  },
+  {
+    "word": "so",
+    "start": 112.363,
+    "end": 112.523,
+    "score": 0.856
+  },
+  {
+    "word": "starting",
+    "start": 112.583,
+    "end": 112.904,
+    "score": 0.92
+  },
+  {
+    "word": "with",
+    "start": 112.944,
+    "end": 113.044,
+    "score": 0.883
+  },
+  {
+    "word": "understagram",
+    "start": 113.204,
+    "end": 113.964,
+    "score": 0.942
+  },
+  {
+    "word": "will",
+    "start": 114.004,
+    "end": 114.184,
+    "score": 0.91
+  },
+  {
+    "word": "be",
+    "start": 114.204,
+    "end": 114.324,
+    "score": 0.806
+  },
+  {
+    "word": "better.",
+    "start": 114.364,
+    "end": 114.684,
+    "score": 0.89
+  },
+  {
+    "word": "I",
+    "start": 115.285,
+    "end": 115.345,
+    "score": 0.668
+  },
+  {
+    "word": "can",
+    "start": 115.365,
+    "end": 115.505,
+    "score": 0.992
+  },
+  {
+    "word": "upload",
+    "start": 115.665,
+    "end": 116.025,
+    "score": 0.794
+  },
+  {
+    "word": "my",
+    "start": 116.065,
+    "end": 116.205,
+    "score": 0.834
+  },
+  {
+    "word": "photos",
+    "start": 116.285,
+    "end": 116.725,
+    "score": 0.832
+  },
+  {
+    "word": "wearing",
+    "start": 116.825,
+    "end": 117.125,
+    "score": 0.751
+  },
+  {
+    "word": "clothes",
+    "start": 117.205,
+    "end": 117.666,
+    "score": 0.848
+  },
+  {
+    "word": "and",
+    "start": 117.726,
+    "end": 117.846,
+    "score": 0.789
+  },
+  {
+    "word": "fashion",
+    "start": 117.946,
+    "end": 118.366,
+    "score": 0.796
+  },
+  {
+    "word": "items.",
+    "start": 118.446,
+    "end": 118.786,
+    "score": 0.922
+  },
+  {
+    "word": "Maybe",
+    "start": 119.626,
+    "end": 119.886,
+    "score": 0.816
+  },
+  {
+    "word": "I",
+    "start": 119.947,
+    "end": 119.987,
+    "score": 0.982
+  },
+  {
+    "word": "can",
+    "start": 120.027,
+    "end": 120.167,
+    "score": 0.898
+  },
+  {
+    "word": "increase",
+    "start": 120.207,
+    "end": 120.587,
+    "score": 0.932
+  },
+  {
+    "word": "the",
+    "start": 120.627,
+    "end": 120.727,
+    "score": 0.897
+  },
+  {
+    "word": "number",
+    "start": 120.787,
+    "end": 121.027,
+    "score": 0.913
+  },
+  {
+    "word": "of",
+    "start": 121.067,
+    "end": 121.127,
+    "score": 0.746
+  },
+  {
+    "word": "followers.",
+    "start": 121.167,
+    "end": 121.707,
+    "score": 0.862
+  },
+  {
+    "word": "That's",
+    "start": 122.688,
+    "end": 122.948,
+    "score": 0.84
+  },
+  {
+    "word": "a",
+    "start": 122.988,
+    "end": 123.028,
+    "score": 0.502
+  },
+  {
+    "word": "good",
+    "start": 123.048,
+    "end": 123.228,
+    "score": 0.85
+  },
+  {
+    "word": "strategy.",
+    "start": 123.288,
+    "end": 123.928,
+    "score": 0.857
+  },
+  {
+    "word": "You",
+    "start": 124.528,
+    "end": 124.749,
+    "score": 0.92
+  },
+  {
+    "word": "are",
+    "start": 124.889,
+    "end": 125.009,
+    "score": 0.66
+  },
+  {
+    "word": "a",
+    "start": 125.049,
+    "end": 125.109,
+    "score": 0.402
+  },
+  {
+    "word": "super",
+    "start": 125.209,
+    "end": 125.529,
+    "score": 0.982
+  },
+  {
+    "word": "fast",
+    "start": 125.569,
+    "end": 125.849,
+    "score": 0.954
+  },
+  {
+    "word": "learner.",
+    "start": 125.889,
+    "end": 126.249,
+    "score": 0.853
+  },
+  {
+    "word": "You",
+    "start": 127.17,
+    "end": 127.27,
+    "score": 0.993
+  },
+  {
+    "word": "know,",
+    "start": 127.31,
+    "end": 127.49,
+    "score": 0.831
+  },
+  {
+    "word": "I",
+    "start": 127.85,
+    "end": 127.93,
+    "score": 0.762
+  },
+  {
+    "word": "learn",
+    "start": 127.95,
+    "end": 128.13,
+    "score": 0.735
+  },
+  {
+    "word": "everything",
+    "start": 128.19,
+    "end": 128.57,
+    "score": 0.908
+  },
+  {
+    "word": "quickly,",
+    "start": 128.65,
+    "end": 129.07,
+    "score": 0.914
+  },
+  {
+    "word": "including",
+    "start": 129.35,
+    "end": 129.851,
+    "score": 0.904
+  },
+  {
+    "word": "English.",
+    "start": 129.971,
+    "end": 130.311,
+    "score": 0.918
+  },
+  {
+    "word": "Yes,",
+    "start": 131.071,
+    "end": 131.351,
+    "score": 0.926
+  },
+  {
+    "word": "confidence",
+    "start": 131.771,
+    "end": 132.352,
+    "score": 0.892
+  },
+  {
+    "word": "matters.",
+    "start": 132.412,
+    "end": 132.852,
+    "score": 0.921
+  },
+  {
+    "word": "I'll",
+    "start": 133.592,
+    "end": 133.772,
+    "score": 0.814
+  },
+  {
+    "word": "keep",
+    "start": 133.792,
+    "end": 133.972,
+    "score": 0.827
+  },
+  {
+    "word": "my",
+    "start": 134.032,
+    "end": 134.132,
+    "score": 0.878
+  },
+  {
+    "word": "fingers",
+    "start": 134.192,
+    "end": 134.513,
+    "score": 0.805
+  },
+  {
+    "word": "crossed",
+    "start": 134.573,
+    "end": 134.873,
+    "score": 0.89
+  },
+  {
+    "word": "for",
+    "start": 134.913,
+    "end": 135.053,
+    "score": 0.809
+  },
+  {
+    "word": "you.",
+    "start": 135.093,
+    "end": 135.253,
+    "score": 0.974
+  }
+]

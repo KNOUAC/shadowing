@@ -1,0 +1,1730 @@
+[
+  {
+    "word": "Long",
+    "start": 4.015,
+    "end": 4.275,
+    "score": 0.927
+  },
+  {
+    "word": "time",
+    "start": 4.335,
+    "end": 4.595,
+    "score": 0.939
+  },
+  {
+    "word": "no",
+    "start": 4.655,
+    "end": 4.856,
+    "score": 0.936
+  },
+  {
+    "word": "see.",
+    "start": 4.956,
+    "end": 5.376,
+    "score": 0.448
+  },
+  {
+    "word": "How",
+    "start": 6.016,
+    "end": 6.196,
+    "score": 0.891
+  },
+  {
+    "word": "was",
+    "start": 6.236,
+    "end": 6.396,
+    "score": 0.869
+  },
+  {
+    "word": "your",
+    "start": 6.456,
+    "end": 6.637,
+    "score": 0.878
+  },
+  {
+    "word": "vacation?",
+    "start": 6.697,
+    "end": 7.457,
+    "score": 0.9
+  },
+  {
+    "word": "It",
+    "start": 8.057,
+    "end": 8.117,
+    "score": 0.962
+  },
+  {
+    "word": "was",
+    "start": 8.177,
+    "end": 8.337,
+    "score": 0.814
+  },
+  {
+    "word": "fantastic.",
+    "start": 8.397,
+    "end": 9.278,
+    "score": 0.808
+  },
+  {
+    "word": "I",
+    "start": 9.878,
+    "end": 9.978,
+    "score": 0.836
+  },
+  {
+    "word": "had",
+    "start": 10.018,
+    "end": 10.158,
+    "score": 0.837
+  },
+  {
+    "word": "a",
+    "start": 10.198,
+    "end": 10.239,
+    "score": 0.499
+  },
+  {
+    "word": "great",
+    "start": 10.319,
+    "end": 10.639,
+    "score": 0.824
+  },
+  {
+    "word": "time",
+    "start": 10.719,
+    "end": 11.039,
+    "score": 0.614
+  },
+  {
+    "word": "with",
+    "start": 11.099,
+    "end": 11.219,
+    "score": 0.753
+  },
+  {
+    "word": "my",
+    "start": 11.299,
+    "end": 11.439,
+    "score": 0.68
+  },
+  {
+    "word": "family.",
+    "start": 11.519,
+    "end": 11.999,
+    "score": 0.839
+  },
+  {
+    "word": "That's",
+    "start": 12.76,
+    "end": 12.98,
+    "score": 0.905
+  },
+  {
+    "word": "great.",
+    "start": 13.04,
+    "end": 13.38,
+    "score": 0.764
+  },
+  {
+    "word": "I",
+    "start": 13.881,
+    "end": 13.921,
+    "score": 0.986
+  },
+  {
+    "word": "didn't",
+    "start": 13.961,
+    "end": 14.141,
+    "score": 0.861
+  },
+  {
+    "word": "go",
+    "start": 14.181,
+    "end": 14.321,
+    "score": 0.874
+  },
+  {
+    "word": "anywhere",
+    "start": 14.401,
+    "end": 14.781,
+    "score": 0.847
+  },
+  {
+    "word": "since",
+    "start": 14.861,
+    "end": 15.081,
+    "score": 0.837
+  },
+  {
+    "word": "I",
+    "start": 15.161,
+    "end": 15.221,
+    "score": 0.941
+  },
+  {
+    "word": "was",
+    "start": 15.261,
+    "end": 15.361,
+    "score": 0.902
+  },
+  {
+    "word": "too",
+    "start": 15.401,
+    "end": 15.541,
+    "score": 0.868
+  },
+  {
+    "word": "busy",
+    "start": 15.581,
+    "end": 15.822,
+    "score": 0.953
+  },
+  {
+    "word": "taking",
+    "start": 15.882,
+    "end": 16.162,
+    "score": 0.88
+  },
+  {
+    "word": "photos",
+    "start": 16.202,
+    "end": 16.642,
+    "score": 0.806
+  },
+  {
+    "word": "for",
+    "start": 16.702,
+    "end": 16.862,
+    "score": 0.752
+  },
+  {
+    "word": "FW",
+    "start": 17.022,
+    "end": 17.442,
+    "score": 0.818
+  },
+  {
+    "word": "season.",
+    "start": 17.483,
+    "end": 17.863,
+    "score": 0.928
+  },
+  {
+    "word": "I",
+    "start": 18.403,
+    "end": 18.443,
+    "score": 0.704
+  },
+  {
+    "word": "hope",
+    "start": 18.483,
+    "end": 18.623,
+    "score": 0.854
+  },
+  {
+    "word": "to",
+    "start": 18.643,
+    "end": 18.723,
+    "score": 0.592
+  },
+  {
+    "word": "spend",
+    "start": 18.743,
+    "end": 18.943,
+    "score": 0.923
+  },
+  {
+    "word": "some",
+    "start": 18.983,
+    "end": 19.123,
+    "score": 0.868
+  },
+  {
+    "word": "time",
+    "start": 19.163,
+    "end": 19.384,
+    "score": 0.891
+  },
+  {
+    "word": "with",
+    "start": 19.404,
+    "end": 19.504,
+    "score": 0.892
+  },
+  {
+    "word": "my",
+    "start": 19.564,
+    "end": 19.664,
+    "score": 0.956
+  },
+  {
+    "word": "family",
+    "start": 19.724,
+    "end": 20.084,
+    "score": 0.826
+  },
+  {
+    "word": "during",
+    "start": 20.144,
+    "end": 20.344,
+    "score": 0.857
+  },
+  {
+    "word": "the",
+    "start": 20.364,
+    "end": 20.444,
+    "score": 0.829
+  },
+  {
+    "word": "Christmas",
+    "start": 20.484,
+    "end": 20.864,
+    "score": 0.664
+  },
+  {
+    "word": "holidays.",
+    "start": 20.884,
+    "end": 21.365,
+    "score": 0.82
+  },
+  {
+    "word": "I'm",
+    "start": 22.165,
+    "end": 22.325,
+    "score": 0.831
+  },
+  {
+    "word": "so",
+    "start": 22.445,
+    "end": 22.625,
+    "score": 0.896
+  },
+  {
+    "word": "sorry.",
+    "start": 22.745,
+    "end": 23.246,
+    "score": 0.802
+  },
+  {
+    "word": "You",
+    "start": 23.906,
+    "end": 24.086,
+    "score": 0.867
+  },
+  {
+    "word": "will",
+    "start": 24.146,
+    "end": 24.406,
+    "score": 0.864
+  },
+  {
+    "word": "be",
+    "start": 24.466,
+    "end": 24.586,
+    "score": 0.817
+  },
+  {
+    "word": "able",
+    "start": 24.666,
+    "end": 24.847,
+    "score": 0.728
+  },
+  {
+    "word": "to",
+    "start": 24.907,
+    "end": 24.987,
+    "score": 0.75
+  },
+  {
+    "word": "go",
+    "start": 25.047,
+    "end": 25.207,
+    "score": 0.869
+  },
+  {
+    "word": "home",
+    "start": 25.267,
+    "end": 25.527,
+    "score": 0.65
+  },
+  {
+    "word": "on",
+    "start": 25.607,
+    "end": 25.687,
+    "score": 0.863
+  },
+  {
+    "word": "Christmas.",
+    "start": 25.767,
+    "end": 26.347,
+    "score": 0.773
+  },
+  {
+    "word": "Anyway,",
+    "start": 27.428,
+    "end": 27.828,
+    "score": 0.911
+  },
+  {
+    "word": "how",
+    "start": 28.288,
+    "end": 28.449,
+    "score": 0.891
+  },
+  {
+    "word": "many",
+    "start": 28.489,
+    "end": 28.749,
+    "score": 0.77
+  },
+  {
+    "word": "days",
+    "start": 28.809,
+    "end": 29.049,
+    "score": 0.624
+  },
+  {
+    "word": "are",
+    "start": 29.109,
+    "end": 29.209,
+    "score": 0.678
+  },
+  {
+    "word": "left",
+    "start": 29.269,
+    "end": 29.489,
+    "score": 0.857
+  },
+  {
+    "word": "before",
+    "start": 29.609,
+    "end": 30.029,
+    "score": 0.882
+  },
+  {
+    "word": "Christmas?",
+    "start": 30.109,
+    "end": 30.65,
+    "score": 0.814
+  },
+  {
+    "word": "Maybe",
+    "start": 31.772,
+    "end": 32.212,
+    "score": 0.81
+  },
+  {
+    "word": "five",
+    "start": 32.412,
+    "end": 32.672,
+    "score": 0.837
+  },
+  {
+    "word": "months",
+    "start": 32.732,
+    "end": 32.992,
+    "score": 0.786
+  },
+  {
+    "word": "and",
+    "start": 33.032,
+    "end": 33.092,
+    "score": 0.369
+  },
+  {
+    "word": "sixteen",
+    "start": 33.172,
+    "end": 33.612,
+    "score": 0.909
+  },
+  {
+    "word": "days?",
+    "start": 33.632,
+    "end": 33.932,
+    "score": 0.767
+  },
+  {
+    "word": "What",
+    "start": 34.953,
+    "end": 35.133,
+    "score": 0.887
+  },
+  {
+    "word": "about",
+    "start": 35.193,
+    "end": 35.433,
+    "score": 0.806
+  },
+  {
+    "word": "Chuseok?",
+    "start": 35.493,
+    "end": 36.033,
+    "score": 0.722
+  },
+  {
+    "word": "There",
+    "start": 36.513,
+    "end": 36.673,
+    "score": 0.848
+  },
+  {
+    "word": "is",
+    "start": 36.733,
+    "end": 36.853,
+    "score": 0.654
+  },
+  {
+    "word": "a",
+    "start": 36.893,
+    "end": 36.913,
+    "score": 1.0
+  },
+  {
+    "word": "month",
+    "start": 36.993,
+    "end": 37.233,
+    "score": 0.891
+  },
+  {
+    "word": "left",
+    "start": 37.313,
+    "end": 37.553,
+    "score": 0.813
+  },
+  {
+    "word": "before",
+    "start": 37.633,
+    "end": 37.953,
+    "score": 0.863
+  },
+  {
+    "word": "Chuseok,",
+    "start": 38.013,
+    "end": 38.493,
+    "score": 0.732
+  },
+  {
+    "word": "so",
+    "start": 38.873,
+    "end": 39.013,
+    "score": 0.87
+  },
+  {
+    "word": "if",
+    "start": 39.073,
+    "end": 39.133,
+    "score": 0.876
+  },
+  {
+    "word": "you",
+    "start": 39.174,
+    "end": 39.334,
+    "score": 0.927
+  },
+  {
+    "word": "finish",
+    "start": 39.374,
+    "end": 39.734,
+    "score": 0.891
+  },
+  {
+    "word": "taking",
+    "start": 39.774,
+    "end": 40.114,
+    "score": 0.883
+  },
+  {
+    "word": "photos,",
+    "start": 40.194,
+    "end": 40.714,
+    "score": 0.882
+  },
+  {
+    "word": "you",
+    "start": 41.154,
+    "end": 41.314,
+    "score": 0.801
+  },
+  {
+    "word": "can",
+    "start": 41.334,
+    "end": 41.514,
+    "score": 0.863
+  },
+  {
+    "word": "spend",
+    "start": 41.574,
+    "end": 41.834,
+    "score": 0.908
+  },
+  {
+    "word": "time",
+    "start": 41.894,
+    "end": 42.134,
+    "score": 0.805
+  },
+  {
+    "word": "with",
+    "start": 42.174,
+    "end": 42.314,
+    "score": 0.714
+  },
+  {
+    "word": "your",
+    "start": 42.334,
+    "end": 42.494,
+    "score": 0.868
+  },
+  {
+    "word": "family",
+    "start": 42.594,
+    "end": 43.034,
+    "score": 0.827
+  },
+  {
+    "word": "during",
+    "start": 43.114,
+    "end": 43.394,
+    "score": 0.759
+  },
+  {
+    "word": "the",
+    "start": 43.414,
+    "end": 43.514,
+    "score": 0.675
+  },
+  {
+    "word": "holidays.",
+    "start": 43.554,
+    "end": 44.114,
+    "score": 0.829
+  },
+  {
+    "word": "And",
+    "start": 44.975,
+    "end": 45.095,
+    "score": 0.631
+  },
+  {
+    "word": "I",
+    "start": 45.195,
+    "end": 45.275,
+    "score": 0.712
+  },
+  {
+    "word": "can",
+    "start": 45.315,
+    "end": 45.475,
+    "score": 0.858
+  },
+  {
+    "word": "help",
+    "start": 45.515,
+    "end": 45.715,
+    "score": 0.834
+  },
+  {
+    "word": "you",
+    "start": 45.775,
+    "end": 45.915,
+    "score": 0.88
+  },
+  {
+    "word": "to",
+    "start": 45.975,
+    "end": 46.095,
+    "score": 0.83
+  },
+  {
+    "word": "prepare",
+    "start": 46.135,
+    "end": 46.555,
+    "score": 0.744
+  },
+  {
+    "word": "some",
+    "start": 46.615,
+    "end": 46.795,
+    "score": 0.799
+  },
+  {
+    "word": "Korean",
+    "start": 46.855,
+    "end": 47.215,
+    "score": 0.704
+  },
+  {
+    "word": "traditional",
+    "start": 47.235,
+    "end": 47.795,
+    "score": 0.841
+  },
+  {
+    "word": "gifts",
+    "start": 47.835,
+    "end": 48.155,
+    "score": 0.838
+  },
+  {
+    "word": "for",
+    "start": 48.475,
+    "end": 48.615,
+    "score": 0.768
+  },
+  {
+    "word": "your",
+    "start": 48.635,
+    "end": 48.795,
+    "score": 0.72
+  },
+  {
+    "word": "parents,",
+    "start": 48.835,
+    "end": 49.336,
+    "score": 0.78
+  },
+  {
+    "word": "like",
+    "start": 49.976,
+    "end": 50.336,
+    "score": 0.872
+  },
+  {
+    "word": "ddeok",
+    "start": 50.516,
+    "end": 50.836,
+    "score": 0.797
+  },
+  {
+    "word": "or",
+    "start": 51.136,
+    "end": 51.236,
+    "score": 0.717
+  },
+  {
+    "word": "hanbok.",
+    "start": 51.276,
+    "end": 51.756,
+    "score": 0.777
+  },
+  {
+    "word": "Oh,",
+    "start": 52.536,
+    "end": 52.656,
+    "score": 0.89
+  },
+  {
+    "word": "thank",
+    "start": 52.856,
+    "end": 53.116,
+    "score": 0.839
+  },
+  {
+    "word": "you.",
+    "start": 53.136,
+    "end": 53.336,
+    "score": 0.927
+  },
+  {
+    "word": "Well,",
+    "start": 54.397,
+    "end": 54.777,
+    "score": 0.91
+  },
+  {
+    "word": "by",
+    "start": 54.997,
+    "end": 55.157,
+    "score": 0.91
+  },
+  {
+    "word": "the",
+    "start": 55.197,
+    "end": 55.297,
+    "score": 0.734
+  },
+  {
+    "word": "way,",
+    "start": 55.357,
+    "end": 55.637,
+    "score": 0.754
+  },
+  {
+    "word": "what",
+    "start": 55.917,
+    "end": 56.077,
+    "score": 0.938
+  },
+  {
+    "word": "is",
+    "start": 56.157,
+    "end": 56.257,
+    "score": 0.772
+  },
+  {
+    "word": "Chuseok?",
+    "start": 56.337,
+    "end": 56.817,
+    "score": 0.712
+  },
+  {
+    "word": "It's",
+    "start": 57.337,
+    "end": 57.497,
+    "score": 0.82
+  },
+  {
+    "word": "a",
+    "start": 57.537,
+    "end": 57.577,
+    "score": 0.611
+  },
+  {
+    "word": "Korean",
+    "start": 57.657,
+    "end": 58.177,
+    "score": 0.806
+  },
+  {
+    "word": "traditional",
+    "start": 58.237,
+    "end": 58.857,
+    "score": 0.816
+  },
+  {
+    "word": "holiday,",
+    "start": 58.917,
+    "end": 59.438,
+    "score": 0.839
+  },
+  {
+    "word": "similar",
+    "start": 59.838,
+    "end": 60.318,
+    "score": 0.811
+  },
+  {
+    "word": "to",
+    "start": 60.398,
+    "end": 60.498,
+    "score": 0.754
+  },
+  {
+    "word": "Thanksgiving.",
+    "start": 60.558,
+    "end": 61.298,
+    "score": 0.847
+  },
+  {
+    "word": "I",
+    "start": 62.073,
+    "end": 62.153,
+    "score": 0.772
+  },
+  {
+    "word": "see.",
+    "start": 62.273,
+    "end": 62.613,
+    "score": 0.94
+  },
+  {
+    "word": "We",
+    "start": 62.633,
+    "end": 62.673,
+    "score": 0.0
+  },
+  {
+    "word": "usually",
+    "start": 63.593,
+    "end": 63.853,
+    "score": 0.741
+  },
+  {
+    "word": "don't",
+    "start": 63.873,
+    "end": 64.053,
+    "score": 0.826
+  },
+  {
+    "word": "celebrate",
+    "start": 64.093,
+    "end": 64.553,
+    "score": 0.912
+  },
+  {
+    "word": "Thanksgiving",
+    "start": 64.593,
+    "end": 65.174,
+    "score": 0.847
+  },
+  {
+    "word": "in",
+    "start": 65.214,
+    "end": 65.274,
+    "score": 0.732
+  },
+  {
+    "word": "the",
+    "start": 65.294,
+    "end": 65.374,
+    "score": 0.833
+  },
+  {
+    "word": "UK,",
+    "start": 65.494,
+    "end": 65.874,
+    "score": 0.902
+  },
+  {
+    "word": "so",
+    "start": 66.334,
+    "end": 66.534,
+    "score": 0.856
+  },
+  {
+    "word": "juice",
+    "start": 66.694,
+    "end": 66.914,
+    "score": 0.218
+  },
+  {
+    "word": "up",
+    "start": 66.934,
+    "end": 67.054,
+    "score": 0.638
+  },
+  {
+    "word": "to",
+    "start": 67.074,
+    "end": 67.154,
+    "score": 0.634
+  },
+  {
+    "word": "my",
+    "start": 67.194,
+    "end": 67.314,
+    "score": 0.872
+  },
+  {
+    "word": "family",
+    "start": 67.354,
+    "end": 67.674,
+    "score": 0.846
+  },
+  {
+    "word": "will",
+    "start": 67.714,
+    "end": 67.854,
+    "score": 0.973
+  },
+  {
+    "word": "be",
+    "start": 67.894,
+    "end": 67.954,
+    "score": 0.813
+  },
+  {
+    "word": "good.",
+    "start": 67.974,
+    "end": 68.254,
+    "score": 0.73
+  },
+  {
+    "word": "I",
+    "start": 69.254,
+    "end": 69.314,
+    "score": 0.9
+  },
+  {
+    "word": "know",
+    "start": 69.374,
+    "end": 69.514,
+    "score": 0.711
+  },
+  {
+    "word": "what",
+    "start": 69.574,
+    "end": 69.714,
+    "score": 0.861
+  },
+  {
+    "word": "Thanksgiving",
+    "start": 69.774,
+    "end": 70.514,
+    "score": 0.846
+  },
+  {
+    "word": "is.",
+    "start": 70.635,
+    "end": 70.775,
+    "score": 0.777
+  },
+  {
+    "word": "I",
+    "start": 71.255,
+    "end": 71.375,
+    "score": 0.371
+  },
+  {
+    "word": "heard",
+    "start": 71.415,
+    "end": 71.595,
+    "score": 0.689
+  },
+  {
+    "word": "about",
+    "start": 71.635,
+    "end": 71.855,
+    "score": 0.929
+  },
+  {
+    "word": "it",
+    "start": 71.915,
+    "end": 71.975,
+    "score": 0.758
+  },
+  {
+    "word": "while",
+    "start": 72.035,
+    "end": 72.255,
+    "score": 0.792
+  },
+  {
+    "word": "watching",
+    "start": 72.295,
+    "end": 72.715,
+    "score": 0.868
+  },
+  {
+    "word": "NetPlus.",
+    "start": 72.815,
+    "end": 73.375,
+    "score": 0.919
+  },
+  {
+    "word": "Anyway,",
+    "start": 73.975,
+    "end": 74.315,
+    "score": 0.931
+  },
+  {
+    "word": "do",
+    "start": 74.775,
+    "end": 74.855,
+    "score": 0.979
+  },
+  {
+    "word": "you",
+    "start": 74.895,
+    "end": 75.015,
+    "score": 0.803
+  },
+  {
+    "word": "know",
+    "start": 75.055,
+    "end": 75.255,
+    "score": 0.665
+  },
+  {
+    "word": "what",
+    "start": 75.355,
+    "end": 75.515,
+    "score": 0.743
+  },
+  {
+    "word": "Thanksgiving",
+    "start": 75.555,
+    "end": 76.175,
+    "score": 0.859
+  },
+  {
+    "word": "and",
+    "start": 76.235,
+    "end": 76.316,
+    "score": 0.83
+  },
+  {
+    "word": "Halloween",
+    "start": 76.356,
+    "end": 76.876,
+    "score": 0.868
+  },
+  {
+    "word": "have",
+    "start": 76.956,
+    "end": 77.156,
+    "score": 0.828
+  },
+  {
+    "word": "in",
+    "start": 77.216,
+    "end": 77.316,
+    "score": 0.856
+  },
+  {
+    "word": "common?",
+    "start": 77.376,
+    "end": 77.816,
+    "score": 0.944
+  },
+  {
+    "word": "Both",
+    "start": 79.576,
+    "end": 79.876,
+    "score": 0.675
+  },
+  {
+    "word": "of",
+    "start": 79.976,
+    "end": 80.036,
+    "score": 0.748
+  },
+  {
+    "word": "them",
+    "start": 80.076,
+    "end": 80.276,
+    "score": 0.749
+  },
+  {
+    "word": "have",
+    "start": 80.356,
+    "end": 80.516,
+    "score": 0.827
+  },
+  {
+    "word": "family",
+    "start": 80.556,
+    "end": 80.896,
+    "score": 0.824
+  },
+  {
+    "word": "gatherings",
+    "start": 80.936,
+    "end": 81.496,
+    "score": 0.82
+  },
+  {
+    "word": "or",
+    "start": 82.197,
+    "end": 82.397,
+    "score": 0.54
+  },
+  {
+    "word": "delicious",
+    "start": 82.597,
+    "end": 83.137,
+    "score": 0.879
+  },
+  {
+    "word": "food?",
+    "start": 83.217,
+    "end": 83.597,
+    "score": 0.726
+  },
+  {
+    "word": "No,",
+    "start": 85.177,
+    "end": 85.437,
+    "score": 0.953
+  },
+  {
+    "word": "the",
+    "start": 85.797,
+    "end": 85.917,
+    "score": 0.809
+  },
+  {
+    "word": "answer",
+    "start": 86.037,
+    "end": 86.357,
+    "score": 0.676
+  },
+  {
+    "word": "is",
+    "start": 86.517,
+    "end": 86.597,
+    "score": 0.64
+  },
+  {
+    "word": "one",
+    "start": 87.037,
+    "end": 87.157,
+    "score": 0.618
+  },
+  {
+    "word": "has",
+    "start": 87.197,
+    "end": 87.397,
+    "score": 0.726
+  },
+  {
+    "word": "goblers,",
+    "start": 87.457,
+    "end": 88.078,
+    "score": 0.883
+  },
+  {
+    "word": "the",
+    "start": 88.578,
+    "end": 88.718,
+    "score": 0.766
+  },
+  {
+    "word": "other",
+    "start": 88.838,
+    "end": 89.078,
+    "score": 0.805
+  },
+  {
+    "word": "goblins.",
+    "start": 89.438,
+    "end": 90.078,
+    "score": 0.909
+  },
+  {
+    "word": "You",
+    "start": 91.253,
+    "end": 91.373,
+    "score": 0.997
+  },
+  {
+    "word": "are",
+    "start": 91.453,
+    "end": 91.573,
+    "score": 0.713
+  },
+  {
+    "word": "hilarious.",
+    "start": 91.633,
+    "end": 92.434,
+    "score": 0.918
+  },
+  {
+    "word": "That's",
+    "start": 92.794,
+    "end": 93.054,
+    "score": 0.846
+  },
+  {
+    "word": "funny.",
+    "start": 93.114,
+    "end": 93.434,
+    "score": 0.859
+  },
+  {
+    "word": "And",
+    "start": 94.114,
+    "end": 94.214,
+    "score": 0.762
+  },
+  {
+    "word": "do",
+    "start": 94.255,
+    "end": 94.395,
+    "score": 0.876
+  },
+  {
+    "word": "you",
+    "start": 94.435,
+    "end": 94.575,
+    "score": 0.87
+  },
+  {
+    "word": "know",
+    "start": 94.635,
+    "end": 94.815,
+    "score": 0.782
+  },
+  {
+    "word": "what",
+    "start": 94.855,
+    "end": 94.995,
+    "score": 0.84
+  },
+  {
+    "word": "goblers",
+    "start": 95.055,
+    "end": 95.575,
+    "score": 0.82
+  },
+  {
+    "word": "are?",
+    "start": 95.855,
+    "end": 96.015,
+    "score": 0.618
+  },
+  {
+    "word": "Actually,",
+    "start": 96.956,
+    "end": 97.416,
+    "score": 0.821
+  },
+  {
+    "word": "I",
+    "start": 97.516,
+    "end": 97.576,
+    "score": 0.666
+  },
+  {
+    "word": "don't",
+    "start": 97.616,
+    "end": 97.816,
+    "score": 0.78
+  },
+  {
+    "word": "know.",
+    "start": 97.856,
+    "end": 98.076,
+    "score": 0.827
+  },
+  {
+    "word": "What",
+    "start": 98.557,
+    "end": 98.677,
+    "score": 0.904
+  },
+  {
+    "word": "are",
+    "start": 98.757,
+    "end": 98.857,
+    "score": 0.886
+  },
+  {
+    "word": "they?",
+    "start": 98.897,
+    "end": 99.097,
+    "score": 0.69
+  },
+  {
+    "word": "A",
+    "start": 99.957,
+    "end": 99.997,
+    "score": 0.532
+  },
+  {
+    "word": "gobbler",
+    "start": 100.037,
+    "end": 100.458,
+    "score": 0.886
+  },
+  {
+    "word": "is",
+    "start": 100.498,
+    "end": 100.598,
+    "score": 0.693
+  },
+  {
+    "word": "a",
+    "start": 100.638,
+    "end": 100.658,
+    "score": 0.994
+  },
+  {
+    "word": "male",
+    "start": 100.698,
+    "end": 100.898,
+    "score": 0.891
+  },
+  {
+    "word": "turkey.",
+    "start": 100.958,
+    "end": 101.318,
+    "score": 0.805
+  },
+  {
+    "word": "Americans",
+    "start": 101.958,
+    "end": 102.398,
+    "score": 0.799
+  },
+  {
+    "word": "eat",
+    "start": 102.459,
+    "end": 102.579,
+    "score": 0.954
+  },
+  {
+    "word": "turkey",
+    "start": 102.619,
+    "end": 102.959,
+    "score": 0.804
+  },
+  {
+    "word": "on",
+    "start": 103.019,
+    "end": 103.099,
+    "score": 0.796
+  },
+  {
+    "word": "Thanksgiving.",
+    "start": 103.139,
+    "end": 103.719,
+    "score": 0.88
+  },
+  {
+    "word": "Isn't",
+    "start": 104.439,
+    "end": 104.58,
+    "score": 0.758
+  },
+  {
+    "word": "that",
+    "start": 104.6,
+    "end": 104.72,
+    "score": 0.762
+  },
+  {
+    "word": "right,",
+    "start": 104.78,
+    "end": 104.96,
+    "score": 0.879
+  },
+  {
+    "word": "Julie?",
+    "start": 104.98,
+    "end": 105.28,
+    "score": 0.789
+  },
+  {
+    "word": "Yes.",
+    "start": 106.17,
+    "end": 106.47,
+    "score": 0.871
+  },
+  {
+    "word": "We",
+    "start": 107.211,
+    "end": 107.411,
+    "score": 0.876
+  },
+  {
+    "word": "eat",
+    "start": 107.511,
+    "end": 107.671,
+    "score": 0.766
+  },
+  {
+    "word": "turkey",
+    "start": 107.711,
+    "end": 108.111,
+    "score": 0.847
+  },
+  {
+    "word": "on",
+    "start": 108.191,
+    "end": 108.291,
+    "score": 0.805
+  },
+  {
+    "word": "Thanksgiving.",
+    "start": 108.331,
+    "end": 109.031,
+    "score": 0.86
+  },
+  {
+    "word": "My",
+    "start": 109.712,
+    "end": 109.852,
+    "score": 0.999
+  },
+  {
+    "word": "grandmother's",
+    "start": 109.912,
+    "end": 110.532,
+    "score": 0.868
+  },
+  {
+    "word": "turkey",
+    "start": 110.592,
+    "end": 110.892,
+    "score": 0.949
+  },
+  {
+    "word": "dish",
+    "start": 110.932,
+    "end": 111.172,
+    "score": 0.87
+  },
+  {
+    "word": "is",
+    "start": 111.432,
+    "end": 111.532,
+    "score": 0.604
+  },
+  {
+    "word": "wonderful.",
+    "start": 111.693,
+    "end": 112.333,
+    "score": 0.812
+  },
+  {
+    "word": "What",
+    "start": 113.113,
+    "end": 113.273,
+    "score": 0.87
+  },
+  {
+    "word": "do",
+    "start": 113.313,
+    "end": 113.473,
+    "score": 0.874
+  },
+  {
+    "word": "Koreans",
+    "start": 113.513,
+    "end": 113.994,
+    "score": 0.817
+  },
+  {
+    "word": "eat",
+    "start": 114.054,
+    "end": 114.174,
+    "score": 0.953
+  },
+  {
+    "word": "on",
+    "start": 114.254,
+    "end": 114.334,
+    "score": 0.942
+  },
+  {
+    "word": "Chuseok,",
+    "start": 114.394,
+    "end": 114.914,
+    "score": 0.824
+  },
+  {
+    "word": "Eugene?",
+    "start": 115.034,
+    "end": 115.374,
+    "score": 0.694
+  },
+  {
+    "word": "Koreans",
+    "start": 116.075,
+    "end": 116.635,
+    "score": 0.722
+  },
+  {
+    "word": "usually",
+    "start": 116.815,
+    "end": 117.275,
+    "score": 0.776
+  },
+  {
+    "word": "eat",
+    "start": 117.395,
+    "end": 117.595,
+    "score": 0.653
+  },
+  {
+    "word": "Songpyeon,",
+    "start": 117.655,
+    "end": 118.195,
+    "score": 0.563
+  },
+  {
+    "word": "which",
+    "start": 118.636,
+    "end": 118.816,
+    "score": 0.722
+  },
+  {
+    "word": "is",
+    "start": 118.896,
+    "end": 118.976,
+    "score": 0.706
+  },
+  {
+    "word": "duck",
+    "start": 119.116,
+    "end": 119.436,
+    "score": 0.908
+  },
+  {
+    "word": "made",
+    "start": 119.576,
+    "end": 119.836,
+    "score": 0.75
+  },
+  {
+    "word": "from",
+    "start": 119.876,
+    "end": 120.036,
+    "score": 0.812
+  },
+  {
+    "word": "rice",
+    "start": 120.116,
+    "end": 120.436,
+    "score": 0.761
+  },
+  {
+    "word": "stuffed",
+    "start": 120.897,
+    "end": 121.277,
+    "score": 0.902
+  },
+  {
+    "word": "with",
+    "start": 121.357,
+    "end": 121.497,
+    "score": 0.863
+  },
+  {
+    "word": "black",
+    "start": 121.617,
+    "end": 121.937,
+    "score": 0.9
+  },
+  {
+    "word": "sugar",
+    "start": 121.997,
+    "end": 122.397,
+    "score": 0.799
+  },
+  {
+    "word": "and",
+    "start": 122.477,
+    "end": 122.577,
+    "score": 0.951
+  },
+  {
+    "word": "sesame.",
+    "start": 122.637,
+    "end": 123.198,
+    "score": 0.897
+  },
+  {
+    "word": "Oh,",
+    "start": 124.058,
+    "end": 124.178,
+    "score": 0.791
+  },
+  {
+    "word": "that",
+    "start": 124.418,
+    "end": 124.598,
+    "score": 0.883
+  },
+  {
+    "word": "sounds",
+    "start": 124.638,
+    "end": 124.898,
+    "score": 0.746
+  },
+  {
+    "word": "delicious.",
+    "start": 124.959,
+    "end": 125.619,
+    "score": 0.877
+  },
+  {
+    "word": "We",
+    "start": 126.399,
+    "end": 126.539,
+    "score": 0.865
+  },
+  {
+    "word": "will",
+    "start": 126.579,
+    "end": 126.739,
+    "score": 0.89
+  },
+  {
+    "word": "make",
+    "start": 126.759,
+    "end": 126.919,
+    "score": 0.857
+  },
+  {
+    "word": "Songpyeon",
+    "start": 126.999,
+    "end": 127.6,
+    "score": 0.774
+  },
+  {
+    "word": "next",
+    "start": 127.66,
+    "end": 127.9,
+    "score": 0.783
+  },
+  {
+    "word": "week.",
+    "start": 127.98,
+    "end": 128.22,
+    "score": 0.954
+  },
+  {
+    "word": "Come",
+    "start": 128.7,
+    "end": 128.86,
+    "score": 0.972
+  },
+  {
+    "word": "to",
+    "start": 128.9,
+    "end": 128.98,
+    "score": 0.756
+  },
+  {
+    "word": "our",
+    "start": 129.08,
+    "end": 129.18,
+    "score": 0.758
+  },
+  {
+    "word": "house",
+    "start": 129.24,
+    "end": 129.481,
+    "score": 0.915
+  },
+  {
+    "word": "and",
+    "start": 129.541,
+    "end": 129.641,
+    "score": 0.819
+  },
+  {
+    "word": "try",
+    "start": 129.681,
+    "end": 129.981,
+    "score": 0.916
+  },
+  {
+    "word": "some.",
+    "start": 130.041,
+    "end": 130.301,
+    "score": 0.856
+  },
+  {
+    "word": "Thank",
+    "start": 130.901,
+    "end": 131.161,
+    "score": 0.877
+  },
+  {
+    "word": "you.",
+    "start": 131.181,
+    "end": 131.381,
+    "score": 0.882
+  },
+  {
+    "word": "I",
+    "start": 131.742,
+    "end": 131.802,
+    "score": 0.771
+  },
+  {
+    "word": "can't",
+    "start": 131.842,
+    "end": 132.102,
+    "score": 0.683
+  },
+  {
+    "word": "wait.",
+    "start": 132.182,
+    "end": 132.442,
+    "score": 0.879
+  }
+]
