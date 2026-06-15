@@ -1,0 +1,49 @@
+[Lesson 7: Online Meeting with Peers (동료들과의 온라인 회의)]
+
+Harry | Good morning, Min-su. Julie said you are a computer genius, so I wonder if you can help me with some computer issues. Are you available now?
+        민수 씨, 좋은 아침이에요. 줄리 얘기로는 당신이 컴퓨터를 잘한다던데, 제 컴퓨터 문제를 좀 해결하도록 도와주실 수 있나요? 지금 시간 되세요?
+        굿 모-r닝, 민수. 줄리 쎄드 유 어r 어 컴퓨터r 지-니어쓰, 쏘 아이 원덜r 이f 유 캐ㄴ 헬f프 미 위드th 썸 컴퓨터r 이슈-즈. 아r 유 어v베일러블 나우?
+
+Min-su | Morning, Harry. Absolutely. I got bored because, you know, I have been very busy binge-watching Netplus nowadays, and now I've finished watching all the content.... Anyway, how can I help you?
+         해리, 좋은 아침이에요. 물론이죠. 마침 지루한 참이었어요. 아시다시피, 최근에 넷플러스 보느라 바빴는데, 모든 콘텐츠를 다 봤거든요. 아무튼, 어떻게 도와드릴까요?
+         모-r닝, 해r리. 앱쏠루-틀리. 아이 갓 보-r드 비커-즈, 유 노, 아이 해v브 빈 v베r리 비지 빈지-워-칭 넷f플러쓰 나우어데이지, 앤 나우 아이v브 f피니쉬트 워-칭 올 th더 컨텐트.... 애니웨이, 하우 캐ㄴ 아이 헬f프 유?
+
+Harry | I have to make a group presentation for my graduate school program, and my group members asked me to access an online meeting room. But I've never used it. Can you show me how to do it? Here is my laptop computer.
+        대학원에서 모둠 발표를 준비해야 하는데요, 모둠원들이 온라인 회의실로 접속하라고 했어요. 저는 한 번도 사용해 본 적이 없거든요. 어떻게 하는지 보여 주실 수 있나요? 여기 제 노트북 컴퓨터예요.
+        아이 해v브 투 메이크 어 그r루-잎 f프r리젠테이션 f퍼r 마이 그r뤠듀에이트 쓰쿠-울 f프r로그r뤰, 앤 마이 그r루-잎 멤버r즈 애쓰크트 미 투 액세쓰 언 온라인 미-팅 룸. 벝 아이v브 네v벌r 유-즈드 잇. 캐ㄴ 유 쇼- 미 하우 투 두 잇? 히어r 이즈 마이 랩탑 컴퓨터r.
+
+Min-su | It's as easy as ABC. I can show you, of course. First, you need a Google account. You have one, right?
+         식은 죽 먹기죠. 물론 보여 드릴 수 있어요. 우선, 구글 계정이 필요해요. 있죠?
+         잍츠 애즈 이-지 애즈 에이비씨. 아이 캐ㄴ 쇼- 유, 오v브 코-r쓰. f퍼-r스트, 유 니-드 어 구-글 어카운트. 유 해v브 원, r롸이트?
+
+Harry | Sure, yes. My ID is HarryNjulie4ever@gmail.com, H and N are capital letters, and four is a numeral. Uh oh... please don't tell this to Julie. It's just between us, Okay? And... the password is....
+        물론 있죠. 제 아이디는 HarryNjulie4ever@gmail.com이고, H와 N은 대문자예요. 그리고 4는 숫자고요. 오, 이거 줄리한테 말하면 안 돼요. 우리끼리 비밀이에요. 아시겠죠? 그리고 비밀번호는...
+        슈얼r, 예쓰. 마이 아이디 이즈 해r리앤줄리f퍼r에v벌r 앹 지-메일 닷 컴, 에이치 앤 엔 아r 캐f피털 레털r즈, 앤 f퍼r 이즈 어 뉴-멀r럴. 어 오... f플리-즈 돈 텔 디쓰 투 줄리. 잍츠 저스트 비트위-인 어쓰, 오케이? 앤... th더 f패쓰월r드 이즈....
+
+Min-su | Oh, Harry, don't! You should never let anyone know your password including even me! Now I'll turn around, and you enter your password on your own.
+         오 해리, 말하지 마요. 저를 포함해서 누구에게도 비밀번호를 알려주면 안 돼요. 자, 제가 뒤 돌테니까, 직접 비밀번호를 입력해요.
+         오, 해r리, 돈트! 유 슈드 네v벌r 렛 애니원 노 유어r f패쓰월r드 인클루-딩 이-v븐 미! 나우 아일 털rㄴ 어라운드, 앤 유 엔털r 유어r f패쓰월r드 온 유어r 오-운.
+
+Harry | Right. I heard there are so many personal information leakage problems. Okay, now I've logged in. What's next?
+        알겠습니다. 요즘에 정말 많은 개인 정보 유출 문제가 있다고 들었어요. 자, 이제 로그인했어요. 다음은 뭘 해야 하죠?
+        r롸이트. 아이 허-r드 th데어r 아r 쏘 매니 f퍼-r썰r널 인f퍼r메이션 r리-키지 f프r라블럼즈. 오케이, 나우 아이v브 로그드 인. 왙츠 넥쓰트?
+
+Min-su | If you click the Enter button here, it will ask you to enter the password for the meeting room. Maybe your colleagues sent the passwords.
+         여기에 있는 입장 버튼을 클릭하면, 회의실 비밀번호를 입력하라고 할 거예요. 아마 모둠원들이 비밀번호를 보냈을 거예요.
+         이f 유 클릭 디 엔털r 버튼 히어r, 잇 윌 애쓰크 유 투 엔털r th더 f패쓰월r드 f퍼r th더 미-팅 룸. 메이비 유어r 칼리-그쓰 쎈트 th더 f패쓰월r드즈.
+
+Harry | Wow, it can't be any simpler than that! (To his friends watching the screen) Hi, guys! I'm in!
+        아니, 이렇게 쉬운 거였다니! (화면을 보며 친구들에게) 안녕 친구들! 나 들어왔어!
+        와우, 잇 카-안트 비 애니 씨임f플럴r 댄th th댓! (투 히즈 f프r렌즈 워-칭 th더 쓰크r리-인) 하이, 가이즈! 아임 인!
+
+Min-su | And don't forget to click the mute button when others are speaking. Otherwise, all the sounds will echo and get louder.
+         그리고, 다른 사람들이 말하고 있을 때 음소거 버튼을 클릭하는 것 잊지 마세요. 그러지 않으면, 모든 소리가 울리고 시끄러워질 거예요.
+         앤 돈 f퍼r겟 투 클릭 th더 뮤-트 버튼 웬 어더rth즈 아r 쓰f피-킹. 어더rth와이즈, 올 th더 싸운즈 윌 에코- 앤 겟 라우덜r.
+
+Harry | Ah ha, alright. Thank you very much. I can access this online meeting, thanks to you.
+        아, 그렇군요. 정말 감사합니다. 당신 덕분에 온라인 회의에 접속할 수 있게 되었어요.
+        아 하, 올r롸이트. 땡th큐 v베r리 머치. 아이 캐ㄴ 액세쓰 디쓰 온라인 미-팅, 땡th크쓰 투 유.
+
+Min-su | You're welcome. Now go ahead with your online meeting.
+         천만에요. 자 이제, 온라인 회의에 참석하세요.
+         유아r 웰컴. 나우 고 어헤드 위드th 유어r 온라인 미-팅.
