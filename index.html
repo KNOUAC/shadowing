@@ -1,16 +1,18 @@
 <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Shadowing Player</title><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;1,9..144,300&display=swap" rel="stylesheet"><script src="https://accounts.google.com/gsi/client" async></script><script>(function() {
   const _warmUrl = 'https://hoon1018-theowise.hf.space/health';
   fetch(_warmUrl, { method: 'GET' }).catch(function() {});
-})();</script><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"></head><body><div id="authOverlay"><div class="auth-card"><div class="auth-logo"><div class="auth-logo-pip"></div>Shadowing</div><div class="auth-desc">British English 쉐도잉 플레이어<br>Google 계정으로 로그인하면<br>학습 진도가 자동으로 저장됩니다.</div><div class="auth-divider"></div><div id="customAuthBtnWrapper" style="display: flex; justify-content: center; margin-top: 20px;"><button type="button" onclick="handleCustomLogin()" style="-webkit-appearance: none; appearance: none; background: #fff; border: 1px solid #dadce0; border-radius: 20px; padding: 8px 24px; font-size: 14px; font-weight: 500; color: #3c4043; cursor: pointer; display: flex; align-items: center; gap: 10px; box-shadow: 0 1px 2px 0 rgba(60,64,67,0.3); transition: background 0.2s; outline: none; margin: 0;"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg> Sign in with Google</button></div><div class="auth-domain-note" id="authDomainNote"></div><div class="auth-error" id="authError"></div></div></div><div id="consentModal"><div class="consent-card"><div class="consent-title">학습 진도 저장 동의</div><div class="consent-body">재생 위치, 반복 횟수, 청취 시간이 포함됩니다.</div><div class="consent-key" id="consentKeyPreview" style="display: none;">shadowing:{email}:{track}</div><div class="consent-body" style="color:var(--text3);font-size:11px">• 30일 미접속 시 자동 삭제됩니다<br>• 저장 거부 시 진도는 세션 중에만 유지됩니다</div><div class="consent-actions"><button class="consent-btn-primary" onclick="giveConsent(true)">동의하고 시작</button> <button class="consent-btn-ghost" onclick="giveConsent(false)">저장 없이 이용</button></div></div></div><div id="appRoot"><header><div class="logo"><div class="logo-pip"></div>Shadowing</div><div class="header-right"><button id="settingsBtn" onclick="toggleSettingsModal()" title="텍스트 크기 설정"><i class="fa-solid fa-gear"></i></button><div class="user-badge" id="userBadge"><div class="user-avatar-placeholder" id="userAvatarPlaceholder">?</div><img class="user-avatar" id="userAvatarImg" style="display:none" src="" alt=""> <span class="user-email" id="userEmailLabel">—</span> <button class="user-signout" onclick="signOut()">로그아웃</button></div></div></header><div class="source-bar"><div class="source-tabs"><button class="source-tab active" onclick="switchTab('dropdown')">목록에서 선택</button> <button class="source-tab" onclick="switchTab('url')">URL 직접 입력</button></div><div class="source-body" id="tabDropdown"><select id="titleSelect" style="display:none" onchange="onTitleChange()"><option value="">—</option></select> <select id="voiceSelect" style="display:none" onchange="onVoiceChange()"><option value="">—</option></select> <select id="trackSelect" style="display:none" onchange="onTrackChange()"><option value="">—</option></select><div class="dd-row"><span class="source-label">TITLE</span><div class="dd-spinner" id="titleSpinner"><button class="dd-arrow" onclick="spinnerStep('titleSelect',-1)">&#8249;</button> <span class="dd-val" id="titleVal">—</span> <button class="dd-arrow" onclick="spinnerStep('titleSelect',+1)">&#8250;</button></div><select class="source-select dd-native" id="titleSelectNative" onchange="nativeSelectSync('titleSelect',this)" style="display:none"><option value="">— 타이틀 선택 —</option></select> <span class="dd-count" id="titleCount">—</span></div><div class="dd-row"><span class="source-label">VOICE</span><div class="dd-spinner" id="voiceSpinner"><button class="dd-arrow" onclick="spinnerStep('voiceSelect',-1)">&#8249;</button> <span class="dd-val" id="voiceVal">—</span> <button class="dd-arrow" onclick="spinnerStep('voiceSelect',+1)">&#8250;</button></div><select class="source-select dd-native" id="voiceSelectNative" onchange="nativeSelectSync('voiceSelect',this)" style="display:none"><option value="">— 보이스 선택 —</option></select> <span class="dd-count" id="voiceCount">—</span></div><div class="dd-row"><span class="source-label">TRACK</span><div class="dd-spinner" id="trackSpinner"><button class="dd-arrow" onclick="spinnerStep('trackSelect',-1)">&#8249;</button> <span class="dd-val" id="trackVal">—</span> <button class="dd-arrow" onclick="spinnerStep('trackSelect',+1)">&#8250;</button></div><select class="source-select dd-native" id="trackSelectNative" onchange="nativeSelectSync('trackSelect',this)" style="display:none"><option value="">— 트랙 선택 —</option></select> <span class="dd-count" id="manifestStatus">—</span></div><button class="btn-load" onclick="loadSources()">Load</button></div><div class="source-body" id="tabUrl" style="display:none"><span class="source-label">Audio</span> <input class="source-input" id="audioUrl" placeholder="https://knouac.github.io/.../audio.mp3" value=""> <span class="source-label">Text</span> <input class="source-input" id="textUrl" placeholder="https://knouac.github.io/.../text.txt" value=""> <button class="btn-load" onclick="loadSources()">Load</button></div></div><div class="player-wrap"><div class="track-info" style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;"><div class="track-name" id="trackName" style="margin: 0;">No track loaded</div><div class="track-meta" id="trackMeta" style="margin: 0;">—</div><button id="toggleNoteBtn" onclick="toggleNotePanel()" style="display:none; background:transparent; border:1px solid #666; color:#666;
+})();</script><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"></head><body><div id="authOverlay"><div class="auth-card"><div class="auth-logo"><div class="auth-logo-pip"></div>Shadowing</div><div class="auth-desc">British English 쉐도잉 플레이어<br>Google 계정으로 로그인하면<br>학습 진도가 자동으로 저장됩니다.</div><div class="auth-divider"></div><div id="customAuthBtnWrapper" style="display: flex; justify-content: center; margin-top: 20px;"><button type="button" onclick="handleCustomLogin()" style="-webkit-appearance: none; appearance: none; background: #fff; border: 1px solid #dadce0; border-radius: 20px; padding: 8px 24px; font-size: 14px; font-weight: 500; color: #3c4043; cursor: pointer; display: flex; align-items: center; gap: 10px; box-shadow: 0 1px 2px 0 rgba(60,64,67,0.3); transition: background 0.2s; outline: none; margin: 0;"><svg width="18" height="18" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg> Sign in with Google</button></div><div class="auth-domain-note" id="authDomainNote"></div><div class="auth-error" id="authError"></div></div></div><div id="consentModal"><div class="consent-card"><div class="consent-title">학습 진도 저장 동의</div><div class="consent-body">재생 위치, 반복 횟수, 청취 시간이 포함됩니다.</div><div class="consent-key" id="consentKeyPreview" style="display: none;">shadowing:{email}:{track}</div><div class="consent-body" style="color:var(--text3);font-size:11px">• 30일 미접속 시 자동 삭제됩니다<br>• 저장 거부 시 진도는 세션 중에만 유지됩니다</div><div class="consent-actions"><button class="consent-btn-primary" onclick="giveConsent(true)">동의하고 시작</button> <button class="consent-btn-ghost" onclick="giveConsent(false)">저장 없이 이용</button></div></div></div><div id="appRoot"><header><div class="logo"><div class="logo-pip"></div>Shadowing</div><div class="header-right"><button id="pronEditBtn" onclick="togglePronEditMode()" title="발음 DB 편집 모드" style="display:none; background:transparent; border:1px solid var(--accent,#c8f0a0);
+             color:var(--accent,#c8f0a0); border-radius:6px; padding:4px 10px;
+             font-size:11px; cursor:pointer; margin-right:4px;">DB 편집</button> <button id="settingsBtn" onclick="toggleSettingsModal()" title="텍스트 크기 설정"><i class="fa-solid fa-gear"></i></button><div class="user-badge" id="userBadge"><div class="user-avatar-placeholder" id="userAvatarPlaceholder">?</div><img class="user-avatar" id="userAvatarImg" style="display:none" src="" alt=""> <span class="user-email" id="userEmailLabel">—</span> <button class="user-signout" onclick="signOut()">로그아웃</button></div></div></header><div class="source-bar"><div class="source-tabs"><button class="source-tab active" onclick="switchTab('dropdown')">목록에서 선택</button> <button class="source-tab" onclick="switchTab('url')">URL 직접 입력</button></div><div class="source-body" id="tabDropdown"><select id="titleSelect" style="display:none" onchange="onTitleChange()"><option value="">—</option></select> <select id="voiceSelect" style="display:none" onchange="onVoiceChange()"><option value="">—</option></select> <select id="trackSelect" style="display:none" onchange="onTrackChange()"><option value="">—</option></select><div class="dd-row"><span class="source-label">TITLE</span><div class="dd-spinner" id="titleSpinner"><button class="dd-arrow" onclick="spinnerStep('titleSelect',-1)">&#8249;</button> <span class="dd-val" id="titleVal">—</span> <button class="dd-arrow" onclick="spinnerStep('titleSelect',+1)">&#8250;</button></div><select class="source-select dd-native" id="titleSelectNative" onchange="nativeSelectSync('titleSelect',this)" style="display:none"><option value="">— 타이틀 선택 —</option></select> <span class="dd-count" id="titleCount">—</span></div><div class="dd-row"><span class="source-label">VOICE</span><div class="dd-spinner" id="voiceSpinner"><button class="dd-arrow" onclick="spinnerStep('voiceSelect',-1)">&#8249;</button> <span class="dd-val" id="voiceVal">—</span> <button class="dd-arrow" onclick="spinnerStep('voiceSelect',+1)">&#8250;</button></div><select class="source-select dd-native" id="voiceSelectNative" onchange="nativeSelectSync('voiceSelect',this)" style="display:none"><option value="">— 보이스 선택 —</option></select> <span class="dd-count" id="voiceCount">—</span></div><div class="dd-row"><span class="source-label">TRACK</span><div class="dd-spinner" id="trackSpinner"><button class="dd-arrow" onclick="spinnerStep('trackSelect',-1)">&#8249;</button> <span class="dd-val" id="trackVal">—</span> <button class="dd-arrow" onclick="spinnerStep('trackSelect',+1)">&#8250;</button></div><select class="source-select dd-native" id="trackSelectNative" onchange="nativeSelectSync('trackSelect',this)" style="display:none"><option value="">— 트랙 선택 —</option></select> <span class="dd-count" id="manifestStatus">—</span></div><button class="btn-load" onclick="loadSources()">Load</button></div><div class="source-body" id="tabUrl" style="display:none"><span class="source-label">Audio</span> <input class="source-input" id="audioUrl" placeholder="https://knouac.github.io/.../audio.mp3" value=""> <span class="source-label">Text</span> <input class="source-input" id="textUrl" placeholder="https://knouac.github.io/.../text.txt" value=""> <button class="btn-load" onclick="loadSources()">Load</button></div></div><div class="player-wrap"><div class="track-info" style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 8px;"><div class="track-name" id="trackName" style="margin: 0;">No track loaded</div><div class="track-meta" id="trackMeta" style="margin: 0;">—</div><button id="toggleNoteBtn" onclick="toggleNotePanel()" style="display:none; background:transparent; border:1px solid #666; color:#666;
              padding:4px 10px; border-radius:20px; font-size:11px; cursor:pointer; margin-left:8px;">NOTE</button> <button id="toggleTrBtn" onclick="toggleTrPanel()" style="display:none; background:transparent; border:1px solid #666; color:#666;
              padding:4px 10px; border-radius:20px; font-size:11px; cursor:pointer; margin-left:4px;">TRANSLATION</button> <button id="toggleQnaBtn" onclick="toggleQnaPanel()" style="display:none; background:transparent; border:1px solid #666; color:#666;
              padding:4px 10px; border-radius:20px; font-size:11px; cursor:pointer; margin-left:4px;">Q&A</button> <button id="toggleSubNoteBtn" onclick="toggleSubNotePanel()" style="display:none; background:transparent; border:1px solid #666; color:#666;
              padding:4px 10px; border-radius:20px; font-size:11px; cursor:pointer; margin-left:4px;"><i class="fa-solid fa-star"></i> SUB-NOTE</button></div><div class="progress-wrap" id="progressWrap" onclick="seekClick(event)" onmousedown="seekStart(event)"><div class="progress-fill" id="progressFill" style="width:0%"></div><div class="loop-region" id="loopRegion"></div><div class="progress-time" id="progressTime">0:00 / 0:00</div></div><div class="controls"><button class="ctrl-btn" onclick="seekTo(0)" title="처음으로"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M19 20L9 12l10-8v16z"/><line x1="5" y1="4" x2="5" y2="20" stroke-width="2"/></svg></button> <button class="ctrl-btn" onclick="skip(-5)" title="-5초"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5V2L7 7l5 5V9a6 6 0 110 12 6 6 0 01-6-6H4a8 8 0 108-8z"/><text x="9" y="17" font-size="5" fill="currentColor" stroke="none" font-family="monospace">5</text></svg></button> <button class="play-btn" id="playBtn" onclick="togglePlay()"><svg id="playIcon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></button> <button class="ctrl-btn" onclick="skip(5)" title="+5초"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 5V2l5 5-5 5V9a6 6 0 100 12 6 6 0 006-6h2a8 8 0 11-8-8z"/><text x="9" y="17" font-size="5" fill="currentColor" stroke="none" font-family="monospace">5</text></svg></button> <button class="ctrl-btn" id="loopBtn" onclick="toggleLoop()" title="루프"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17 2l4 4-4 4"/><path d="M3 11V9a4 4 0 014-4h14"/><path d="M7 22l-4-4 4-4"/><path d="M21 13v2a4 4 0 01-4 4H3"/></svg></button> <button class="ctrl-btn ab-btn" id="abBtnA" onclick="abToggle()" title="구간 반복 지정 — 클릭 후 시작·끝 단어 순서대로 클릭"><span style="font-size:12px;font-weight:700;font-family:monospace">A·B</span></button><div class="loop-indicator" id="loopIndicator"><span class="lbadge">LOOP</span> <span id="loopRangeLabel">—</span></div><div class="ctrl-sep"></div><div class="speed-spinner"><button class="speed-arrow" onclick="speedStep(-1)">&#8249;</button> <span class="speed-val" id="speedVal">1.0×</span> <button class="speed-arrow" onclick="speedStep(+1)">&#8250;</button></div></div></div><div class="text-panel"><div class="text-area"><div class="text-hint"><span class="hint-item"><span class="hint-dot green"></span>쉬프트 + 클릭(시작/끝 단어) → 구간 루프</span> <span class="hint-item"><span class="hint-dot blue"></span>단어 클릭 → 루프 해제 + 해당 위치 재생</span></div><div id="textContent"><div class="empty-state"><div class="empty-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="20" height="20"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8L14 2z"/><path d="M14 2v6h6M16 13H8M16 17H8M10 9H8"/></svg></div><span style="font-size:12px">Load an audio + text file to begin</span></div></div><div id="notePanel" style="display:none; margin-top:28px; margin-bottom:8px;"></div><div id="subNotePanel" style="display:none; margin-top:16px; margin-bottom:8px;"><div id="subNoteToolbar" style="display:flex; align-items:center; gap:3px; flex-wrap:wrap;
         background:var(--surface,#1a1a2a); border:1px solid var(--border,#2a2a3e);
-        border-bottom:none; border-radius:8px 8px 0 0; padding:6px 10px;"><button onclick="snCmd('bold')" title="Bold" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><b>B</b></button> <button onclick="snCmd('italic')" title="Italic" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><i>I</i></button> <button onclick="snCmd('underline')" title="Underline" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><u>U</u></button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <button onclick="snCmd('h2')" title="H2" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">H2</button> <button onclick="snCmd('h3')" title="H3" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">H3</button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <button onclick="snCmd('bullet')" title="목록" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">≡</button> <button onclick="snCmd('ordered')" title="번호목록" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">1.</button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <button onclick="snCmd('code')" title="코드" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">&lt;/&gt;</button> <button onclick="snCmd('codeblock')" title="코드블록" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">```</button> <button onclick="snCmd('blockquote')" title="인용" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">"</button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <input type="color" onchange="snCmd('color',this.value)" title="글자색" style="width:22px;height:22px;border:none;background:none;cursor:pointer;padding:0;vertical-align:middle;"> <button onclick="snCmd('link')" title="링크" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><i class="fa-solid fa-link"></i></button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <span id="snSaveStatus" style="font-size:10px;color:var(--text3,#888);margin-left:4px;">—</span></div><div id="subNoteEditor" style="background:var(--surface,#141420); border:1px solid var(--border,#2a2a3e);
+        border-bottom:none; border-radius:8px 8px 0 0; padding:6px 10px;"><button onclick="snCmd('bold')" title="Bold" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><b>B</b></button> <button onclick="snCmd('italic')" title="Italic" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><i>I</i></button> <button onclick="snCmd('underline')" title="Underline" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><u>U</u></button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <button onclick="snCmd('h2')" title="H2" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">H2</button> <button onclick="snCmd('h3')" title="H3" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">H3</button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <button onclick="snCmd('bullet')" title="목록" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">≡</button> <button onclick="snCmd('ordered')" title="번호목록" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">1.</button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <button onclick="snCmd('code')" title="코드" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">&lt;/&gt;</button> <button onclick="snCmd('codeblock')" title="코드블록" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">```</button> <button onclick="snCmd('blockquote')" title="인용" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">"</button> <button onclick="snCmd('hr')" title="가로줄" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;">—</button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <input type="color" id="snColorPicker" oninput="snCmdColor(this.value)" title="글자색" style="width:22px;height:22px;border:none;background:none;cursor:pointer;padding:0;vertical-align:middle;"> <button onclick="snCmd('link')" title="링크" style="background:transparent;border:1px solid transparent;color:var(--text3,#888);border-radius:4px;padding:3px 7px;cursor:pointer;font-size:12px;"><i class="fa-solid fa-link"></i></button> <span style="width:1px;height:16px;background:var(--border,#2a2a3e);margin:0 3px;display:inline-block;"></span> <span id="snSaveStatus" style="font-size:10px;color:var(--text3,#888);margin-left:4px;">—</span></div><div id="subNoteEditor" style="background:var(--surface,#141420); border:1px solid var(--border,#2a2a3e);
         border-radius:0 0 8px 8px; padding:14px 18px;
         min-height:100px; max-height:50vh; overflow-y:auto;
-        font-size:14px; line-height:1.8; color:var(--text2,#c8c8d8); cursor:text;"></div></div><script>// ══ SUB-NOTE 모듈 (지연 로드 방식) ══════════════════
+        font-size:14px; line-height:1.8; color:var(--text,#e8e8f0); cursor:text;"></div></div><script>// ══ SUB-NOTE 모듈 (지연 로드 방식) ══════════════════
     // TipTap은 버튼 첫 클릭 시 동적으로 로드 → 초기 페이지에 영향 없음
 
     let _snEditor = null, _snKey = null, _snVisible = false, _snTimer = null;
@@ -246,11 +248,37 @@
       else if (cmd==='code')       c.toggleCode().run();
       else if (cmd==='codeblock')  c.toggleCodeBlock().run();
       else if (cmd==='blockquote') c.toggleBlockquote().run();
+      else if (cmd==='hr')         c.setHorizontalRule().run();
       else if (cmd==='color')      c.setColor(val).run();
       else if (cmd==='link') {
         const url = prompt('링크 URL:','https://');
         if (url) c.setLink({href:url}).run(); else c.unsetLink().run();
       }
+    }
+
+    // ── 색상 적용 — drag 선택 유지를 위한 별도 함수 ──────────
+    // <input type="color">를 클릭하면 에디터 포커스가 빠지면서 selection이 사라짐
+    // 해결: color picker가 열리기 전 selection 범위를 저장 → 색상 선택 후 복원
+    let _snSavedSelection = null;
+
+    document.addEventListener('mousedown', (e) => {
+      const picker = document.getElementById('snColorPicker');
+      if (picker && e.target === picker && _snEditor) {
+        // color picker 클릭 직전 selection 저장
+        const { from, to } = _snEditor.state.selection;
+        _snSavedSelection = { from, to };
+      }
+    }, true);
+
+    function snCmdColor(val) {
+      if (!_snEditor) return;
+      let chain = _snEditor.chain().focus();
+      // 저장된 selection 복원
+      if (_snSavedSelection && _snSavedSelection.from !== _snSavedSelection.to) {
+        chain = chain.setTextSelection(_snSavedSelection);
+      }
+      chain.setColor(val).run();
+      _snSavedSelection = null;
     }
 
     async function toggleSubNotePanel() {
@@ -322,7 +350,21 @@
         content:attr(data-placeholder); color:var(--text3,#555); pointer-events:none; float:left; height:0;
       }
     `;
-    document.head.appendChild(_snStyle);</script></div><div class="panel-resizer" id="panelResizer"><div class="panel-resizer-handle"></div></div><div class="right-panel"><div class="groq-panel"><div class="panel-header"><div class="panel-title"><div class="panel-title-dot" id="groqDot"></div>Word · Sentence Analysis</div><label class="groq-toggle" title="Groq 분석 ON / OFF"><input type="checkbox" id="groqToggle" checked="checked" onchange="toggleGroqEnabled(this.checked)"> <span class="groq-toggle-slider"></span></label></div><div class="groq-content" id="groqContent"><div class="groq-placeholder">단어/문장을 선택하면 분석결과가 나타납니다.<br><br>• 어휘<br>• 발음 팁<br>• 문법<br>• 유사 표현</div></div></div><div class="progress-panel"><div class="panel-title" style="margin-bottom:10px"><div class="panel-title-dot" style="background:var(--accent);box-shadow:0 0 6px var(--accent)"></div>Progress · Drill Mode</div><div class="progress-bar-wrap"><div class="progress-bar-fill" id="studyProgressBar" style="width:0%"></div></div><div class="progress-stats"><div class="stat-item"><div class="stat-val" id="statCompletions">0</div><div class="stat-key">Completions</div></div><div class="stat-item"><div class="stat-val" id="statTime">0m</div><div class="stat-key">Listen Time</div></div><div class="stat-item"><div class="stat-val" id="statLast">—</div><div class="stat-key">Last Position</div></div></div></div><div class="config-panel" id="configPanel" style="display: none;"><div class="panel-title" style="margin-bottom:10px"><div class="panel-title-dot" style="background:var(--amber);box-shadow:0 0 6px var(--amber)"></div>API Config (Admin Only)</div><div class="config-row"><div class="config-label">허용 도메인 제한 (선택, 비워두면 전체 허용)</div><input class="config-input" id="allowedDomain" placeholder="예: knou.ac.kr"></div><div class="config-row"><div class="config-label">GitHub Pages Base URL (manifest용)</div><input class="config-input" id="manifestBase" placeholder="https://knouac.github.io"></div><button class="btn-load" style="width:100%;margin-top:8px" onclick="saveConfig()">설정 저장</button></div></div></div></div><div id="settingsModal" onclick="closeSettingsModalOutside(event)"><div id="settingsModalCard"><div class="modal-title">텍스트 크기 설정 <button class="modal-close" onclick="toggleSettingsModal()">✕</button></div><div class="fs-row"><span class="fs-label">본문</span> <input type="range" class="fs-slider" id="fs-body" min="12" max="28" step="1" value="17" oninput="applyFontSize('body',this.value)"> <span class="fs-val" id="fs-body-val">17px</span></div><div class="fs-row"><span class="fs-label">NOTE</span> <input type="range" class="fs-slider" id="fs-note" min="10" max="22" step="1" value="14" oninput="applyFontSize('note',this.value)"> <span class="fs-val" id="fs-note-val">14px</span></div><div class="fs-row"><span class="fs-label">TRANSLATION</span> <input type="range" class="fs-slider" id="fs-translation" min="10" max="22" step="1" value="14" oninput="applyFontSize('translation',this.value)"> <span class="fs-val" id="fs-translation-val">14px</span></div><div class="fs-row"><span class="fs-label">Q&amp;A</span> <input type="range" class="fs-slider" id="fs-qna" min="10" max="22" step="1" value="14" oninput="applyFontSize('qna',this.value)"> <span class="fs-val" id="fs-qna-val">14px</span></div><button class="fs-reset" onclick="resetFontSizes()">기본값으로 초기화</button><div class="fs-row" style="margin-top:12px; border-top:1px solid var(--border,#333); padding-top:12px;"><span class="fs-label">선택 방식</span> <label class="toggle-switch"><input type="checkbox" id="useNativeSelect" onchange="toggleSelectMode(this.checked)"> <span class="toggle-track"></span></label> <span class="fs-val" id="selectModeLabel" style="min-width:80px">스피너</span></div><div class="fs-row" style="margin-top:10px; border-top:1px solid var(--border,#333); padding-top:10px;"><span class="fs-label">테마</span> <label class="toggle-switch"><input type="checkbox" id="useLightTheme" onchange="toggleTheme(this.checked)"> <span class="toggle-track"></span></label> <span class="fs-val" id="themeLabel" style="min-width:60px">다크</span></div></div></div><div class="toast" id="toast"></div><audio id="audio" preload="auto"></audio><script>const FS_DEFAULTS = { body:17, note:14, translation:14, qna:14 };
+    document.head.appendChild(_snStyle);</script></div><div class="panel-resizer" id="panelResizer"><div class="panel-resizer-handle"></div></div><div class="right-panel"><div class="groq-panel"><div class="panel-header"><div class="panel-title"><div class="panel-title-dot" id="groqDot"></div>Word · Sentence Analysis</div><label class="groq-toggle" title="Groq 분석 ON / OFF"><input type="checkbox" id="groqToggle" checked="checked" onchange="toggleGroqEnabled(this.checked)"> <span class="groq-toggle-slider"></span></label></div><div class="groq-content" id="groqContent"><div class="groq-placeholder">단어/문장을 선택하면 분석결과가 나타납니다.<br><br>• 어휘<br>• 발음 팁<br>• 문법<br>• 유사 표현</div></div></div><div class="progress-panel"><div class="panel-title" style="margin-bottom:10px"><div class="panel-title-dot" style="background:var(--accent);box-shadow:0 0 6px var(--accent)"></div>Progress · Drill Mode</div><div class="progress-bar-wrap"><div class="progress-bar-fill" id="studyProgressBar" style="width:0%"></div></div><div class="progress-stats"><div class="stat-item"><div class="stat-val" id="statCompletions">0</div><div class="stat-key">Completions</div></div><div class="stat-item"><div class="stat-val" id="statTime">0m</div><div class="stat-key">Listen Time</div></div><div class="stat-item"><div class="stat-val" id="statLast">—</div><div class="stat-key">Last Position</div></div></div></div><div class="config-panel" id="configPanel" style="display: none;"><div class="panel-title" style="margin-bottom:10px"><div class="panel-title-dot" style="background:var(--amber);box-shadow:0 0 6px var(--amber)"></div>API Config (Admin Only)</div><div class="config-row"><div class="config-label">허용 도메인 제한 (선택, 비워두면 전체 허용)</div><input class="config-input" id="allowedDomain" placeholder="예: knou.ac.kr"></div><div class="config-row"><div class="config-label">GitHub Pages Base URL (manifest용)</div><input class="config-input" id="manifestBase" placeholder="https://knouac.github.io"></div><button class="btn-load" style="width:100%;margin-top:8px" onclick="saveConfig()">설정 저장</button></div></div></div></div><div id="settingsModal" onclick="closeSettingsModalOutside(event)"><div id="settingsModalCard"><div class="modal-title">텍스트 크기 설정 <button class="modal-close" onclick="toggleSettingsModal()">✕</button></div><div class="fs-row"><span class="fs-label">본문</span> <input type="range" class="fs-slider" id="fs-body" min="12" max="28" step="1" value="17" oninput="applyFontSize('body',this.value)"> <span class="fs-val" id="fs-body-val">17px</span></div><div class="fs-row"><span class="fs-label">NOTE</span> <input type="range" class="fs-slider" id="fs-note" min="10" max="22" step="1" value="14" oninput="applyFontSize('note',this.value)"> <span class="fs-val" id="fs-note-val">14px</span></div><div class="fs-row"><span class="fs-label">TRANSLATION</span> <input type="range" class="fs-slider" id="fs-translation" min="10" max="22" step="1" value="14" oninput="applyFontSize('translation',this.value)"> <span class="fs-val" id="fs-translation-val">14px</span></div><div class="fs-row"><span class="fs-label">Q&amp;A</span> <input type="range" class="fs-slider" id="fs-qna" min="10" max="22" step="1" value="14" oninput="applyFontSize('qna',this.value)"> <span class="fs-val" id="fs-qna-val">14px</span></div><button class="fs-reset" onclick="resetFontSizes()">기본값으로 초기화</button><div class="fs-row" style="margin-top:12px; border-top:1px solid var(--border,#333); padding-top:12px;"><span class="fs-label">선택 방식</span> <label class="toggle-switch"><input type="checkbox" id="useNativeSelect" onchange="toggleSelectMode(this.checked)"> <span class="toggle-track"></span></label> <span class="fs-val" id="selectModeLabel" style="min-width:80px">스피너</span></div><div class="fs-row" style="margin-top:10px; border-top:1px solid var(--border,#333); padding-top:10px;"><span class="fs-label">테마</span> <label class="toggle-switch"><input type="checkbox" id="useLightTheme" onchange="toggleTheme(this.checked)"> <span class="toggle-track"></span></label> <span class="fs-val" id="themeLabel" style="min-width:60px">다크</span></div></div></div><div id="pronEditPopup" style="display:none; position:fixed; z-index:9000;
+  background:var(--bg2,#1e2030); border:1px solid var(--accent,#c8f0a0);
+  border-radius:10px; padding:14px 16px; min-width:280px; max-width:360px;
+  box-shadow:0 8px 32px rgba(0,0,0,0.5);"><div style="font-size:11px; color:var(--text3,#888); margin-bottom:8px;" id="pronEditPopupTitle">발음 편집</div><div style="font-size:12px; color:var(--accent2,#5a9fd4); margin-bottom:6px;" id="pronEditWord"></div><input id="pronEditInput" type="text" placeholder="발음 입력..." style="width:100%; box-sizing:border-box; background:var(--bg3,#252535);
+           border:1px solid var(--border,#333); border-radius:6px; padding:6px 10px;
+           color:var(--text,#eee); font-size:13px; outline:none; margin-bottom:8px;" onkeydown="if(event.key==='Enter')pronEditSaveWord()"><div style="display:flex; gap:6px; flex-wrap:wrap;"><button onclick="pronEditSaveWord()" style="background:var(--accent,#c8f0a0); color:#000; border:none;
+      border-radius:6px; padding:5px 12px; font-size:12px; cursor:pointer; font-weight:600;">단어 저장</button> <button onclick="pronEditSaveLiaison()" style="background:var(--accent2,#5a9fd4); color:#fff; border:none;
+      border-radius:6px; padding:5px 12px; font-size:12px; cursor:pointer; font-weight:600;" id="pronEditLiaisonBtn">연음 패턴</button> <button onclick="pronEditClose()" style="background:transparent; color:var(--text3,#888); border:1px solid var(--border,#333);
+      border-radius:6px; padding:5px 10px; font-size:12px; cursor:pointer;">닫기</button></div><div id="pronEditLiaisonArea" style="display:none; margin-top:10px; border-top:1px solid var(--border,#333); padding-top:10px;"><div style="font-size:11px; color:var(--text3,#888); margin-bottom:4px;">연음 패턴 (영어 원문)</div><input id="pronEditLiaisonPattern" type="text" placeholder="예: not at all" style="width:100%; box-sizing:border-box; background:var(--bg3,#252535);
+             border:1px solid var(--border,#333); border-radius:6px; padding:6px 10px;
+             color:var(--text,#eee); font-size:12px; outline:none; margin-bottom:6px;"><div style="font-size:11px; color:var(--text3,#888); margin-bottom:4px;">연음 발음</div><input id="pronEditLiaisonPron" type="text" placeholder="예: 낱 애-롤" style="width:100%; box-sizing:border-box; background:var(--bg3,#252535);
+             border:1px solid var(--border,#333); border-radius:6px; padding:6px 10px;
+             color:var(--text,#eee); font-size:12px; outline:none; margin-bottom:8px;" onkeydown="if(event.key==='Enter')pronEditSaveLiaisonConfirm()"><div style="display:flex; gap:6px;"><button onclick="pronEditSaveLiaisonConfirm()" style="background:var(--accent2,#5a9fd4); color:#fff; border:none;
+        border-radius:6px; padding:5px 12px; font-size:12px; cursor:pointer; font-weight:600;">연음 저장</button> <button onclick="document.getElementById('pronEditLiaisonArea').style.display='none'" style="background:transparent; color:var(--text3,#888); border:1px solid var(--border,#333);
+        border-radius:6px; padding:5px 10px; font-size:12px; cursor:pointer;">취소</button></div></div><div id="pronEditStatus" style="font-size:11px; color:var(--accent,#c8f0a0); margin-top:8px; min-height:16px;"></div></div><div class="toast" id="toast"></div><audio id="audio" preload="auto"></audio><script>const FS_DEFAULTS = { body:17, note:14, translation:14, qna:14 };
   const FS_KEY = 'shadowing_fontsize';
 
   function applyFontSize(key, val) {
@@ -429,6 +471,260 @@
       });
     } catch(e) {}
   }
+
+  // ══════════════════════════════════════════════════════════
+  // 발음 DB 편집 모드 (관리자 전용)
+  // ══════════════════════════════════════════════════════════
+  const PRON_ADMIN_EMAIL = 'hoon1018@knou.ac.kr';
+  let _pronEditMode = false;
+  let _pronEditTarget = null; // { word, element, isUnknown }
+
+  // ── 편집 모드 ON/OFF ──────────────────────────────────────
+  function togglePronEditMode() {
+    _pronEditMode = !_pronEditMode;
+    const btn = document.getElementById('pronEditBtn');
+    if (_pronEditMode) {
+      document.body.classList.add('pron-edit-mode');
+      btn.textContent = '편집 종료';
+      btn.style.background = 'var(--accent,#c8f0a0)';
+      btn.style.color = '#000';
+      _bindPronEditEvents();
+      showToast('발음 DB 편집 모드 ON — 발음 줄을 클릭하세요', 'success');
+    } else {
+      document.body.classList.remove('pron-edit-mode');
+      btn.textContent = 'DB 편집';
+      btn.style.background = 'transparent';
+      btn.style.color = 'var(--accent,#c8f0a0)';
+      pronEditClose();
+      showToast('편집 모드 OFF');
+    }
+  }
+
+  // ── 편집 가능 요소에 이벤트 바인딩 ──────────────────────
+  function _bindPronEditEvents() {
+    // dialogue-meta--pron 줄의 각 토큰(word-span 및 텍스트)에 클릭 이벤트
+    document.querySelectorAll('.dialogue-meta--pron').forEach(pronDiv => {
+      pronDiv.style.cursor = 'pointer';
+      pronDiv.addEventListener('click', _onPronLineClick);
+    });
+  }
+
+  function _onPronLineClick(e) {
+    if (!_pronEditMode) return;
+    e.stopPropagation();
+
+    // 클릭된 요소가 #word# 미등록 토큰인지 확인
+    const target = e.target;
+    const pronDiv = e.currentTarget;
+
+    // 영어 원문 대사 가져오기 (dialogue-content 내 첫 번째 텍스트)
+    const contentDiv = pronDiv.closest('.dialogue-content');
+    const engLine = contentDiv ? _getEngText(contentDiv) : '';
+
+    // #word# 패턴 감지
+    const text = target.textContent || '';
+    const unknownMatch = text.match(/^#(.+)#$/);
+
+    if (unknownMatch) {
+      // 미등록 단어 클릭
+      _showPronEditPopup({
+        word: unknownMatch[1],
+        element: target,
+        isUnknown: true,
+        engLine,
+        pronDiv
+      });
+    } else {
+      // 발음 줄 전체 편집 (일반 텍스트 클릭)
+      _showPronEditPopup({
+        word: text.trim(),
+        element: target,
+        isUnknown: false,
+        engLine,
+        pronDiv
+      });
+    }
+  }
+
+  function _getEngText(contentDiv) {
+    // dialogue-content 내 첫 번째 줄(영어 대사) word-span 텍스트 수집
+    const spans = contentDiv.querySelectorAll('.word-span:not(.word-span-speaker)');
+    const words = [];
+    contentDiv.childNodes.forEach(node => {
+      if (node.nodeType === 3) words.push(node.textContent);
+      else if (node.classList && node.classList.contains('word-span')) words.push(node.textContent);
+    });
+    return words.join('').trim();
+  }
+
+  // ── 팝업 표시 ─────────────────────────────────────────────
+  function _showPronEditPopup(opts) {
+    _pronEditTarget = opts;
+    const popup = document.getElementById('pronEditPopup');
+    const title = document.getElementById('pronEditPopupTitle');
+    const wordEl = document.getElementById('pronEditWord');
+    const input = document.getElementById('pronEditInput');
+    const liaisonArea = document.getElementById('pronEditLiaisonArea');
+    const status = document.getElementById('pronEditStatus');
+
+    title.textContent = opts.isUnknown ? '⚠️ 미등록 단어 — 발음 추가' : '발음 수정';
+    wordEl.textContent = opts.isUnknown ? `"${opts.word}" DB에 없음` : `대상: "${opts.word}"`;
+
+    // 기존 발음 조회
+    const existing = window._pronDb && window._pronDb.words[opts.word.toLowerCase()];
+    input.value = existing || '';
+    input.placeholder = opts.isUnknown ? `"${opts.word}" 발음 입력...` : '발음 수정...';
+
+    // 연음 패턴 입력 필드 초기화
+    liaisonArea.style.display = 'none';
+    const lPattern = document.getElementById('pronEditLiaisonPattern');
+    const lPron = document.getElementById('pronEditLiaisonPron');
+    lPattern.value = opts.engLine || '';
+    lPron.value = '';
+    status.textContent = '';
+
+    // 팝업 위치: 클릭 요소 기준
+    const rect = opts.element.getBoundingClientRect();
+    popup.style.display = 'block';
+    const popupW = 360;
+    let left = rect.left;
+    let top = rect.bottom + 8 + window.scrollY;
+    if (left + popupW > window.innerWidth) left = window.innerWidth - popupW - 12;
+    if (left < 8) left = 8;
+    popup.style.left = left + 'px';
+    popup.style.top = top + 'px';
+
+    setTimeout(() => input.focus(), 50);
+  }
+
+  function pronEditClose() {
+    document.getElementById('pronEditPopup').style.display = 'none';
+    _pronEditTarget = null;
+  }
+
+  // ── 단어 저장 ─────────────────────────────────────────────
+  async function pronEditSaveWord() {
+    if (!_pronEditTarget) return;
+    const word = _pronEditTarget.word.toLowerCase();
+    const pron = document.getElementById('pronEditInput').value.trim();
+    if (!pron) { document.getElementById('pronEditStatus').textContent = '발음을 입력하세요.'; return; }
+
+    document.getElementById('pronEditStatus').textContent = '저장 중...';
+
+    // 로컬 DB 업데이트
+    if (!window._pronDb) window._pronDb = { version:'1.0', words:{}, liaisons:[] };
+    window._pronDb.words[word] = pron;
+
+    // Upstash 저장
+    const ok = await _savePronDbToServer();
+    if (ok) {
+      document.getElementById('pronEditStatus').textContent = `✅ "${word}" 저장 완료`;
+      // 화면의 #word# 표시 즉시 갱신
+      if (_pronEditTarget.element) {
+        const el = _pronEditTarget.element;
+        if (el.textContent === '#' + _pronEditTarget.word + '#') {
+          el.textContent = pron;
+          el.style.color = '';
+        }
+      }
+      setTimeout(pronEditClose, 1200);
+    } else {
+      document.getElementById('pronEditStatus').textContent = '❌ 저장 실패';
+    }
+  }
+
+  // ── 연음 패턴 UI 토글 ────────────────────────────────────
+  function pronEditSaveLiaison() {
+    const area = document.getElementById('pronEditLiaisonArea');
+    area.style.display = area.style.display === 'none' ? 'block' : 'none';
+    if (area.style.display === 'block') {
+      document.getElementById('pronEditLiaisonPron').focus();
+    }
+  }
+
+  // ── 연음 패턴 저장 ────────────────────────────────────────
+  async function pronEditSaveLiaisonConfirm() {
+    const pattern = document.getElementById('pronEditLiaisonPattern').value.trim();
+    const pron    = document.getElementById('pronEditLiaisonPron').value.trim();
+    if (!pattern || !pron) {
+      document.getElementById('pronEditStatus').textContent = '패턴과 발음을 모두 입력하세요.';
+      return;
+    }
+
+    document.getElementById('pronEditStatus').textContent = '저장 중...';
+
+    if (!window._pronDb) window._pronDb = { version:'1.0', words:{}, liaisons:[] };
+
+    // 동일 패턴 있으면 업데이트, 없으면 추가
+    const idx = window._pronDb.liaisons.findIndex(l => {
+      const p = Array.isArray(l.pattern) ? l.pattern.join(' ') : l.pattern;
+      return p.toLowerCase() === pattern.toLowerCase();
+    });
+    if (idx >= 0) {
+      window._pronDb.liaisons[idx].pron = pron;
+    } else {
+      window._pronDb.liaisons.push({ pattern: pattern.toLowerCase(), pron });
+    }
+
+    const ok = await _savePronDbToServer();
+    if (ok) {
+      document.getElementById('pronEditStatus').textContent = `✅ 연음 "${pattern}" 저장 완료`;
+      document.getElementById('pronEditLiaisonArea').style.display = 'none';
+      setTimeout(pronEditClose, 1200);
+    } else {
+      document.getElementById('pronEditStatus').textContent = '❌ 저장 실패';
+    }
+  }
+
+  // ── Upstash 저장 ──────────────────────────────────────────
+  async function _savePronDbToServer() {
+    const base = typeof API_BASE_URL !== 'undefined' ? API_BASE_URL : 'https://hoon1018-theowise.hf.space';
+    const token = _getAdminToken();
+    if (!token) { showToast('ADMIN_TOKEN이 없습니다', 'error'); return false; }
+    try {
+      const r = await fetch(`${base}/api/pron_db`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ token, db: window._pronDb })
+      });
+      const d = await r.json();
+      return d.status === 'success';
+    } catch(e) {
+      console.error('[PronDB] 저장 실패:', e);
+      return false;
+    }
+  }
+
+  // 관리자 토큰: localStorage에 저장된 값 사용
+  // 첫 편집 시 입력받아 저장
+  function _getAdminToken() {
+    let token = localStorage.getItem('shadowing_admin_token');
+    if (!token) {
+      token = prompt('UPSTASH_REDIS_REST_TOKEN을 입력하세요 (1회만):');
+      if (token) localStorage.setItem('shadowing_admin_token', token);
+    }
+    return token || null;
+  }
+
+  // ── 관리자 로그인 시 버튼 표시 ───────────────────────────
+  // enterApp()에서 호출됨
+  function _initPronEditButton() {
+    if (typeof currentUser !== 'undefined' && currentUser &&
+        currentUser.email === PRON_ADMIN_EMAIL) {
+      const btn = document.getElementById('pronEditBtn');
+      if (btn) btn.style.display = 'inline-block';
+    }
+  }
+
+  // 외부(body) 클릭 시 팝업 닫기
+  document.addEventListener('click', (e) => {
+    const popup = document.getElementById('pronEditPopup');
+    if (popup && popup.style.display !== 'none' &&
+        !popup.contains(e.target) &&
+        !e.target.closest('.dialogue-meta--pron')) {
+      pronEditClose();
+    }
+  });
 
   function toggleSettingsModal() {
     document.getElementById('settingsModal').classList.toggle('show');
