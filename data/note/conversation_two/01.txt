@@ -1,10 +1,61 @@
 [NOTE]
-* Long time no see: 오랜만이야 (격식 없는 인사)
-* How many days are left before ~?: ~까지 며칠 남았나요?
-* I can't wait for (명사) / to (동사): ~이 매우 기대된다, 더 이상 기다릴 수 없다
-* similar to: ~와 비슷한
-* made from: ~으로 만들어진 (재료의 성질이 변하는 경우)
-* stuffed with: ~으로 채워진
-* have ~ in common: ~라는 공통점이 있다
-* You are hilarious: 당신 정말 재미있군요 (상대방을 박장대소하게 할 때)
-* There is a month left before ~: ~까지 한 달 남았어요
+1. I-Expression
+
+I can’t wait. 매우 기대된다.
+
+I can’t wait for 명사 = I’m looking forward to 명사 / 동명사
+
+• I can’t wait for the summer vacation.
+여름 방학이 매우 기다려진다.
+
+• I’m looking forward to seeing you.
+당신을 만나는 것이 매우 기대됩니다.
+
+I can’t wait to 동사 = I hope to 동사
+
+• I can’t wait to go hiking.
+소풍을 가는 것이 매우 기다려져요.
+
+• I hope to go shopping.
+쇼핑을 하러 가고 싶어요.
+
+2. You-Expression
+
+You are hilarious. 당신 정말 재미있군요.
+= 'amusing', 'comical', 'entertaining', 'humorous', "laughable", "lively', "priceless'", 'uproarious", 'gut-busting", 'witty', ...
+
+3. Statement
+
+There is a month left before ~.
+~까지 한 달 남았어요.
+
+기대하는 일이 있으면 얼마나 남았는지 계속 날짜를 세게 됩니다. 이럴 때 사용할 수 있는 표현이 There is a month left before ~.입니다. 다음의 예처럼 ‘a month’를 남은 기간으로 바꾸어 사용하면 됩니다.
+
+• There is five minutes left before the meeting.
+회의까지 5분 남았습니다.
+
+• There is a year left before graduating.
+졸업까지 일 년 남았습니다.
+
+4. Question
+
+Do you know what ~ have in common?
+~ 사이에 어떤 공통점이 있습니까?
+
+대화 중에 둘 사이의 공통점이 궁금할 때 사용할 수 있는 표현입니다.
+
+• Do you know what Korea and Japan have in common?
+한국과 일본 사이에 어떤 공통점이 있는지 아시나요?
+
+• Do you know what the comic book and webtoon have in common?
+만화책과 웹툰 사이에 어떤 공통점이 있는지 아십니까?
+
+* Long time no see : 오랜만이야 (격식 없는 인사)
+* How many days are left before ~? : ~까지 며칠 남았나요?
+* I can't wait for 명사 / to 동사  : ~이 매우 기대된다, 더 이상 기다릴 수 없다
+* similar to : ~와 비슷한
+* made from : ~으로 만들어진 (재료의 성질이 변하는 경우)
+* stuffed with : ~으로 채워진
+* have ~ in common : ~라는 공통점이 있다
+* You are hilarious : 당신 정말 재미있군요 (상대방을 박장대소하게 할 때)
+* There is a month left before ~ : ~까지 한 달 남았어요

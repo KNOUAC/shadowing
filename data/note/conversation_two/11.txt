@@ -1,12 +1,12 @@
 [NOTE]
-* stopping by: 들르다, 방문하다
-* B.A. (Bachelor of Arts): 문과 학사 학위
-* administrative assistant: 행정 사무원, 비서
-* out of my league: 내 능력 밖의, 수준 차이가 나는
-* prestigious company: 명망 있는 회사, 일류 기업
-* put forth effort: 노력을 기울이다
-* involve: 수반하다, 관련되다
-* I've got to hand it to you: 당신을 인정할 수밖에 없네요 (정말 대단하네요)
-* I'm sold on ~: ~에 설득되다, ~이 마음에 쏙 들다
-* team player: 협동심이 강한 사람
-* breaking the rules: 규칙을 어기다
+* stopping by : 들르다, 방문하다
+* B.A. (Bachelor of Arts) : 문과 학사 학위
+* administrative assistant : 행정 사무원, 비서
+* out of my league : 내 능력 밖의, 수준 차이가 나는
+* prestigious company : 명망 있는 회사, 일류 기업
+* put forth effort : 노력을 기울이다
+* involve : 수반하다, 관련되다
+* I've got to hand it to you : 당신을 인정할 수밖에 없네요 (정말 대단하네요)
+* I'm sold on ~ : ~에 설득되다, ~이 마음에 쏙 들다
+* team player : 협동심이 강한 사람
+* breaking the rules : 규칙을 어기다
