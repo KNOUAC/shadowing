@@ -2,67 +2,73 @@
 
 Harry | Come on, come on, come on... has she read it? Not yet. Why? Didn't I deliver to her?
         제발, 제발 제발... 읽으셨나? 아직이네, 왜지? 내가 잘못 보냈나?
-        컴 온, 컴 온, 컴 온... 해ㅈ쉬 레딛? 낟 옡. 와이? 디른 아이 딜리v벌r 투 허_ㄹ_?
+        _pron_
 
 Julie | Hey, Harry. What are you mumbling about? Is anything wrong?
         안녕, 해리? 뭘 중얼거리고 있어요? 뭔가 잘못됐나요?
-        헤이, 해r리. 왙 _아_`_ㄹ_`유 머-엄블링 어바욷? 이즈 애니띵th r뤙?
+        _pron_
 
 Harry | Oh, Julie. I didn't submit the weekly assignment on time, so I emailed to explain why I couldn't make it to Professor Park... but she hasn't replied yet. I don't think she has even read my email yet.
         오, 줄리. 제가 제시간에 주간 과제를 제출하지 못했어요. 그래서 박 교수님께 왜 제가 제때 제출하지 못했는지 설명하는 이메일을 보냈는데... 그런데 교수님이 답장이 아직 없으세요. 아직 안 읽으신 건 아닌 것 같은데.
-        오, 줄리. 아이 디든 썹미-잍 _더_ 위-클리 어싸-인먼트 온 타임, 쏘 아이 이메일드 투 잌쓰f플레이-인 와이 아이 쿠든 매잌 잇 투 f프r로f페썰r f파-r크... 벝 쉬 해즌트 r리f플라-이드 옡. 아이 돈 띵th크 쉬 해즈 이-v븐 r뤠드 마이 이메일 옡.
+        _pron_
+        I couldn't make it (to ~) : 제시간에 ~할 수 없었다 / ~에 참석할 수 없었다
 
 Min-su | Did you check your spam mailbox? Sometimes, important emails can be classified as spam if they include specific words like “call”, “read”, “now”, and so on.
          스팸 메일함은 확인해 보셨어요? 때때로 중요한 메일들이 스팸으로 분류될 수 있어요. 만약에 '전화', '읽다', '지금' 등의 특정한 단어들이 포함된 경우에는요.
-         디쥬 체크 유_얼_ 쓰f패-앰 메이-일밬쓰? 썸타임즈, 임f포-r턴트 이메일즈 캔 비 클래씨f파-이드 애즈 쓰f패-앰 이_프_ th데이 인클루-드 쓰f페씨f피-잌 워r드즈 라잌 "콜", "r리-이드", "나우", 앤 쏘 온.
+         _pron_
 
 Harry | I didn't know that. I'm checking... no. There are no emails from Professor Park.
         몰랐어요. 확인해 볼게요... 없어요. 박 교수님으로부터 온 이메일은 없어요.
-        아이 디든 노 _댓_. 암 체크킹... 노. th데어r _아_`_ㄹ_`노 이메일즈 f프r롬 f프r로f페썰r f파-r크.
+        _pron_
 
 Julie | What about email addresses? Did you double check the spelling? Sometimes I'm not certain if it's the capital letter 'I' or the lower case 'l'.
         이메일 주소는 어때요? 스펠링은 다시 점검했나요? 가끔 저는 대문자 I인지 소문자 l인지 확실히 못 하겠던데.
-        워라바웃 이메일 어드r뤠씨-즈? 디쥬 더블 체크 _더_ 쓰f펠링? 썸타임즈 암 낱 썰r턴 이_프_ 잍츠 _더_ 캐f피털 레털r '아이' 오_얼_ _더_ 로-우얼r 케이쓰 '엘'.
+        _pron_
 
 Harry | What do you take me for? I'm not a child. I know the difference.
         저를 뭘로 보는 거예요? 저는 애가 아니라고요. 대문자 소문자 정도는 구별해요.
-        왙 두 유 테이크 미 _퍼__ㄹ_? 암 낱 어 차-일드. 아이 노 _더_ 디f프r런쓰.
+        _pron_
+        What do you take me for? : 나를 뭘로 보는 거야?
 
 Julie | When did you send the email?
         이메일은 언제 보냈는데요?
-        웬 디쥬 쎈드 디 이메일?
+        _pron_
 
 Harry | You may not believe me, but an hour ago! You know what? I'm going to send another email right now.
         못 믿으실 거예요, 한 시간이나 지났다고요! 있잖아요, 지금 이메일을 하나 다시 보내야겠어요.
-        유 메이 낱 빌리-v브 미, 벝 언 아-워r 어고! 유 노 왓? 암 고-잉 투 쎈드 어나_덜_th 이메일 r롸이-잍 나우.
+        _pron_
 
 Julie | What? Hold your horses, Harry. No one checks email every hour! Students are all the same. They think teachers work around the clock.
         뭐라구요? 진정해요 해리. 한 시간마다 이메일을 확인하는 사람은 없어요. 학생들은 언제나 비슷해요. 선생님들이 24시간 일한다고 생각한다니까요.
-        왓? 홀드 유_얼_ 호-r씨즈, 해r리. 노 원 체크쓰 이메일 에브v리 아-워r! 쓰튜-던트쓰 _아_`_ㄹ_`올 _더_ 쎄이-임. th데이 띵th크 티-철r즈 월r크 어라운드 _더_ 클랔.
+        _pron_
+        Hold your horses : 진정해, 잠깐만 기다려        around the clock : 24시간 내내, 쉬지 않고
 
 Min-su | Julie is right. You could screw it up if you have a short fuse. Crowding a person for an answer can be regarded as rude. Remember, you're the one who is asking for understanding, so you need to be polite and patient.
          줄리 말이 맞아요. 너무 성급하면 일을 망쳐요. 대답을 독촉하는 것은 무례하게 여겨질 수 있어요. 이해해 주기를 요청하는 것은 당신이라는 것을 잊지 마세요. 그러니까 공손하게 기다릴 필요가 있어요.
-         줄리 이즈 r롸이-잍. 유 쿠드 쓰크r루- 이럽 이_프_ 유 해_브_ 어 쇼-r트 f퓨-즈. 크r라우딩 어 f퍼-r썬 _퍼__ㄹ_ 언 앤_썰_ 캔 비 r리갈r디드 애즈 r루-드. r리멤버r, 유_아_`_ㄹ_`_더_ 원 후 이즈 애쓰킹 _퍼__ㄹ_ 언더r쓰태-앤딩, 쏘 유 니-드 투 비 f폴라-이트 앤 f페이-션트.
+         _pron_
+         You could screw it up : 일을 망칠 수도 있다 (성급한 행동 등에 대한 경고)       short fuse : 다혈질, 성급함
 
 Harry | Oh, it didn't occur to me. Thanks for the heads-up. Phew, that was a close shave... (broom broom).
         그런 실수는 하지 않을 거예요. 주의를 환기시켜 주어 감사해요. 휴, 아슬아슬했네요... (부릉부릉)
-        오, 잇 디든 어컬r 투 미. 땡th크쓰 _퍼__ㄹ_ _더_ 헤즈-업. f퓨-, _댓_ 워즈 어 클로-우쓰 쉐이v브... (브r루-음 브r루-음).
+        _pron_
+        close shave : 위기일발, 아슬아슬한 상황         heads-up : 미리 알려줌, 주의
 
 Min-su | What is that sound?
          이게 무슨 소리죠?
-         왙 이즈 _댓_ 싸-운드?
+         _pron_
 
 Harry | My email alarm!
         이메일 알람이요!
-        마이 이메일 알라-r름!
+        _pron_
 
 Julie | A motorbike sound? You surprise me.
         오토바이 소리가요? 깜짝 놀랐어요.
-        어 모-우털r바이크 싸-운드? 유 썹f프r라-이즈 미.
+        _pron_
 
 Harry | Why? I sometimes ride my bike. I love it. Anyway, this is from Professor Park. It says... she cannot help but subtract three points.
         왜요? 저는 때때로 오토바이를 타요. 오토바이 타는 것이 좋아요. 아무튼, 이건 박 교수님으로부터 온 이메일이네요. 여기에 써 있기로는... 3점을 감점할 수밖에 없다고 하시네요.
-        와이? 아이 썸타임즈 r롸-이드 마이 바-이크. 아이 러v브 잇. 애니웨이, 디쓰 이즈 f프r롬 f프r로f페썰r f파-r크. 잇 쎄즈... 쉬 캐낫 헬ㅃ 벝 썹트r뤠-앸트 thr리- f포-인츠.
+        _pron_
+        cannot help but ~ : ~하지 않을 수 없다
 
 Min-su | That sounds fair. At least you get some points instead of zero points.
          공정한 것 같은데, 0점이 아니라 최소한 몇 점이라도 받았잖아요.
@@ -70,4 +76,5 @@ Min-su | That sounds fair. At least you get some points instead of zero points.
 
 Harry | Right. I will make sure to submit assignments on time.
         맞아요. 앞으로 제시간에 과제를 반드시 제출해야겠어요.
-        r롸이-잍. 아윌 매잌 슈얼r 투 썹미-잍 어싸-인먼트쓰 온 타임.
+        _pron_
+        on time : 제시간에
