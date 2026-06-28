@@ -7,7 +7,7 @@ Tenant | Hello?
 Harry | Hi, I saw your advertisement in The Korea Herald. I'm interested in your apartment. Is it still available?
         안녕하세요, 코리아 헤럴드에서 광고를 봤어요. 당신의 아파트에 관심이 있는데, 아직 입주 가능한가요?
         _pron_
-        shoot for : ~을 목표로 하다, ~을 시도하다 (I'll shoot for the classified ads)
+        Is it still available? : 아직 (입주) 가능한가요? (광고 등을 보고 묻는 표현)
 
 Tenant | Yes, it is. It's a small 66-square meter studio, but it has a washing machine and includes internet access. I've only been here for a month, but I need someone to take over my lease. I promised the landlord I would do this for him.
          네, 가능해요. 66제곱미터의 작은 스튜디오(원룸)인데, 세탁기가 있고 인터넷도 연결되어 있어요. 저는 여기 산 지 한 달밖에 안 됐지만, 제 임대차 계약을 인수할 분이 필요해요. 집주인에게 제가 이 일을 대신 해주겠다고 약속했거든요.
