@@ -1,7 +1,7 @@
 [NOTE]
 * I have been busy ~-ing : ~하느라 바빴어요 (현재완료 진행형)
 * You are a ~ genius : 당신 정말 ~를 잘하는군요 (칭찬 표현)
-* It's as easy as ABC : 식은 죽 먹기죠 (매우 쉽다)
+* It's easy as ABC : 식은 죽 먹기죠 (매우 쉽다)
 * Are you available now? : 지금 시간 좀 있으세요? (도움을 요청할 때)
 * I wonder if you can help me : 당신이 저를 도와주실 수 있는지 궁금해요
 * It's just between us : 우리끼리 비밀이에요
@@ -11,3 +11,9 @@
 * binge-watching : (TV 프로그램 등을) 몰아서 보기
 * on your own : 스스로, 혼자서 (직접)
 * thanks to ~ : ~ 덕분에
+
+1. It's as easy as ABC. (원칙 / 기본형)문법 구조: as + 형용사 + as (원급 비교) 구조입니다. "~만큼 ~하다"라는 뜻입니다.
+해석: "그것은 알파벳(ABC)을 배우는 것만큼이나 쉽다."특징: 문법적으로 완벽한 문장이며, 글을 쓰거나 공식적인 자리에서 말할 때도 모두 적합합니다.
+
+2. It's easy as ABC. (구어체 / 생략형)문법 구조: 앞의 as가 생략된 형태입니다.해석: 의미는 위 문장과 100% 똑같이 "식은 죽 먹기다"라는 뜻입니다.
+특징: 영어 구어체(말할 때)에서는 속도를 빠르게 하거나 리듬감을 주기 위해 첫 번째 as를 습관적으로 생략하곤 합니다. (예: as fast as lightning을 fast as lightning으로 말하는 것과 같습니다.)
