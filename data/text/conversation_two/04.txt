@@ -10,7 +10,7 @@ Harry | I hardly slept a wink last night.
         _pron_
         hardly slept a wink : 한숨도 못 자다
 
-Soyeong | Rough night?
+Soyeong | *Rough night?*
           밤새웠어요? (힘든 밤이었나요?)
           _pron_
           rough night : 힘든 밤 (불면증 등으로 고생한 밤)
@@ -20,17 +20,17 @@ Harry | It's my upstairs neighbors. They kept me up all night. I've tried talkin
         _pron_
         make a racket : 큰 소동을 피우다, 시끄럽게 굴다
 
-Soyeong | You do know that you can always move into a new apartment, don't you? I know it's a hassle, but why torture yourself if you're this unhappy?
+Soyeong | **You do know that you can always move into a new apartment, don't you?** I know it's a *hassle*, but why torture yourself if you're this unhappy?
           알다시피 당신은 언제든 새 아파트로 이사 갈 수 있잖아요, 그렇죠? 그게 좀 귀찮다는 건 알지만, 당신이 이렇게 행복하지 않다면 왜 당신 스스로를 괴롭혀요?
           _pron_
           hassle : 번거롭고 귀찮은 일           torture oneself : 자책하다, 스스로를 괴롭히다
 
-Harry | Yeah, I've been thinking about that. But the problem is, I don't know how to go about it. Do you know where the best place is to look for an apartment in Seoul?
+Harry | Yeah, I've been thinking about that. But the problem is, *I don't know how to go about it.* **Do you know where the best place is to look for an apartment in Seoul?**
         네, 그래서 생각해 봤어요. 그런데 문제는 어떻게 해결해야 하는지를 모른다는 거죠. 서울에서 아파트를 구하기에 좋은 곳이 어디인지 알아요?
         _pron_
         go about it : (일을) 시작하다, 처리하다
 
-Soyeong | Most people either use a budongsan junggyesa or check online using the internet. I've heard that a budongsan agent is your best bet, especially for a foreigner like you.
+Soyeong | Most people either use a budongsan junggyesa or check online using the internet. **I've heard that a budongsan agent is your** *best bet,* **especially for a foreigner like you.**
           대부분의 사람이 부동산 중개인이나 인터넷을 이용해요. 내가 듣기로 부동산 중개인이 제일 좋다고 들었어요. 특히 당신 같은 외국인에게는요.
           _pron_
           best bet : 최선의 방책, 가장 좋은 방법
@@ -44,7 +44,7 @@ Soyeong | That's Korean for 'real estate agent.' They have offices in almost eve
           _pron_
           in terms of ~ : ~의 관점에서, ~ 면에서                whatnot : ~인가 뭔가 (여러 가지 것들)
 
-Harry | That would be great. All I need is a quiet room with easy access to the subway, and I should be fine.
+Harry | That would be great. **All I need is a quiet room with easy access to the subway, and I should be fine.**
         좋은데요. 제게 필요한 건 지하철에 접근하기 쉬운 조용한 방이에요. 전 그거면 만족해요.
         _pron_
         all I need is ~ : 내가 필요한 것은 단지 ~뿐이다
@@ -53,7 +53,7 @@ Soyeong | You could also check out the classified ads in the English language ne
           영자신문의 안내광고를 확인해 보는 것도 좋을 거예요. 내가 알기로 서울에 사는 외국인들은 때때로 판매 글을 올리거든요.
           _pron_
 
-Harry | Thanks, Soyeong. I think I'll shoot for the classified ads.
+Harry | Thanks, Soyeong. I think I'll *shoot for* the classified ads.
         소영, 고마워요. 안내광고를 한번 확인해 봐야겠어요.
         _pron_
         shoot for : ~을 목표로 하다, ~을 시도하다 (I'll shoot for the classified ads)

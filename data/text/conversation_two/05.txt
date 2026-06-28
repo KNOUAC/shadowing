@@ -4,7 +4,7 @@ Tenant | Hello?
          여보세요?
          헬로-우?
 
-Harry | Hi, I saw your advertisement in The Korea Herald. I'm interested in your apartment. Is it still available?
+Harry | Hi, I saw your advertisement in The Korea Herald. I'm interested in your apartment. *Is it still available?*
         안녕하세요, 코리아 헤럴드에서 광고를 봤어요. 당신의 아파트에 관심이 있는데, 아직 입주 가능한가요?
         _pron_
         Is it still available? : 아직 (입주) 가능한가요? (광고 등을 보고 묻는 표현)
@@ -26,11 +26,11 @@ Harry | Whew! That's a relief!
         휴! 다행이네요!
         휴-! _댓_츠 어 _륄_리-f프!
 
-Tenant | What makes you say that?
+Tenant | **What makes you say that?**
          왜 그렇게 말씀하시죠?
          왙 매잌쓰 유 쎄이 _댓_?
 
-Harry | You would not believe my upstairs neighbors. The walls are paper-thin. I swear I can hear them coughing. I couldn't take it anymore! It would be okay if they were quiet, but they like to party into the wee hours. It's been killing me!
+Harry | You would not believe my upstairs neighbors. The walls are paper-thin. I swear I can hear them coughing. *I couldn't take it anymore!* It would be okay if they were quiet, but they like to party into the *wee hours.* It's been killing me!
         제 윗집 이웃들은 믿지 못할 정도거든요. 벽이 종이처럼 얇아요. 맹세코 그들이 기침하는 소리까지 들린다니까요. 더 이상은 못 참겠어요! 조용히만 한다면 괜찮겠지만, 그들은 새벽 늦게까지 파티하는 걸 좋아해요. 아주 죽을 맛이에요!
         _pron_
         paper-thin : 종이처럼 얇은 (방음이 안 되는 벽 등을 묘사)                into the wee hours : 새벽 늦게까지
@@ -48,7 +48,7 @@ Tenant | You'd have to pay for your own utilities such as electricity, water, an
          전기, 수도, 가스 같은 공과금은 직접 내셔야 해요. 그리고 매달 5만 원의 관리비가 있어요. 그건 경비원과 일반적인 유지 관리를 위한 비용이죠.
          유드 해_브_ 투 f페이 _퍼__ㄹ_ 유_얼_ 오-운 유틸리티-즈 써치 애즈 일렉트r뤠씨티, 워-털r, 앤 개쓰. _데얼_즈 올-쏘 어 메인터넌쓰 f피- 오_브_ f피f프티 _따_우전드th 원 f펄r 먼_쓰_. _댓_츠 _퍼__ㄹ_ 유_얼_ 씨큐어r리티 가-r드 앤 제널r럴 메인터넌쓰.
 
-Harry | That's a little on the steep side. My model agency will take care of the key money, but I don't know if I have that kind of money for monthly rent.
+Harry | **That's a little on the steep side.** My model agency will take care of the key money, but I don't know if I have that kind of money for monthly rent.
         그건 좀 비싼 편이네요. 제 모델 에이전시에서 보증금은 해결해 주겠지만, 제가 그런 월세를 낼 만한 돈이 있을지 모르겠어요.
         _pron_
         on the steep side : (가격 등이) 좀 비싼 편인
@@ -58,17 +58,17 @@ Tenant | Why don't you ask the owner if he's willing to reduce the rent a little
          _pron_
          reduce the rent : 월세를 깎다
 
-Harry | I wish I could do that. But I don't know. Do you think they would be willing to do that?
+Harry | **I wish I could do that.** But I don't know. Do you think they would be willing to do that?
         저도 그러고 싶어요. 하지만 모르겠네요. 그들이 기꺼이 그렇게 해줄까요?
         _pron_
         I wish I could ~ : ~할 수 있으면 좋을 텐데 (현재 불가능한 일에 대한 아쉬움)
 
-Tenant | You might as well try. It's certainly worth asking. The landlord has a lot of foreign tenants. He knows what it's like for us. I don't know about your agency, though.
+Tenant | **You might as well try.** It's certainly worth asking. The landlord has a lot of foreign tenants. *He knows what it's like for us.* I don't know about your agency, though.
          한번 해보는 게 좋을 거예요. 분명 물어볼 가치가 있어요. 집주인이 외국인 세입자가 많거든요. 그는 우리 같은 사람들의 상황을 잘 알아요. 당신의 에이전시는 잘 모르겠지만요.
          _pron_
          might as well : ~하는 편이 낫다 (가벼운 제안)          worth asking : 물어볼 가치가 있는
 
-Harry | Hmm, I guess I've got nothing to lose by asking. If we could negotiate something where I could reduce my rent by even 100,000 won, I'd be able to manage that.
+Harry | Hmm, I guess I've got nothing to lose by asking. If we could negotiate something where I could reduce my rent by even 100,000 won, I'd be able to *manage that.*
         흠, 물어본다고 해서 밑져야 본전이죠. 만약 월세를 단돈 10만 원이라도 줄일 수 있도록 협상할 수 있다면, 제가 어떻게든 감당할 수 있을 거예요.
         _pron_
         nothing to lose : 잃을 게 없는 (밑져야 본전)            manage that : (금전적으로) 감당하다, 해내다

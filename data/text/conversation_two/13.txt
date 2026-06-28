@@ -4,12 +4,12 @@ Min-su | Robert, what happened to the Yeouido property? It's a disaster!
          로버트 씨, 도대체 여의도 부동산은 어떻게 된 겁니까? 완전히 망했어요!
          _pron_
 
-Robert | Sorry, Min-su. It's way over budget, and as you predicted, the market just crashed and burned. Now the property is worthless. In hindsight, Noah was foolish to put all his eggs in one basket. The deal is a complete washout.
+Robert | Sorry, Min-su. It's way over budget, and as you predicted, the market just *crashed and burned.* Now the property is worthless. In hindsight, Noah was foolish to put all his eggs in one basket. The deal is a complete washout.
          죄송합니다, 민수 씨. 저희 예산을 훌쩍 넘긴 데다가, 당신이 예상한 대로 가격이 폭락해서 바닥을 쳤습니다. 그 부동산은 이제 가치가 없어졌어요. 후일담이지만, 노아 씨가 위험을 분산하지 않은 것(한 바구니에 모든 달걀을 담은 것)은 큰 실수였습니다. 그 거래는 완전히 실패예요.
          _pron_
          crashed and burned : (계획 등이) 완전히 실패하다, 폭락하다     worthless : 가치 없는, 무가치한     in hindsight : 지나고 보니, 돌이켜 생각해 보면      put all one's eggs in one basket : 한 군데에 모든 것을 걸다 (위험을 분산하지 않다)      washout : 완전히 망친 것, 대실패
 
-Min-su | Oh, great. And now we're left holding the bag. Now we have no choice but to clean up this mess.
+Min-su | Oh, great. And now we're *left holding the bag.* **Now we have no choice but to clean up this mess.**
          오, 잘 됐군요. 이제 우리가 뒷감당을 하게 되었네요. 이 난장판을 수습하는 것 외에 다른 선택의 여지가 없어요.
          _pron_
          left holding the bag : 책임을 떠맡다, 뒷감당을 하다        no choice but to : ~하는 것 외에 다른 선택이 없다
@@ -18,17 +18,17 @@ Robert | I thought Noah would have let the board know before making his move.
          저는 노아가 행동을 취하기 전에 이사회에 이 사실을 알릴 것으로 생각했습니다.
          _pron_
 
-Min-su | No dice. Noah should have just cooled his feelings when he got the authority to make purchases, but he rushed into the purchase without thinking.
+Min-su | No dice. Noah should have just *cooled his feelings* when he got the authority to make purchases, but he rushed into the purchase without thinking.
          어림없죠. 노아는 구매 권한을 가졌을 때 감정을 가라앉혔어야(냉정을 유지했어야) 했지만, 생각 없이 구매를 서둘렀어요.
          _pron_
-         no dice : 어림없다, 안 된다        cooled his feelings : (정오표 반영) 감정을 가라앉히다, 냉정을 되찾다
+         no dice : 어림없다, 안 된다        (정오표 반영) cooled his feelings : 감정을 가라앉히다, 냉정을 되찾다
 
 Robert | Even worse, it turns out that Noah never even thought to factor in the cost of complying with new environmental regulations. His budget is now much higher than he originally estimated.
          더욱 심각한 것은, 노아 씨는 새로운 환경 규제 준수 비용을 고려하는 것조차 전혀 생각하지 않았다는 것이 드러났어요. 그의 예산은 이제 원래 예상했던 것보다 훨씬 높습니다.
          _pron_
          factor in : ~을 고려하다, 요소에 포함시키다        environmental regulations : 환경 규제
 
-Min-su | You have got to be kidding me. Whatever happened to accountability?
+Min-su | *You have got to be kidding me.* **Whatever happened to accountability?**
          정말 농담하시는 거죠. 책임감이란 건 도대체 어떻게 된 겁니까?
          _pron_
          accountability : 책임, 의무
@@ -38,7 +38,7 @@ Robert | We may just have to cut our losses and move on.
          _pron_
          cut one's losses : 손실을 최소화하다 (손해를 보고 손을 떼다)       move on : (과거를 딛고) 다음으로 나아가다
 
-Min-su | Unbelievable. Can you believe how much money this is going to cost us? We're really in a jam now.
+Min-su | Unbelievable. **Can you believe how much money this is going to cost us?** We're really in a jam now.
          믿을 수 없군요. 도대체 어느 정도의 비용이 들지 상상하실 수 있으십니까? 우리 정말 엄청난 난국에 빠졌군요.
          _pron_
          in a jam : 곤경에 처한, 난국에 빠진
@@ -47,7 +47,7 @@ Robert | I think we may be able to explore the possibility of re-selling the pro
          제 생각에는 여의도 부지를 외부 투자자에게 되팔 가능성을 타진해 볼 수 있을 것 같습니다. 하지만 우리는 외부 도움이 필요할 거예요. 제가 가서 컨설턴트를 고용하도록 진행할까요?
          _pron_
 
-Min-su | At this point, I don't see why not. Let her name her price and just sign the contract. We need her as soon as possible. We'll hammer out the details later.
+Min-su | **At this point, I don't see why not.** Let her name her price and just sign the contract. We need her as soon as possible. We'll *hammer out the details later.*
          지금 이 시점에서는 안 될 이유가 없죠. 그녀가 가격을 부르게 하고 그냥 계약서에 서명하세요. 가능한 한 빨리 그녀가 필요합니다. 자세한 사항은 나중에 해결하겠습니다.
          _pron_
          don't see why not : 안 될 이유가 없다 (기꺼이 찬성할 때)       as soon as possible (ASAP) : 가능한 한 빨리     hammer out the details : 세부 사항을 (협의하여) 해결하다/마련하다

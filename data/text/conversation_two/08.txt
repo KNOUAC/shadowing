@@ -8,12 +8,12 @@ Julie | Hey, Harry. What are you mumbling about? Is anything wrong?
         안녕, 해리? 뭘 중얼거리고 있어요? 뭔가 잘못됐나요?
         _pron_
 
-Harry | Oh, Julie. I didn't submit the weekly assignment on time, so I emailed to explain why I couldn't make it to Professor Park... but she hasn't replied yet. I don't think she has even read my email yet.
+Harry | Oh, Julie. I didn't submit the weekly assignment on time, so I emailed to explain why **I couldn't make it to Professor Park... but she hasn't replied yet.** I don't think she has even read my email yet.
         오, 줄리. 제가 제시간에 주간 과제를 제출하지 못했어요. 그래서 박 교수님께 왜 제가 제때 제출하지 못했는지 설명하는 이메일을 보냈는데... 그런데 교수님이 답장이 아직 없으세요. 아직 안 읽으신 건 아닌 것 같은데.
         _pron_
         I couldn't make it (to ~) : 제시간에 ~할 수 없었다 / ~에 참석할 수 없었다
 
-Min-su | Did you check your spam mailbox? Sometimes, important emails can be classified as spam if they include specific words like “call”, “read”, “now”, and so on.
+Min-su | Did you check your *spam* mailbox? Sometimes, important emails can be classified as *spam* if they include specific words like “call”, “read”, “now”, and so on.
          스팸 메일함은 확인해 보셨어요? 때때로 중요한 메일들이 스팸으로 분류될 수 있어요. 만약에 '전화', '읽다', '지금' 등의 특정한 단어들이 포함된 경우에는요.
          _pron_
 
@@ -25,7 +25,7 @@ Julie | What about email addresses? Did you double check the spelling? Sometimes
         이메일 주소는 어때요? 스펠링은 다시 점검했나요? 가끔 저는 대문자 I인지 소문자 l인지 확실히 못 하겠던데.
         _pron_
 
-Harry | What do you take me for? I'm not a child. I know the difference.
+Harry | **What do you take me for?** I'm not a child. I know the difference.
         저를 뭘로 보는 거예요? 저는 애가 아니라고요. 대문자 소문자 정도는 구별해요.
         _pron_
         What do you take me for? : 나를 뭘로 보는 거야?
@@ -34,21 +34,21 @@ Julie | When did you send the email?
         이메일은 언제 보냈는데요?
         _pron_
 
-Harry | You may not believe me, but an hour ago! You know what? I'm going to send another email right now.
+Harry | *You may not believe me,* but an hour ago! You know what? I'm going to send another email right now.
         못 믿으실 거예요, 한 시간이나 지났다고요! 있잖아요, 지금 이메일을 하나 다시 보내야겠어요.
         _pron_
 
-Julie | What? Hold your horses, Harry. No one checks email every hour! Students are all the same. They think teachers work around the clock.
+Julie | What? **Hold your horses,** Harry. No one checks email every hour! Students are all the same. They think teachers work *around the clock.*
         뭐라구요? 진정해요 해리. 한 시간마다 이메일을 확인하는 사람은 없어요. 학생들은 언제나 비슷해요. 선생님들이 24시간 일한다고 생각한다니까요.
         _pron_
         Hold your horses : 진정해, 잠깐만 기다려        around the clock : 24시간 내내, 쉬지 않고
 
-Min-su | Julie is right. You could screw it up if you have a short fuse. Crowding a person for an answer can be regarded as rude. Remember, you're the one who is asking for understanding, so you need to be polite and patient.
+Min-su | Julie is right. **You could screw it up if you have a short fuse.** Crowding a person for an answer can be regarded as rude. Remember, you're the one who is asking for understanding, so you need to be polite and patient.
          줄리 말이 맞아요. 너무 성급하면 일을 망쳐요. 대답을 독촉하는 것은 무례하게 여겨질 수 있어요. 이해해 주기를 요청하는 것은 당신이라는 것을 잊지 마세요. 그러니까 공손하게 기다릴 필요가 있어요.
          _pron_
          You could screw it up : 일을 망칠 수도 있다 (성급한 행동 등에 대한 경고)       short fuse : 다혈질, 성급함
 
-Harry | Oh, it didn't occur to me. Thanks for the heads-up. Phew, that was a close shave... (broom broom).
+Harry | Oh, it didn't occur to me. Thanks for the heads-up. Phew, that was a *close shave*... (broom broom).
         그런 실수는 하지 않을 거예요. 주의를 환기시켜 주어 감사해요. 휴, 아슬아슬했네요... (부릉부릉)
         _pron_
         close shave : 위기일발, 아슬아슬한 상황         heads-up : 미리 알려줌, 주의

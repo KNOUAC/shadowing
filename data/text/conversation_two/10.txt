@@ -12,11 +12,11 @@ Yu-Jin | Oh, I'm baking scones.
          아, 저는 스콘을 굽고 있어요.
          _pron_
 
-Harry | Did you say scones? Oh my god! I really love scones. Scones and a cup of hot tea are fantastic!
+Harry | Did you say scones? *Oh my god!* I really love scones. Scones and a cup of hot tea are fantastic!
         지금 스콘이라고 하셨어요? 이런, 저는 정말 스콘을 사랑해요. 스콘과 따뜻한 홍차 한 잔! 정말 환상적이죠!
         _pron_
 
-Julie | I like scones too! By the way, what kind of scones are you baking? Blueberry, onion, or cheese?
+Julie | I like scones too! *By the way,* what kind of scones are you baking? Blueberry, onion, or cheese?
         저도 스콘 좋아요. 그런데, 무슨 종류의 스콘을 굽고 있나요? 블루베리, 양파, 아니면 치즈?
         _pron_
 
@@ -24,7 +24,7 @@ Yu-Jin | Ah, these are vegan scones.
          아, 이건 비건 스콘이에요.
          _pron_
 
-InSung | Vegan scones? What do you mean by vegan scones? I mean, we never put meat in scones, do we?
+InSung | Vegan scones? **What do you mean by vegan scones?** I mean, we never put meat in scones, do we?
          비건 스콘이라고요? 비건 스콘이 대체 무슨 말이에요? 제 말은, 우리가 스콘에 고기를 넣는 게 아니잖아요, 그렇죠?
          _pron_
          What do you mean by ~? : ~라니 무슨 말이에요? (의미 재확인)
@@ -42,12 +42,12 @@ Julie | I'm surprised you are interested in those issues and that you're a Twitt
         _pron_
         radical opinions : 급진적인 의견
 
-Harry | You know, I'm an acquired taste, haha. Anyway, you can connect and discuss with a variety of Twittieans who have various interests, live in different countries, and work in diverse fields! The other day, I even argued with people who agree with dolphin bycatch!
+Harry | **You know, I'm an acquired taste, haha.** Anyway, you can connect and *discuss with* a variety of Twittieans who have various interests, live in different countries, and work in diverse fields! The other day, I even argued with people who agree with dolphin bycatch!
         저는 알면 알수록 매력적인 사람이거든요, 하하. 어쨌든, 당신은 다른 나라에 살거나 다른 분야에서 일하는 관심사가 다양한 많은 트위티 이용자와 만나서 토론할 수 있어요. 지난번에 저는 심지어 돌고래 혼획에 찬성하는 사람들과 토론을 했다니까요.
         _pron_
         I'm an acquired taste : (처음엔 별로지만) 알면 알수록 괜찮은 사람이다           dolphin bycatch : 돌고래 혼획 (의도치 않게 잡힘)
 
-Yu-Jin | Oh, I read some retweets about that issue! You're a fighter, Harry. I was really impressed by your tweets! In my case, I tend to be more cautious before writing tweets because I want to express my thoughts carefully, given the limited amount of space.
+Yu-Jin | Oh, I read some retweets about that issue! **You're a fighter, Harry.** I was really impressed by your tweets! In my case, I tend to be more cautious before writing tweets because I want to express my thoughts carefully, given the limited amount of space.
          오, 그 문제에 대한 몇몇 리트윗을 읽었어요. 해리, 패기 있는 사람이었군요! 당신의 트윗에 정말 감명받았거든요. 제 경우에는 제한된 공간이 주어지기에 생각을 신중하게 표현하고 싶어서 트윗을 쓰기 전에 좀 더 신중해지는 경향이 있어요.
          _pron_
          You are a fighter : 당신은 패기 있는 사람이군요 (신념을 지키는 사람)
@@ -57,7 +57,7 @@ Julie | I see. Come to think of it, I saw a job advertisement recruiting an offi
         _pron_
         come to think of it : 그러고 보니, 생각해보니
 
-Harry | That's right. You know, she lives up to the Queen's name. Her punchline on Twittie is perfect.
+Harry | *That's right.* **You know, she lives up to the Queen's name.** Her punchline on Twittie is perfect.
         맞아요. 아시다시피, 여왕이라는 이름에 걸맞게 사시잖아요. 트위티에서 여왕님의 핵심적인 구절은 완벽해요.
         _pron_
         lives up to one's name : 이름값을 하다, 명성에 걸맞게 살다              punchline : (농담 등의) 핵심이 되는 구절, 결정적 한마디

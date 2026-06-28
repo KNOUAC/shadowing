@@ -1,6 +1,6 @@
 [Lesson 12: Business Meeting (업무 회의)]
 
-Min-su | Thanks for coming on such short notice, Noah. We need to talk about this new plan to buy the property in Yeouido. I have decided that we should buy the land later when prices drop.
+Min-su | Thanks for coming on such short notice, Noah. We need to talk about this new plan to buy the property in Yeouido. **I have decided that we should buy the land later when prices drop.**
          급한 전갈에도 불구하고 이렇게 와 줘서 감사합니다, 노아 씨. 우리 여의도의 그 지대를 구입하는 새 계획안에 대해서 이야기를 해 보죠. 저는 가격이 좀 떨어진 후에 그 지대를 매입하는 것으로 결정을 했습니다.
          _pron_
          on short notice : 급한 전갈을 받고, 갑자기            I have decided ~ : ~하기로 결정했습니다
@@ -14,12 +14,12 @@ Min-su | Go ahead. Tell me what's on your mind.
          그렇게 하세요. 어떤 생각을 하고 있는지 말씀해 주시죠.
          _pron_
 
-Noah | I know that you and the board of directors want to proceed with caution, but I strongly disagree. Prices will only get higher. I'd say that it's likely that if we don't buy right now, we will miss out.
+Noah | I know that you and the board of directors want to proceed with caution, but I strongly disagree. Prices will only get higher. **I'd say that it's likely that if we don't buy right now, we will miss out.**
        민수 씨와 이사회가 보다 조심스럽게 접근하려고 하는 것에 대해서는 반대합니다. 가격은 계속 상승할 겁니다. 저는 우리가 이번에 구입하지 않으면 좋은 기회를 놓치는 것이라고 말씀드리고 싶습니다.
        _pron_
        miss out : (기회를) 놓치다
 
-Min-su | What about the fact that there are warning signs that prices are too high and that the real estate bubble is going to burst?
+Min-su | **What about the fact that there are warning signs that prices are too high and that the real estate bubble is going to burst?**
          가격이 최고조로 높게 형성됐고, 부동산 시장 거품이 꺼질 것이라는 각종 위험 안내에 대해서는 어떻게 생각하십니까?
          _pron_
          real estate bubble : 부동산 거품
@@ -29,22 +29,22 @@ Noah | With all due respect, Min-su, you're too timid. I'm willing to bet that p
        _pron_
        with all due respect : (상대방의 의견에 반대할 때) 실례지만, 죄송하지만             nosedive : 급강하, 폭락
 
-Min-su | You're missing something, Noah. The market can't possibly go on like this. Have you ever considered the possibility that things might go bust?
+Min-su | You're missing something, Noah. The market can't possibly go on like this. Have you ever considered the possibility that things might *go bust?*
          뭔가 빠뜨리셨군요, 노아 씨. 시장이 계속 이 상태로 유지될 수는 없어요. 거품이 빠질 가능성에 대해서는 생각해 보신 적이 있습니까?
          _pron_
          go bust : 파산하다, (사업 등이) 망하다, 꽝이다
 
-Noah | In my view, the price of land can continue indefinitely. We would save a lot of money if we go all in and bet the farm now.
+Noah | In my view, the price of land can continue indefinitely. We would save a lot of money if we *go all in and bet the farm* now.
        제 생각에는 부동산 가격은 늘 부정확합니다. 우리가 전적으로 이번에 모든 것을 걸어 투자를 하면 상당한 금액을 절약할 수 있을 것 같습니다.
        _pron_
        go all in / bet the farm : 모든 것을 걸다, 다 걸기(올인)하다
 
-Min-su | It would be unwise to make such a rash decision. If you want to buy, then go ahead, but I'm not going to be a party to it. I will officially oppose your plan if you present it to the board.
+Min-su | It would be unwise to make such a rash decision. If you want to buy, then go ahead, but *I'm not going to be a party to it.* I will officially oppose your plan if you present it to the board.
          이처럼 급작스럽게 결정을 내리는 것은 현명하지 못해요. 구입을 원한다면 그렇게 하세요, 그러나 저는 그 의견에 동의하는 편이 되지는 않겠습니다. 당신이 이사회에서 이 의견을 개진할 때, 저는 당신의 의견을 공식적으로 반대하겠습니다.
          _pron_
          be a party to ~ : ~에 관여하다, ~에 가담하다
 
-Noah | No, you've got it all wrong, Min-su. I can assure you that my analysis is spot on. I've crunched the numbers over and over again, and my conclusion is solid.
+Noah | **No, you've got it all wrong, Min-su.** I can assure you that my analysis is *spot on.* I've crunched the numbers over and over again, and my conclusion is solid.
        아니요, 전적으로 옳지 않아요, 민수 씨. 저는 제 분석이 옳다는 것을 당신께 확인시켜 드릴 수 있습니다. 여러 차례 계산을 했고, 제 의견은 변함이 없습니다. 제 의견을 증명하기 위해서, 다시 한번 모든 수치를 재검토하겠습니다.
        _pron_
        spot on : 정확한, 딱 맞는          crunch the numbers : 수치를 계산하다, 정밀 분석하다            You've got it all wrong : 당신은 완전히 틀렸어요

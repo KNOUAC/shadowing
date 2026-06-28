@@ -4,7 +4,7 @@ Julie | Harry, I heard you are planning to enter graduate school, right?
         해리, 대학원에 진학할 예정이라면서요, 맞아요?
         해r리, 아이 _헐_-드 유 어r f플래닝 투 엔털r 그r뤠듀에이트 쓰쿠-울, r롸이트?
 
-Harry | Right. I thought it would be good to study costumes while working as a model in Korea. You know, there are many big names in Korea's fashion design world.
+Harry | Right. I thought it would be good to study costumes while working as a model in Korea. You know, there are many *big names* in Korea's fashion design world.
         맞아요. 한국에서 모델로 일하는 동안에 의상에 대해 공부를 하면 좋겠다고 생각했어요. 아시다시피, 한국에 패션 디자인계의 거물들이 많잖아요.
         _pron_
         big name : 거물, 유명 인사 (예 : fashion design world의 거물)
@@ -18,7 +18,7 @@ Harry | Yes, I did. I decided to apply for the department of clothing at Korea N
         결정했어요. 한국방송통신대학교 대학원의 의상학부에 지원하기로 결정했어요. 학교가 제출하라고 한 서류를 준비하는 데 당신의 도움이 필요해요. 저를 도와주실 수 있나요? 너무 스트레스를 받아요.
         _pron_
 
-Julie | I can relate to you. So, what bothers you about those documents?
+Julie | **I can relate to you.** So, **what bothers you about those documents?**
         공감해요. 그러면, 서류의 무엇이 당신을 힘들게 하나요?
         _pron_
         I can relate to you : 공감해요, 당신의 상황을 이해해요          What bothers you about ~? : ~에 관해서 무엇이 당신을 힘들게/귀찮게 하나요?
@@ -28,17 +28,17 @@ Harry | First of all, do you know how to write a statement of purpose?
         _pron_
         statement of purpose (SOP) : 학업 계획서 (지원 동기 및 목표 기술서)
 
-Julie | Oh, SOP! The SOP should include what topic you plan to study, why you are interested in that topic, how you conduct your research and how well you are prepared to carry out the research. Remember your statements are based on the previous research in your field. So, all you need to do before writing SOP is to read as many research papers related to your interest as possible.
+Julie | Oh, SOP! The SOP should include what topic you plan to study, why you are interested in that topic, how you conduct your research and how well you are prepared to *carry out* the research. Remember your statements are based on the previous research in your field. So, all you need to do before writing SOP is to read as many research papers related to your interest as possible.
         오, SOP 말이군요! SOP에는 당신이 무슨 주제를 연구할 계획인지, 왜 그 주제에 관심이 있는지, 어떻게 연구를 수행할 것인지, 그리고 그 연구를 수행하기 위해 당신이 얼마나 준비되었는지가 반드시 포함되어야 해요. 당신의 진술은 해당 분야의 이전 연구에 기초한다는 것을 기억하세요. 그러니 SOP를 쓰기 전에 당신의 관심 분야와 관련된 연구 논문을 가능한 한 많이 읽기만 하면 돼요.
         _pron_
         carry out : (연구나 임무 등을) 수행하다, 완수하다
 
-Harry | Research papers? I have never read any. Where can I look them up?
+Harry | Research papers? I have never read any. Where can I *look* them *up*?
         연구 논문이요? 한 번도 읽어 본 적 없는데요. 어디에서 찾을 수 있죠?
         _pron_
         look ~ up : (자료 등을) 찾아보다, 검색하다
 
-Julie | You can easily search for articles on Google Scholar. Try to use keywords such as “fashion design” or “costumes.” You can use your college account to access the locked papers freely.
+Julie | You can easily search for articles on Google Scholar. Try to use keywords such as "fashion design" or "costumes." You can use your college account to access the locked papers freely.
         구글 학술검색에서 논문을 쉽게 찾을 수 있어요. "패션 디자인"이나 "의상" 같은 검색어를 사용해 보세요. 대학교 계정을 사용하면 유료 논문도 무료로 볼 수 있어요.
         유 캔 이-질리 썰r치 _퍼__ㄹ_ 아-r티클즈 온 구-글 쓰칼럴r. 츄_롸_이 투 유-즈 키-월r드즈 써치 애즈 "f패션 디자인" 오_얼_ "카-쓰튜-음즈." 유 캔 유-즈 유_얼_ 칼리지 어카운트 투 액세쓰 _더_ 락트 f페이_프_펄r즈 f프_륄_리.
 
@@ -46,12 +46,12 @@ Harry | Oh, that's very helpful. I really appreciate your help.
         오, 정말 도움이 되네요. 도와주셔서 정말 감사합니다.
         오, _댓_츠 v베r리 헬ㅃ f풀. 아이 _륄_리 어f프r리-씨에이트 유_얼_ 헬ㅃ프.
 
-Julie | My pleasure! I'm glad I could help you. Oh, it's important to read articles published by journals that have a higher reputation in your field as well as more recently published ones. If you don't know which ones to read, go to the website of Korea National Open University and find journals where the professors of the fashion department have submitted their papers.
+Julie | **My pleasure!** I'm glad I could help you. Oh, it's important to read articles published by journals that have a higher reputation in your field *as well as* more recently published ones. If you don't know which ones to read, go to the website of Korea National Open University and find journals where the professors of the fashion department have submitted their papers.
         천만에요! 도움을 줄 수 있어 기뻐요. 아, 당신 분야에서 명성이 높은 학술지에서 발행된 논문뿐만 아니라 최근에 발표된 논문들을 읽는 것도 중요해요. 어떤 것을 읽어야 할지 모르겠다면, 한국방송통신대학교 홈페이지에 들어가서 패션 학과 교수님들이 투고한 논문들이 실린 학술지를 찾아보세요.
         _pron_
         My pleasure! : 천만에요, 제가 좋아서 한 일인걸요 (상대의 감사에 대한 대답)              as well as : ~뿐만 아니라, ~와 마찬가지로
 
-Harry | You are an angel, Julie. Thanks.
+Harry | **You are an angel, Julie.** Thanks.
         줄리, 당신은 정말 천사(구세주)예요. 고마워요.
         _pron_
         You are an angel : 당신은 정말 친절하군요 (구세주 같아요)

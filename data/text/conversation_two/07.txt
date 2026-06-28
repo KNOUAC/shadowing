@@ -1,25 +1,25 @@
 [Lesson 7: Online Meeting with Peers (동료들과의 온라인 회의)]
 
-Harry | Good morning, Min-su. Julie said you are a computer genius, so I wonder if you can help me with some computer issues. Are you available now?
+Harry | Good morning, Min-su. Julie said **you are a computer genius,** so *I wonder if you can help me* with some computer issues. **Are you available now?**
         민수 씨, 좋은 아침이에요. 줄리 얘기로는 당신이 컴퓨터를 잘한다던데, 제 컴퓨터 문제를 좀 해결하도록 도와주실 수 있나요? 지금 시간 되세요?
         _pron_
         You are a ~ genius : 당신 정말 ~를 잘하는군요 (칭찬 표현)       Are you available now? : 지금 시간 좀 있으세요? (도움을 요청할 때)      I wonder if you can help me : 당신이 저를 도와주실 수 있는지 궁금해요
 
-Min-su | Morning, Harry. Absolutely. I got bored because, you know, I have been very busy binge-watching Netplus nowadays, and now I've finished watching all the content.... Anyway, how can I help you?
+Min-su | Morning, Harry. Absolutely. I got bored because, you know, **I have been very busy binge-watching Netplus nowadays,** and now I've finished watching all the content.... Anyway, how can I help you?
          해리, 좋은 아침이에요. 물론이죠. 마침 지루한 참이었어요. 아시다시피, 최근에 넷플러스 보느라 바빴는데, 모든 콘텐츠를 다 봤거든요. 아무튼, 어떻게 도와드릴까요?
          _pron_
          I have been busy ~-ing : ~하느라 바빴어요 (현재완료 진행형)    binge-watching : (TV 프로그램 등을) 몰아서 보기
 
-Harry | I have to make a group presentation for my graduate school program, and my group members asked me to access an online meeting room. But I've never used it. Can you show me how to do it? Here is my laptop computer.
+Harry | I have to make a group presentation for my graduate school program, and my group members asked me to access an *online meeting* room. But I've never used it. Can you show me how to do it? Here is my laptop computer.
         대학원에서 모둠 발표를 준비해야 하는데요, 모둠원들이 온라인 회의실로 접속하라고 했어요. 저는 한 번도 사용해 본 적이 없거든요. 어떻게 하는지 보여 주실 수 있나요? 여기 제 노트북 컴퓨터예요.
         _pron_
 
-Min-su | It's as easy as ABC. I can show you, of course. First, you need a Google account. You have one, right?
+Min-su | **It's easy as ABC.** I can show you, of course. First, you need a Google account. You have one, right?
          식은 죽 먹기죠. 물론 보여 드릴 수 있어요. 우선, 구글 계정이 필요해요. 있죠?
          _pron_
-         It's as easy as ABC : 식은 죽 먹기죠 (매우 쉽다)
+         It's easy as ABC : 식은 죽 먹기죠 (매우 쉽다)
 
-Harry | Sure, yes. My ID is HarryNjulie4ever@gmail.com, H and N are capital letters, and four is a numeral. Uh oh... please don't tell this to Julie. It's just between us, Okay? And... the password is....
+Harry | Sure, yes. My ID is HarryNjulie4ever@gmail.com, H and N are capital letters, and four is a numeral. Uh oh... please don't tell this to Julie. *It's just between us,* Okay? And... the password is....
         물론 있죠. 제 아이디는 HarryNjulie4ever@gmail.com이고, H와 N은 대문자예요. 그리고 4는 숫자고요. 오, 이거 줄리한테 말하면 안 돼요. 우리끼리 비밀이에요. 아시겠죠? 그리고 비밀번호는...
         _pron_
         It's just between us : 우리끼리 비밀이에요
@@ -37,7 +37,7 @@ Min-su | If you click the Enter button here, it will ask you to enter the passwo
          여기에 있는 입장 버튼을 클릭하면, 회의실 비밀번호를 입력하라고 할 거예요. 아마 모둠원들이 비밀번호를 보냈을 거예요.
          _pron_
 
-Harry | Wow, it can't be any simpler than that! (To his friends watching the screen) Hi, guys! I'm in!
+Harry | Wow, *it can't be any simpler than that!* (To his friends watching the screen) Hi, guys! I'm in!
         아니, 이렇게 쉬운 거였다니! (화면을 보며 친구들에게) 안녕 친구들! 나 들어왔어!
         _pron_
         It can't be any simpler than that! : 이보다 더 간단할 순 없어요! (매우 쉬울 때)

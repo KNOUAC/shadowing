@@ -1,11 +1,11 @@
 [Lesson 14: Netplus (넷플러스)]
 
-InSung | Min-su, I need to improve my English. Is there any way to study English? Everytime I ask Soyeong, and she just keeps saying, “Read books!”
+InSung | Min-su, I need to improve my English. **Is there any way to study English?** Everytime I ask Soyeong, and she just keeps saying, “Read books!”
          민수 씨, 제 영어 실력을 좀 향상시켜야 할 것 같아요. 영어를 공부할 방법이 있을까요? 소영 씨에게 물어보면, 언제나 “책 좀 읽어요!”라고만 해요.
          _pron_
          Is there any way to ~? : ~할 방법이 있을까요?
 
-Min-su | Studying something? This isn't typical of you, InSung!
+Min-su | Studying something? **This isn't typical of you, InSung!**
          공부요? 인성 씨답지 않은데요!
          _pron_
          This isn’t typical of you : 이건 너답지 않은데?
@@ -14,7 +14,7 @@ InSung | What?
          뭐라구요?
          _pron_
 
-Min-su | Haha. Chill out. I'm just kidding. So, what makes you consider studying English more?
+Min-su | Haha. **Chill out. I'm just kidding.** So, *what makes you consider* studying English more?
          하하. 진정해요. 농담이에요. 그러니까, 왜 영어를 더 공부할 생각인가요?
          _pron_
          Chill out. I’m just kidding : 진정해, 그냥 농담 좀 한 거야
@@ -32,7 +32,7 @@ Yu-Jin | They must watch it without Korean subtitles! Speaking of which, Min-su,
          _pron_
          Speaking of which : 말이 나와서 말인데
 
-Min-su | Come on, Yu-Jin. Knock it off! I'm not just watching Netplus! I'm studying!
+Min-su | Come on, Yu-Jin. *Knock it off!* I'm not just watching Netplus! I'm studying!
          유진 씨, 왜 이래요. 그러지 마요. 저는 그냥 넷플러스를 보는 게 아니에요! 공부하는 거라고요!
          _pron_
          Knock it off! : 그만해! (집어치워!)
@@ -45,12 +45,12 @@ Min-su | How did you know that...?
          어떻게 알았어요?
          _pron_
 
-Yu-Jin | You haven't seen the last of me.
+Yu-Jin | **You haven't seen the last of me.**
          이게 끝이 아니라고요.
          _pron_
          You haven’t seen the last of me : 나중에 두고 보자 (이게 끝이 아니다)
 
-InSung | Take it easy, both of you. Just cut to the chase. Are there any helpful series on Netplus you wanna suggest for me?
+InSung | Take it easy, both of you. Just *cut to the chase.* Are there any helpful series on Netplus you wanna suggest for me?
          진정해요, 두 사람 모두. 다시 본론으로 돌아가자고요. 저에게 추천해 주고 싶은 유용한 시리즈들이 넷플러스에 있을까요?
          _pron_
          Cut to the chase : 본론으로 들어가다

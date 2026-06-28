@@ -5,7 +5,7 @@ Min-su | Hi, Ms. Lee. I'm Min-su Kim. Thanks for stopping by. I was just reviewi
          _pron_
          stopping by : 들르다, 방문하다
 
-Soyeong | Yes, I received my B.A. in English last February.
+Soyeong | Yes, I received my *B.A.* in English last February.
           네, 지난 2월에 영어 학사 학위(B.A.)를 받았습니다.
           _pron_
           B.A. (Bachelor of Arts) : 문과 학사 학위
@@ -23,20 +23,20 @@ Min-su | Do you have any prior experience working as an administrative assistant
          _pron_
          administrative assistant : 행정 사무원, 비서
 
-Soyeong | Well, I used to work as a part-time secretary at a small company in Yeouido, but I... uh, I....
+Soyeong | Well, **I used to work as a part-time secretary at a small company in Yeouido, but I... uh, I....**
           음, 여의도에 있는 작은 회사에서 파트타임 비서로 일했었습니다. 근데... 아 저는....
           _pron_
 
-Min-su | Yes? You were saying?
+Min-su | Yes? **You were saying?**
          네? 하던 이야기 계속 해보시겠어요?
          _pron_
 
-Soyeong | I'm sorry, I'm just a little nervous. It's just that I've never worked for such a large and successful firm before. People told me not to bother even applying to such a prestigious company like this. I feel a little out of my league, to be honest.
+Soyeong | I'm sorry, I'm just a little nervous. It's just that I've never worked for such a large and successful firm before. People told me not to bother even applying to such a prestigious company like this. I feel *a little out of my league,* to be honest.
           죄송해요, 제가 조금 긴장해서요. 이렇게 크고 성공한 회사에서는 일해 본 적이 없거든요. 사람들이 제게 이렇게 유명한 회사를 귀찮게, 응시조차 하지 말라고 했거든요. 솔직히 말해서 기가 좀 죽네요.
           _pron_
           out of my league : 내 능력 밖의, 수준 차이가 나는     prestigious company : 명망 있는 회사, 일류 기업
 
-Min-su | Haha. Who gave you that idea? Please don't worry, Soyeong. You're one of our final candidates, and you seem perfectly qualified. In fact, I rather like your honesty! Please don't feel any pressure.
+Min-su | Haha. **Who gave you that idea?** Please don't worry, Soyeong. You're one of our final candidates, and you seem perfectly qualified. In fact, I rather like your honesty! *Please don't feel any pressure.*
          하하, 누가 그런 소리를 하던가요? 소영 씨, 걱정하지 마세요. 당신은 저희 최종 후보자 중 하나이고 당신은 완벽한 자격을 갖췄어요. 사실, 저는 오히려 당신의 솔직함이 더 좋군요. 편안하게 하세요.
          _pron_
 
@@ -45,7 +45,7 @@ Soyeong | Thank you, Mr. Kim. I feel more comfortable already. I really want you
           _pron_
           put forth effort : 노력을 기울이다
 
-Min-su | I'm sure you do. By the way, how good is your writing in English? The position involves a lot of writing in English, and we're looking for somebody who can really handle a lot of emails and formal letters.
+Min-su | I'm sure you do. By the way, how good is your writing in English? **The position involves a lot of writing in English, and we're looking for somebody who can really handle a lot of emails and formal letters.**
          당신은 그럴 것이라 믿어요. 그런데 영어 작문 실력은 어느 정도죠? 그 자리는 영어로 굉장히 많이 써야 하고, 그래서 우리는 많은 양의 이메일과 공식적인 서신 및 각종 서신을 다룰 수 있는 사람을 찾고 있거든요.
          _pron_
          involve : 수반하다, 관련되다
@@ -54,7 +54,7 @@ Soyeong | I feel quite confident about my writing skills. As you can see from my
           저는 작문 실력은 꽤 자신 있습니다. 제 이력서를 보셔서 아시겠지만, 전 호주 국립 대학교에서 2년 동안 공부했습니다. 제 토플 시험 성적도 꽤 높은 편이고요. 그리고 저는 일할 때 영어로 편지를 써본 경험도 많습니다.
           _pron_
 
-Min-su | Well, I've got to hand it to you, Soyeong. I'm sold on your honesty and your earnestness. I really think you'll make a good fit with our team. When can you start?
+Min-su | Well, *I've got to hand it to you,* Soyeong. *I'm sold* on your honesty and your earnestness. I really think you'll make a good fit with our team. When can you start?
          음, 소영 씨 정말 대단하시네요. 저는 당신의 정직함과 성실함을 인정합니다. 당신은 정말로 우리 팀에 적합할 것 같네요. 언제부터 출근할 수 있지요?
          _pron_
          I've got to hand it to you : 당신을 인정할 수밖에 없네요 (정말 대단하네요)     I'm sold on ~ : ~에 설득되다, ~이 마음에 쏙 들다

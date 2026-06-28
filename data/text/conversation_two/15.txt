@@ -1,6 +1,6 @@
 [Lesson 15: Being a WeTuber (위튜버 되기)]
 
-Harry | Hey, Julie. Did you check out InSung's Understagram?
+Harry | Hey, Julie. **Did you check out InSung's Understagram?**
         안녕, 줄리. 인성 씨 언더스타그램 확인해 봤어요?
         _pron_
         check out ~ : ~을 확인하다, 살펴보다
@@ -18,12 +18,12 @@ Julie | Really amazing! Oh, here he comes. Hey, InSung, we were just talking abo
         정말 대단하네요! 오, 마침 저기 오네요. 인성 씨, 안녕하세요. 방금 당신에 대해 얘기하고 있었어요. 팔로워 말이에요!
         _pron_
 
-InSung | Hi, thanks. It makes me cringe. It just happened... so I don't know what to do because some people told me to start a WeTube Channel!
+InSung | Hi, thanks. **It makes me cringe.** It just happened... so I don't know what to do because some people told me to start a WeTube Channel!
          안녕하세요, 감사합니다. 손발이 오그라드네요. 그냥 그렇게 된 거예요... 그래서 말인데요, 사람들이 저에게 위튜브 채널을 시작하라고 말해서 어떻게 해야 할지 모르겠어요.
          _pron_
          It makes me cringe : 손발이 오그라든다, 민망하다
 
-Julie | You're so lucky to meet Harry today. Harry has a WeTube channel called ‘Being a model,' and there are more than 100,000 subscribers. He's a popular WeTuber.
+Julie | **You're so lucky to meet Harry today.** Harry has a WeTube channel called ‘Being a model,' and there are more than 100,000 subscribers. He's a popular WeTuber.
         오늘 해리를 만나다니 정말 운이 좋네요. 해리는 '모델이 되기'라는 위튜브 채널을 가지고 있는데, 구독자가 십만 명이 넘어요. 인기 있는 위튜버라고요.
         _pron_
         subscribers : 구독자
@@ -32,7 +32,7 @@ InSung | Wow, really? This is good. So, Harry, can you help me to start my own W
          와, 정말요? 잘 됐네요. 그러면 해리 씨, 제가 위튜브 채널을 시작하도록 도와주실 수 있나요?
          _pron_
 
-Harry | No problem. I belong to an agency, so they provide equipment and content and help produce videos. But in your case, you should do it all on your own. So, I suggest you start with vlogs showing your everyday life as an amateur model. I think that will be fun, and many would-be models will sympathize. You know, vlogs showing everyday lives are the in thing nowadays.
+Harry | No problem. I belong to an agency, so they provide equipment and content and help produce videos. But in your case, you should do it all *on your own.* So, I suggest you start with vlogs showing your everyday life as an amateur model. I think that will be fun, and many would-be models will sympathize. You know, vlogs showing everyday lives are the in thing nowadays.
         당연하죠. 저는 회사에 소속되어 있어서, 회사에서 장비와 콘텐츠를 제공해 주고 비디오 촬영을 도와줘요. 하지만, 인성 씨의 경우에는 모든 걸 혼자 힘으로 해야 해요. 그래서, 저는 인성 씨가 아마추어 모델로서의 일상생활을 보여 주는 브이로그부터 시작하는 것을 추천해요. 제 생각에 재미도 있을 거고, 많은 모델 지망생이 공감할 거예요. 알다시피, 요즘에 일상생활을 보여 주는 브이로그가 인기니까요.
         _pron_
         on your own : 스스로, 혼자서 (without assistance)               sympathize : 공감하다           be the in thing : 유행이다, 대세다
@@ -41,7 +41,7 @@ InSung | I see. Then is it okay to shoot with my smartphone? I don't have enough
          알겠어요. 그러면, 제 스마트폰으로 찍어도 괜찮을까요? 아직 그 모든 장비를 살 돈이 충분하지 않아서요.
          _pron_
 
-Julie | Of course, that's okay. If you use the time lapse function on your smartphone camera, you can easily make a short movie clip showing your everyday life. I'm familiar with that function because I often use it to make classroom materials for my students. So, just tell me if you need my help.
+Julie | Of course, that's okay. If you use the time lapse function on your smartphone camera, you can easily make a short movie clip showing your everyday life. **I'm familiar with that function** because I often use it to make classroom materials for my students. So, *just tell me if you need my help.*
         물론 괜찮죠. 스마트폰 카메라에 있는 타임랩스 기능을 사용하면, 당신의 일상생활을 보여 주는 짧은 영상을 쉽게 만들 수 있을 거예요. 학생들을 위한 수업 자료를 만들 때 자주 사용해봐서 제가 그 기능을 잘 알아요. 그러니까, 도움이 필요하면 말해요.
         _pron_
         time lapse function : 타임랩스 기능             be familiar with ~ : ~에 익숙하다, ~을 잘 알다
