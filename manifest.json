@@ -1,5 +1,405 @@
 [
   {
+    "label": "Basic Verbs 100 / course_materials / 001",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "001",
+    "audio": "data/audio/basic_verbs_100/course_materials/001.mp3",
+    "text": "data/text/basic_verbs_100/001.txt",
+    "json": "data/text/basic_verbs_100/course_materials/001.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 002",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "002",
+    "audio": "data/audio/basic_verbs_100/course_materials/002.mp3",
+    "text": "data/text/basic_verbs_100/002.txt",
+    "json": "data/text/basic_verbs_100/course_materials/002.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 003",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "003",
+    "audio": "data/audio/basic_verbs_100/course_materials/003.mp3",
+    "text": "data/text/basic_verbs_100/003.txt",
+    "json": "data/text/basic_verbs_100/course_materials/003.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 004",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "004",
+    "audio": "data/audio/basic_verbs_100/course_materials/004.mp3",
+    "text": "data/text/basic_verbs_100/004.txt",
+    "json": "data/text/basic_verbs_100/course_materials/004.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 005",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "005",
+    "audio": "data/audio/basic_verbs_100/course_materials/005.mp3",
+    "text": "data/text/basic_verbs_100/005.txt",
+    "json": "data/text/basic_verbs_100/course_materials/005.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 006",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "006",
+    "audio": "data/audio/basic_verbs_100/course_materials/006.mp3",
+    "text": "data/text/basic_verbs_100/006.txt",
+    "json": "data/text/basic_verbs_100/course_materials/006.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 007",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "007",
+    "audio": "data/audio/basic_verbs_100/course_materials/007.mp3",
+    "text": "data/text/basic_verbs_100/007.txt",
+    "json": "data/text/basic_verbs_100/course_materials/007.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 008",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "008",
+    "audio": "data/audio/basic_verbs_100/course_materials/008.mp3",
+    "text": "data/text/basic_verbs_100/008.txt",
+    "json": "data/text/basic_verbs_100/course_materials/008.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 009",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "009",
+    "audio": "data/audio/basic_verbs_100/course_materials/009.mp3",
+    "text": "data/text/basic_verbs_100/009.txt",
+    "json": "data/text/basic_verbs_100/course_materials/009.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 010",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "010",
+    "audio": "data/audio/basic_verbs_100/course_materials/010.mp3",
+    "text": "data/text/basic_verbs_100/010.txt",
+    "json": "data/text/basic_verbs_100/course_materials/010.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 011",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "011",
+    "audio": "data/audio/basic_verbs_100/course_materials/011.mp3",
+    "text": "data/text/basic_verbs_100/011.txt",
+    "json": "data/text/basic_verbs_100/course_materials/011.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 012",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "012",
+    "audio": "data/audio/basic_verbs_100/course_materials/012.mp3",
+    "text": "data/text/basic_verbs_100/012.txt",
+    "json": "data/text/basic_verbs_100/course_materials/012.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 013",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "013",
+    "audio": "data/audio/basic_verbs_100/course_materials/013.mp3",
+    "text": "data/text/basic_verbs_100/013.txt",
+    "json": "data/text/basic_verbs_100/course_materials/013.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 014",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "014",
+    "audio": "data/audio/basic_verbs_100/course_materials/014.mp3",
+    "text": "data/text/basic_verbs_100/014.txt",
+    "json": "data/text/basic_verbs_100/course_materials/014.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 015",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "015",
+    "audio": "data/audio/basic_verbs_100/course_materials/015.mp3",
+    "text": "data/text/basic_verbs_100/015.txt",
+    "json": "data/text/basic_verbs_100/course_materials/015.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 016",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "016",
+    "audio": "data/audio/basic_verbs_100/course_materials/016.mp3",
+    "text": "data/text/basic_verbs_100/016.txt",
+    "json": "data/text/basic_verbs_100/course_materials/016.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 017",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "017",
+    "audio": "data/audio/basic_verbs_100/course_materials/017.mp3",
+    "text": "data/text/basic_verbs_100/017.txt",
+    "json": "data/text/basic_verbs_100/course_materials/017.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 018",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "018",
+    "audio": "data/audio/basic_verbs_100/course_materials/018.mp3",
+    "text": "data/text/basic_verbs_100/018.txt",
+    "json": "data/text/basic_verbs_100/course_materials/018.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 019",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "019",
+    "audio": "data/audio/basic_verbs_100/course_materials/019.mp3",
+    "text": "data/text/basic_verbs_100/019.txt",
+    "json": "data/text/basic_verbs_100/course_materials/019.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100 / course_materials / 020",
+    "category": "basic_verbs_100",
+    "voice": "course_materials",
+    "stem": "020",
+    "audio": "data/audio/basic_verbs_100/course_materials/020.mp3",
+    "text": "data/text/basic_verbs_100/020.txt",
+    "json": "data/text/basic_verbs_100/course_materials/020.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 001",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "001",
+    "audio": "data/audio/basic_verbs_100e/course_materials/001.mp3",
+    "text": "data/text/basic_verbs_100e/001.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/001.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 002",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "002",
+    "audio": "data/audio/basic_verbs_100e/course_materials/002.mp3",
+    "text": "data/text/basic_verbs_100e/002.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/002.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 003",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "003",
+    "audio": "data/audio/basic_verbs_100e/course_materials/003.mp3",
+    "text": "data/text/basic_verbs_100e/003.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/003.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 004",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "004",
+    "audio": "data/audio/basic_verbs_100e/course_materials/004.mp3",
+    "text": "data/text/basic_verbs_100e/004.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/004.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 005",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "005",
+    "audio": "data/audio/basic_verbs_100e/course_materials/005.mp3",
+    "text": "data/text/basic_verbs_100e/005.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/005.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 006",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "006",
+    "audio": "data/audio/basic_verbs_100e/course_materials/006.mp3",
+    "text": "data/text/basic_verbs_100e/006.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/006.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 007",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "007",
+    "audio": "data/audio/basic_verbs_100e/course_materials/007.mp3",
+    "text": "data/text/basic_verbs_100e/007.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/007.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 008",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "008",
+    "audio": "data/audio/basic_verbs_100e/course_materials/008.mp3",
+    "text": "data/text/basic_verbs_100e/008.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/008.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 009",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "009",
+    "audio": "data/audio/basic_verbs_100e/course_materials/009.mp3",
+    "text": "data/text/basic_verbs_100e/009.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/009.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 010",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "010",
+    "audio": "data/audio/basic_verbs_100e/course_materials/010.mp3",
+    "text": "data/text/basic_verbs_100e/010.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/010.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 011",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "011",
+    "audio": "data/audio/basic_verbs_100e/course_materials/011.mp3",
+    "text": "data/text/basic_verbs_100e/011.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/011.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 012",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "012",
+    "audio": "data/audio/basic_verbs_100e/course_materials/012.mp3",
+    "text": "data/text/basic_verbs_100e/012.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/012.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 013",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "013",
+    "audio": "data/audio/basic_verbs_100e/course_materials/013.mp3",
+    "text": "data/text/basic_verbs_100e/013.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/013.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 014",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "014",
+    "audio": "data/audio/basic_verbs_100e/course_materials/014.mp3",
+    "text": "data/text/basic_verbs_100e/014.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/014.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 015",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "015",
+    "audio": "data/audio/basic_verbs_100e/course_materials/015.mp3",
+    "text": "data/text/basic_verbs_100e/015.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/015.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 016",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "016",
+    "audio": "data/audio/basic_verbs_100e/course_materials/016.mp3",
+    "text": "data/text/basic_verbs_100e/016.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/016.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 017",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "017",
+    "audio": "data/audio/basic_verbs_100e/course_materials/017.mp3",
+    "text": "data/text/basic_verbs_100e/017.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/017.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 018",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "018",
+    "audio": "data/audio/basic_verbs_100e/course_materials/018.mp3",
+    "text": "data/text/basic_verbs_100e/018.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/018.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 019",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "019",
+    "audio": "data/audio/basic_verbs_100e/course_materials/019.mp3",
+    "text": "data/text/basic_verbs_100e/019.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/019.json",
+    "video": null
+  },
+  {
+    "label": "Basic Verbs 100E / course_materials / 020",
+    "category": "basic_verbs_100e",
+    "voice": "course_materials",
+    "stem": "020",
+    "audio": "data/audio/basic_verbs_100e/course_materials/020.mp3",
+    "text": "data/text/basic_verbs_100e/020.txt",
+    "json": "data/text/basic_verbs_100e/course_materials/020.json",
+    "video": null
+  },
+  {
     "label": "Conversation 100 / am_michael+af_heart / 001",
     "category": "conversation_100",
     "voice": "am_michael+af_heart",
