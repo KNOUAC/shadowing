@@ -1,0 +1,43 @@
+[Day 2: HAVE (2) - 식사 및 음료]
+🌭 | I just had a snack so I'm not that hungry. 
+     방금 간식을 먹었더니 배가 별로 안 고파요.
+
+[Model Examples]
+1 | I usually have cereal for breakfast. 
+    나는 아침으로 주로 시리얼을 먹는다.
+2 | I'll have the steak please. 
+    저는 스테이크 먹을게요.
+3 | I didn't have anything for lunch today. 
+    오늘 점심으로 아무것도 안 먹었어요.
+4 | You should have something before you leave. 
+    출발하기 전에 뭐라도 먹어야 해.
+5 | Let's have some pizza and watch a movie. 
+    피자 먹으면서 영화 보자.
+
+[Small Talk]
+Q1 | Did you have anything before class?
+     수업 전에 뭐 좀 먹었어?
+A1 | Just a banana. I was in a rush.
+     그냥 바나나 하나 먹었어. 시간이 없었어.
+
+Q2 | What time do you usually have lunch?
+     점심은 주로 몇 시에 먹어요?
+A2 | Around noon if I'm not too busy.
+     그렇게 안 바쁘면 대략 12시쯤에요.
+Q2 | Oh, me too. Want to grab something together today?
+     오 저도 그런데 오늘 저랑 뭐 간단히 먹을래요?
+A2 | Sure, I could go for some Korean food.
+     좋죠, 한국 음식이라면 좋아요.
+
+[Further Studies - See vs Watch]
+1 | I saw you at the park yesterday. 
+    어제 공원에서 널 봤어.
+2 | I watched you at the park yesterday. 
+    어제 공원에서 널 지켜봤어.
+3 | I saw the game on the TV at the bar but I didn't watch it. 
+    술집에 있는 TV에서 경기가 나오던데 집중해서 보지는 않았어.
+4 | I saw the movie on the big screen. 
+    그 영화를 대형 화면으로 봤어.
+5 | My mom called while I was watching a Netflix documentary last night. 
+    어젯밤에 넷플릭스 다큐멘터리를 보고 있는데 엄마한테 전화가 왔다.
+    
