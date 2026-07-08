@@ -34,7 +34,7 @@ A2 | Yeah, a couple of Korean families live in my apartment building and we have
     퇴근은 한 거지?
     _pron_
     Did you ... yet? : ~한 거지?
-2 | Did you call your mom? 
+2 | Did you call your mom yet? 
     엄마한테 전화한 거지?
 3 | Did you eat dinner yet? 
     저녁은 먹은 거지?
