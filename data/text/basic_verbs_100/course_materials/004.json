@@ -1,0 +1,920 @@
+[
+  {
+    "word": "Samsung",
+    "start": 15.0,
+    "end": 15.7,
+    "score": 0.926
+  },
+  {
+    "word": "is",
+    "start": 15.7,
+    "end": 15.84,
+    "score": 0.98
+  },
+  {
+    "word": "having",
+    "start": 15.84,
+    "end": 16.18,
+    "score": 0.973
+  },
+  {
+    "word": "a",
+    "start": 16.18,
+    "end": 16.3,
+    "score": 0.977
+  },
+  {
+    "word": "new",
+    "start": 16.3,
+    "end": 16.56,
+    "score": 0.991
+  },
+  {
+    "word": "product",
+    "start": 16.56,
+    "end": 17.0,
+    "score": 0.991
+  },
+  {
+    "word": "launch",
+    "start": 17.0,
+    "end": 17.32,
+    "score": 0.993
+  },
+  {
+    "word": "today.",
+    "start": 17.32,
+    "end": 17.8,
+    "score": 0.996
+  },
+  {
+    "word": "I'm",
+    "start": 48.12,
+    "end": 48.4,
+    "score": 0.926
+  },
+  {
+    "word": "having",
+    "start": 48.4,
+    "end": 48.68,
+    "score": 0.999
+  },
+  {
+    "word": "a",
+    "start": 48.68,
+    "end": 48.9,
+    "score": 0.999
+  },
+  {
+    "word": "housewarming",
+    "start": 48.9,
+    "end": 49.52,
+    "score": 0.945
+  },
+  {
+    "word": "party",
+    "start": 49.52,
+    "end": 49.92,
+    "score": 0.999
+  },
+  {
+    "word": "this",
+    "start": 49.92,
+    "end": 50.22,
+    "score": 0.999
+  },
+  {
+    "word": "weekend.",
+    "start": 50.22,
+    "end": 50.64,
+    "score": 0.999
+  },
+  {
+    "word": "The",
+    "start": 76.16,
+    "end": 76.9,
+    "score": 0.734
+  },
+  {
+    "word": "department",
+    "start": 76.9,
+    "end": 77.5,
+    "score": 0.99
+  },
+  {
+    "word": "stores",
+    "start": 77.5,
+    "end": 77.88,
+    "score": 0.997
+  },
+  {
+    "word": "are",
+    "start": 77.88,
+    "end": 78.24,
+    "score": 0.998
+  },
+  {
+    "word": "all",
+    "start": 78.24,
+    "end": 78.52,
+    "score": 0.994
+  },
+  {
+    "word": "having",
+    "start": 78.52,
+    "end": 78.82,
+    "score": 0.997
+  },
+  {
+    "word": "sales",
+    "start": 78.82,
+    "end": 79.28,
+    "score": 0.994
+  },
+  {
+    "word": "this",
+    "start": 79.28,
+    "end": 79.64,
+    "score": 0.997
+  },
+  {
+    "word": "week.",
+    "start": 79.64,
+    "end": 80.0,
+    "score": 0.996
+  },
+  {
+    "word": "We",
+    "start": 108.94,
+    "end": 109.16,
+    "score": 0.957
+  },
+  {
+    "word": "had",
+    "start": 109.16,
+    "end": 109.4,
+    "score": 0.998
+  },
+  {
+    "word": "a",
+    "start": 109.4,
+    "end": 109.68,
+    "score": 0.996
+  },
+  {
+    "word": "job",
+    "start": 109.68,
+    "end": 109.9,
+    "score": 0.995
+  },
+  {
+    "word": "fair",
+    "start": 109.9,
+    "end": 110.22,
+    "score": 0.984
+  },
+  {
+    "word": "at",
+    "start": 110.22,
+    "end": 110.5,
+    "score": 0.998
+  },
+  {
+    "word": "COEX",
+    "start": 110.5,
+    "end": 110.96,
+    "score": 0.596
+  },
+  {
+    "word": "in",
+    "start": 110.96,
+    "end": 111.3,
+    "score": 0.997
+  },
+  {
+    "word": "June.",
+    "start": 111.3,
+    "end": 111.6,
+    "score": 0.998
+  },
+  {
+    "word": "We're",
+    "start": 137.22,
+    "end": 137.78,
+    "score": 0.889
+  },
+  {
+    "word": "having",
+    "start": 137.78,
+    "end": 138.02,
+    "score": 0.996
+  },
+  {
+    "word": "a",
+    "start": 138.02,
+    "end": 138.28,
+    "score": 0.991
+  },
+  {
+    "word": "get",
+    "start": 138.28,
+    "end": 138.48,
+    "score": 0.94
+  },
+  {
+    "word": "-together",
+    "start": 138.48,
+    "end": 138.88,
+    "score": 0.938
+  },
+  {
+    "word": "this",
+    "start": 138.88,
+    "end": 139.14,
+    "score": 0.998
+  },
+  {
+    "word": "weekend",
+    "start": 139.14,
+    "end": 139.6,
+    "score": 0.997
+  },
+  {
+    "word": "if",
+    "start": 139.6,
+    "end": 139.9,
+    "score": 0.898
+  },
+  {
+    "word": "you",
+    "start": 139.9,
+    "end": 140.1,
+    "score": 0.999
+  },
+  {
+    "word": "want",
+    "start": 140.1,
+    "end": 140.32,
+    "score": 0.999
+  },
+  {
+    "word": "to",
+    "start": 140.32,
+    "end": 140.6,
+    "score": 0.999
+  },
+  {
+    "word": "join.",
+    "start": 140.6,
+    "end": 140.92,
+    "score": 0.999
+  },
+  {
+    "word": "The",
+    "start": 170.28,
+    "end": 170.96,
+    "score": 0.979
+  },
+  {
+    "word": "bakery",
+    "start": 170.96,
+    "end": 171.4,
+    "score": 0.966
+  },
+  {
+    "word": "has",
+    "start": 171.4,
+    "end": 171.84,
+    "score": 0.999
+  },
+  {
+    "word": "a",
+    "start": 171.84,
+    "end": 172.14,
+    "score": 0.998
+  },
+  {
+    "word": "buy",
+    "start": 172.14,
+    "end": 172.36,
+    "score": 0.504
+  },
+  {
+    "word": "one",
+    "start": 172.36,
+    "end": 172.64,
+    "score": 0.625
+  },
+  {
+    "word": "get",
+    "start": 172.64,
+    "end": 172.88,
+    "score": 0.779
+  },
+  {
+    "word": "one",
+    "start": 172.88,
+    "end": 173.16,
+    "score": 0.997
+  },
+  {
+    "word": "deal",
+    "start": 173.16,
+    "end": 173.5,
+    "score": 0.998
+  },
+  {
+    "word": "today.",
+    "start": 173.5,
+    "end": 174.1,
+    "score": 0.996
+  },
+  {
+    "word": "I",
+    "start": 206.18,
+    "end": 206.48,
+    "score": 0.878
+  },
+  {
+    "word": "need",
+    "start": 206.48,
+    "end": 206.7,
+    "score": 0.998
+  },
+  {
+    "word": "to",
+    "start": 206.7,
+    "end": 206.9,
+    "score": 0.999
+  },
+  {
+    "word": "buy",
+    "start": 206.9,
+    "end": 207.14,
+    "score": 0.999
+  },
+  {
+    "word": "some",
+    "start": 207.14,
+    "end": 207.5,
+    "score": 0.997
+  },
+  {
+    "word": "new",
+    "start": 207.5,
+    "end": 207.76,
+    "score": 0.999
+  },
+  {
+    "word": "luggage.",
+    "start": 207.76,
+    "end": 207.98,
+    "score": 0.992
+  },
+  {
+    "word": "Oh,",
+    "start": 231.16,
+    "end": 231.84,
+    "score": 0.665
+  },
+  {
+    "word": "Costco",
+    "start": 232.42,
+    "end": 232.8,
+    "score": 0.521
+  },
+  {
+    "word": "is",
+    "start": 232.8,
+    "end": 233.06,
+    "score": 0.995
+  },
+  {
+    "word": "having",
+    "start": 233.06,
+    "end": 233.32,
+    "score": 0.995
+  },
+  {
+    "word": "a",
+    "start": 233.32,
+    "end": 233.64,
+    "score": 0.993
+  },
+  {
+    "word": "sale",
+    "start": 233.64,
+    "end": 233.88,
+    "score": 0.999
+  },
+  {
+    "word": "on",
+    "start": 233.88,
+    "end": 234.22,
+    "score": 0.997
+  },
+  {
+    "word": "Samsonite",
+    "start": 234.22,
+    "end": 234.86,
+    "score": 0.971
+  },
+  {
+    "word": "luggage",
+    "start": 234.86,
+    "end": 235.28,
+    "score": 0.803
+  },
+  {
+    "word": "right",
+    "start": 235.28,
+    "end": 235.64,
+    "score": 0.974
+  },
+  {
+    "word": "now.",
+    "start": 235.64,
+    "end": 236.08,
+    "score": 0.999
+  },
+  {
+    "word": "How",
+    "start": 268.12,
+    "end": 268.96,
+    "score": 0.693
+  },
+  {
+    "word": "is",
+    "start": 268.96,
+    "end": 269.24,
+    "score": 0.96
+  },
+  {
+    "word": "life",
+    "start": 269.24,
+    "end": 269.52,
+    "score": 0.988
+  },
+  {
+    "word": "in",
+    "start": 269.52,
+    "end": 269.7,
+    "score": 0.997
+  },
+  {
+    "word": "Brazil",
+    "start": 269.7,
+    "end": 270.16,
+    "score": 0.991
+  },
+  {
+    "word": "treating",
+    "start": 270.16,
+    "end": 270.64,
+    "score": 0.998
+  },
+  {
+    "word": "you,",
+    "start": 270.64,
+    "end": 271.02,
+    "score": 0.998
+  },
+  {
+    "word": "Juno?",
+    "start": 271.1,
+    "end": 271.84,
+    "score": 0.729
+  },
+  {
+    "word": "It's",
+    "start": 288.84,
+    "end": 289.46,
+    "score": 0.649
+  },
+  {
+    "word": "not",
+    "start": 289.46,
+    "end": 289.48,
+    "score": 0.986
+  },
+  {
+    "word": "easy,",
+    "start": 289.48,
+    "end": 289.5,
+    "score": 0.978
+  },
+  {
+    "word": "but",
+    "start": 289.7,
+    "end": 290.32,
+    "score": 0.994
+  },
+  {
+    "word": "it's",
+    "start": 290.32,
+    "end": 290.32,
+    "score": 0.757
+  },
+  {
+    "word": "getting",
+    "start": 290.32,
+    "end": 290.32,
+    "score": 0.924
+  },
+  {
+    "word": "better.",
+    "start": 290.32,
+    "end": 290.8,
+    "score": 0.997
+  },
+  {
+    "word": "Do",
+    "start": 317.42,
+    "end": 318.02,
+    "score": 0.899
+  },
+  {
+    "word": "you",
+    "start": 318.02,
+    "end": 318.26,
+    "score": 0.999
+  },
+  {
+    "word": "have",
+    "start": 318.26,
+    "end": 318.44,
+    "score": 0.999
+  },
+  {
+    "word": "any",
+    "start": 318.44,
+    "end": 318.74,
+    "score": 0.997
+  },
+  {
+    "word": "friends",
+    "start": 318.74,
+    "end": 319.04,
+    "score": 0.997
+  },
+  {
+    "word": "yet?",
+    "start": 319.04,
+    "end": 319.36,
+    "score": 0.992
+  },
+  {
+    "word": "Yeah,",
+    "start": 342.54,
+    "end": 343.18,
+    "score": 0.672
+  },
+  {
+    "word": "a",
+    "start": 343.56,
+    "end": 343.62,
+    "score": 0.979
+  },
+  {
+    "word": "couple",
+    "start": 343.62,
+    "end": 343.86,
+    "score": 0.998
+  },
+  {
+    "word": "of",
+    "start": 343.86,
+    "end": 344.1,
+    "score": 0.989
+  },
+  {
+    "word": "Korean",
+    "start": 344.1,
+    "end": 344.52,
+    "score": 0.959
+  },
+  {
+    "word": "families",
+    "start": 344.52,
+    "end": 345.12,
+    "score": 0.993
+  },
+  {
+    "word": "live",
+    "start": 345.12,
+    "end": 345.44,
+    "score": 0.994
+  },
+  {
+    "word": "in",
+    "start": 345.44,
+    "end": 345.62,
+    "score": 0.998
+  },
+  {
+    "word": "my",
+    "start": 345.62,
+    "end": 345.86,
+    "score": 0.998
+  },
+  {
+    "word": "apartment",
+    "start": 345.86,
+    "end": 346.3,
+    "score": 0.997
+  },
+  {
+    "word": "building,",
+    "start": 346.3,
+    "end": 346.66,
+    "score": 0.998
+  },
+  {
+    "word": "and",
+    "start": 347.02,
+    "end": 347.22,
+    "score": 0.991
+  },
+  {
+    "word": "we",
+    "start": 347.22,
+    "end": 347.52,
+    "score": 0.999
+  },
+  {
+    "word": "have",
+    "start": 347.52,
+    "end": 347.78,
+    "score": 0.999
+  },
+  {
+    "word": "barbecues",
+    "start": 347.78,
+    "end": 348.5,
+    "score": 0.934
+  },
+  {
+    "word": "every",
+    "start": 348.5,
+    "end": 348.94,
+    "score": 0.993
+  },
+  {
+    "word": "Friday.",
+    "start": 348.94,
+    "end": 349.34,
+    "score": 0.982
+  },
+  {
+    "word": "Did",
+    "start": 393.68,
+    "end": 394.34,
+    "score": 0.988
+  },
+  {
+    "word": "you",
+    "start": 394.34,
+    "end": 394.58,
+    "score": 0.999
+  },
+  {
+    "word": "leave",
+    "start": 394.58,
+    "end": 394.82,
+    "score": 0.999
+  },
+  {
+    "word": "work",
+    "start": 394.82,
+    "end": 395.04,
+    "score": 1.0
+  },
+  {
+    "word": "yet?",
+    "start": 395.04,
+    "end": 395.46,
+    "score": 0.994
+  },
+  {
+    "word": "2.",
+    "start": 406.88,
+    "end": 407.84,
+    "score": 0.066
+  },
+  {
+    "word": "Did",
+    "start": 413.0,
+    "end": 413.44,
+    "score": 0.597
+  },
+  {
+    "word": "you",
+    "start": 413.44,
+    "end": 413.66,
+    "score": 0.956
+  },
+  {
+    "word": "call",
+    "start": 413.66,
+    "end": 413.88,
+    "score": 0.975
+  },
+  {
+    "word": "your",
+    "start": 413.88,
+    "end": 414.1,
+    "score": 0.634
+  },
+  {
+    "word": "mom",
+    "start": 414.1,
+    "end": 414.4,
+    "score": 0.891
+  },
+  {
+    "word": "yet?",
+    "start": 414.4,
+    "end": 414.6,
+    "score": 0.999
+  },
+  {
+    "word": "Did",
+    "start": 433.22,
+    "end": 433.7,
+    "score": 0.813
+  },
+  {
+    "word": "you",
+    "start": 433.7,
+    "end": 433.88,
+    "score": 0.999
+  },
+  {
+    "word": "eat",
+    "start": 433.80,
+    "end": 434.1,
+    "score": 0.993
+  },
+  {
+    "word": "dinner",
+    "start": 434.1,
+    "end": 434.26,
+    "score": 0.996
+  },
+  {
+    "word": "yet?",
+    "start": 434.26,
+    "end": 434.6,
+    "score": 0.999
+  },
+  {
+    "word": "Did",
+    "start": 451.54,
+    "end": 452.34,
+    "score": 0.599
+  },
+  {
+    "word": "you",
+    "start": 452.34,
+    "end": 453.14,
+    "score": 0.995
+  },
+  {
+    "word": "finish",
+    "start": 453.14,
+    "end": 453.44,
+    "score": 0.979
+  },
+  {
+    "word": "your",
+    "start": 453.44,
+    "end": 453.8,
+    "score": 0.987
+  },
+  {
+    "word": "chores",
+    "start": 453.8,
+    "end": 454.04,
+    "score": 1.0
+  },
+  {
+    "word": "yet?",
+    "start": 454.04,
+    "end": 454.44,
+    "score": 0.989
+  },
+  {
+    "word": "Did",
+    "start": 474.52,
+    "end": 475.24,
+    "score": 0.913
+  },
+  {
+    "word": "you",
+    "start": 475.24,
+    "end": 475.48,
+    "score": 1.0
+  },
+  {
+    "word": "leave",
+    "start": 475.48,
+    "end": 475.68,
+    "score": 0.998
+  },
+  {
+    "word": "yet?",
+    "start": 475.68,
+    "end": 475.98,
+    "score": 0.999
+  },
+  {
+    "word": "No,",
+    "start": 490.76,
+    "end": 491.12,
+    "score": 0.634
+  },
+  {
+    "word": "why?",
+    "start": 491.52,
+    "end": 491.74,
+    "score": 0.957
+  },
+  {
+    "word": "I",
+    "start": 509.68,
+    "end": 510.18,
+    "score": 0.884
+  },
+  {
+    "word": "forgot",
+    "start": 510.18,
+    "end": 510.54,
+    "score": 0.973
+  },
+  {
+    "word": "my",
+    "start": 510.54,
+    "end": 510.86,
+    "score": 0.997
+  },
+  {
+    "word": "wallet.",
+    "start": 510.86,
+    "end": 511.24,
+    "score": 0.995
+  },
+  {
+    "word": "Could",
+    "start": 511.94,
+    "end": 512.12,
+    "score": 0.907
+  },
+  {
+    "word": "you",
+    "start": 512.12,
+    "end": 512.32,
+    "score": 0.998
+  },
+  {
+    "word": "throw",
+    "start": 512.32,
+    "end": 512.52,
+    "score": 0.996
+  },
+  {
+    "word": "it",
+    "start": 512.52,
+    "end": 512.72,
+    "score": 0.997
+  },
+  {
+    "word": "down",
+    "start": 512.72,
+    "end": 512.92,
+    "score": 0.994
+  },
+  {
+    "word": "to",
+    "start": 512.92,
+    "end": 513.12,
+    "score": 0.996
+  },
+  {
+    "word": "me",
+    "start": 513.12,
+    "end": 513.38,
+    "score": 1.0
+  },
+  {
+    "word": "please?",
+    "start": 513.38,
+    "end": 513.74,
+    "score": 0.545
+  },
+  {
+    "word": "Okay.",
+    "start": 539.04,
+    "end": 539.58,
+    "score": 0.158
+  }
+]
