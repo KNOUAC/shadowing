@@ -1,0 +1,824 @@
+[
+  {
+    "word": "I",
+    "start": 15.36,
+    "end": 15.54,
+    "score": 0.891
+  },
+  {
+    "word": "just",
+    "start": 15.54,
+    "end": 15.88,
+    "score": 0.976
+  },
+  {
+    "word": "had",
+    "start": 15.88,
+    "end": 16.08,
+    "score": 0.99
+  },
+  {
+    "word": "a",
+    "start": 16.08,
+    "end": 16.28,
+    "score": 0.993
+  },
+  {
+    "word": "snack,",
+    "start": 16.28,
+    "end": 16.66,
+    "score": 0.999
+  },
+  {
+    "word": "so",
+    "start": 16.82,
+    "end": 17.02,
+    "score": 0.996
+  },
+  {
+    "word": "I'm",
+    "start": 17.02,
+    "end": 17.18,
+    "score": 0.982
+  },
+  {
+    "word": "not",
+    "start": 17.18,
+    "end": 17.48,
+    "score": 1.0
+  },
+  {
+    "word": "that",
+    "start": 17.48,
+    "end": 17.64,
+    "score": 0.999
+  },
+  {
+    "word": "hungry.",
+    "start": 17.64,
+    "end": 18.08,
+    "score": 0.999
+  },
+  {
+    "word": "I",
+    "start": 48.94,
+    "end": 49.2,
+    "score": 0.941
+  },
+  {
+    "word": "usually",
+    "start": 49.2,
+    "end": 49.72,
+    "score": 0.999
+  },
+  {
+    "word": "have",
+    "start": 49.72,
+    "end": 50.2,
+    "score": 0.999
+  },
+  {
+    "word": "cereal",
+    "start": 50.2,
+    "end": 50.7,
+    "score": 0.998
+  },
+  {
+    "word": "for",
+    "start": 50.7,
+    "end": 51.0,
+    "score": 1.0
+  },
+  {
+    "word": "breakfast.",
+    "start": 51.0,
+    "end": 51.5,
+    "score": 1.0
+  },
+  {
+    "word": "I'll",
+    "start": 75.82,
+    "end": 76.14,
+    "score": 0.958
+  },
+  {
+    "word": "have",
+    "start": 76.14,
+    "end": 76.34,
+    "score": 0.999
+  },
+  {
+    "word": "the",
+    "start": 76.34,
+    "end": 76.64,
+    "score": 0.995
+  },
+  {
+    "word": "steak,",
+    "start": 76.64,
+    "end": 76.82,
+    "score": 0.992
+  },
+  {
+    "word": "please.",
+    "start": 76.96,
+    "end": 77.4,
+    "score": 0.999
+  },
+  {
+    "word": "I",
+    "start": 98.8,
+    "end": 99.46,
+    "score": 0.964
+  },
+  {
+    "word": "didn't",
+    "start": 99.46,
+    "end": 99.82,
+    "score": 0.992
+  },
+  {
+    "word": "have",
+    "start": 99.82,
+    "end": 100.08,
+    "score": 0.998
+  },
+  {
+    "word": "anything",
+    "start": 100.08,
+    "end": 100.5,
+    "score": 0.998
+  },
+  {
+    "word": "for",
+    "start": 100.5,
+    "end": 100.8,
+    "score": 0.994
+  },
+  {
+    "word": "lunch",
+    "start": 100.8,
+    "end": 101.1,
+    "score": 0.999
+  },
+  {
+    "word": "today.",
+    "start": 101.1,
+    "end": 101.54,
+    "score": 0.997
+  },
+  {
+    "word": "You",
+    "start": 124.92,
+    "end": 125.8,
+    "score": 0.939
+  },
+  {
+    "word": "should",
+    "start": 125.8,
+    "end": 126.04,
+    "score": 0.999
+  },
+  {
+    "word": "have",
+    "start": 126.04,
+    "end": 126.3,
+    "score": 0.999
+  },
+  {
+    "word": "something",
+    "start": 126.3,
+    "end": 126.74,
+    "score": 0.997
+  },
+  {
+    "word": "before",
+    "start": 126.74,
+    "end": 127.18,
+    "score": 0.997
+  },
+  {
+    "word": "you",
+    "start": 127.18,
+    "end": 127.48,
+    "score": 1.0
+  },
+  {
+    "word": "leave.",
+    "start": 127.48,
+    "end": 127.96,
+    "score": 0.999
+  },
+  {
+    "word": "Let's",
+    "start": 150.52,
+    "end": 151.28,
+    "score": 0.943
+  },
+  {
+    "word": "have",
+    "start": 151.28,
+    "end": 151.5,
+    "score": 0.999
+  },
+  {
+    "word": "some",
+    "start": 151.5,
+    "end": 151.82,
+    "score": 0.999
+  },
+  {
+    "word": "pizza",
+    "start": 151.82,
+    "end": 152.22,
+    "score": 0.998
+  },
+  {
+    "word": "and",
+    "start": 152.22,
+    "end": 152.6,
+    "score": 0.964
+  },
+  {
+    "word": "watch",
+    "start": 152.6,
+    "end": 152.94,
+    "score": 1.0
+  },
+  {
+    "word": "a",
+    "start": 152.94,
+    "end": 153.16,
+    "score": 0.998
+  },
+  {
+    "word": "movie.",
+    "start": 153.16,
+    "end": 153.54,
+    "score": 1.0
+  },
+  {
+    "word": "Did",
+    "start": 182.6,
+    "end": 182.8,
+    "score": 0.921
+  },
+  {
+    "word": "you",
+    "start": 182.8,
+    "end": 183.0,
+    "score": 1.0
+  },
+  {
+    "word": "have",
+    "start": 183.0,
+    "end": 183.28,
+    "score": 0.995
+  },
+  {
+    "word": "anything",
+    "start": 183.28,
+    "end": 183.7,
+    "score": 0.997
+  },
+  {
+    "word": "before",
+    "start": 183.7,
+    "end": 184.14,
+    "score": 0.998
+  },
+  {
+    "word": "class?",
+    "start": 184.14,
+    "end": 184.78,
+    "score": 0.999
+  },
+  {
+    "word": "Just",
+    "start": 206.8,
+    "end": 207.36,
+    "score": 0.82
+  },
+  {
+    "word": "a",
+    "start": 207.36,
+    "end": 207.56,
+    "score": 0.998
+  },
+  {
+    "word": "banana.",
+    "start": 207.56,
+    "end": 207.88,
+    "score": 0.994
+  },
+  {
+    "word": "I",
+    "start": 208.24,
+    "end": 208.46,
+    "score": 0.995
+  },
+  {
+    "word": "was",
+    "start": 208.46,
+    "end": 208.7,
+    "score": 1.0
+  },
+  {
+    "word": "in",
+    "start": 208.7,
+    "end": 208.84,
+    "score": 1.0
+  },
+  {
+    "word": "a",
+    "start": 208.84,
+    "end": 209.06,
+    "score": 0.999
+  },
+  {
+    "word": "rush.",
+    "start": 209.06,
+    "end": 209.38,
+    "score": 0.999
+  },
+  {
+    "word": "What",
+    "start": 232.52,
+    "end": 233.34,
+    "score": 0.735
+  },
+  {
+    "word": "time",
+    "start": 233.34,
+    "end": 233.64,
+    "score": 0.999
+  },
+  {
+    "word": "do",
+    "start": 233.64,
+    "end": 233.8,
+    "score": 0.998
+  },
+  {
+    "word": "you",
+    "start": 233.8,
+    "end": 234.08,
+    "score": 0.999
+  },
+  {
+    "word": "usually",
+    "start": 234.08,
+    "end": 234.62,
+    "score": 0.998
+  },
+  {
+    "word": "have",
+    "start": 234.62,
+    "end": 234.92,
+    "score": 0.999
+  },
+  {
+    "word": "lunch?",
+    "start": 234.92,
+    "end": 235.3,
+    "score": 0.999
+  },
+  {
+    "word": "Around",
+    "start": 261.4,
+    "end": 262.14,
+    "score": 0.629
+  },
+  {
+    "word": "noon",
+    "start": 262.14,
+    "end": 262.54,
+    "score": 0.985
+  },
+  {
+    "word": "if",
+    "start": 262.54,
+    "end": 262.88,
+    "score": 0.62
+  },
+  {
+    "word": "I'm",
+    "start": 262.88,
+    "end": 263.2,
+    "score": 0.954
+  },
+  {
+    "word": "not",
+    "start": 263.2,
+    "end": 263.4,
+    "score": 0.998
+  },
+  {
+    "word": "too",
+    "start": 263.4,
+    "end": 263.6,
+    "score": 0.993
+  },
+  {
+    "word": "busy.",
+    "start": 263.6,
+    "end": 264.06,
+    "score": 0.999
+  },
+  {
+    "word": "Oh,",
+    "start": 284.22,
+    "end": 284.9,
+    "score": 0.435
+  },
+  {
+    "word": "me",
+    "start": 285.26,
+    "end": 285.44,
+    "score": 0.972
+  },
+  {
+    "word": "too.",
+    "start": 285.44,
+    "end": 285.78,
+    "score": 0.939
+  },
+  {
+    "word": "Want",
+    "start": 286.48,
+    "end": 286.7,
+    "score": 0.976
+  },
+  {
+    "word": "to",
+    "start": 286.7,
+    "end": 286.92,
+    "score": 0.999
+  },
+  {
+    "word": "grab",
+    "start": 286.92,
+    "end": 287.16,
+    "score": 0.998
+  },
+  {
+    "word": "something",
+    "start": 287.16,
+    "end": 287.58,
+    "score": 0.993
+  },
+  {
+    "word": "together",
+    "start": 287.58,
+    "end": 288.08,
+    "score": 0.99
+  },
+  {
+    "word": "today?",
+    "start": 288.08,
+    "end": 288.42,
+    "score": 0.985
+  },
+  {
+    "word": "Sure,",
+    "start": 317.18,
+    "end": 317.7,
+    "score": 0.941
+  },
+  {
+    "word": "I",
+    "start": 317.98,
+    "end": 318.24,
+    "score": 0.999
+  },
+  {
+    "word": "could",
+    "start": 318.24,
+    "end": 318.46,
+    "score": 0.997
+  },
+  {
+    "word": "go",
+    "start": 318.46,
+    "end": 318.7,
+    "score": 0.998
+  },
+  {
+    "word": "for",
+    "start": 318.7,
+    "end": 318.88,
+    "score": 0.999
+  },
+  {
+    "word": "some",
+    "start": 318.88,
+    "end": 319.12,
+    "score": 0.998
+  },
+  {
+    "word": "Korean",
+    "start": 319.12,
+    "end": 319.54,
+    "score": 0.999
+  },
+  {
+    "word": "food.",
+    "start": 319.54,
+    "end": 320.14,
+    "score": 0.998
+  },
+  {
+    "word": "I",
+    "start": 349.44,
+    "end": 350.04,
+    "score": 0.657
+  },
+  {
+    "word": "saw",
+    "start": 350.04,
+    "end": 350.3,
+    "score": 0.999
+  },
+  {
+    "word": "you",
+    "start": 350.3,
+    "end": 350.54,
+    "score": 0.999
+  },
+  {
+    "word": "at",
+    "start": 350.54,
+    "end": 350.76,
+    "score": 0.996
+  },
+  {
+    "word": "the",
+    "start": 350.76,
+    "end": 351.0,
+    "score": 0.996
+  },
+  {
+    "word": "park",
+    "start": 351.0,
+    "end": 351.2,
+    "score": 0.999
+  },
+  {
+    "word": "yesterday.",
+    "start": 351.2,
+    "end": 351.76,
+    "score": 0.999
+  },
+  {
+    "word": "I",
+    "start": 374.6,
+    "end": 375.18,
+    "score": 0.972
+  },
+  {
+    "word": "watched",
+    "start": 375.18,
+    "end": 375.54,
+    "score": 0.994
+  },
+  {
+    "word": "you",
+    "start": 375.54,
+    "end": 375.76,
+    "score": 0.999
+  },
+  {
+    "word": "at",
+    "start": 375.76,
+    "end": 375.94,
+    "score": 0.997
+  },
+  {
+    "word": "the",
+    "start": 375.94,
+    "end": 376.16,
+    "score": 0.998
+  },
+  {
+    "word": "park",
+    "start": 376.16,
+    "end": 376.36,
+    "score": 0.999
+  },
+  {
+    "word": "yesterday.",
+    "start": 376.36,
+    "end": 376.96,
+    "score": 0.998
+  },
+  {
+    "word": "I",
+    "start": 402.1,
+    "end": 402.66,
+    "score": 0.921
+  },
+  {
+    "word": "saw",
+    "start": 402.66,
+    "end": 402.98,
+    "score": 0.99
+  },
+  {
+    "word": "the",
+    "start": 402.98,
+    "end": 403.24,
+    "score": 0.993
+  },
+  {
+    "word": "game",
+    "start": 403.24,
+    "end": 403.46,
+    "score": 0.997
+  },
+  {
+    "word": "on",
+    "start": 403.46,
+    "end": 403.74,
+    "score": 0.996
+  },
+  {
+    "word": "the",
+    "start": 403.74,
+    "end": 403.96,
+    "score": 0.954
+  },
+  {
+    "word": "TV",
+    "start": 403.96,
+    "end": 404.28,
+    "score": 0.969
+  },
+  {
+    "word": "at",
+    "start": 404.28,
+    "end": 404.56,
+    "score": 0.994
+  },
+  {
+    "word": "the",
+    "start": 404.56,
+    "end": 404.8,
+    "score": 0.998
+  },
+  {
+    "word": "bar,",
+    "start": 404.8,
+    "end": 405.06,
+    "score": 0.996
+  },
+  {
+    "word": "but",
+    "start": 405.14,
+    "end": 405.48,
+    "score": 0.998
+  },
+  {
+    "word": "I",
+    "start": 405.48,
+    "end": 405.68,
+    "score": 0.985
+  },
+  {
+    "word": "didn't",
+    "start": 405.68,
+    "end": 405.9,
+    "score": 0.993
+  },
+  {
+    "word": "watch",
+    "start": 405.9,
+    "end": 406.2,
+    "score": 0.999
+  },
+  {
+    "word": "it.",
+    "start": 406.2,
+    "end": 406.74,
+    "score": 0.998
+  },
+  {
+    "word": "I",
+    "start": 437.1,
+    "end": 437.32,
+    "score": 0.816
+  },
+  {
+    "word": "saw",
+    "start": 437.32,
+    "end": 437.6,
+    "score": 0.998
+  },
+  {
+    "word": "the",
+    "start": 437.6,
+    "end": 437.84,
+    "score": 0.992
+  },
+  {
+    "word": "movie",
+    "start": 437.84,
+    "end": 438.1,
+    "score": 0.998
+  },
+  {
+    "word": "on",
+    "start": 438.1,
+    "end": 438.36,
+    "score": 0.998
+  },
+  {
+    "word": "the",
+    "start": 438.36,
+    "end": 438.56,
+    "score": 0.996
+  },
+  {
+    "word": "big",
+    "start": 438.56,
+    "end": 438.74,
+    "score": 0.997
+  },
+  {
+    "word": "screen.",
+    "start": 438.74,
+    "end": 439.2,
+    "score": 0.996
+  },
+  {
+    "word": "My",
+    "start": 465.24,
+    "end": 466.08,
+    "score": 0.765
+  },
+  {
+    "word": "mom",
+    "start": 466.08,
+    "end": 466.42,
+    "score": 0.961
+  },
+  {
+    "word": "called",
+    "start": 466.42,
+    "end": 466.86,
+    "score": 0.986
+  },
+  {
+    "word": "while",
+    "start": 466.86,
+    "end": 467.22,
+    "score": 0.981
+  },
+  {
+    "word": "I",
+    "start": 467.22,
+    "end": 467.42,
+    "score": 0.984
+  },
+  {
+    "word": "was",
+    "start": 467.42,
+    "end": 467.74,
+    "score": 0.99
+  },
+  {
+    "word": "watching",
+    "start": 467.74,
+    "end": 468.06,
+    "score": 0.998
+  },
+  {
+    "word": "a",
+    "start": 468.06,
+    "end": 468.32,
+    "score": 0.992
+  },
+  {
+    "word": "Netflix",
+    "start": 468.32,
+    "end": 468.82,
+    "score": 0.988
+  },
+  {
+    "word": "documentary",
+    "start": 468.82,
+    "end": 469.66,
+    "score": 0.99
+  },
+  {
+    "word": "last",
+    "start": 469.66,
+    "end": 470.08,
+    "score": 0.996
+  },
+  {
+    "word": "night.",
+    "start": 470.08,
+    "end": 470.5,
+    "score": 1.0
+  }
+]

@@ -1,0 +1,926 @@
+[
+  {
+    "word": "I",
+    "start": 13.76,
+    "end": 14.56,
+    "score": 0.743
+  },
+  {
+    "word": "had",
+    "start": 14.56,
+    "end": 14.82,
+    "score": 0.996
+  },
+  {
+    "word": "a",
+    "start": 14.82,
+    "end": 15.0,
+    "score": 0.989
+  },
+  {
+    "word": "weird",
+    "start": 15.0,
+    "end": 15.24,
+    "score": 0.999
+  },
+  {
+    "word": "morning",
+    "start": 15.24,
+    "end": 15.64,
+    "score": 0.998
+  },
+  {
+    "word": "yesterday.",
+    "start": 15.64,
+    "end": 16.32,
+    "score": 0.994
+  },
+  {
+    "word": "Model",
+    "start": 33.66,
+    "end": 33.78,
+    "score": 0.632
+  },
+  {
+    "word": "examples",
+    "start": 33.78,
+    "end": 34.58,
+    "score": 0.689
+  },
+  {
+    "word": "We",
+    "start": 44.98,
+    "end": 45.22,
+    "score": 0.896
+  },
+  {
+    "word": "had",
+    "start": 45.22,
+    "end": 45.46,
+    "score": 0.995
+  },
+  {
+    "word": "a",
+    "start": 45.46,
+    "end": 45.74,
+    "score": 0.997
+  },
+  {
+    "word": "great",
+    "start": 45.74,
+    "end": 45.94,
+    "score": 0.999
+  },
+  {
+    "word": "time",
+    "start": 45.94,
+    "end": 46.3,
+    "score": 1.0
+  },
+  {
+    "word": "in",
+    "start": 46.3,
+    "end": 46.52,
+    "score": 0.998
+  },
+  {
+    "word": "Japan",
+    "start": 46.52,
+    "end": 46.98,
+    "score": 0.999
+  },
+  {
+    "word": "last",
+    "start": 46.98,
+    "end": 47.38,
+    "score": 0.998
+  },
+  {
+    "word": "week.",
+    "start": 47.38,
+    "end": 47.7,
+    "score": 1.0
+  },
+  {
+    "word": "I",
+    "start": 73.86,
+    "end": 74.12,
+    "score": 0.821
+  },
+  {
+    "word": "had",
+    "start": 74.12,
+    "end": 74.4,
+    "score": 0.995
+  },
+  {
+    "word": "a",
+    "start": 74.4,
+    "end": 74.62,
+    "score": 0.998
+  },
+  {
+    "word": "rough",
+    "start": 74.62,
+    "end": 74.88,
+    "score": 0.999
+  },
+  {
+    "word": "childhood.",
+    "start": 74.88,
+    "end": 75.52,
+    "score": 1.0
+  },
+  {
+    "word": "I",
+    "start": 96.88,
+    "end": 97.38,
+    "score": 0.977
+  },
+  {
+    "word": "think",
+    "start": 97.38,
+    "end": 97.62,
+    "score": 0.998
+  },
+  {
+    "word": "I",
+    "start": 97.62,
+    "end": 97.84,
+    "score": 0.992
+  },
+  {
+    "word": "have",
+    "start": 97.84,
+    "end": 98.06,
+    "score": 0.998
+  },
+  {
+    "word": "a",
+    "start": 98.06,
+    "end": 98.3,
+    "score": 0.997
+  },
+  {
+    "word": "bad",
+    "start": 98.3,
+    "end": 98.56,
+    "score": 0.999
+  },
+  {
+    "word": "connection.",
+    "start": 98.56,
+    "end": 99.2,
+    "score": 0.996
+  },
+  {
+    "word": "We",
+    "start": 134.92,
+    "end": 135.18,
+    "score": 0.81
+  },
+  {
+    "word": "always",
+    "start": 135.18,
+    "end": 135.6,
+    "score": 0.997
+  },
+  {
+    "word": "have",
+    "start": 135.6,
+    "end": 135.92,
+    "score": 0.999
+  },
+  {
+    "word": "such",
+    "start": 135.92,
+    "end": 136.24,
+    "score": 0.997
+  },
+  {
+    "word": "good",
+    "start": 136.24,
+    "end": 136.7,
+    "score": 0.999
+  },
+  {
+    "word": "conversations.",
+    "start": 136.7,
+    "end": 137.64,
+    "score": 0.999
+  },
+  {
+    "word": "He",
+    "start": 151.98,
+    "end": 152.54,
+    "score": 0.946
+  },
+  {
+    "word": "had",
+    "start": 152.54,
+    "end": 152.82,
+    "score": 0.996
+  },
+  {
+    "word": "a",
+    "start": 152.82,
+    "end": 153.04,
+    "score": 0.998
+  },
+  {
+    "word": "long",
+    "start": 153.04,
+    "end": 153.28,
+    "score": 1.0
+  },
+  {
+    "word": "flight,",
+    "start": 153.28,
+    "end": 153.8,
+    "score": 0.999
+  },
+  {
+    "word": "so",
+    "start": 153.92,
+    "end": 154.14,
+    "score": 0.998
+  },
+  {
+    "word": "he",
+    "start": 154.14,
+    "end": 154.38,
+    "score": 0.999
+  },
+  {
+    "word": "needs",
+    "start": 154.38,
+    "end": 154.56,
+    "score": 0.874
+  },
+  {
+    "word": "some",
+    "start": 154.56,
+    "end": 154.96,
+    "score": 0.996
+  },
+  {
+    "word": "extra",
+    "start": 154.96,
+    "end": 155.36,
+    "score": 0.999
+  },
+  {
+    "word": "sleep.",
+    "start": 155.36,
+    "end": 155.78,
+    "score": 0.999
+  },
+  {
+    "word": "Small",
+    "start": 178.86,
+    "end": 179.74,
+    "score": 0.579
+  },
+  {
+    "word": "talk",
+    "start": 179.74,
+    "end": 180.28,
+    "score": 0.517
+  },
+  {
+    "word": "Are",
+    "start": 188.14,
+    "end": 188.76,
+    "score": 0.862
+  },
+  {
+    "word": "you",
+    "start": 188.76,
+    "end": 189.08,
+    "score": 0.998
+  },
+  {
+    "word": "still",
+    "start": 189.08,
+    "end": 189.24,
+    "score": 0.992
+  },
+  {
+    "word": "planning",
+    "start": 189.24,
+    "end": 189.6,
+    "score": 0.997
+  },
+  {
+    "word": "to",
+    "start": 189.6,
+    "end": 189.92,
+    "score": 0.997
+  },
+  {
+    "word": "go",
+    "start": 189.92,
+    "end": 190.14,
+    "score": 0.998
+  },
+  {
+    "word": "to",
+    "start": 190.14,
+    "end": 190.4,
+    "score": 0.995
+  },
+  {
+    "word": "art",
+    "start": 190.4,
+    "end": 190.58,
+    "score": 0.958
+  },
+  {
+    "word": "school?",
+    "start": 190.58,
+    "end": 190.88,
+    "score": 0.999
+  },
+  {
+    "word": "I'm",
+    "start": 215.38,
+    "end": 215.9,
+    "score": 0.769
+  },
+  {
+    "word": "not",
+    "start": 215.9,
+    "end": 216.16,
+    "score": 0.994
+  },
+  {
+    "word": "sure.",
+    "start": 216.16,
+    "end": 216.5,
+    "score": 0.998
+  },
+  {
+    "word": "My",
+    "start": 216.76,
+    "end": 217.02,
+    "score": 0.989
+  },
+  {
+    "word": "mom",
+    "start": 217.02,
+    "end": 217.3,
+    "score": 0.966
+  },
+  {
+    "word": "and",
+    "start": 217.3,
+    "end": 217.48,
+    "score": 0.995
+  },
+  {
+    "word": "I",
+    "start": 217.48,
+    "end": 217.68,
+    "score": 0.995
+  },
+  {
+    "word": "had",
+    "start": 217.68,
+    "end": 217.92,
+    "score": 0.996
+  },
+  {
+    "word": "a",
+    "start": 217.92,
+    "end": 218.16,
+    "score": 0.998
+  },
+  {
+    "word": "falling",
+    "start": 218.16,
+    "end": 218.4,
+    "score": 0.994
+  },
+  {
+    "word": "out",
+    "start": 218.4,
+    "end": 218.78,
+    "score": 0.893
+  },
+  {
+    "word": "over",
+    "start": 218.78,
+    "end": 219.06,
+    "score": 0.991
+  },
+  {
+    "word": "my",
+    "start": 219.06,
+    "end": 219.34,
+    "score": 0.997
+  },
+  {
+    "word": "major.",
+    "start": 219.34,
+    "end": 219.74,
+    "score": 0.994
+  },
+  {
+    "word": "Hey,",
+    "start": 250.62,
+    "end": 251.3,
+    "score": 0.789
+  },
+  {
+    "word": "I",
+    "start": 251.74,
+    "end": 251.86,
+    "score": 0.994
+  },
+  {
+    "word": "haven't",
+    "start": 251.86,
+    "end": 252.24,
+    "score": 0.998
+  },
+  {
+    "word": "seen",
+    "start": 252.24,
+    "end": 252.44,
+    "score": 0.991
+  },
+  {
+    "word": "you",
+    "start": 252.44,
+    "end": 252.68,
+    "score": 0.999
+  },
+  {
+    "word": "around",
+    "start": 252.68,
+    "end": 252.98,
+    "score": 0.998
+  },
+  {
+    "word": "lately.",
+    "start": 252.98,
+    "end": 253.52,
+    "score": 0.999
+  },
+  {
+    "word": "I",
+    "start": 295.22,
+    "end": 295.86,
+    "score": 0.977
+  },
+  {
+    "word": "know.",
+    "start": 295.86,
+    "end": 296.24,
+    "score": 0.976
+  },
+  {
+    "word": "I",
+    "start": 296.48,
+    "end": 296.8,
+    "score": 0.999
+  },
+  {
+    "word": "had",
+    "start": 296.8,
+    "end": 297.04,
+    "score": 0.991
+  },
+  {
+    "word": "a",
+    "start": 297.04,
+    "end": 297.28,
+    "score": 0.996
+  },
+  {
+    "word": "rough",
+    "start": 297.28,
+    "end": 297.46,
+    "score": 0.999
+  },
+  {
+    "word": "week,",
+    "start": 297.46,
+    "end": 297.86,
+    "score": 0.999
+  },
+  {
+    "word": "emotionally.",
+    "start": 298.12,
+    "end": 298.62,
+    "score": 0.997
+  },
+  {
+    "word": "Want",
+    "start": 305.8,
+    "end": 306.04,
+    "score": 0.759
+  },
+  {
+    "word": "to",
+    "start": 306.04,
+    "end": 306.22,
+    "score": 0.999
+  },
+  {
+    "word": "talk",
+    "start": 306.22,
+    "end": 306.52,
+    "score": 0.999
+  },
+  {
+    "word": "about",
+    "start": 306.52,
+    "end": 306.8,
+    "score": 0.999
+  },
+  {
+    "word": "it?",
+    "start": 306.8,
+    "end": 307.06,
+    "score": 0.998
+  },
+  {
+    "word": "Maybe",
+    "start": 327.06,
+    "end": 327.36,
+    "score": 0.912
+  },
+  {
+    "word": "later.",
+    "start": 327.36,
+    "end": 327.78,
+    "score": 0.996
+  },
+  {
+    "word": "I",
+    "start": 328.28,
+    "end": 328.58,
+    "score": 0.998
+  },
+  {
+    "word": "just",
+    "start": 328.58,
+    "end": 328.82,
+    "score": 0.998
+  },
+  {
+    "word": "need",
+    "start": 328.82,
+    "end": 329.06,
+    "score": 0.997
+  },
+  {
+    "word": "some",
+    "start": 329.06,
+    "end": 329.34,
+    "score": 0.998
+  },
+  {
+    "word": "time",
+    "start": 329.34,
+    "end": 329.66,
+    "score": 0.999
+  },
+  {
+    "word": "to",
+    "start": 329.66,
+    "end": 329.96,
+    "score": 0.999
+  },
+  {
+    "word": "clear",
+    "start": 329.96,
+    "end": 330.1,
+    "score": 0.997
+  },
+  {
+    "word": "my",
+    "start": 330.1,
+    "end": 330.42,
+    "score": 0.999
+  },
+  {
+    "word": "head.",
+    "start": 330.42,
+    "end": 330.66,
+    "score": 1.0
+  },
+  {
+    "word": "Further",
+    "start": 355.2,
+    "end": 355.6,
+    "score": 0.686
+  },
+  {
+    "word": "studies",
+    "start": 355.6,
+    "end": 355.98,
+    "score": 0.376
+  },
+  {
+    "word": "My",
+    "start": 365.96,
+    "end": 366.36,
+    "score": 0.963
+  },
+  {
+    "word": "neighbor",
+    "start": 366.36,
+    "end": 366.76,
+    "score": 0.99
+  },
+  {
+    "word": "fell",
+    "start": 366.76,
+    "end": 367.06,
+    "score": 0.997
+  },
+  {
+    "word": "out",
+    "start": 367.06,
+    "end": 367.36,
+    "score": 0.994
+  },
+  {
+    "word": "of",
+    "start": 367.36,
+    "end": 367.52,
+    "score": 0.994
+  },
+  {
+    "word": "a",
+    "start": 367.52,
+    "end": 367.72,
+    "score": 0.96
+  },
+  {
+    "word": "tree",
+    "start": 367.72,
+    "end": 367.96,
+    "score": 1.0
+  },
+  {
+    "word": "when",
+    "start": 367.96,
+    "end": 368.22,
+    "score": 0.991
+  },
+  {
+    "word": "I",
+    "start": 368.22,
+    "end": 368.42,
+    "score": 0.997
+  },
+  {
+    "word": "was",
+    "start": 368.42,
+    "end": 368.7,
+    "score": 1.0
+  },
+  {
+    "word": "young.",
+    "start": 368.7,
+    "end": 369.18,
+    "score": 0.999
+  },
+  {
+    "word": "I",
+    "start": 397.74,
+    "end": 398.38,
+    "score": 0.93
+  },
+  {
+    "word": "think",
+    "start": 398.38,
+    "end": 398.7,
+    "score": 0.997
+  },
+  {
+    "word": "my",
+    "start": 398.7,
+    "end": 399.06,
+    "score": 0.996
+  },
+  {
+    "word": "phone",
+    "start": 399.06,
+    "end": 399.46,
+    "score": 0.999
+  },
+  {
+    "word": "fell",
+    "start": 399.46,
+    "end": 399.78,
+    "score": 0.997
+  },
+  {
+    "word": "out",
+    "start": 399.78,
+    "end": 400.04,
+    "score": 0.998
+  },
+  {
+    "word": "of",
+    "start": 400.04,
+    "end": 400.18,
+    "score": 0.992
+  },
+  {
+    "word": "my",
+    "start": 400.18,
+    "end": 400.44,
+    "score": 0.997
+  },
+  {
+    "word": "pocket",
+    "start": 400.44,
+    "end": 400.84,
+    "score": 1.0
+  },
+  {
+    "word": "while",
+    "start": 400.84,
+    "end": 401.16,
+    "score": 0.987
+  },
+  {
+    "word": "I",
+    "start": 401.16,
+    "end": 401.4,
+    "score": 0.991
+  },
+  {
+    "word": "was",
+    "start": 401.4,
+    "end": 401.62,
+    "score": 0.999
+  },
+  {
+    "word": "getting",
+    "start": 401.62,
+    "end": 401.9,
+    "score": 0.999
+  },
+  {
+    "word": "off",
+    "start": 401.9,
+    "end": 402.16,
+    "score": 0.991
+  },
+  {
+    "word": "the",
+    "start": 402.16,
+    "end": 402.4,
+    "score": 0.998
+  },
+  {
+    "word": "bus.",
+    "start": 402.4,
+    "end": 402.78,
+    "score": 0.999
+  },
+  {
+    "word": "Didn't",
+    "start": 438.82,
+    "end": 439.5,
+    "score": 0.901
+  },
+  {
+    "word": "you",
+    "start": 439.5,
+    "end": 439.74,
+    "score": 0.999
+  },
+  {
+    "word": "hear?",
+    "start": 439.74,
+    "end": 440.06,
+    "score": 0.996
+  },
+  {
+    "word": "Those",
+    "start": 440.44,
+    "end": 440.76,
+    "score": 0.983
+  },
+  {
+    "word": "two",
+    "start": 440.76,
+    "end": 441.0,
+    "score": 0.982
+  },
+  {
+    "word": "had",
+    "start": 441.0,
+    "end": 441.28,
+    "score": 0.995
+  },
+  {
+    "word": "a",
+    "start": 441.28,
+    "end": 441.56,
+    "score": 0.995
+  },
+  {
+    "word": "major",
+    "start": 441.56,
+    "end": 441.86,
+    "score": 0.994
+  },
+  {
+    "word": "falling",
+    "start": 441.86,
+    "end": 442.22,
+    "score": 0.996
+  },
+  {
+    "word": "out",
+    "start": 442.22,
+    "end": 442.58,
+    "score": 0.845
+  },
+  {
+    "word": "after",
+    "start": 442.58,
+    "end": 442.96,
+    "score": 0.994
+  },
+  {
+    "word": "Christmas.",
+    "start": 442.96,
+    "end": 443.42,
+    "score": 0.987
+  },
+  {
+    "word": "My",
+    "start": 476.7,
+    "end": 477.46,
+    "score": 0.855
+  },
+  {
+    "word": "business",
+    "start": 477.46,
+    "end": 477.96,
+    "score": 0.996
+  },
+  {
+    "word": "partner",
+    "start": 477.96,
+    "end": 478.4,
+    "score": 1.0
+  },
+  {
+    "word": "and",
+    "start": 478.4,
+    "end": 478.62,
+    "score": 0.996
+  },
+  {
+    "word": "I",
+    "start": 478.62,
+    "end": 478.86,
+    "score": 0.999
+  },
+  {
+    "word": "had",
+    "start": 478.86,
+    "end": 479.06,
+    "score": 0.997
+  },
+  {
+    "word": "a",
+    "start": 479.06,
+    "end": 479.24,
+    "score": 0.997
+  },
+  {
+    "word": "falling",
+    "start": 479.24,
+    "end": 479.5,
+    "score": 0.993
+  },
+  {
+    "word": "out",
+    "start": 479.5,
+    "end": 479.9,
+    "score": 0.726
+  },
+  {
+    "word": "over",
+    "start": 479.9,
+    "end": 480.26,
+    "score": 0.995
+  },
+  {
+    "word": "money.",
+    "start": 480.26,
+    "end": 480.84,
+    "score": 0.996
+  }
+]
